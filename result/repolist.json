@@ -1,0 +1,130 @@
+{
+    "cpplist": {
+        "web": [
+            "grpc/grpc",
+            "facebook/proxygen",
+            "ipkn/crow",
+            "zserge/webview"
+        ],
+        "ml": [
+            "dmlc/xgboost",
+            "tensorflow/tensorflow",
+            "BVLC/caffe",
+            "tesseract-ocr/tesseract"
+        ],
+        "visual": [
+            "tesseract-ocr/tesseract",
+            "opencv/opencv",
+            "CMU-Perceptual-Computing-Lab/openpose",
+            "Microsoft/AirSim"
+        ],
+        "format": [
+            "nlohmann/json",
+            "google/flatbuffers",
+            "capnproto/capnproto",
+            "protocolbuffers/protobuf"
+        ],
+        "db": [
+            "rethinkdb/rethinkdb-legacy",
+            "mongodb/mongo",
+            "google/leveldb",
+            "arangodb/arangodb"
+        ]
+    },
+    "javalist": {
+        "web": [
+            "square/retrofit",
+            "square/okhttp",
+            "apache/incubator-dubbo",
+            "netty/netty"
+        ],
+        "ml": [
+            "h2oai/h2o-3",
+            "OryxProject/oryx",
+            "SeldonIO/seldon-server",
+            "datumbox/datumbox-framework"
+        ],
+        "visual": [
+            "LuckSiege/PictureSelector",
+            "yingLanNull/ShadowImageView",
+            "lessthanoptimal/BoofCV",
+            "atduskgreg/opencv-processing"
+        ],
+        "format": [
+            "alibaba/fastjson",
+            "google/gson",
+            "square/moshi",
+            "bluelinelabs/LoganSquare"
+        ],
+        "db": [
+            "realm/realm-java",
+            "thinkaurelius/titan",
+            "orientechnologies/orientdb",
+            "OpenTSDB/opentsdb"
+        ]
+    },
+    "jslist": {
+        "web": [
+            "vuejs/vue",
+            "facebook/create-react-app",
+            "angular/angular.js",
+            "webpack/webpack"
+        ],
+        "ml": [
+            "ml5js/ml5-library",
+            "mljs/ml",
+            "ssusnic/Machine-Learning-Flappy-Bird",
+            "Yomguithereal/talisman"
+        ],
+        "visual": [
+            "eduardolundgren/tracking.js",
+            "inspirit/jsfeat",
+            "Vasile-Peste/Typefont",
+            "mtschirs/js-objectdetect"
+        ],
+        "format": [
+            "paularmstrong/normalizr",
+            "hacksalot/HackMyResume",
+            "douglascrockford/JSON-js",
+            "dcodeIO/protobuf.js"
+        ],
+        "db": [
+            "pouchdb/pouchdb",
+            "amark/gun",
+            "typicode/lowdb",
+            "louischatriot/nedb"
+        ]
+    },
+    "pylist": {
+        "web": [
+            "pallets/flask",
+            "jakubroztocil/httpie",
+            "django/django",
+            "scrapy/scrapy"
+        ],
+        "ml": [
+            "keras-team/keras",
+            "scikit-learn/scikit-learn",
+            "gunthercox/ChatterBot",
+            "explosion/spaCy"
+        ],
+        "visual": [
+            "junyanz/pytorch-CycleGAN-and-pix2pix",
+            "junyanz/iGAN",
+            "scikit-image/scikit-image",
+            "NVIDIA/pix2pixHD"
+        ],
+        "format": [
+            "schematics/schematics",
+            "marshmallow-code/marshmallow",
+            "martinblech/xmltodict",
+            "google/yapf"
+        ],
+        "db": [
+            "zalandoresearch/fashion-mnist",
+            "bigchaindb/bigchaindb",
+            "msiemens/tinydb",
+            "emirozer/fake2db"
+        ]
+    }
+}
