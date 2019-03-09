@@ -13,9 +13,11 @@ with open('result/repolist.json', 'r') as json_file:
     repolist_json = json_file.read()
 repolist = json.loads(repolist_json)
 
-if os.access('temp', os.F_OK) is False:
-    os.mkdir('temp')
-os.chdir('temp')
+# Create download folder out of this project
+# To keep IDE from scanning the downloaded code (extremely CPU intensive)
+if os.access('../projects', os.F_OK) is False:
+    os.mkdir('../projects')
+os.chdir('../projects')
 
 # Download repositories for each language
 languages = ['cpp', 'java', 'py', 'js']
