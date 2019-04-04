@@ -1,5 +1,10 @@
-# For our project
+# Temporary files will be in this folder
 temp/
+# Download GitHub projects as our dataset
+projects/
+# Generated dataset, might be very large
+dataset/
+
 
 # Mac OS Files
 .DS_Store
