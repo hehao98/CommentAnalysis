@@ -22,12 +22,14 @@ We plan to retrieve projects in the following programming languages.
 * Java
 * Python
 * Javascript
+
 And the following application domains(GitHub topics)
 * Web
 * Machine Learning
 * Database
 * Visual Computing
 * Formatting
+
 We manually select 20 repositories from famous open source projects. We have considered using the GitHub API for automatic repository selection based on topics. However, we've found that the GitHub topic system have the following limitations: 
 1. Many popular open source repositories have no topic at all.
 2. Some generic topics(like `web` and `database`) are not chosen by developers. For example, `mysql` has 1.7x more repositories than `database`, which means that we may miss many potentially representitive projects if we use something like `database` as filter. Therefore, we leave the automatic retrieval of GitHub projects for future work.
