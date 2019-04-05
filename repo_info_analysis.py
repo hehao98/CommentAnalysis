@@ -42,3 +42,7 @@ if __name__ == '__main__':
     plt.title('Top 20 Languages among 1000 Most Starred GitHub Repositories')
     plt.xlabel('# of Repositories')
     plt.show()
+
+    repo_info_selected = []
+    with open('temp/repo_info_selected.json', 'r') as f:
+        repo_info_selected = json.load(f)

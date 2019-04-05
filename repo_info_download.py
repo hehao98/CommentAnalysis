@@ -23,9 +23,12 @@ Reference Documentation:
 https://developer.github.com/v3/search/
 https://help.github.com/en/articles/searching-for-repositories
 '''
+
+
 def get_repolist_by_stars(num=30, lang=''):
     url = 'https://api.github.com/search/repositories'
-    params = {'q':'stars:>1000', 'sort':'stars', 'order':'desc', 'page':'1'}
+    params = {'q': 'stars:>1000', 'sort': 'stars',
+              'order': 'desc', 'page': '1'}
     repolist = []
 
     if lang != '':
@@ -37,13 +40,13 @@ def get_repolist_by_stars(num=30, lang=''):
         params['page'] = str(i)
         json = requests.get(url, params).json()
         if json['items'] == None:
-            print('Error: No result in page ' + str(i) + '!') 
+            print('Error: No result in page ' + str(i) + '!')
             print('Message from GitHub: ' + str(json.get('message')))
 
         repolist.extend(json['items'])
 
         print('Downloaded repository information in page ' + str(i))
-        time.sleep(7) # This rate is imposed by GitHub
+        time.sleep(7)  # This rate is imposed by GitHub
 
     return repolist[0:num]
 
@@ -58,7 +61,7 @@ if __name__ == '__main__':
     language_freq = {}
     for repo in repolist:
         lang = repo['language']
-        if lang == None: 
+        if lang == None:
             continue
         if language_freq.get(lang) == None:
             language_freq[lang] = 1
@@ -75,10 +78,6 @@ if __name__ == '__main__':
     repolist = []
     for lang in languages:
         print('Downloading repository by language ' + lang + '...')
-        repolist.extend(get_repolist_by_stars(num=40, lang=lang))
+        repolist.extend(get_repolist_by_stars(num=20, lang=lang))
     with open('temp/repo_info_selected.json', 'w') as file:
         json.dump(repolist, file)
-
-
-
-    
