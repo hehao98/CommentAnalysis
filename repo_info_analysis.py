@@ -46,3 +46,17 @@ if __name__ == '__main__':
     repo_info_selected = []
     with open('temp/repo_info_selected.json', 'r') as f:
         repo_info_selected = json.load(f)
+
+    xaxis = []
+    yaxis = []
+    for item in repo_info_selected:
+        xaxis.append(item['size'] / 1024)
+    xaxis = sorted(xaxis)
+    for i in range(0, len(xaxis)):
+        yaxis.append((i + 1) / len(xaxis))
+    plt.plot(xaxis, yaxis)
+    plt.xlabel('Reposirory Size(MB)')
+    plt.title('CDF of Repository Size')
+    plt.ylim(0, 1)
+    plt.xlim(0)
+    plt.show()
