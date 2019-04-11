@@ -29,7 +29,7 @@ public class FunctionExtractor {
     private static JavaCode parseJavaFile(File file) {
         try (Scanner sc = new Scanner(file);) {
             String code = sc.useDelimiter("\\Z").next();
-            return new JavaCode(code);
+            return new JavaCode(code, file);
         } catch (FileNotFoundException e) {
             System.out.println(e.toString());
             return null;
