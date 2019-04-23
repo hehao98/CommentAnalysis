@@ -26,6 +26,7 @@ public class JavaCode {
         String code;
         String comment;
         int lineCount;
+        int maxIndentation;
 
         public MethodInfo() {
 
@@ -59,12 +60,30 @@ public class JavaCode {
         if (result.isSuccessful()) {
             this.cu = result.getResult().get();
         } else {
-            System.out.println("Something goes wrong while parsing code from");
+            System.out.println("Something goes wrong while parsing code from " + file.getPath());
             System.out.println(result.getProblems().toString());
         }
 
         // Initialize statistics
         this.getStatistics();
+    }
+
+    /**
+     * Given a piece of Java code, find its maximum indentation depth Assume 4-space
+     * indentation
+     * 
+     * @return the maximum indentation depth of this code
+     */
+    public int maxIndentation(String code) {
+        int depth = 0;
+        for (String line : code.split("\n")) {
+            int i = 0;
+            while (i < line.length() && line.charAt(i) == ' ')
+                i++;
+            if (i / 4 > depth)
+                depth = i / 4;
+        }
+        return depth;
     }
 
     public void getStatistics() {
@@ -89,6 +108,8 @@ public class JavaCode {
                 } else {
                     method.comment = "";
                 }
+
+                method.maxIndentation = maxIndentation(method.code);
 
                 arg.add(method);
                 return;
