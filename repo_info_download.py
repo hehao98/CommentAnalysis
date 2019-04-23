@@ -7,6 +7,13 @@ Created by He, Hao on 2019/04/03
 import requests
 import json
 import time
+import argparse
+
+
+# The authentication token sended to github
+# which can improve download speed
+username = ''
+auth_token = ''
 
 
 def get_repolist_by_stars(num=30, lang=''):
@@ -36,7 +43,7 @@ def get_repolist_by_stars(num=30, lang=''):
 
     for i in range(1, int(num / 30) + 2):
         params['page'] = str(i)
-        json = requests.get(url, params).json()
+        json = requests.get(url, params, auth=(username, auth_token)).json()
         if json['items'] == None:
             print('Error: No result in page ' + str(i) + '!')
             print('Message from GitHub: ' + str(json.get('message')))
@@ -44,7 +51,8 @@ def get_repolist_by_stars(num=30, lang=''):
         repolist.extend(json['items'])
 
         print('Downloaded repository information in page ' + str(i))
-        time.sleep(7)  # This rate is imposed by GitHub
+        # This rate is imposed by GitHub(For authenticated users)
+        time.sleep(3)
 
     return repolist[0:num]
 
@@ -58,37 +66,43 @@ def add_commit_and_contributor_info(repolist):
     print('Downloading commit information from GitHub...')
     for repo in repolist:
         url = 'https://api.github.com/repos/' + repo['full_name'] + '/commits'
-        response = requests.get(url)
-        # Example link: https://api.github.com/resource?page=5
-        last_link = response.links['last']['url']
+        response = requests.get(url, auth=(username, auth_token))
         first_page = response.json()
-        last_page_num = int(last_link.split('=')[1])
-        last_page_item_count = len(requests.get(
-            url, params={'page': last_page_num}).json())
-        repo['commit_count'] = (
-            last_page_num - 1) * len(first_page) + last_page_item_count
+        # Example link: https://api.github.com/resource?page=5
+        if 'last' in response.links:  # More than one page
+            last_link = response.links['last']['url']
+            last_page_num = int(last_link.split('=')[1])
+            last_page_item_count = len(requests.get(
+                url, params={'page': last_page_num}, auth=(username, auth_token)).json())
+            repo['commit_count'] = (
+                last_page_num - 1) * len(first_page) + last_page_item_count
+        else:
+            repo['commit_count'] = len(first_page)
         print(repo['full_name'] + ': ' +
               str(repo['commit_count']) + ' commits')
         # This rate is imposed by GitHub, and we send 2 requests each iteration
-        time.sleep(14)
+        time.sleep(2)
 
     # Why duplicate code like this?
     print('Downloading contributor information from GitHub...')
     for repo in repolist:
         url = 'https://api.github.com/repos/' + \
             repo['full_name'] + '/contributors'
-        response = requests.get(url)
-        last_link = response.links()['last']['url']
+        response = requests.get(url, auth=(username, auth_token))
         first_page = response.json()
-        last_page_num = int(last_link.split('=')[1])
-        last_page_item_count = len(requests.get(
-            url, params={'page': last_page_num}).json())
-        repo['contributor_count'] = (
-            last_page_num - 1) * len(first_page) + last_page_item_count
+        if 'last' in response.links:  # More than one page
+            last_link = response.links['last']['url']
+            last_page_num = int(last_link.split('=')[1])
+            last_page_item_count = len(requests.get(
+                url, params={'page': last_page_num}, auth=(username, auth_token)).json())
+            repo['contributor_count'] = (
+                last_page_num - 1) * len(first_page) + last_page_item_count
+        else:
+            repo['contributor_count'] = len(first_page)
         print(repo['full_name'] + ': ' +
               str(repo['contributor_count']) + ' contributors')
         # This rate is imposed by GitHub, and we send 2 requests each iteration
-        time.sleep(14)
+        time.sleep(2)
 
 
 def download_overall_info():
@@ -137,5 +151,14 @@ def download_by_language():
 
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('username', help="GitHub User Name")
+    parser.add_argument('auth_token', help="GitHub Access Token")
+
+    args = parser.parse_args()
+    username = args.username
+    auth_token = args.auth_token
+
     download_overall_info()
+
     download_by_language()

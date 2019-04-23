@@ -62,10 +62,10 @@ def plot_repo_size_dist(repo_info):
 
 def to_csv(repo_info, output_path):
     fieldnames = ['full_name', 'language', 'commits', 'stars', 'forks',
-                  'contributors', 'open_issues', 'lines_of_code', 'lines_of_comment']
+                  'contributors', 'open_issues', 'src_files', 'lines_of_code', 'lines_of_comment']
 
     # Output interesting repository metrics to CSV
-    with open('temp/repo_info.csv') as csvfile:
+    with open('temp/repo_info_selected.csv', 'w') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for item in repo_info:
