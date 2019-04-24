@@ -130,7 +130,6 @@ def gen_statistics(repo_info, output_file):
                 'lines_comment': lines_comment,
                 'comment_ratio': comment_ratio,
             })
- 
 
     return
 
