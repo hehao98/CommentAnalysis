@@ -144,7 +144,7 @@ def download_by_language():
     repolist = []
     for lang in languages:
         print('Downloading repository in language ' + lang + '...')
-        repolist.extend(get_repolist_by_stars(num=20, lang=lang))
+        repolist.extend(get_repolist_by_stars(num=30, lang=lang))
     add_commit_and_contributor_info(repolist)
     with open('temp/repo_info_selected.json', 'w') as file:
         json.dump(repolist, file)
