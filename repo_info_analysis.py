@@ -1,7 +1,8 @@
 '''
 Print and plot analysis results for downloaded GitHub repository information
-Also, output a CSV file for repository statistics
+Also, output temp/repo_info.csv and temp/repo_info_selected.csv for repository statistics
 Assume the information is in 'temp/repo_info.json', run repo_info_download.py first to download that
+Uses CLOC(https://github.com/AlDanial/cloc) to count lines of code and comments
 
 Created By He, Hao on 2019/04/03
 '''
@@ -10,9 +11,13 @@ import json
 import matplotlib.pyplot as plt
 import numpy as np
 import csv
+import subprocess
 
 
 def plot_lang_freq(repo_info):
+    '''
+    Plot language frequencies for repository informaton in repo_info
+    '''
     # Count language freqencies
     language_freq = {}
     for repo in repo_info:
@@ -44,6 +49,9 @@ def plot_lang_freq(repo_info):
 
 
 def plot_repo_size_dist(repo_info):
+    '''
+    Plot distribution of repository size
+    '''
     xaxis = []
     yaxis = []
     for item in repo_info:
@@ -60,15 +68,54 @@ def plot_repo_size_dist(repo_info):
     return
 
 
-def to_csv(repo_info, output_path):
+def count_src_files(repo):
+    '''
+    Given repository info, count number of src files, blank lines, code lines and comment lines
+    Use open source tool cloc(https://github.com/AlDanial/cloc)
+    Assume the repositories have been downloaded in '../projects/' by download2.py
+    '''
+    src_files = 0
+    lines_blank = 0
+    lines_code = 0
+    lines_comment = 0
+
+    print('Counting source files in ' + repo['full_name'])
+
+    project_path = '../projects/%s/%s' % (repo['language'], repo['name'])
+    subprocess.call('cloc %s --csv -out=temp/temp.txt' %
+                    (project_path), shell=True)
+
+    with open('temp/temp.txt', 'r') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            if row['language'] != repo['language']:
+                continue
+            src_files = row['files']
+            lines_blank = row['blank']
+            lines_code = row['code']
+            lines_comment = row['comment']
+
+    return src_files, lines_blank, lines_code, lines_comment
+
+
+def gen_statistics(repo_info, output_file):
+    '''
+    Generate statistics for each repository in repo_info[] and write result as csv to output_file
+    '''
     fieldnames = ['full_name', 'language', 'commits', 'stars', 'forks',
-                  'contributors', 'open_issues', 'src_files', 'lines_of_code', 'lines_of_comment']
+                  'contributors', 'open_issues', 'src_files', 'lines_code',
+                  'lines_blank', 'lines_comment', 'comment_ratio']
 
     # Output interesting repository metrics to CSV
-    with open('temp/repo_info_selected.csv', 'w') as csvfile:
+    with open(output_file, 'w') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for item in repo_info:
+            src_files, lines_blank, lines_code, lines_comment = count_src_files(
+                item)
+            comment_ratio = 0
+            if int(lines_code) != 0:
+                comment_ratio = int(lines_comment) / int(lines_code)
             writer.writerow({
                 'full_name': item['full_name'],
                 'language': item['language'],
@@ -77,10 +124,14 @@ def to_csv(repo_info, output_path):
                 'forks': item['forks'],
                 'contributors': item['contributor_count'],
                 'open_issues': item['open_issues_count'],
-                'src_files': 0,
-                'lines_of_code': 0,
-                'lines_of_comment': 0,
+                'src_files': src_files,
+                'lines_blank': lines_blank,
+                'lines_code': lines_code,
+                'lines_comment': lines_comment,
+                'comment_ratio': comment_ratio,
             })
+ 
+
     return
 
 
@@ -95,5 +146,5 @@ if __name__ == '__main__':
     # plot_lang_freq(repo_info)
     # plot_repo_size_dist(repo_info_selected)
 
-    to_csv(repo_info, 'temp/repo_info.csv')
-    to_csv(repo_info_selected, 'temp/repo_info_selected.csv')
+    # gen_statistics(repo_info, 'temp/repo_info.csv')
+    gen_statistics(repo_info_selected, 'temp/repo_info_selected.csv')
