@@ -1,0 +1,543 @@
+%%% ====================================================================
+%%%  BibTeX-file{
+%%%     author          = "Gerry Murray",
+%%%     version         = "1.2",
+%%%     date            = "2 April 2012",
+%%%     filename        = "acmsmall-sample-bibfile.bib",
+%%%     address         = "ACM, NY",
+%%%     email           = "murray at hq.acm.org",
+%%%     codetable       = "ISO/ASCII",
+%%%     keywords        = "ACM Reference Format, bibliography, citation, references",
+%%%     supported       = "yes",
+%%%     docstring       = "This BibTeX database file contains 'bibdata' entries
+%%%                        that 'match' the examples provided in the Specifications Document
+%%%                        AND, also, 'legacy'-type bibs. It should assist authors in
+%%%                        choosing the 'correct' at-bibtype and necessary bib-fields
+%%%                        so as to obtain the appropriate ACM Reference Format output.
+%%%                        It also contains many 'Standard Abbreviations'. "
+%%%  }
+%%% ====================================================================
+
+% Journals
+
+% First the Full Name is given, then the abbreviation used in the AMS Math
+% Reviews, with an indication if it could not be found there.
+% Note the 2nd overwrites the 1st, so swap them if you want the full name.
+
+ %{AMS}
+ @String{AMSTrans = "American Mathematical Society Translations" }
+ @String{AMSTrans = "Amer. Math. Soc. Transl." }
+ @String{BullAMS = "Bulletin of the American Mathematical Society" }
+ @String{BullAMS = "Bull. Amer. Math. Soc." }
+ @String{ProcAMS = "Proceedings of the American Mathematical Society" }
+ @String{ProcAMS = "Proc. Amer. Math. Soc." }
+ @String{TransAMS = "Transactions of the American Mathematical Society" }
+ @String{TransAMS = "Trans. Amer. Math. Soc." }
+
+ %ACM
+ @String{CACM = "Communications of the {ACM}" }
+ @String{CACM = "Commun. {ACM}" }
+ @String{CompServ = "Comput. Surveys" }
+ @String{JACM = "J. ACM" }
+ @String{ACMMathSoft = "{ACM} Transactions on Mathematical Software" }
+ @String{ACMMathSoft = "{ACM} Trans. Math. Software" }
+ @String{SIGNUM = "{ACM} {SIGNUM} Newsletter" }
+ @String{SIGNUM = "{ACM} {SIGNUM} Newslett." }
+
+ @String{AmerSocio = "American Journal of Sociology" }
+ @String{AmerStatAssoc = "Journal of the American Statistical Association" }
+ @String{AmerStatAssoc = "J. Amer. Statist. Assoc." }
+ @String{ApplMathComp = "Applied Mathematics and Computation" }
+ @String{ApplMathComp = "Appl. Math. Comput." }
+ @String{AmerMathMonthly = "American Mathematical Monthly" }
+ @String{AmerMathMonthly = "Amer. Math. Monthly" }
+ @String{BIT = "{BIT}" }
+ @String{BritStatPsych = "British Journal of Mathematical and Statistical
+          Psychology" }
+ @String{BritStatPsych = "Brit. J. Math. Statist. Psych." }
+ @String{CanMathBull = "Canadian Mathematical Bulletin" }
+ @String{CanMathBull = "Canad. Math. Bull." }
+ @String{CompApplMath = "Journal of Computational and Applied Mathematics" }
+ @String{CompApplMath = "J. Comput. Appl. Math." }
+ @String{CompPhys = "Journal of Computational Physics" }
+ @String{CompPhys = "J. Comput. Phys." }
+ @String{CompStruct = "Computers and Structures" }
+ @String{CompStruct = "Comput. \& Structures" }
+ @String{CompJour = "The Computer Journal" }
+ @String{CompJour = "Comput. J." }
+ @String{CompSysSci = "Journal of Computer and System Sciences" }
+ @String{CompSysSci = "J. Comput. System Sci." }
+ @String{Computing = "Computing" }
+ @String{ContempMath = "Contemporary Mathematics" }
+ @String{ContempMath = "Contemp. Math." }
+ @String{Crelle = "Crelle's Journal" }
+ @String{GiornaleMath = "Giornale di Mathematiche" }
+ @String{GiornaleMath = "Giorn. Mat." } % didn't find in AMS MR., ibid.
+
+ %IEEE
+ @String{Computer = "{IEEE} Computer" }
+ @String{IEEETransComp = "{IEEE} Transactions on Computers" }
+ @String{IEEETransComp = "{IEEE} Trans. Comput." }
+ @String{IEEETransAC = "{IEEE} Transactions on Automatic Control" }
+ @String{IEEETransAC = "{IEEE} Trans. Automat. Control" }
+ @String{IEEESpec = "{IEEE} Spectrum" } % didn't find in AMS MR
+ @String{ProcIEEE = "Proceedings of the {IEEE}" }
+ @String{ProcIEEE = "Proc. {IEEE}" } % didn't find in AMS MR
+ @String{IEEETransAeroElec = "{IEEE} Transactions on Aerospace and Electronic
+     Systems" }
+ @String{IEEETransAeroElec = "{IEEE} Trans. Aerospace Electron. Systems" }
+
+ @String{IMANumerAna = "{IMA} Journal of Numerical Analysis" }
+ @String{IMANumerAna = "{IMA} J. Numer. Anal." }
+ @String{InfProcLet = "Information Processing Letters" }
+ @String{InfProcLet = "Inform. Process. Lett." }
+ @String{InstMathApp = "Journal of the Institute of Mathematics and
+     its Applications" }
+ @String{InstMathApp = "J. Inst. Math. Appl." }
+ @String{IntControl = "International Journal of Control" }
+ @String{IntControl = "Internat. J. Control" }
+ @String{IntNumerEng = "International Journal for Numerical Methods in
+     Engineering" }
+ @String{IntNumerEng = "Internat. J. Numer. Methods Engrg." }
+ @String{IntSuper = "International Journal of Supercomputing Applications" }
+ @String{IntSuper = "Internat. J. Supercomputing Applic." } % didn't find
+%% in AMS MR
+ @String{Kibernetika = "Kibernetika" }
+ @String{JResNatBurStand = "Journal of Research of the National Bureau
+     of Standards" }
+ @String{JResNatBurStand = "J. Res. Nat. Bur. Standards" }
+ @String{LinAlgApp = "Linear Algebra and its Applications" }
+ @String{LinAlgApp = "Linear Algebra Appl." }
+ @String{MathAnaAppl = "Journal of Mathematical Analysis and Applications" }
+ @String{MathAnaAppl = "J. Math. Anal. Appl." }
+ @String{MathAnnalen = "Mathematische Annalen" }
+ @String{MathAnnalen = "Math. Ann." }
+ @String{MathPhys = "Journal of Mathematical Physics" }
+ @String{MathPhys = "J. Math. Phys." }
+ @String{MathComp = "Mathematics of Computation" }
+ @String{MathComp = "Math. Comp." }
+ @String{MathScand = "Mathematica Scandinavica" }
+ @String{MathScand = "Math. Scand." }
+ @String{TablesAidsComp = "Mathematical Tables and Other Aids to Computation" }
+ @String{TablesAidsComp = "Math. Tables Aids Comput." }
+ @String{NumerMath = "Numerische Mathematik" }
+ @String{NumerMath = "Numer. Math." }
+ @String{PacificMath = "Pacific Journal of Mathematics" }
+ @String{PacificMath = "Pacific J. Math." }
+ @String{ParDistComp = "Journal of Parallel and Distributed Computing" }
+ @String{ParDistComp = "J. Parallel and Distrib. Comput." } % didn't find
+%% in AMS MR
+ @String{ParComputing = "Parallel Computing" }
+ @String{ParComputing = "Parallel Comput." }
+ @String{PhilMag = "Philosophical Magazine" }
+ @String{PhilMag = "Philos. Mag." }
+ @String{ProcNAS = "Proceedings of the National Academy of Sciences
+                    of the USA" }
+ @String{ProcNAS = "Proc. Nat. Acad. Sci. U. S. A." }
+ @String{Psychometrika = "Psychometrika" }
+ @String{QuartMath = "Quarterly Journal of Mathematics, Oxford, Series (2)" }
+ @String{QuartMath = "Quart. J. Math. Oxford Ser. (2)" }
+ @String{QuartApplMath = "Quarterly of Applied Mathematics" }
+ @String{QuartApplMath = "Quart. Appl. Math." }
+ @String{RevueInstStat = "Review of the International Statisical Institute" }
+ @String{RevueInstStat = "Rev. Inst. Internat. Statist." }
+
+ %SIAM
+ @String{JSIAM = "Journal of the Society for Industrial and Applied
+     Mathematics" }
+ @String{JSIAM = "J. Soc. Indust. Appl. Math." }
+ @String{JSIAMB = "Journal of the Society for Industrial and Applied
+     Mathematics, Series B, Numerical Analysis" }
+ @String{JSIAMB = "J. Soc. Indust. Appl. Math. Ser. B Numer. Anal." }
+ @String{SIAMAlgMeth = "{SIAM} Journal on Algebraic and Discrete Methods" }
+ @String{SIAMAlgMeth = "{SIAM} J. Algebraic Discrete Methods" }
+ @String{SIAMAppMath = "{SIAM} Journal on Applied Mathematics" }
+ @String{SIAMAppMath = "{SIAM} J. Appl. Math." }
+ @String{SIAMComp = "{SIAM} Journal on Computing" }
+ @String{SIAMComp = "{SIAM} J. Comput." }
+ @String{SIAMMatrix = "{SIAM} Journal on Matrix Analysis and Applications" }
+ @String{SIAMMatrix = "{SIAM} J. Matrix Anal. Appl." }
+ @String{SIAMNumAnal = "{SIAM} Journal on Numerical Analysis" }
+ @String{SIAMNumAnal = "{SIAM} J. Numer. Anal." }
+ @String{SIAMReview = "{SIAM} Review" }
+ @String{SIAMReview = "{SIAM} Rev." }
+ @String{SIAMSciStat = "{SIAM} Journal on Scientific and Statistical
+     Computing" }
+ @String{SIAMSciStat = "{SIAM} J. Sci. Statist. Comput." }
+
+ @String{SoftPracExp = "Software Practice and Experience" }
+ @String{SoftPracExp = "Software Prac. Experience" } % didn't find in AMS MR
+ @String{StatScience = "Statistical Science" }
+ @String{StatScience = "Statist. Sci." }
+ @String{Techno = "Technometrics" }
+ @String{USSRCompMathPhys = "{USSR} Computational Mathematics and Mathematical
+     Physics" }
+ @String{USSRCompMathPhys = "{U. S. S. R.} Comput. Math. and Math. Phys." }
+ @String{VLSICompSys = "Journal of {VLSI} and Computer Systems" }
+ @String{VLSICompSys = "J. {VLSI} Comput. Syst." }
+ @String{ZAngewMathMech = "Zeitschrift fur Angewandte Mathematik und
+     Mechanik" }
+ @String{ZAngewMathMech = "Z. Angew. Math. Mech." }
+ @String{ZAngewMathPhys = "Zeitschrift fur Angewandte Mathematik und Physik" }
+ @String{ZAngewMathPhys = "Z. Angew. Math. Phys." }
+
+% Publishers % ================================================= |
+
+ @String{Academic = "Academic Press" }
+ @String{ACMPress = "{ACM} Press" }
+ @String{AdamHilger = "Adam Hilger" }
+ @String{AddisonWesley = "Addison-Wesley" }
+ @String{AllynBacon = "Allyn and Bacon" }
+ @String{AMS = "American Mathematical Society" }
+ @String{Birkhauser = "Birkha{\"u}ser" }
+ @String{CambridgePress = "Cambridge University Press" }
+ @String{Chelsea = "Chelsea" }
+ @String{ClaredonPress = "Claredon Press" }
+ @String{DoverPub = "Dover Publications" }
+ @String{Eyolles = "Eyolles" }
+ @String{HoltRinehartWinston = "Holt, Rinehart and Winston" }
+ @String{Interscience = "Interscience" }
+ @String{JohnsHopkinsPress = "The Johns Hopkins University Press" }
+ @String{JohnWileySons = "John Wiley and Sons" }
+ @String{Macmillan = "Macmillan" }
+ @String{MathWorks = "The Math Works Inc." }
+ @String{McGrawHill = "McGraw-Hill" }
+ @String{NatBurStd = "National Bureau of Standards" }
+ @String{NorthHolland = "North-Holland" }
+ @String{OxfordPress = "Oxford University Press" }  %address Oxford or London?
+ @String{PergamonPress = "Pergamon Press" }
+ @String{PlenumPress = "Plenum Press" }
+ @String{PrenticeHall = "Prentice-Hall" }
+ @String{SIAMPub = "{SIAM} Publications" }
+ @String{Springer = "Springer-Verlag" }
+ @String{TexasPress = "University of Texas Press" }
+ @String{VanNostrand = "Van Nostrand" }
+ @String{WHFreeman = "W. H. Freeman and Co." }
+
+%Entries
+
+@inproceedings{Woodfield:1981:EMC:800078.802534,
+ author = {Woodfield, S. N. and Dunsmore, H. E. and Shen, V. Y.},
+ title = {The Effect of Modularization and Comments on Program Comprehension},
+ booktitle = {Proceedings of the 5th International Conference on Software Engineering},
+ series = {ICSE '81},
+ year = {1981},
+ isbn = {0-89791-146-6},
+ location = {San Diego, California, USA},
+ pages = {215--223},
+ numpages = {9},
+ url = {http://dl.acm.org/citation.cfm?id=800078.802534},
+ acmid = {802534},
+ publisher = {IEEE Press},
+ address = {Piscataway, NJ, USA},
+} 
+
+@article{Tenny:1988:PRP:51199.51203,
+ author = {Tenny, T.},
+ title = {Program Readability: Procedures Versus Comments},
+ journal = {IEEE Trans. Softw. Eng.},
+ issue_date = {September 1988},
+ volume = {14},
+ number = {9},
+ month = sep,
+ year = {1988},
+ issn = {0098-5589},
+ pages = {1271--1279},
+ numpages = {9},
+ url = {https://doi.org/10.1109/32.6171},
+ doi = {10.1109/32.6171},
+ acmid = {51203},
+ publisher = {IEEE Press},
+ address = {Piscataway, NJ, USA},
+ keywords = {PL/1, PL/1 program, comments, factorial experiment, procedure format, procedures, programming, readability},
+} 
+
+@INPROCEEDINGS{POman1992ICSM, 
+author={P. {Oman} and J. {Hagemeister}}, 
+booktitle={Proceedings Conference on Software Maintenance 1992}, 
+title={Metrics for assessing a software system's maintainability}, 
+year={1992}, 
+volume={}, 
+number={}, 
+pages={337-344}, 
+keywords={software maintenance;software metrics;software metrics;software system's maintainability;hierarchical structure;measurable attributes;metric definition;software characteristic;tree structure;Software maintenance;Software systems;Software measurement;Tree data structures;Documentation;Taxonomy;Environmental management;Lifting equipment;Software engineering;Software testing}, 
+doi={10.1109/ICSM.1992.242525}, 
+ISSN={}, 
+month={Nov},}
+
+@article{StamelosAOB02CodeQualityAnalysis,
+  author    = {Ioannis Stamelos and
+               Lefteris Angelis and
+               Apostolos Oikonomou and
+               Georgios L. Bleris},
+  title     = {Code Quality Analysis in Open Source Software Development},
+  journal   = {Information System Journal},
+  volume    = {12},
+  number    = {1},
+  pages     = {43--60},
+  year      = {2002},
+  url       = {https://doi.org/10.1046/j.1365-2575.2002.00117.x},
+  doi       = {10.1046/j.1365-2575.2002.00117.x},
+  timestamp = {Fri, 26 May 2017 22:53:37 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/isj/StamelosAOB02},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{Tan:2007:IBB:1294261.1294276,
+ author = {Tan, Lin and Yuan, Ding and Krishna, Gopal and Zhou, Yuanyuan},
+ title = {/*Icomment: Bugs or Bad Comments?*/},
+ booktitle = {Proceedings of Twenty-first ACM SIGOPS Symposium on Operating Systems Principles},
+ series = {SOSP '07},
+ year = {2007},
+ isbn = {978-1-59593-591-5},
+ location = {Stevenson, Washington, USA},
+ pages = {145--158},
+ numpages = {14},
+ url = {http://doi.acm.org/10.1145/1294261.1294276},
+ doi = {10.1145/1294261.1294276},
+ acmid = {1294276},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {comment analysis, natural language processing for software engineering, programming rules and static analysis},
+} 
+
+@article{Fluri2009Coevolution,
+ author = {Fluri, Beat and W\"{u}rsch, Michael and Giger, Emanuel and Gall, Harald C.},
+ title = {Analyzing the Co-evolution of Comments and Source Code},
+ journal = {Software Quality Journal},
+ issue_date = {December  2009},
+ volume = {17},
+ number = {4},
+ month = dec,
+ year = {2009},
+ issn = {0963-9314},
+ pages = {367--394},
+ numpages = {28},
+ url = {http://dx.doi.org/10.1007/s11219-009-9075-x},
+ doi = {10.1007/s11219-009-9075-x},
+ acmid = {1613065},
+ publisher = {Kluwer Academic Publishers},
+ address = {Hingham, MA, USA},
+ keywords = {Comment changes, Comment quality, Software evolution analysis, Software maintenance, Software repositories, Source code changes},
+} 
+
+@inproceedings{2009ICSE-Listening,
+  author    = {Yoann Padioleau and
+               Lin Tan and
+               Yuanyuan Zhou},
+  title     = {Listening to programmers - Taxonomies and characteristics of comments
+               in operating system code},
+  booktitle = {31st International Conference on Software Engineering, {ICSE} 2009,
+               May 16-24, 2009, Vancouver, Canada, Proceedings},
+  pages     = {331--341},
+  year      = {2009},
+  crossref  = {DBLP:conf/icse/2009},
+  url       = {https://doi.org/10.1109/ICSE.2009.5070533},
+  doi       = {10.1109/ICSE.2009.5070533},
+  timestamp = {Tue, 23 May 2017 01:11:52 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icse/PadioleauTZ09},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{2009ICSECommentDensity,
+  author    = {Oliver Arafat and
+               Dirk Riehle},
+  title     = {The comment density of open source software code},
+  booktitle = {31st International Conference on Software Engineering, {ICSE} 2009,
+               May 16-24, 2009, Vancouver, Canada, Companion Volume},
+  pages     = {195--198},
+  year      = {2009},
+  crossref  = {DBLP:conf/icse/2009c},
+  url       = {https://doi.org/10.1109/ICSE-COMPANION.2009.5070980},
+  doi       = {10.1109/ICSE-COMPANION.2009.5070980},
+  timestamp = {Tue, 12 Feb 2019 15:51:45 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/icse/ArafatR09},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{2011ESEM-CommentsInJava,
+  author    = {Dorsaf Haouari and
+               Houari A. Sahraoui and
+               Philippe Langlais},
+  title     = {How Good is Your Comment? {A} Study of Comments in Java Programs},
+  booktitle = {Proceedings of the 5th International Symposium on Empirical Software
+               Engineering and Measurement, {ESEM} 2011, Banff, AB, Canada, September
+               22-23, 2011},
+  pages     = {137--146},
+  year      = {2011},
+  crossref  = {DBLP:conf/esem/2011},
+  url       = {https://doi.org/10.1109/ESEM.2011.22},
+  doi       = {10.1109/ESEM.2011.22},
+  timestamp = {Fri, 26 May 2017 00:48:29 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/esem/HaouariSL11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{2012MSR-GHTorrent,
+  author    = {Georgios Gousios and
+               Diomidis Spinellis},
+  title     = {GHTorrent: Github's data from a firehose},
+  booktitle = {9th {IEEE} Working Conference of Mining Software Repositories, {MSR}
+               2012, June 2-3, 2012, Zurich, Switzerland},
+  pages     = {12--21},
+  year      = {2012},
+  crossref  = {DBLP:conf/msr/2012},
+  url       = {https://doi.org/10.1109/MSR.2012.6224294},
+  doi       = {10.1109/MSR.2012.6224294},
+  timestamp = {Wed, 13 Feb 2019 11:42:27 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/msr/GousiosS12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{2013ASE-MiningQASites,
+  author    = {Edmund Wong and
+               Jinqiu Yang and
+               Lin Tan},
+  title     = {AutoComment: Mining question and answer sites for automatic comment
+               generation},
+  booktitle = {2013 28th {IEEE/ACM} International Conference on Automated Software
+               Engineering, {ASE} 2013, Silicon Valley, CA, USA, November 11-15,
+               2013},
+  pages     = {562--567},
+  year      = {2013},
+  crossref  = {DBLP:conf/kbse/2013},
+  url       = {https://doi.org/10.1109/ASE.2013.6693113},
+  doi       = {10.1109/ASE.2013.6693113},
+  timestamp = {Sat, 27 Apr 2019 13:57:26 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/kbse/WongYT13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{2016ACL-SummarySourceCode,
+  author    = {Srinivasan Iyer and
+               Ioannis Konstas and
+               Alvin Cheung and
+               Luke Zettlemoyer},
+  title     = {Summarizing Source Code using a Neural Attention Model},
+  booktitle = {Proceedings of the 54th Annual Meeting of the Association for Computational
+               Linguistics, {ACL} 2016, August 7-12, 2016, Berlin, Germany, Volume
+               1: Long Papers},
+  year      = {2016},
+  crossref  = {DBLP:conf/acl/2016-1},
+  url       = {http://aclweb.org/anthology/P/P16/P16-1195.pdf},
+  timestamp = {Mon, 15 Aug 2016 20:10:51 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/acl/IyerKCZ16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{2017MSR-ClassifyingJavaComment,
+  author    = {Luca Pascarella and
+               Alberto Bacchelli},
+  title     = {Classifying code comments in Java open-source software systems},
+  booktitle = {Proceedings of the 14th International Conference on Mining Software
+               Repositories, {MSR} 2017, Buenos Aires, Argentina, May 20-28, 2017},
+  pages     = {227--237},
+  year      = {2017},
+  crossref  = {DBLP:conf/msr/2017},
+  url       = {https://doi.org/10.1109/MSR.2017.63},
+  doi       = {10.1109/MSR.2017.63},
+  timestamp = {Wed, 13 Feb 2019 11:42:27 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/msr/PascarellaB17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{2018ICPC-DeepCodeComment,
+  author    = {Xing Hu and
+               Ge Li and
+               Xin Xia and
+               David Lo and
+               Zhi Jin},
+  title     = {Deep code comment generation},
+  booktitle = {Proceedings of the 26th Conference on Program Comprehension, {ICPC}
+               2018, Gothenburg, Sweden, May 27-28, 2018},
+  pages     = {200--210},
+  year      = {2018},
+  crossref  = {DBLP:conf/iwpc/2018},
+  url       = {https://doi.org/10.1145/3196321.3196334},
+  doi       = {10.1145/3196321.3196334},
+  timestamp = {Wed, 21 Nov 2018 12:44:18 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/iwpc/HuLXLJ18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{2018ICJAI-SummarizeSourceCodeWithAPIKnowledge,
+  author    = {Xing Hu and
+               Ge Li and
+               Xin Xia and
+               David Lo and
+               Shuai Lu and
+               Zhi Jin},
+  title     = {Summarizing Source Code with Transferred {API} Knowledge},
+  booktitle = {Proceedings of the Twenty-Seventh International Joint Conference on
+               Artificial Intelligence, {IJCAI} 2018, July 13-19, 2018, Stockholm,
+               Sweden.},
+  pages     = {2269--2275},
+  year      = {2018},
+  crossref  = {DBLP:conf/ijcai/2018},
+  url       = {https://doi.org/10.24963/ijcai.2018/314},
+  doi       = {10.24963/ijcai.2018/314},
+  timestamp = {Wed, 31 Oct 2018 16:24:56 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/ijcai/HuLXLLJ18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{2018ASE-NeuralFrame,
+  author    = {Qingying Chen and
+               Minghui Zhou},
+  title     = {A neural framework for retrieval and summarization of source code},
+  booktitle = {Proceedings of the 33rd {ACM/IEEE} International Conference on Automated
+               Software Engineering, {ASE} 2018, Montpellier, France, September 3-7,
+               2018},
+  pages     = {826--831},
+  year      = {2018},
+  crossref  = {DBLP:conf/kbse/2018},
+  url       = {https://doi.org/10.1145/3238147.3240471},
+  doi       = {10.1145/3238147.3240471},
+  timestamp = {Wed, 21 Nov 2018 12:44:20 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/kbse/ChenZ18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{2019Arxiv-LinksInComments,
+  author    = {Hideaki Hata and
+               Christoph Treude and
+               Raula Gaikovina Kula and
+               Takashi Ishio},
+  title     = {9.6 Million Links in Source Code Comments: Purpose, Evolution, and
+               Decay},
+  journal   = {CoRR},
+  volume    = {abs/1901.07440},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1901.07440},
+  archivePrefix = {arXiv},
+  eprint    = {1901.07440},
+  timestamp = {Sat, 02 Feb 2019 16:56:00 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1901-07440},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@conference{2019MSR-WorldOfCode,
+  author    = {Yuxing Ma and Christopher Bogart and Sadika Amreen and Russell Zaretzki and Audris Mockus},
+  title     = {World of Code: An Infrastructure for Mining the Universe of Open Source VCS Data},
+  booktitle = {16th International Conference on Mining Software Repositories, MSR 2019},
+  year      = {2019},
+}
+
+@misc{Javadoc,
+  author = {Oracle},
+  year={2019},
+  title = {Javadoc},
+  howpublished = {\url{https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html}},
+  note = {Accessed: 2019-06-05}
+}
+
+@misc{Sphinx,
+  author = {The Sphinx team},
+  year={2019},
+  title = {Sphinx},
+  howpublished = {\url{http://www.sphinx-doc.org/en/master/}},
+  note = {Accessed: 2019-06-05}
+}
+
+
+    
