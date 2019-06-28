@@ -8,15 +8,17 @@ Hao He. 2019. Understanding Source Code Comments at Large-Scale. In Proceedings 
 
 ### Download and Generate CSV Data
 
-Make sure that your disk have at least 50GB empty space. 
+By downloading the latest data from GitHub, the results will differ from those in paper. In order to replicate exactly what is in the paper, you need to skip this step and use data in `result/` folder.
 
 ```
+# Make sure that your disk have at least 50GB empty space
 mkdir temp
-python repo_info_download.py
+python repo_info_download.py [GitHub Username] [GitHub Access Token]
 python download2.py
+python contributor_info_download.py [JSON File] [GitHub Username] [GitHub Access Token]
 python repo_info_analysis.py
 ```
 
 ### Analysis and Visualization
 
-See `visualization.ipynb`.
+See `visualization.ipynb`. The scripts must be run from the first to the last.
