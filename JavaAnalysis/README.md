@@ -1,6 +1,6 @@
 # JavaAnalysis
 
-This repository aims to parse Java code files and generate JSON data for further analysis
+This repository aims to parse Java code files and generate JSON data for further analysis. It is still working in progress.
 
 Plan:
 Function analysis
