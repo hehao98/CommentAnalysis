@@ -1,0 +1,3 @@
+[submodule "Working/oscar"]
+	path = Working/oscar
+	url = https://github.com/ssc-oscar/oscar.py.git
