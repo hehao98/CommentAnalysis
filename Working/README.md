@@ -12,7 +12,7 @@ This folder is still under active development, so do not expect it to work right
 
 ```
 # pip is not available on OSCAR servers
-easy_install --user --upgrade oscar
+easy_install --user --upgrade oscar lzf tokyocabinet fnvhash
 ```
 
 ## The data processing workflow
