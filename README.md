@@ -8,4 +8,4 @@ This folder contains source code and data for the paper "Understanding Source Co
 
 ## Working
 
-This folder should be ignored.
+This folder is still under active development and should be ignored.
