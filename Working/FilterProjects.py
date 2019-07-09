@@ -33,7 +33,7 @@ def initdir(dir):
     if os.path.isdir(dir):
         return True
     if os.path.exists(dir):
-        print('{} already exists and is not a directory! Quiting...')
+        print('{} already exists and is not a directory! Quiting...'.format(dir))
         quit()
     os.mkdir(dir)
     return True
@@ -52,6 +52,9 @@ def get_chunks(path):
 
 
 class ProjectSaver(object):
+    '''
+    Utility class for easily saving chunked json files
+    '''
     def __init__(self):
         self.chunk_size = 1000000
         self.curr_chunk = 0
@@ -79,6 +82,9 @@ class ProjectSaver(object):
 project_saver = ProjectSaver()
 
 def filter_project(projects):
+    '''
+    The main filter function
+    '''
     global project_saver
     result = []
     for project in projects:
@@ -111,6 +117,7 @@ if __name__ == '__main__':
     initdir('temp/FilteredProjects/')
     chunk_paths = get_chunks('temp/ProjectInfo')
 
+    # filter projects chunk by chunk
     for path in chunk_paths:
         print('Processing projects from {}...'.format(path))
         projects = []
@@ -119,7 +126,7 @@ if __name__ == '__main__':
         filtered = filter_project(projects)
         save_projects(filtered)
     
-    project_saver.finish()
+    project_saver.finish() # finish any projects remaining
     print('{} projects in total'.format(project_saver.counter))
 
         
