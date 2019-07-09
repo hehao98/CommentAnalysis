@@ -17,7 +17,7 @@ def initdir(dir):
     if os.path.isdir(dir):
         return True
     if os.path.exists(dir):
-        print('{} already exists and is not a directory! Quitting...')
+        print('{} already exists and is not a directory! Quiting...')
         quit()
     os.mkdir(dir)
     return True
