@@ -10,6 +10,7 @@ Author: He, Hao
 import oscar.oscar as oscar
 import os
 import json
+from multiprocessing import Pool
 from datetime import datetime, timedelta, tzinfo
 
 
@@ -51,43 +52,16 @@ def get_chunks(path):
     return result
 
 
-class ProjectSaver(object):
-    '''
-    Utility class for easily saving chunked json files
-    '''
-    def __init__(self):
-        self.chunk_size = 1000000
-        self.curr_chunk = 0
-        self.curr_json = [] 
-        self.counter = 0
-
-       
-    def save(self, projects):
-        for project in projects:
-            self.curr_json.append(project)
-            self.counter += 1
-            if len(self.curr_json) == self.chunk_size:
-                with open('temp/FilteredProjects/ProjectList_chunk{}.json'.format(self.curr_chunk), 'w') as f:
-                    f.write(json.dumps(self.curr_json))
-                self.curr_json = []
-                self.curr_chunk += 1
-                    
-    def finish(self):
-        with open('temp/FilteredProjects/ProjectList_chunk{}.json'.format(self.curr_chunk), 'w') as f:
-            f.write(json.dumps(self.curr_json))
-        self.curr_json = []
-        self.curr_chunk += 1
-
-
-project_saver = ProjectSaver()
-
-def filter_project(projects):
+def filter_project(projects, chunk_id):
     '''
     The main filter function
     '''
     global project_saver
-    result = []
+    filtered = []
     for project in projects:
+        # TODO Filter pass 1 using GHTorrent Data
+
+        # Filter pass 2 using World of Code Data
         try: 
             commits = tuple(oscar.Project(str(project['name'])))
             authors = set()
@@ -105,30 +79,37 @@ def filter_project(projects):
                 continue
             print('{}, Commits: {}, Authors: {}, Last-two-year Commits: {}'
                 .format(project['name'], len(commits), len(authors), num_commits_last_two_year))
-            result.append(project)
+            filtered.append(project)
         except ValueError as e: 
             # This occurs because the project has no commits in it
             # probably because its source has been deleted
             print('In Project {}({}): ValueError, {}'.format(project['name'], project['url'], e))
-    project_saver.save(result)
+    output_file = 'temp/FilteredProjects/ProjectList_chunk{}.json'.format(chunk_id)
+    with open(output_file, 'w') as f:
+        f.write(json.dumps(filtered))
+    print('Written {} filtered projects to {}\n'.format(output_file))
+
+
+def run_proc(path, chunk_id):
+    print('Processing projects from {}...'.format(path))
+    projects = []
+    with open(path, 'r') as f:
+        projects = json.load(f)[0:1000]
+    filter_project(projects, chunk_id)
 
 
 if __name__ == '__main__':
     initdir('temp/FilteredProjects/')
     chunk_paths = get_chunks('temp/ProjectInfo')
 
-    # filter projects chunk by chunk
+    # Create a process pool
+    begin_time = datetime.now()
+    chunk_id = 0
+    pool = Pool(8)
     for path in chunk_paths:
-        print('Processing projects from {}...'.format(path))
-        projects = []
-        with open(path, 'r') as f:
-            projects = json.load(f)    
-        filtered = filter_project(projects)
-        save_projects(filtered)
-    
-    project_saver.finish() # finish any projects remaining
-    print('{} projects in total'.format(project_saver.counter))
-
-        
-                
-            
+        pool.apply_async(run_proc, args=(path, chunk_id))
+        chunk_id += 1
+    pool.close()
+    pool.join()
+    print('All subprocess tasks finished!')
+    print('Total running time: {}'.format(datetime.now() - begin_time))
