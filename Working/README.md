@@ -18,3 +18,11 @@ easy_install --user --upgrade oscar lzf tokyocabinet fnvhash
 ## The data processing workflow
 
 project_names->project_urls->filtered_project_urls->trees_and_files
+
+### Retrieve and Filter Projects
+
+```
+python RetrieveProjectList.py
+python GenerateGHTorrentDB.py
+python FilterProjects.py
+```
