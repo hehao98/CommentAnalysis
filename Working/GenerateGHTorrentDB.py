@@ -21,7 +21,7 @@ if __name__ == '__main__':
         );
     ''')
 
-    with open(path, 'r') as csv_file:
+    with open(path, 'rU') as csv_file:
         reader = csv.reader(csv_file)
         num_read = 0
         num_write = 0

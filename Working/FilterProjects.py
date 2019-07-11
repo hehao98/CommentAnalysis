@@ -3,6 +3,10 @@ Filter projects to identify recent and successful software projects using the fo
 1. Have more than 500 commits
 2. Have more than 100 commits in the past two years of activity
 3. Have more than 5 authors in commit info
+4. Language is in {Python, Java, JavaScript, C++, C, GO}
+5. Available in GHTorrent Dataset(means it's on GitHub)
+
+Note: It must be executed on da4 or it will go wrong for unknown reasons
 
 Author: He, Hao
 '''
@@ -12,7 +16,7 @@ import os
 import json
 from multiprocessing import Pool
 from datetime import datetime, timedelta, tzinfo
-
+import sqlite3
 
 ZERO = timedelta(0)
 
@@ -56,10 +60,21 @@ def filter_project(projects, chunk_id):
     '''
     The main filter function
     '''
-    global project_saver
     filtered = []
     for project in projects:
-        # TODO Filter pass 1 using GHTorrent Data
+        # Filter pass 1 using GHTorrent Data
+        if 'github.com' not in project['url']: # ignore none github projects
+            continue 
+        # Using custom database built from GHTorrent, ignore forked projects, deleted projects, 
+        # and projects that are not in some programming languages
+        if 'github.com' in project['url']: 
+            url_key = 'https://api.github.com/repos/{}'.format(project['name'].replace('_', '/'))
+            conn = sqlite3.connect('temp/project.db')
+            cursor = conn.cursor()
+            cursor.execute('SELECT * FROM projects WHERE url=?', (url_key,))
+            values = cursor.fetchall()
+            if len(values) == 0: # Not existent in GHTorrent Database
+                continue
 
         # Filter pass 2 using World of Code Data
         try: 
@@ -105,11 +120,22 @@ if __name__ == '__main__':
     # Create a process pool
     begin_time = datetime.now()
     chunk_id = 0
-    pool = Pool(8)
+    pool = Pool(32)
     for path in chunk_paths:
         pool.apply_async(run_proc, args=(path, chunk_id))
         chunk_id += 1
     pool.close()
     pool.join()
     print('All subprocess tasks finished!')
+
+    print('Start joining files...')
+    chunk_paths = get_chunks('temp/FilteredProjects/')
+    filtered_projects = []
+    for path in chunk_paths:
+        with open(path, 'r') as f:
+            print path
+            filtered_projects.extend(json.load(f))
+    with open('temp/FinalProjects.json', 'w') as f:
+        f.write(json.dumps(filtered_projects))
+    print('Total number of projects after filtering: {}'.format(len(filtered_projects)))
     print('Total running time: {}'.format(datetime.now() - begin_time))
