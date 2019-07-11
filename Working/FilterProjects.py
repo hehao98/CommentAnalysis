@@ -109,7 +109,7 @@ def run_proc(path, chunk_id):
     print('Processing projects from {}...'.format(path))
     projects = []
     with open(path, 'r') as f:
-        projects = json.load(f)[0:1000]
+        projects = json.load(f)
     filter_project(projects, chunk_id)
 
 
