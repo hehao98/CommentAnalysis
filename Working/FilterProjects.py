@@ -2,9 +2,8 @@
 Filter projects to identify recent and successful software projects using the following criteria
 1. Have more than 500 commits
 2. Have more than 100 commits in the past two years of activity
-3. Have more than 5 authors in commit info
-4. Language is in {Python, Java, JavaScript, C++, C, GO}
-5. Available in GHTorrent Dataset(means it's on GitHub)
+3. Language is in {Python, Java, JavaScript, C++, C, GO}
+4. Available in GHTorrent Dataset(means it's on GitHub)
 
 Note: It must be executed on da4 or it will go wrong for unknown reasons
 
@@ -61,7 +60,11 @@ def filter_project(projects, chunk_id):
     The main filter function
     '''
     filtered = []
+    counter = 0
+    conn = sqlite3.connect('temp/project.db')
+    cursor = conn.cursor()
     for project in projects:
+        counter += 1
         # Filter pass 1 using GHTorrent Data
         if 'github.com' not in project['url']: # ignore none github projects
             continue 
@@ -69,8 +72,6 @@ def filter_project(projects, chunk_id):
         # and projects that are not in some programming languages
         if 'github.com' in project['url']: 
             url_key = 'https://api.github.com/repos/{}'.format(project['name'].replace('_', '/'))
-            conn = sqlite3.connect('temp/project.db')
-            cursor = conn.cursor()
             cursor.execute('SELECT * FROM projects WHERE url=?', (url_key,))
             values = cursor.fetchall()
             if len(values) == 0: # Not existent in GHTorrent Database
@@ -79,21 +80,17 @@ def filter_project(projects, chunk_id):
         # Filter pass 2 using World of Code Data
         try: 
             commits = tuple(oscar.Project(str(project['name'])))
-            authors = set()
             num_commits_last_two_year = 0
-            if len(commits) < 500:
+            num_commits = len(commits)
+            if num_commits < 500:
                 continue
             for commit in commits:
-                if commit.author not in authors:
-                    authors.add(commit.author)
                 if commit.authored_at != None and datetime.now(tz=utc) - commit.authored_at <= timedelta(days=365*2):
                     num_commits_last_two_year += 1
-            if len(authors) < 5:
-                continue
             if num_commits_last_two_year <= 100:
                 continue
-            print('{}, Commits: {}, Authors: {}, Last-two-year Commits: {}'
-                .format(project['name'], len(commits), len(authors), num_commits_last_two_year))
+            print('{}: {}, Commits: {}, Last-two-year Commits: {}'
+                .format(counter, project['name'], num_commits, num_commits_last_two_year))
             filtered.append(project)
         except ValueError as e: 
             # This occurs because the project has no commits in it
@@ -103,6 +100,7 @@ def filter_project(projects, chunk_id):
     with open(output_file, 'w') as f:
         f.write(json.dumps(filtered))
     print('Written {} filtered projects to {}\n'.format(output_file))
+    conn.close()
 
 
 def run_proc(path, chunk_id):
@@ -120,7 +118,7 @@ if __name__ == '__main__':
     # Create a process pool
     begin_time = datetime.now()
     chunk_id = 0
-    pool = Pool(32)
+    pool = Pool(12)
     for path in chunk_paths:
         pool.apply_async(run_proc, args=(path, chunk_id))
         chunk_id += 1
