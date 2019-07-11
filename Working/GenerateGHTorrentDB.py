@@ -27,7 +27,6 @@ if __name__ == '__main__':
         num_write = 0
         for row in reader:
             num_read += 1
-            if num_read > 1000: break
             # Sanity checks for the row, filter out forked and deleted projects
             if len(row) < 10:
                 continue
