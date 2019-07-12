@@ -99,7 +99,7 @@ def filter_project(projects, chunk_id):
     output_file = 'temp/FilteredProjects/ProjectList_chunk{}.json'.format(chunk_id)
     with open(output_file, 'w') as f:
         f.write(json.dumps(filtered))
-    print('Written {} filtered projects to {}\n'.format(output_file))
+    print('Written {} filtered projects to {}\n'.format(counter, output_file))
     conn.close()
 
 
@@ -131,8 +131,12 @@ if __name__ == '__main__':
     filtered_projects = []
     for path in chunk_paths:
         with open(path, 'r') as f:
-            print path
-            filtered_projects.extend(json.load(f))
+            try:
+                this_chunk = json.load(f)
+            except ValueError as e:
+                print('ValueError: {} in {}'.format(e, path))
+            filtered_projects.extend(this_chunk)
+            print('{}: {} projects'.format(path, len(this_chunk)))
     with open('temp/FinalProjects.json', 'w') as f:
         f.write(json.dumps(filtered_projects))
     print('Total number of projects after filtering: {}'.format(len(filtered_projects)))
