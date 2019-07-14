@@ -19,10 +19,14 @@ easy_install --user --upgrade oscar lzf tokyocabinet fnvhash
 
 project_names->project_urls->filtered_project_urls->trees_and_files
 
-### Retrieve and Filter Projects
+### Retrieve, Filter and Build Project Data
+
+Execute the python scripts in order on WoC da4.
 
 ```
 python RetrieveProjectList.py
 python GenerateGHTorrentDB.py
 python FilterProjects.py
+python DownloadProjectMetadata.py [GitHub Username] [GitHub Access Token]
+python BuildProjectCSV.py
 ```

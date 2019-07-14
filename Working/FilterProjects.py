@@ -99,7 +99,7 @@ def filter_project(projects, chunk_id):
     output_file = 'temp/FilteredProjects/ProjectList_chunk{}.json'.format(chunk_id)
     with open(output_file, 'w') as f:
         f.write(json.dumps(filtered))
-    print('Written {} filtered projects to {}\n'.format(counter, output_file))
+    print('Written {} filtered projects to {}\n'.format(len(filtered), output_file))
     conn.close()
 
 
