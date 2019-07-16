@@ -1,6 +1,7 @@
 temp/
 log.txt
 .vscode/
+nohup.out
 
 
 # Mac OS Files

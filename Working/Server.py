@@ -5,6 +5,11 @@ For request and response documentation, see (TODO)
 Author: He, Hao
 '''
 
-if __name__ == '__main__':
+from flask import Flask
+app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
     
 
