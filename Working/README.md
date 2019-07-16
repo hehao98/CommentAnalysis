@@ -17,8 +17,6 @@ easy_install --user --upgrade oscar lzf tokyocabinet fnvhash
 
 ## The data processing workflow
 
-project_names->project_urls->filtered_project_urls->trees_and_files
-
 ### Retrieve, Filter and Build Project Data
 
 Execute the python scripts in order on WoC da4.
@@ -29,4 +27,16 @@ python GenerateGHTorrentDB.py
 python FilterProjects.py
 python DownloadProjectMetadata.py [GitHub Username] [GitHub Access Token]
 python BuildProjectCSV.py
+```
+
+### Setup Server over SSH Tunneling
+
+1. Remote
+```
+export FLASK_APP=Server.py
+python -m flask run -p 23333 --host=0.0.0.0
+```
+2. Local
+```
+ssh -L 23333:da4.eecs.utk.edu:23333 heh@da4.eecs.utk.edu -i ~/.ssh/worldofcode -N
 ```
