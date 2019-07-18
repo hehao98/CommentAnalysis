@@ -31,12 +31,16 @@ python BuildProjectCSV.py
 
 ### Setup Server over SSH Tunneling
 
-1. Remote
 ```
+ssh -L 23333:da4.eecs.utk.edu:23333 heh@da4.eecs.utk.edu -i ~/.ssh/worldofcode -p 443
+# In remote bash
+cd CommentAnalysis/Working
 export FLASK_APP=Server.py
 python -m flask run -p 23333 --host=0.0.0.0
 ```
-2. Local
+
+### Do the Analysis
+
 ```
-ssh -L 23333:da4.eecs.utk.edu:23333 heh@da4.eecs.utk.edu -i ~/.ssh/worldofcode -N
+python CountLineOfCode.py
 ```
