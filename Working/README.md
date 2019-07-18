@@ -32,7 +32,7 @@ python BuildProjectCSV.py
 ### Setup Server over SSH Tunneling
 
 ```
-ssh -L 23333:da4.eecs.utk.edu:23333 heh@da4.eecs.utk.edu -i ~/.ssh/worldofcode -p 443
+ssh -L 23333:da4.eecs.utk.edu:23333 heh@da4.eecs.utk.edu -i ~/.ssh/worldofcode -p 443 -o ServerAliveInterval=60
 # In remote bash
 cd CommentAnalysis/Working
 export FLASK_APP=Server.py
