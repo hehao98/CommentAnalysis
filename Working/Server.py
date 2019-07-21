@@ -31,6 +31,10 @@ def project_metadata(project_name):
     
 @app.route('/file/<file_sha>')
 def project_file(file_sha):
-    result = {'content': oscar.Blob(str(file_sha)).data}
+    result = {'content': ''}
+    try:
+        result['content'] = oscar.Blob(str(file_sha)).data
+    except:
+        print('Error Retrieving file/{}'.format(file_sha))
     return json.dumps(result)
 
