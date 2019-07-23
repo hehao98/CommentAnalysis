@@ -41,7 +41,7 @@ if __name__ == '__main__':
                     'description': proj['description'],
                     'size': proj['size'],
                     'stars': proj['stargazers_count'],
-                    'watchers': proj['watchers_count'],
+                    'watchers': proj['subscribers_count'],
                     'language': proj['language'],
                     'forks': proj['forks'],
                     'commits': len(commits),

@@ -3,7 +3,7 @@ Read project info from result/Projects.csv, do the following
 1. Remove duplicates
 2. Initialize metrics
 3. Print summary
-4. Save to Projects2.csv
+4. Save to result/Projects.csv
 5. Random Sample 500 projects and save to temp/ProjectSample.csv
 '''
 
@@ -15,10 +15,19 @@ if __name__  == '__main__':
 
     projects = projects.drop_duplicates('url')
 
-    for index, row in projects.iterrows():
-        projects.at[index, 'lines_of_code'] = -1
-        projects.at[index, 'lines_of_comments'] = -1
-        projects.at[index, 'lines_blank'] = -1
+    metric_list = [
+        'lines_of_code',
+        'lines_of_comments',
+        'lines_blank',
+        'impl_comment',
+        'doc_comment',
+        'src_files',
+        'file_header_comment',
+    ]
+
+    for metric in metric_list:
+        if metric not in projects:
+            projects[metric] = -1
     
     print(projects.describe)
 
