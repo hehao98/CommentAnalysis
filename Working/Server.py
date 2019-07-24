@@ -1,4 +1,5 @@
 '''
+NOTE: This is deprecated because we are not using data from WoC
 A Custom Server over SSH Tunnel that can serve requests on WoC data
 For request and response documentation, see (TODO)
 

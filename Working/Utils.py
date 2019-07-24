@@ -1,3 +1,7 @@
+'''
+NOTE: This one is deprecated because we are not using data from WoC
+'''
+
 import oscar.oscar as oscar
 
 if __name__ == '__main__':
