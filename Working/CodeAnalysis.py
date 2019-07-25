@@ -13,6 +13,7 @@ import json
 import argparse
 import hashlib
 from termcolor import colored
+import CodeParser
 
 
 def get_file_list(path, suffix):
@@ -129,6 +130,11 @@ def get_file_stats(filepath, lang):
     '''
     Given a source code file and its programming language, return comment analysis result 
     '''
+    stat = {'functions': 0}
+    trees = CodeParser.get_json_syntax_tree(filepath)
+    for tree in trees:
+        stat['functions'] += CodeParser.count_functions(tree)
+    return stat
 
 
 if __name__ == '__main__':
@@ -172,5 +178,9 @@ if __name__ == '__main__':
         for file in file_list:
             stat = get_file_stats(file, row['language'])
             # TODO Copy the stats into csv
+            projects.at[index, 'functions'] = stat['functions']
+
+        print(projects.loc[index])
+        projects.to_csv(csv_path, index=False)
 
     

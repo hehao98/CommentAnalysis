@@ -5,6 +5,8 @@
 import java.util.*;
 
 public class sample {
+    /** This is a variable */
+    int member;
 
     public static int func_no_doc() {
         // Here is a normal comment
@@ -20,4 +22,9 @@ public class sample {
     public static void main(String[] args) {
         return;
     }
+}
+
+interface Inter {
+    /**Documentation */
+    public void f();
 }
