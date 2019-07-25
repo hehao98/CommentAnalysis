@@ -1,3 +1,15 @@
 [submodule "Working/oscar"]
 	path = Working/oscar
 	url = https://github.com/ssc-oscar/oscar.py.git
+[submodule "Working/Parser/3rd-Party/tree-sitter"]
+	path = Working/Parser/3rd-Party/tree-sitter
+	url = https://github.com/tree-sitter/tree-sitter.git
+[submodule "Working/Parser/3rd-Party/tree-sitter-java"]
+	path = Working/Parser/3rd-Party/tree-sitter-java
+	url = https://github.com/tree-sitter/tree-sitter-java.git
+[submodule "Working/Parser/3rd-Party/tree-sitter-javascript"]
+	path = Working/Parser/3rd-Party/tree-sitter-javascript
+	url = https://github.com/tree-sitter/tree-sitter-javascript.git
+[submodule "Working/Parser/3rd-Party/tree-sitter-python"]
+	path = Working/Parser/3rd-Party/tree-sitter-python
+	url = https://github.com/tree-sitter/tree-sitter-python.git
