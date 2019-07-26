@@ -23,16 +23,19 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument(
         'csv_path', help='Path to the CSV file storing project information')
+    parser.add_argument(
+        'output_path', help='Path where the downloaded projects will be stored')
     parser.add_argument('-j', type=int, default=4,
                         help='Number of Jobs (Default 4)')
     args = vars(parser.parse_args())
     csv_path = args['csv_path']
+    output_path = args['output_path']
     num_job = args['j']
 
     begin_time = datetime.now()
 
     projects = pd.read_csv(csv_path)
-    os.chdir('../../')
+    os.chdir(output_path)
     if not os.path.exists('projects/'):
         os.mkdir('projects')
     os.chdir('projects')

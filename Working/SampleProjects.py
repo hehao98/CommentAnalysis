@@ -13,3 +13,9 @@ pd.concat([
     py_projs[py_projs['stars'] > 100].sample(n=500), 
     py_projs[py_projs['stars'] <= 100].sample(n=500)
 ]).to_csv('temp/PythonProjectSample.csv', index=False)
+
+js_projs = projects[projects['language'] == 'JavaScript']
+pd.concat([
+    js_projs[js_projs['stars'] > 100].sample(n=500), 
+    js_projs[js_projs['stars'] <= 100].sample(n=500)
+]).to_csv('temp/JavaScriptProjectSample.csv', index=False)

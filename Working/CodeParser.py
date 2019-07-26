@@ -1,6 +1,7 @@
 '''
 Some utility functions for parsing and analyzing comments
 Uses the semantic library: https://github.com/github/semantic/
+NOTE: The parser is almost good for python and javascript, but buggy and unusable for java
 '''
 
 import subprocess

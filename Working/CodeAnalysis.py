@@ -1,8 +1,6 @@
 '''
 Analyze source code and add various source code related metrics for a project
 
-TODO: Finish this after the C++ parser is finished
-
 Author: He, Hao
 '''
 
