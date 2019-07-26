@@ -12,6 +12,8 @@ import os
 import json
 import argparse
 import hashlib
+import sys
+import resource
 from termcolor import colored
 import CodeParser
 
@@ -141,6 +143,11 @@ def get_file_stats(filepath, lang):
 
 
 if __name__ == '__main__':
+    # Set the recursion limit from 1000 to 10000 to avoid RecursionError
+    # because when parsing AST, the tree might have very high depth
+    sys.setrecursionlimit(10000)
+    resource.setrlimit(resource.RLIMIT_STACK, (2**28, -1))
+
     # Parse Arguments
     parser = argparse.ArgumentParser()
     parser.add_argument(

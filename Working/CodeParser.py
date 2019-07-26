@@ -7,6 +7,7 @@ import subprocess
 import json
 import collections
 import argparse
+import sys
 from termcolor import colored
 
 
@@ -14,13 +15,19 @@ def get_json_syntax_tree(file):
     '''
     Given a source code file path, return its syntax tree as a list of OrderedDict
     '''
+    result = '{"trees": {}}'
     try:
         print(file.replace(' ', '\ '))
         result = subprocess.check_output(
             "semantic parse {} --json".format(file.replace(' ', '\ ')), shell=True)
     except subprocess.CalledProcessError as e:
         print(colored('ERROR when parsing {}: \n{}'.format(file, e.output), 'red'))
-    return json.loads(result, object_pairs_hook=collections.OrderedDict)['trees']
+    obj = {'trees': {}}
+    try:
+        obj = json.loads(result, object_pairs_hook=collections.OrderedDict)
+    except RecursionError:
+        print(colored('RecursionError occured at {}!'.format(file), 'red'))
+    return obj['trees']
 
 
 def print_tree(node, depth=0):
@@ -98,6 +105,12 @@ def count_comments(node, parent, lang, depth=0):
                     for key in temp.keys():
                         result[key] += temp[key]
     return result
+
+
+def extract_comments(node, depth=0):
+    '''
+    Given a syntax tree, extract all comments from it and return them as an array
+    '''
 
 
 if __name__ == '__main__':
