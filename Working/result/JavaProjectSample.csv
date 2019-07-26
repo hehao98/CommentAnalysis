@@ -1,0 +1,1001 @@
+name,url,description,size,stars,watchers,language,forks,commits,authors,lines_of_code,lines_of_comments,lines_blank
+eclipse_leshan,https://github.com/eclipse/leshan,Eclipse Leshan is an OMA Lightweight M2M (LWM2M) implementation in Java.,4538,339,339,Java,247,1720,82,-1,-1,-1
+konsoletyper_teavm,https://github.com/konsoletyper/teavm,Compiler of Java bytecode to JavaScript,42607,1199,1199,Java,140,2559,57,-1,-1,-1
+pentaho_mondrian,https://github.com/pentaho/mondrian,Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.,312754,780,780,Java,605,7387,262,-1,-1,-1
+ThreeTen_threeten-extra,https://github.com/ThreeTen/threeten-extra,Provides additional date-time classes that complement those in JDK 8,1508,218,218,Java,54,980,47,-1,-1,-1
+react-native-kit_react-native-track-player,https://github.com/react-native-kit/react-native-track-player,"A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!",3666,811,811,Java,229,893,83,-1,-1,-1
+apache_camel,https://github.com/apache/camel,Apache Camel,282025,2732,2732,Java,3559,60887,1288,-1,-1,-1
+aseldawy_spatialhadoop2,https://github.com/aseldawy/spatialhadoop2,The second generation of SpatialHadoop that ships as an extension,23346,126,126,Java,93,1781,37,-1,-1,-1
+apache_sqoop,https://github.com/apache/sqoop,Mirror of Apache Sqoop,18720,602,602,Java,429,3111,120,-1,-1,-1
+zmxv_react-native-sound,https://github.com/zmxv/react-native-sound,React Native module for playing sound clips,278,1858,1858,Java,522,581,173,-1,-1,-1
+trol73_mucommander,https://github.com/trol73/mucommander,trolCommander - fork of muCommander file manager,118140,169,169,Java,37,741,28,-1,-1,-1
+jeddict_jeddict,https://github.com/jeddict/jeddict,Java EE 8 (Jakarta EE) & MicroProfile 2.0 application generator and modeler,55707,316,316,Java,36,861,10,-1,-1,-1
+SleepyTrousers_EnderIO,https://github.com/SleepyTrousers/EnderIO,,65599,528,528,Java,268,8654,231,-1,-1,-1
+crawler-commons_crawler-commons,https://github.com/crawler-commons/crawler-commons,A set of reusable Java components that implement functionality common to any web crawler,2885,135,135,Java,58,644,30,-1,-1,-1
+hibernate_hibernate-tools,https://github.com/hibernate/hibernate-tools,"Code generation, reverse engineering, ant task and more tools for Hibernate Core",39863,207,207,Java,190,2726,48,-1,-1,-1
+MrCrayfish_MrCrayfishFurnitureMod,https://github.com/MrCrayfish/MrCrayfishFurnitureMod,A Furniture Mod for Minecraft. Download ▶,11822,133,133,Java,94,1008,62,-1,-1,-1
+fnproject_fdk-java,https://github.com/fnproject/fdk-java,Java API and runtime for fn.,3199,115,115,Java,40,1048,58,-1,-1,-1
+genonbeta_TrebleShot,https://github.com/genonbeta/TrebleShot,"An Open-Source Android application that allows you to send and receive files over available connections, and pause and resume transfer process even after something went wrong.",54081,283,283,Java,53,1239,66,-1,-1,-1
+SBPrime_AsyncWorldEdit,https://github.com/SBPrime/AsyncWorldEdit,Async WorldEdit - Edit millions of blocks without lag!,19972,106,106,Java,65,626,32,-1,-1,-1
+react-native-community_react-native-image-picker,https://github.com/react-native-community/react-native-image-picker,:sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera.,1425,5467,5467,Java,1264,1047,297,-1,-1,-1
+apache_jena,https://github.com/apache/jena,Mirror of Apache Jena,413084,556,556,Java,424,44896,153,-1,-1,-1
+cloudfoundry_uaa,https://github.com/cloudfoundry/uaa,CloudFoundry User Account and Authentication (UAA) Server,53081,1003,1003,Java,651,10626,365,-1,-1,-1
+TeamAmaze_AmazeFileManager,https://github.com/TeamAmaze/AmazeFileManager,Material design file manager for Android,45691,2558,2558,Java,888,4398,178,-1,-1,-1
+jpmml_jpmml-model,https://github.com/jpmml/jpmml-model,Java Class Model API for PMML,1374,109,109,Java,44,736,1,-1,-1,-1
+grpc_grpc-java,https://github.com/grpc/grpc-java,The Java gRPC implementation. HTTP/2 based RPC,36226,6221,6221,Java,2005,11252,372,-1,-1,-1
+k3b_APhotoManager,https://github.com/k3b/APhotoManager,"Manage local photos on Android: gallery, geotag with photomap, privacy, tags, find, sort, view, copy, send, ... .",7390,109,109,Java,43,992,6,-1,-1,-1
+AnyChart_AnyChart-Android,https://github.com/AnyChart/AnyChart-Android,AnyChart Android Chart is an amazing data visualization library for easily creating interactive charts in Android apps. It runs on API 19+ (Android 4.4) and features dozens of built-in chart types.,53070,699,699,Java,133,510,8,-1,-1,-1
+square_keywhiz,https://github.com/square/keywhiz,A system for distributing and managing secrets,4242,2098,2098,Java,166,1027,49,-1,-1,-1
+Etar-Group_Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar,Android open source calendar,33644,676,676,Java,225,6108,214,-1,-1,-1
+hypothesis_browser-extension,https://github.com/hypothesis/browser-extension,The Hypothesis browser extensions.,8674,111,111,Java,50,779,32,-1,-1,-1
+linkedin_TonY,https://github.com/linkedin/TonY,TonY is a framework to natively run deep learning frameworks on Apache Hadoop.,2099,500,500,Java,103,784,25,-1,-1,-1
+TNG_junit-dataprovider,https://github.com/TNG/junit-dataprovider,A TestNG like dataprovider runner for JUnit with many additional features,1265,198,198,Java,32,525,22,-1,-1,-1
+SpongePowered_SpongeForge,https://github.com/SpongePowered/SpongeForge,A Forge mod that implements SpongeAPI,8208,1014,1014,Java,335,5261,170,-1,-1,-1
+spring-projects_spring-data-solr,https://github.com/spring-projects/spring-data-solr,Spring Data - Apache Solr integration,5284,333,333,Java,230,1787,92,-1,-1,-1
+bluestreak01_questdb,https://github.com/bluestreak01/questdb,QuestDB is a relational database that natively supports time series data,29943,149,149,Java,19,1999,11,-1,-1,-1
+apache_lucene-solr,https://github.com/apache/lucene-solr,Mirror of Apache Lucene + Solr,405670,2746,2746,Java,1926,91436,714,-1,-1,-1
+perfectsense_brightspot-cms,https://github.com/perfectsense/brightspot-cms,Brightspot is an enterprise user experience platform built on top of the Dari Framework.,72703,133,133,Java,54,9036,80,-1,-1,-1
+OpenHFT_Chronicle-Bytes,https://github.com/OpenHFT/Chronicle-Bytes,Chronicle Bytes has a similar purpose to Java NIO's ByteBuffer with many extensions,301809,164,164,Java,47,7738,64,-1,-1,-1
+FireNio_firenio,https://github.com/FireNio/firenio,🐳🐳An easy of use io framework project based on java nio,602,224,224,Java,86,1754,8,-1,-1,-1
+thingsboard_thingsboard,https://github.com/thingsboard/thingsboard,"Open-source IoT Platform - Device management, data collection, processing and visualization.",13033,3788,3788,Java,1281,3034,181,-1,-1,-1
+breadwallet_breadwallet-android,https://github.com/breadwallet/breadwallet-android,android SPV bitcoin wallet,66757,229,229,Java,324,4528,62,-1,-1,-1
+laurent-clouet_sheepit-client,https://github.com/laurent-clouet/sheepit-client,"Client for the free and distributed render farm ""SheepIt Render Farm""",7589,185,185,Java,59,1028,54,-1,-1,-1
+Rajawali_Rajawali,https://github.com/Rajawali/Rajawali,Android OpenGL ES 2.0/3.0 Engine,83521,1873,1873,Java,639,2597,106,-1,-1,-1
+embulk_embulk,https://github.com/embulk/embulk,Embulk: Pluggable Bulk Data Loader.,6053,1296,1296,Java,162,3277,94,-1,-1,-1
+alkacon_opencms-core,https://github.com/alkacon/opencms-core,The Java open source content management system by Alkacon Software,972927,413,413,Java,332,27065,141,-1,-1,-1
+Team-RTG_Realistic-Terrain-Generation,https://github.com/Team-RTG/Realistic-Terrain-Generation,The Realistic Terrain Generation mod for Minecraft.,26799,179,179,Java,91,4438,33,-1,-1,-1
+rrd4j_rrd4j,https://github.com/rrd4j/rrd4j,A high performance data logging and graphing system for time series data.,6234,204,204,Java,55,703,30,-1,-1,-1
+saket_Dank,https://github.com/saket/Dank,,7427,650,650,Java,99,1907,6,-1,-1,-1
+mozilla-mobile_focus-android,https://github.com/mozilla-mobile/focus-android,Firefox Focus: The privacy browser - Browse like no one’s watching.,165221,1349,1349,Java,485,6638,208,-1,-1,-1
+VoltDB_voltdb,https://github.com/VoltDB/voltdb,VoltDB,650380,1428,1428,Java,378,48190,323,-1,-1,-1
+spotbugs_sonar-findbugs,https://github.com/spotbugs/sonar-findbugs,SpotBugs plugin for SonarQube,1354,137,137,Java,74,709,60,-1,-1,-1
+openmrs_openmrs-contrib-android-client,https://github.com/openmrs/openmrs-contrib-android-client,Android client for OpenMRS,101444,103,103,Java,250,1668,157,-1,-1,-1
+cinchapi_concourse,https://github.com/cinchapi/concourse,"Distributed database warehouse for transactions, search and analytics across time.",40709,312,312,Java,260,6437,69,-1,-1,-1
+tonihele_OpenKeeper,https://github.com/tonihele/OpenKeeper,Dungeon Keeper II remake,9527,210,210,Java,25,2197,20,-1,-1,-1
+LambdaInnovation_AcademyCraft,https://github.com/LambdaInnovation/AcademyCraft,A Minecraft mod about superability,67375,146,146,Java,41,2387,52,-1,-1,-1
+UniversaBlockchain_universa,https://github.com/UniversaBlockchain/universa,"Universa network, node, client and API",34649,319,319,Java,96,2290,18,-1,-1,-1
+aol_cyclops,https://github.com/aol/cyclops,"An advanced, but easy to use, platform for writing functional applications in Java 8.",35789,966,966,Java,101,4076,50,-1,-1,-1
+ff4j_ff4j,https://github.com/ff4j/ff4j,Feature Flags for Java made easy,9666,579,579,Java,160,990,89,-1,-1,-1
+doocs_leetcode,https://github.com/doocs/leetcode,😏 LeetCode solutions in any programming language,2957,315,315,Java,145,927,46,-1,-1,-1
+BitwiseInc_Hydrograph,https://github.com/BitwiseInc/Hydrograph,A visual ETL development and debugging tool for big data,35071,126,126,Java,95,549,63,-1,-1,-1
+apache_asterixdb,https://github.com/apache/asterixdb,Mirror of Apache AsterixDB,162743,149,149,Java,85,7781,146,-1,-1,-1
+aws_aws-sdk-java,https://github.com/aws/aws-sdk-java,The official AWS SDK for Java.,1297414,2974,2974,Java,2255,2835,483,-1,-1,-1
+shyiko_mysql-binlog-connector-java,https://github.com/shyiko/mysql-binlog-connector-java,MySQL Binary Log connector,1427,1155,1155,Java,401,607,56,-1,-1,-1
+aimacode_aima-java,https://github.com/aimacode/aima-java,"Java implementation of algorithms from Russell And Norvig's ""Artificial Intelligence - A Modern Approach""",701151,1102,1102,Java,615,3869,100,-1,-1,-1
+chewiebug_GCViewer,https://github.com/chewiebug/GCViewer,"Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)",6457,2668,2668,Java,642,800,69,-1,-1,-1
+gojek_feast,https://github.com/gojek/feast,Feature Store for Machine Learning,2494,381,381,Java,50,640,22,-1,-1,-1
+mesosphere_dcos-cassandra-service,https://github.com/mesosphere/dcos-cassandra-service,DEPRECATED—Open source Apache Cassandra running on DC/OS is now replaced by mesosphere/dcos-commons/frameworks/cassandra.  This repository will be deleted at the end of 2017.,67342,118,118,Java,59,1743,83,-1,-1,-1
+yaxim-org_yaxim,https://github.com/yaxim-org/yaxim,yaxim - a lean XMPP/Jabber client for Android,15648,450,450,Java,238,0,0,-1,-1,-1
+schildbach_public-transport-enabler,https://github.com/schildbach/public-transport-enabler,Unleash public transport data in your Java project.,6331,226,226,Java,104,2708,91,-1,-1,-1
+tonikelope_megabasterd,https://github.com/tonikelope/megabasterd,Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.,93554,221,221,Java,34,7693,9,-1,-1,-1
+bootique_bootique,https://github.com/bootique/bootique,Bootique is a minimally opinionated platform for modern runnable Java apps.,3701,1170,1170,Java,270,1269,28,-1,-1,-1
+javers_javers,https://github.com/javers/javers,JaVers - object auditing and diff framework for Java,7792,517,517,Java,165,2641,139,-1,-1,-1
+deltachat_deltachat-android,https://github.com/deltachat/deltachat-android,Email-based instant messaging for Android.,75566,396,396,Java,65,3301,48,-1,-1,-1
+graphql-java-kickstart_graphql-java-servlet,https://github.com/graphql-java-kickstart/graphql-java-servlet,Servlet endpoint for GraphQL Java,844,116,116,Java,70,578,51,-1,-1,-1
+AnghelLeonard_Hibernate-SpringBoot,https://github.com/AnghelLeonard/Hibernate-SpringBoot,Collection of best practices for Java persistence performance in Spring Boot applications,28376,168,168,Java,67,1271,1,-1,-1,-1
+ldtteam_minecolonies,https://github.com/ldtteam/minecolonies,Minecolonies minecraft mod,76881,177,177,Java,109,14347,150,-1,-1,-1
+SourceLabOrg_kafka-webview,https://github.com/SourceLabOrg/kafka-webview,Full-featured web-based Apache Kafka consumer UI,2903,213,213,Java,46,663,10,-1,-1,-1
+spotify_apollo,https://github.com/spotify/apollo,Java libraries for writing composable microservices,2372,1501,1501,Java,201,920,91,-1,-1,-1
+vaadin_spring,https://github.com/vaadin/spring,Spring integration for Vaadin,966,130,130,Java,90,754,89,-1,-1,-1
+modernmt_modernmt,https://github.com/modernmt/modernmt,Neural Adaptive Machine Translation that adapts to context and learns from corrections.,61941,136,136,Java,37,3007,41,-1,-1,-1
+Wikia_selenium-tests,https://github.com/Wikia/selenium-tests,,253327,146,146,Java,117,17499,248,-1,-1,-1
+mcMMO-Dev_mcMMO,https://github.com/mcMMO-Dev/mcMMO,The RPG Lover's Mod!,21273,512,512,Java,447,6912,223,-1,-1,-1
+fishercoder1534_Leetcode,https://github.com/fishercoder1534/Leetcode,Complete solutions to Leetcode problems; updated daily. (I'm looking for long-term contributors/partners to this repo! Send me PRs if you're interested! - 9/5/2018),4329,1365,1365,Java,526,3598,34,-1,-1,-1
+NightscoutFoundation_xDrip,https://github.com/NightscoutFoundation/xDrip,Nightscout version of xDrip+,27156,382,382,Java,370,4766,84,-1,-1,-1
+redisson_redisson,https://github.com/redisson/redisson,"Redisson - Redis Java client with features of In-Memory Data Grid. Supports over 30 objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC.",12544,9806,9806,Java,2407,5342,173,-1,-1,-1
+apache_commons-io,https://github.com/apache/commons-io,Mirror of Apache Commons IO,5562,602,602,Java,392,5529,166,-1,-1,-1
+alibaba_fastjson,https://github.com/alibaba/fastjson,:bullettrain_side: A fast JSON parser/generator for Java. (Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by fastjson ) ,12646,18439,18439,Java,4997,4160,264,-1,-1,-1
+xipki_xipki,https://github.com/xipki/xipki,Highly scalable and high-performance open source PKI (CA and OCSP responder),37692,204,204,Java,46,7455,5,-1,-1,-1
+raulhaag_MiMangaNu,https://github.com/raulhaag/MiMangaNu,"*ES - Lector de Manga online / offline, gratuito y de código abierto.  *EN - Manga reader online / offline, free and open source.  *FR - Lecteur de manga en ligne / hors ligne, gratuit et open source.  *DE - Eine App um Manga zu lesen. Man kann damit Manga online und offline lesen. Es ist kostenlos und quelloffen.  *IT - Manga lettore online / offline, gratuito e open source.  *RU - В России Манга читает вас. Попробуйте MiMangaNu прямо сейчас.",7916,198,198,Java,57,1684,33,-1,-1,-1
+apache_freemarker,https://github.com/apache/freemarker,Apache Freemarker,16650,445,445,Java,139,3185,44,-1,-1,-1
+cdapio_cdap,https://github.com/cdapio/cdap,An open source framework for building data analytic applications.,569583,348,348,Java,179,58664,330,-1,-1,-1
+openmrs_openmrs-core,https://github.com/openmrs/openmrs-core,OpenMRS API and web application code,228734,783,783,Java,2383,22360,973,-1,-1,-1
+flipkart-incubator_proteus,https://github.com/flipkart-incubator/proteus,Proteus : A JSON based LayoutInflater for Android,3538,940,940,Java,143,1202,19,-1,-1,-1
+openMF_android-client,https://github.com/openMF/android-client,An android client for the MifosX platform,101450,109,109,Java,357,6607,310,-1,-1,-1
+tuskyapp_Tusky,https://github.com/tuskyapp/Tusky,An Android client for the microblogging server Mastodon,16551,721,721,Java,193,3940,196,-1,-1,-1
+vaadin_framework,https://github.com/vaadin/framework,"Vaadin 6, 7, 8   is a Java framework for modern web applications.",328906,1506,1506,Java,701,29507,433,-1,-1,-1
+davideas_FlexibleAdapter,https://github.com/davideas/FlexibleAdapter,Fast and versatile Adapter for RecyclerView which regroups several features into one library to considerably improve the user experience :-),10794,3152,3152,Java,495,1092,44,-1,-1,-1
+mapstruct_mapstruct,https://github.com/mapstruct/mapstruct,An annotation processor for generating type-safe bean mappers,7974,1834,1834,Java,309,2518,142,-1,-1,-1
+MovingBlocks_Terasology,https://github.com/MovingBlocks/Terasology,Terasology - open source voxel world,287939,2597,2597,Java,1165,13112,534,-1,-1,-1
+nordic-institute_X-Road,https://github.com/nordic-institute/X-Road,Source code of the X-Road data exchange layer software.,199736,129,129,Java,36,1965,60,-1,-1,-1
+willuhn_hibiscus,https://github.com/willuhn/hibiscus,"A Java based, plattform independent (running on Linux, Windows, OS X, OpenBSD, OpenSolaris) homebanking application, that uses the  german FinTS/HBCI standard. All data (accounts, transactions, addresses, ..) are stored encrypted into an embedded database (H2) by default or on a Mysql server (if configured).  Hibiscus runs as a plugin within the Jameica framework as either a typical desktop application or headless in server mode.",178777,150,150,Java,52,3722,38,-1,-1,-1
+dessalines_flowchat,https://github.com/dessalines/flowchat,A reddit alternative featuring communities and live-updating threaded conversations.,1837,294,294,Java,33,519,5,-1,-1,-1
+micronaut-projects_micronaut-core,https://github.com/micronaut-projects/micronaut-core,Micronaut Application Framework,43223,2561,2561,Java,408,7382,204,-1,-1,-1
+DSheirer_sdrtrunk,https://github.com/DSheirer/sdrtrunk,"A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:",28188,407,407,Java,82,1422,12,-1,-1,-1
+dorkbox_SystemTray,https://github.com/dorkbox/SystemTray,"Cross-platform SystemTray support for Swing/AWT, GtkStatusIcon, and AppIndicator on Java 6+",1638,157,157,Java,26,757,6,-1,-1,-1
+spring-cloud_spring-cloud-dataflow,https://github.com/spring-cloud/spring-cloud-dataflow,Microservice based Streaming and Batch data processing for Cloud Foundry and Kubernetes,45318,545,545,Java,326,4927,117,-1,-1,-1
+openhab_openhab-core,https://github.com/openhab/openhab-core,Core framework of openHAB,16810,126,126,Java,140,1862,68,-1,-1,-1
+maskarade_Android-Orma,https://github.com/maskarade/Android-Orma,An ORM for Android with type-safety and painless migrations,3823,437,437,Java,50,1615,34,-1,-1,-1
+kairosdb_kairosdb,https://github.com/kairosdb/kairosdb,Fast scalable time series database,47240,1461,1461,Java,302,2344,185,-1,-1,-1
+rubenlagus_TelegramBots,https://github.com/rubenlagus/TelegramBots,Java library to create bots using Telegram Bots API,1708,1453,1453,Java,482,939,141,-1,-1,-1
+mplushnikov_lombok-intellij-plugin,https://github.com/mplushnikov/lombok-intellij-plugin,Lombok Plugin for IntelliJ IDEA,16907,1919,1919,Java,329,1716,57,-1,-1,-1
+OpenHFT_Java-Thread-Affinity,https://github.com/OpenHFT/Java-Thread-Affinity,Bind a java thread to a given core,11369,821,821,Java,210,660,28,-1,-1,-1
+mvel_mvel,https://github.com/mvel/mvel,MVEL (MVFLEX Expression Language),14288,571,571,Java,205,5625,113,-1,-1,-1
+bbottema_simple-java-mail,https://github.com/bbottema/simple-java-mail,"Simple API, Complex Emails (JavaMail smtp wrapper)",7995,498,498,Java,132,1334,28,-1,-1,-1
+CellularPrivacy_Android-IMSI-Catcher-Detector,https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector,"AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!",10889,3533,3533,Java,737,5479,187,-1,-1,-1
+brianfrankcooper_YCSB,https://github.com/brianfrankcooper/YCSB,Yahoo! Cloud Serving Benchmark,31912,2605,2605,Java,1506,2918,415,-1,-1,-1
+razerdp_BasePopup,https://github.com/razerdp/BasePopup,亲，还在为PopupWindow烦恼吗？不如试试BasePopup，你会爱上他的~,20110,3174,3174,Java,530,845,8,-1,-1,-1
+dropbox_dropbox-sdk-java,https://github.com/dropbox/dropbox-sdk-java,A Java library for the Dropbox Core API.,33154,360,360,Java,335,598,82,-1,-1,-1
+damianszczepanik_cucumber-reporting,https://github.com/damianszczepanik/cucumber-reporting,HTML reports for Cucumber,22430,348,348,Java,286,1504,157,-1,-1,-1
+Netflix_eureka,https://github.com/Netflix/eureka,AWS Service registry for resilient mid-tier load balancing and failover.,11740,8012,8012,Java,2212,2854,156,-1,-1,-1
+Netflix_dyno,https://github.com/Netflix/dyno,Java client for Dynomite,7219,159,159,Java,80,702,66,-1,-1,-1
+katzer_cordova-plugin-local-notifications,https://github.com/katzer/cordova-plugin-local-notifications,Cordova Local-Notification Plugin,42626,2239,2239,Java,1400,1298,191,-1,-1,-1
+crossbario_autobahn-java,https://github.com/crossbario/autobahn-java,WebSocket & WAMP in Java for Android and Java 8,5108,1313,1313,Java,411,971,40,-1,-1,-1
+joshjdevl_libsodium-jni,https://github.com/joshjdevl/libsodium-jni,(Android) Networking and Cryptography Library (NaCL) JNI binding. JNI is utilized for fastest access to native code. Accessible either in Android or Java application. Uses SWIG to generate Java JNI bindings. SWIG definitions are extensible to other languages.,1515,128,128,Java,65,870,47,-1,-1,-1
+northbright_Notes,https://github.com/northbright/Notes,Development Notes,16788,144,144,Java,51,1036,2,-1,-1,-1
+lukas-krecan_ShedLock,https://github.com/lukas-krecan/ShedLock,Distributed lock for your scheduled tasks,863,673,673,Java,133,533,31,-1,-1,-1
+gsantner_markor,https://github.com/gsantner/markor,Text editor - Notes & ToDo (for Android). Supporting Markdown and todo.txt,14096,570,570,Java,107,3152,131,-1,-1,-1
+openzipkin_zipkin,https://github.com/openzipkin/zipkin,Zipkin is a distributed tracing system,46681,11297,11297,Java,2023,6704,325,-1,-1,-1
+spring-cloud_spring-cloud-cli,https://github.com/spring-cloud/spring-cloud-cli,Spring Cloud CLI features,240594,112,112,Java,61,2026,31,-1,-1,-1
+forge_roaster,https://github.com/forge/roaster,A Java Parser library that allows easy parsing and formatting of Java source files,1666,409,409,Java,76,840,48,-1,-1,-1
+MobiVM_robovm,https://github.com/MobiVM/robovm,"Ahead of time compiler for JVM bytecode targetting iOS, Mac OSX and Linux",168211,473,473,Java,84,1330,60,-1,-1,-1
+proninyaroslav_libretorrent,https://github.com/proninyaroslav/libretorrent,Free as in Freedom torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent,5937,627,627,Java,118,520,41,-1,-1,-1
+guooscar_JazminServer,https://github.com/guooscar/JazminServer,"Java based application,rpc,message,rtmp,game,sip,rtp,relay,webrtc,webssh,proxy server,message  queue,mysql proxy server",288687,202,202,Java,123,839,14,-1,-1,-1
+lukas-krecan_JsonUnit,https://github.com/lukas-krecan/JsonUnit,Compare JSON in your Unit Tests,1646,365,365,Java,63,712,26,-1,-1,-1
+lerry903_RuoYi,https://github.com/lerry903/RuoYi,基于SpringBoot2.1的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用,12505,324,324,Java,116,500,33,-1,-1,-1
+apache_apex-malhar,https://github.com/apache/apex-malhar,Mirror of Apache Apex malhar,91929,127,127,Java,151,9483,196,-1,-1,-1
+zstackio_zstack,https://github.com/zstackio/zstack,ZStack - the open-source IaaS software http://zstack.org (国内用户请至 http://zstack.io),68845,679,679,Java,264,12159,122,-1,-1,-1
+etcd-io_jetcd,https://github.com/etcd-io/jetcd,etcd java client,1550,510,510,Java,165,1056,70,-1,-1,-1
+futurice_meeting-room-tablet,https://github.com/futurice/meeting-room-tablet,Google Apps compatible meeting room reservator,4287,155,155,Java,53,754,56,-1,-1,-1
+apache_activemq,https://github.com/apache/activemq,Mirror of Apache ActiveMQ,54394,1511,1511,Java,1048,17104,293,-1,-1,-1
+owncloud_android,https://github.com/owncloud/android,:phone: The ownCloud Android App,218594,2820,2820,Java,2795,12109,262,-1,-1,-1
+NationalSecurityAgency_timely,https://github.com/NationalSecurityAgency/timely,Accumulo backed time series database,5674,322,322,Java,92,949,90,-1,-1,-1
+eclipse-vertx_vertx-sql-client,https://github.com/eclipse-vertx/vertx-sql-client,High performance reactive SQL Client written in Java,6123,444,444,Java,57,1173,30,-1,-1,-1
+eclipse_rdf4j,https://github.com/eclipse/rdf4j,RDF4J Project,14915,161,161,Java,59,2833,66,-1,-1,-1
+bazelbuild_intellij,https://github.com/bazelbuild/intellij,IntelliJ plugin for Bazel projects,113047,301,301,Java,93,757,68,-1,-1,-1
+qos-ch_logback,https://github.com/qos-ch/logback,"The reliable, generic, fast and flexible logging framework for Java.",26647,1645,1645,Java,787,5032,474,-1,-1,-1
+netty_netty,https://github.com/netty/netty,Netty project - an event-driven asynchronous network application framework,58064,19950,19950,Java,9094,26297,1126,-1,-1,-1
+jenkinsci_docker-workflow-plugin,https://github.com/jenkinsci/docker-workflow-plugin,,579,328,328,Java,292,657,138,-1,-1,-1
+Grover-c13_PokeGOAPI-Java,https://github.com/Grover-c13/PokeGOAPI-Java,Pokemon Go API,10427,1071,1071,Java,375,2148,141,-1,-1,-1
+zolyfarkas_spf4j,https://github.com/zolyfarkas/spf4j,Simple performance framework for java,833522,146,146,Java,16,31993,9,-1,-1,-1
+swagger-api_swagger-inflector,https://github.com/swagger-api/swagger-inflector,,4088,102,102,Java,59,786,39,-1,-1,-1
+yahoo_fili,https://github.com/yahoo/fili,Easily make RESTful web services for time series reporting with Big Data analytics engines like Druid and SQL Databases.,10864,120,120,Java,63,3106,89,-1,-1,-1
+hivemq_hivemq-mqtt-client,https://github.com/hivemq/hivemq-mqtt-client,HiveMQ MQTT Client is a MQTT 5.0 and MQTT 3.1.1 compatible and feature-rich high-performance Java client library with different API flavours and backpressure support,5333,140,140,Java,20,2504,19,-1,-1,-1
+ObeoNetwork_UML-Designer,https://github.com/ObeoNetwork/UML-Designer,"OpenSource (EPL licensed) UML2 Graphical Modelers (Class, Composite, State, Activity, Sequence ...)",140529,247,247,Java,112,2208,50,-1,-1,-1
+spring-projects_spring-amqp,https://github.com/spring-projects/spring-amqp,"Spring AMQP - support for Spring programming model with AMQP, especially but not limited to RabbitMQ",12944,506,506,Java,426,4237,180,-1,-1,-1
+SeldonIO_seldon-core,https://github.com/SeldonIO/seldon-core,Machine Learning Deployment for Kubernetes,40415,996,996,Java,192,2379,40,-1,-1,-1
+yegor256_rultor,https://github.com/yegor256/rultor,DevOps Team Assistant,92546,384,384,Java,116,5979,93,-1,-1,-1
+eclipse-cdt_cdt,https://github.com/eclipse-cdt/cdt,C/C++ Development Tooling (CDT) Eclipse plug-ins,171777,114,114,Java,103,43733,356,-1,-1,-1
+nuxeo_nuxeo,https://github.com/nuxeo/nuxeo,Content management platform to build modern business applications,372690,297,297,Java,186,132633,283,-1,-1,-1
+BentoBoxWorld_BentoBox,https://github.com/BentoBoxWorld/BentoBox,Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland.,47645,113,113,Java,58,2193,32,-1,-1,-1
+igniterealtime_Openfire,https://github.com/igniterealtime/Openfire,A XMPP server licensed under the Open Source Apache License.,854081,1914,1914,Java,1077,11949,260,-1,-1,-1
+Vazkii_Quark,https://github.com/Vazkii/Quark,"Small things, improving Minecraft without changing the core gameplay.",35625,188,188,Java,81,2067,106,-1,-1,-1
+hibernate_hibernate-orm,https://github.com/hibernate/hibernate-orm,Hibernate's core Object/Relational Mapping functionality,166590,3896,3896,Java,2573,24080,1088,-1,-1,-1
+graphaware_neo4j-framework,https://github.com/graphaware/neo4j-framework,GraphAware Neo4j Framework,8059,219,219,Java,62,1570,22,-1,-1,-1
+plutext_docx4j,https://github.com/plutext/docx4j,"JAXB-based Java library for Word docx, Powerpoint pptx, and Excel xlsx files",115910,1173,1173,Java,963,5429,100,-1,-1,-1
+mosmetro-android_mosmetro-android,https://github.com/mosmetro-android/mosmetro-android,"Основной репозиторий приложения ""Wi-Fi в метро""",35285,203,203,Java,27,1402,14,-1,-1,-1
+davidmoten_rxjava2-extras,https://github.com/davidmoten/rxjava2-extras,Utilities for use with RxJava 2,2173,145,145,Java,12,740,4,-1,-1,-1
+Glitchfiend_BiomesOPlenty,https://github.com/Glitchfiend/BiomesOPlenty,Minecraft mod that adds over 50 new biomes to the game.,31428,315,315,Java,161,4712,155,-1,-1,-1
+spring-cloud_spring-cloud-task,https://github.com/spring-cloud/spring-cloud-task,Short lived microservices with Spring Batch,3179,230,230,Java,186,1047,59,-1,-1,-1
+dhis2_dhis2-core,https://github.com/dhis2/dhis2-core,DHIS 2 Core. Written in Java. Contains the service layer and Web API.,68952,137,137,Java,145,16786,156,-1,-1,-1
+codecentric_spring-boot-admin,https://github.com/codecentric/spring-boot-admin,Admin UI for administration of spring boot applications,17986,7414,7414,Java,2060,2316,190,-1,-1,-1
+Railcraft_Railcraft,https://github.com/Railcraft/Railcraft,"The Railcraft Mod for Minecraft, source and development.",14626,390,390,Java,136,3176,68,-1,-1,-1
+xidian-rs_Ruisi,https://github.com/xidian-rs/Ruisi,西电睿思手机客户端[Android]适用于discuz论坛,83283,137,137,Java,55,531,11,-1,-1,-1
+charles-wangkai_hackerrank,https://github.com/charles-wangkai/hackerrank,My HackerRank solutions,707,191,191,Java,173,926,11,-1,-1,-1
+traccar_traccar,https://github.com/traccar/traccar,Traccar GPS Tracking System,14824,1960,1960,Java,1338,6968,241,-1,-1,-1
+crate_crate,https://github.com/crate/crate,CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.,93679,2496,2496,Java,333,24470,144,-1,-1,-1
+aerogear_aerogear-unifiedpush-server,https://github.com/aerogear/aerogear-unifiedpush-server,:rocket: AeroGear UnifiedPush Server,153745,390,390,Java,211,6899,111,-1,-1,-1
+vector-im_riot-android,https://github.com/vector-im/riot-android,A glossy Matrix collaboration client for Android,891102,1030,1030,Java,364,7874,312,-1,-1,-1
+realm_realm-java,https://github.com/realm/realm-java,Realm is a mobile database: a replacement for SQLite & ORMs,57760,10542,10542,Java,1649,16497,200,-1,-1,-1
+apache_usergrid,https://github.com/apache/usergrid,Mirror of Apache Usergrid,383407,955,955,Java,421,11708,182,-1,-1,-1
+immutables_immutables,https://github.com/immutables/immutables,"Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects. JSON, Jackson, Gson, JAX-RS integrations included",10247,2430,2430,Java,181,1886,83,-1,-1,-1
+geopaparazzi_geopaparazzi,https://github.com/geopaparazzi/geopaparazzi,Because not all paparazzis are evil!,289755,117,117,Java,56,2785,25,-1,-1,-1
+ymback_NGA-CLIENT-VER-OPEN-SOURCE,https://github.com/ymback/NGA-CLIENT-VER-OPEN-SOURCE,NGA客户端开源版代码仓库,138976,191,191,Java,94,931,24,-1,-1,-1
+kiegroup_optaplanner,https://github.com/kiegroup/optaplanner,"Java Constraint Solver to solve vehicle routing, employee rostering, task assignment, conference scheduling and other planning problems.",179169,1284,1284,Java,577,8901,168,-1,-1,-1
+spring-cloud_spring-cloud-netflix,https://github.com/spring-cloud/spring-cloud-netflix,Integration with Netflix OSS components,17921,3490,3490,Java,1740,8887,441,-1,-1,-1
+substratum_substratum,https://github.com/substratum/substratum,"An advanced theming manager designed to be used with RRO, OMS and Dynamic Overlays",48625,379,379,Java,117,4181,72,-1,-1,-1
+processing_processing,https://github.com/processing/processing,Source code for the Processing Core and Development Environment (PDE),1648229,4932,4932,Java,1319,34366,317,-1,-1,-1
+spinnaker_kayenta,https://github.com/spinnaker/kayenta,Automated Canary Service,10552,857,857,Java,293,1240,57,-1,-1,-1
+apache_incubator-shardingsphere,https://github.com/apache/incubator-shardingsphere,Distributed database middleware,49345,8152,8152,Java,2837,19684,189,-1,-1,-1
+salesforce_Argus,https://github.com/salesforce/Argus,Time series monitoring and alerting platform.,8695,412,412,Java,122,5271,110,-1,-1,-1
+PebbleTemplates_pebble,https://github.com/PebbleTemplates/pebble,Java Template Engine,3085,720,720,Java,119,1348,111,-1,-1,-1
+flyingsaucerproject_flyingsaucer,https://github.com/flyingsaucerproject/flyingsaucer,XML/XHTML and CSS 2.1 renderer in pure Java,61612,1308,1308,Java,447,3076,155,-1,-1,-1
+Pi4J_pi4j,https://github.com/Pi4J/pi4j,"Java I/O library for Raspberry Pi (GPIO, I2C, SPI, UART)",50545,1061,1061,Java,416,1296,103,-1,-1,-1
+OpenHFT_Chronicle-Logger,https://github.com/OpenHFT/Chronicle-Logger,"A sub microsecond java logger, supporting standard logging APIs such as Slf & Log4J",7625,157,157,Java,45,567,27,-1,-1,-1
+streamsupport_streamsupport,https://github.com/streamsupport/streamsupport,"Backport of Java 8 java.util.stream API to Java 6/7 and Android, mirrored from",4227,319,319,Java,18,1619,6,-1,-1,-1
+powermock_powermock,https://github.com/powermock/powermock,PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.,5808,2644,2644,Java,451,1877,92,-1,-1,-1
+jpcsp_jpcsp,https://github.com/jpcsp/jpcsp,Jpcsp - PSP Emulator written in Java,170853,153,153,Java,26,8843,64,-1,-1,-1
+synyx_urlaubsverwaltung,https://github.com/synyx/urlaubsverwaltung,"Die Urlaubsverwaltung ist eine Web-Anwendung, die es ermöglicht, Urlaubsanträge von Mitarbeitern elektronisch zu verwalten.",14767,105,105,Java,47,4627,91,-1,-1,-1
+logzio_apollo,https://github.com/logzio/apollo,Apollo - The logz.io continuous deployment solution over kubernetes,47828,246,246,Java,22,660,18,-1,-1,-1
+jenkinsci_cucumber-reports-plugin,https://github.com/jenkinsci/cucumber-reports-plugin,Jenkins plugin to generate cucumber-jvm reports,4219,138,138,Java,182,522,48,-1,-1,-1
+project-travel-mate_Travel-Mate,https://github.com/project-travel-mate/Travel-Mate,A complete travel guide!,100524,929,929,Java,648,14154,301,-1,-1,-1
+dragon66_icafe,https://github.com/dragon66/icafe,"Java library for reading, writing, converting and manipulating images and metadata",268219,122,122,Java,39,1130,14,-1,-1,-1
+apache_dubbo-admin,https://github.com/apache/dubbo-admin,The ops and reference implementation for Apache Dubbo,13123,1777,1777,Java,832,814,72,-1,-1,-1
+arangodb_arangodb-java-driver,https://github.com/arangodb/arangodb-java-driver,ArangoDB Java driver,10768,140,140,Java,68,1610,67,-1,-1,-1
+ktuukkan_marine-api,https://github.com/ktuukkan/marine-api,Java Marine API - NMEA 0183 library for Java,5095,127,127,Java,68,968,36,-1,-1,-1
+nutzam_nutz,https://github.com/nutzam/nutz,Nutz -- Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java developer,43659,2121,2121,Java,938,6332,150,-1,-1,-1
+tada_pljava,https://github.com/tada/pljava,"PL/Java is a free add-on module that brings Java™ Stored Procedures, Triggers, and Functions to the PostgreSQL™ backend.",9647,137,137,Java,49,1342,28,-1,-1,-1
+sonatype_nexus-public,https://github.com/sonatype/nexus-public,Sonatype Nexus Repository Manager; Open-source codebase mirror,48574,533,533,Java,239,588,52,-1,-1,-1
+spring-cloud_spring-cloud-gateway,https://github.com/spring-cloud/spring-cloud-gateway,A Gateway built on Spring Framework 5.x and Spring Boot 2.x providing routing and more.,6368,1684,1684,Java,1080,3009,132,-1,-1,-1
+parse-community_Parse-SDK-Android,https://github.com/parse-community/Parse-SDK-Android,Parse SDK for Android,1853,1618,1618,Java,697,962,103,-1,-1,-1
+nroduit_Weasis,https://github.com/nroduit/Weasis,Weasis is a DICOM viewer available as a desktop application  or as a web-based application.,21046,158,158,Java,116,2429,35,-1,-1,-1
+reloZid_android-anuto,https://github.com/reloZid/android-anuto,Another ugly tower defense for Android,23073,132,132,Java,42,895,50,-1,-1,-1
+jkuhnert_ognl,https://github.com/jkuhnert/ognl,Object Graph Navigation Library,7116,102,102,Java,46,594,29,-1,-1,-1
+Vazkii_Botania,https://github.com/Vazkii/Botania,A magic mod for Minecraft based on nature and plant life.,46029,659,659,Java,295,6634,239,-1,-1,-1
+ESAPI_esapi-java-legacy,https://github.com/ESAPI/esapi-java-legacy,"ESAPI (The OWASP Enterprise Security API) is a free, open source, web application security control library that makes it easier for programmers to write lower-risk applications.",48035,323,323,Java,209,4170,83,-1,-1,-1
+kframework_k,https://github.com/kframework/k,K Framework Tools 5.0,55392,122,122,Java,49,36593,155,-1,-1,-1
+google_j2objc,https://github.com/google/j2objc,A Java to iOS Objective-C translation tool and runtime.,81253,5472,5472,Java,773,6368,158,-1,-1,-1
+confluentinc_kafka-connect-jdbc,https://github.com/confluentinc/kafka-connect-jdbc,Kafka Connect connector for JDBC-compatible databases,12888,462,462,Java,476,2175,192,-1,-1,-1
+ratpack_ratpack,https://github.com/ratpack/ratpack,Lean & powerful HTTP apps,23750,1803,1803,Java,366,6654,239,-1,-1,-1
+WayofTime_BloodMagic,https://github.com/WayofTime/BloodMagic,The place where all of my mod stuffs is!,39896,208,208,Java,179,3239,157,-1,-1,-1
+dropwizard_dropwizard,https://github.com/dropwizard/dropwizard,A damn simple library for building production-ready RESTful web services.,97024,7257,7257,Java,3048,7487,736,-1,-1,-1
+opensourceBIM_BIMserver,https://github.com/opensourceBIM/BIMserver,The open source BIMserver.org platform,626952,672,672,Java,347,8064,60,-1,-1,-1
+jmxtrans_jmxtrans,https://github.com/jmxtrans/jmxtrans,jmxtrans,69860,1526,1526,Java,475,2103,252,-1,-1,-1
+todoroo_astrid,https://github.com/todoroo/astrid,Astrid: Android's #1 Task Management Application,88840,1070,1070,Java,977,7702,56,-1,-1,-1
+frostwire_frostwire,https://github.com/frostwire/frostwire,"An easy to use Cloud Downloader, BitTorrent Client and Media Player. Search, Download, Play, Share",580529,200,200,Java,110,7462,36,-1,-1,-1
+spring-cloud_spring-cloud-function,https://github.com/spring-cloud/spring-cloud-function,,3841,514,514,Java,180,1317,53,-1,-1,-1
+iDevicesInc_SweetBlue,https://github.com/iDevicesInc/SweetBlue,"BLE on Android, the easy way. THIS IS NOW DEPRECATED. Please visit website for info on new versions.",53405,313,313,Java,49,2013,29,-1,-1,-1
+SonarSource_sonar-scanner-jenkins,https://github.com/SonarSource/sonar-scanner-jenkins,SonarQube Scanner for Jenkins,1443,124,124,Java,176,1047,89,-1,-1,-1
+signalapp_Signal-Server,https://github.com/signalapp/Signal-Server,,1568,1569,1569,Java,563,776,58,-1,-1,-1
+igniterealtime_Spark,https://github.com/igniterealtime/Spark,Cross-platform real-time collaboration client optimized for business and organizations.,372520,421,421,Java,351,3787,98,-1,-1,-1
+hacktoberfest17_programming,https://github.com/hacktoberfest17/programming,Code a program in a language of your choice. ,46431,253,253,Java,732,3312,1075,-1,-1,-1
+OpenFeign_feign,https://github.com/OpenFeign/feign,Feign makes writing java http clients easier,2729,4637,4637,Java,945,1958,317,-1,-1,-1
+selenide_selenide,https://github.com/selenide/selenide,Concise UI Tests with Java!,9089,987,987,Java,327,3698,184,-1,-1,-1
+JavaOPs_topjava,https://github.com/JavaOPs/topjava,Java Enterprise: Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery,64,146,146,Java,1660,1247,86,-1,-1,-1
+citrusframework_citrus,https://github.com/citrusframework/citrus,Framework for automated integration tests with focus on messaging integration,70421,282,282,Java,117,4368,81,-1,-1,-1
+sarxos_webcam-capture,https://github.com/sarxos/webcam-capture,"The goal of this project is to allow integrated or USB-connected webcams to be accessed directly from Java. Using provided libraries users are able to read camera images and detect motion. Main project consist of several sub projects - the root one, which contains required classes, build-in webcam driver compatible with Windows, Linux and Mac OS, which can stream images as fast as your camera can serve them (up to 50 FPS). Main project can be used standalone, but user is able to replace build-in driver with different one - such as OpenIMAJ, GStreamer, V4L4j, JMF, LTI-CIVIL, FMJ, etc.",23624,1535,1535,Java,935,736,42,-1,-1,-1
+Netflix_spectator,https://github.com/Netflix/spectator,Client library for collecting metrics.,15318,496,496,Java,101,1551,61,-1,-1,-1
+hypercube1024_firefly,https://github.com/hypercube1024/firefly,Firefly is an asynchronous web framework for rapid development of high-performance web application.,28378,256,256,Java,114,2692,12,-1,-1,-1
+apache_hive,https://github.com/apache/hive,Apache Hive,474082,2621,2621,Java,2583,28822,676,-1,-1,-1
+palatable_lambda,https://github.com/palatable/lambda,Functional patterns for Java,3892,566,566,Java,44,658,12,-1,-1,-1
+apache_tez,https://github.com/apache/tez,Mirror of Apache Tez,26896,232,232,Java,240,3961,72,-1,-1,-1
+react-native-community_react-native-svg,https://github.com/react-native-community/react-native-svg,"SVG library for React Native, React Native Web, and plain React web projects.",12814,3767,3767,Java,506,1572,196,-1,-1,-1
+Nukkit_Nukkit,https://github.com/Nukkit/Nukkit,Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition,10659,724,724,Java,311,5683,265,-1,-1,-1
+shopizer-ecommerce_shopizer,https://github.com/shopizer-ecommerce/shopizer,Shopizer java e-commerce software,301345,1323,1323,Java,1225,910,73,-1,-1,-1
+schemacrawler_SchemaCrawler,https://github.com/schemacrawler/SchemaCrawler,Free database schema discovery and comprehension tool,66937,753,753,Java,112,11936,26,-1,-1,-1
+selendroid_selendroid,https://github.com/selendroid/selendroid,"""Selenium for Android"" (Test automate native or hybrid Android apps and the mobile web with Selendroid.) Join us on IRC #selendroid on freenode. Also confirm you have signed the CLA http://goo.gl/pAvxEI when making a Pull Request.",15720,766,766,Java,444,1540,148,-1,-1,-1
+apache_maven-plugins,https://github.com/apache/maven-plugins,Mirror of Apache Maven plugins,55493,228,228,Java,279,56646,257,-1,-1,-1
+tlaplus_tlaplus,https://github.com/tlaplus/tlaplus,TLC is an explicit state model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.   ,112721,880,880,Java,69,7011,53,-1,-1,-1
+foobnix_LibreraReader,https://github.com/foobnix/LibreraReader,All format eBook Reader for Android [Librera 8.1.170 RC1],204683,145,145,Java,52,2889,19,-1,-1,-1
+abel533_Mapper,https://github.com/abel533/Mapper,Mybatis Common Mapper - Easy to use,1801,4160,4160,Java,1087,887,70,-1,-1,-1
+yegor256_takes,https://github.com/yegor256/takes,True Object-Oriented Java Web Framework,30749,561,561,Java,165,3311,146,-1,-1,-1
+apache_rocketmq-externals,https://github.com/apache/rocketmq-externals,Mirror of Apache RocketMQ (Incubating),12505,1844,1844,Java,1259,1266,174,-1,-1,-1
+javaserverfaces_mojarra,https://github.com/javaserverfaces/mojarra,Mojarra - Oracle's implementation of the JavaServer Faces specification ,149574,150,150,Java,46,16690,66,-1,-1,-1
+rhq-project_rhq,https://github.com/rhq-project/rhq,RHQ system management and monitoring framework,138168,144,144,Java,83,28622,166,-1,-1,-1
+jhalterman_failsafe,https://github.com/jhalterman/failsafe,Failure handling and resilience patterns for the JVM,2318,2898,2898,Java,220,552,43,-1,-1,-1
+eclipse_eclipse.jdt.core,https://github.com/eclipse/eclipse.jdt.core,JDT/Core project repository (eclipse.jdt.core),128256,157,157,Java,106,34924,205,-1,-1,-1
+twitter_commons,https://github.com/twitter/commons,Twitter common libraries for python and the JVM,115522,1791,1791,Java,498,2678,232,-1,-1,-1
+mpetazzoni_ttorrent,https://github.com/mpetazzoni/ttorrent,BitTorrent Java library with tracker and download client,6822,1082,1082,Java,447,1460,97,-1,-1,-1
+esig_dss,https://github.com/esig/dss,"Digital Signature Service : creation, extension and validation of advanced electronic signatures",114277,253,253,Java,167,3185,114,-1,-1,-1
+google_data-transfer-project,https://github.com/google/data-transfer-project,"The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.",9230,2326,2326,Java,191,3021,46,-1,-1,-1
+pac4j_play-pac4j,https://github.com/pac4j/play-pac4j,"Security library for Play framework 2 in Java and Scala: OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...",951,345,345,Java,90,849,63,-1,-1,-1
+cbeust_testng-eclipse,https://github.com/cbeust/testng-eclipse,Eclipse plug-in for TestNG,64433,128,128,Java,124,1154,55,-1,-1,-1
+rovo89_XposedInstaller,https://github.com/rovo89/XposedInstaller,,18977,2669,2669,Java,1174,1881,193,-1,-1,-1
+TakWolf_CNode-Material-Design,https://github.com/TakWolf/CNode-Material-Design,CNode 社区第三方 Android 客户端，原生 App，Material Design 风格，支持夜间模式。,18627,1301,1301,Java,361,1458,1,-1,-1,-1
+rampatra_Algorithms-and-Data-Structures-in-Java,https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java,Algorithms and Data Structures in Java,754,311,311,Java,110,613,7,-1,-1,-1
+jaeksoft_opensearchserver,https://github.com/jaeksoft/opensearchserver,Open-source Enterprise Grade Search Engine Software,515605,339,339,Java,154,6410,21,-1,-1,-1
+sofastack_sofa-ark,https://github.com/sofastack/sofa-ark,SOFAArk is a light-weight，java based classloader isolation framework.,17272,646,646,Java,259,658,21,-1,-1,-1
+puppetlabs_europa,https://github.com/puppetlabs/europa,Puppet Container Registry,3549,116,116,Java,16,993,24,-1,-1,-1
+undera_jmeter-plugins,https://github.com/undera/jmeter-plugins,JMeter Plugins,22338,360,360,Java,292,3829,139,-1,-1,-1
+graphql-java_graphql-java,https://github.com/graphql-java/graphql-java,GraphQL Java implementation,5621,3473,3473,Java,610,3942,269,-1,-1,-1
+Telegram-FOSS-Team_Telegram-FOSS,https://github.com/Telegram-FOSS-Team/Telegram-FOSS,"Unofficial, FOSS-friendly fork of the original Telegram client for Android",172260,596,596,Java,114,1121,49,-1,-1,-1
+codenameone_CodenameOne,https://github.com/codenameone/CodenameOne,"Write once run anywhere native mobile apps using with Java 8 or Kotlin. Supports iOS (iPhone/iPad), Android, Windows (UWP) & others",213844,873,873,Java,239,6315,60,-1,-1,-1
+proxyee-down-org_proxyee-down,https://github.com/proxyee-down-org/proxyee-down,http下载工具，基于http代理，支持多连接分块下载,26846,24544,24544,Java,4453,540,33,-1,-1,-1
+microsoft_azure-spring-boot,https://github.com/microsoft/azure-spring-boot,Spring Boot Starters for Azure services,3068,208,208,Java,297,1717,80,-1,-1,-1
+twitter_GraphJet,https://github.com/twitter/GraphJet,GraphJet is a real-time graph processing library.,851,463,463,Java,54,654,25,-1,-1,-1
+TIBCOSoftware_jasperreports,https://github.com/TIBCOSoftware/jasperreports,JasperReports® - Free Java Reporting Library,205840,340,340,Java,136,15842,63,-1,-1,-1
+census-instrumentation_opencensus-java,https://github.com/census-instrumentation/opencensus-java,A stats collection and distributed tracing framework,7241,568,568,Java,141,5118,86,-1,-1,-1
+gama-platform_gama,https://github.com/gama-platform/gama,Core plug-in projects of the GAMA platform,895756,117,117,Java,51,10652,141,-1,-1,-1
+MenoData_Time4J,https://github.com/MenoData/Time4J,"Advanced date, time and interval library for Java with sun/moon-astronomy and calendars like Chinese, Coptic, Ethiopian, French Republican, Hebrew, Hijri, Historic Christian, Indian National, Japanese, Julian, Korean, Minguo, Persian, Thai, Vietnamese",14388,250,250,Java,41,4140,2,-1,-1,-1
+ebean-orm_ebean,https://github.com/ebean-orm/ebean,Ebean ORM - ebean.io,19047,877,877,Java,215,4797,118,-1,-1,-1
+SonarSource_sonar-php,https://github.com/SonarSource/sonar-php, :elephant: SonarPHP: PHP static analyzer for SonarQube & SonarLint,14268,207,207,Java,72,2900,96,-1,-1,-1
+onlyliuxin_coding2017,https://github.com/onlyliuxin/coding2017,,32303,200,200,Java,705,6596,692,-1,-1,-1
+spring-cloud_spring-cloud-commons,https://github.com/spring-cloud/spring-cloud-commons,Common classes used in different Spring Cloud implementations,11657,308,308,Java,288,4081,126,-1,-1,-1
+carrot2_carrot2,https://github.com/carrot2/carrot2,Carrot2: Text Clustering Algorithms and Applications,368842,374,374,Java,155,7238,17,-1,-1,-1
+zxh0_classpy,https://github.com/zxh0/classpy,GUI tool for investigating Java class files,4228,405,405,Java,114,1134,9,-1,-1,-1
+mobnetic_BitcoinChecker,https://github.com/mobnetic/BitcoinChecker,DataModule for Bitcoin Checker android app,2997,305,305,Java,199,661,127,-1,-1,-1
+galenframework_galen,https://github.com/galenframework/galen,Layout and functional testing framework for websites,9071,1327,1327,Java,141,2023,35,-1,-1,-1
+blox_blox,https://github.com/blox/blox,Open source tools for building custom schedulers on Amazon ECS,5805,896,896,Java,81,886,46,-1,-1,-1
+cgeo_cgeo,https://github.com/cgeo/cgeo,c:geo - The powerful Android geocaching app.,303581,975,975,Java,501,14282,212,-1,-1,-1
+siddhi-io_siddhi,https://github.com/siddhi-io/siddhi,Stream Processing and Complex Event Processing Engine,37224,776,776,Java,371,6488,186,-1,-1,-1
+FasterXML_jackson-dataformat-xml,https://github.com/FasterXML/jackson-dataformat-xml,Extension for Jackson JSON processor that adds support for serializing POJOs as XML (and deserializing from XML) as an alternative to JSON,3204,358,358,Java,125,1092,45,-1,-1,-1
+speedment_speedment,https://github.com/speedment/speedment,Speedment is a Stream ORM Java Toolkit and Runtime,20653,1673,1673,Java,213,4241,40,-1,-1,-1
+halo-dev_halo,https://github.com/halo-dev/halo,✍ Halo 一款现代化的个人独立博客系统,25083,6874,6874,Java,1845,1369,28,-1,-1,-1
+andstatus_andstatus,https://github.com/andstatus/andstatus,Multiple accounts client for multiple Social networks. For Android ,28960,197,197,Java,62,2306,33,-1,-1,-1
+cloudfoundry_cf-java-client,https://github.com/cloudfoundry/cf-java-client,Java Client Library for Cloud Foundry,59009,280,280,Java,269,5241,158,-1,-1,-1
+javalite_activejdbc,https://github.com/javalite/activejdbc,ActiveJDBC is a fast and lean Java ORM,9913,670,670,Java,186,1871,100,-1,-1,-1
+GregTechCE_GregTech,https://github.com/GregTechCE/GregTech,GregTech rewrite for modern versions of Minecraft,88835,123,123,Java,75,2086,93,-1,-1,-1
+apache_systemml,https://github.com/apache/systemml,Mirror of Apache SystemML,210924,769,769,Java,300,10062,156,-1,-1,-1
+support-project_knowledge,https://github.com/support-project/knowledge,Free Knowledge Management System,19325,519,519,Java,140,1603,32,-1,-1,-1
+kohsuke_jenkins,https://github.com/kohsuke/jenkins,Jenkins Continuous Integration server,104635,994,994,Java,3,30218,899,-1,-1,-1
+Treeptik_cloudunit,https://github.com/Treeptik/cloudunit,The Turnkey DevOps Platform,198951,129,129,Java,50,3378,52,-1,-1,-1
+apache_ambari,https://github.com/apache/ambari,Mirror of Apache Ambari,341658,1141,1141,Java,1068,42605,499,-1,-1,-1
+liquibase_liquibase,https://github.com/liquibase/liquibase,Main Liquibase Source,116636,1788,1788,Java,1089,10351,800,-1,-1,-1
+nextcloud_news-android,https://github.com/nextcloud/news-android,📱:newspaper: Android client for the Nextcloud news/feed reader app,199072,416,416,Java,205,2221,46,-1,-1,-1
+ram-on_SkyTube,https://github.com/ram-on/SkyTube,An open-source YouTube app for Android.,18994,577,577,Java,200,1765,83,-1,-1,-1
+networknt_light-example-4j,https://github.com/networknt/light-example-4j,Example APIs or services to demo all feature of the light-4j framework,4402,110,110,Java,52,613,18,-1,-1,-1
+tvrenamer_tvrenamer,https://github.com/tvrenamer/tvrenamer,A Java GUI utility to rename TV episodes from TV listings,62962,115,115,Java,19,3011,25,-1,-1,-1
+yeriomin_YalpStore,https://github.com/yeriomin/YalpStore,Download apks from Google Play Store,4454,1685,1685,Java,160,1883,43,-1,-1,-1
+OneBusAway_onebusaway-application-modules,https://github.com/OneBusAway/onebusaway-application-modules,The core OneBusAway application suite.,64805,155,155,Java,104,3218,64,-1,-1,-1
+usdot-fhwa-stol_CARMAPlatform,https://github.com/usdot-fhwa-stol/CARMAPlatform,The newest inception of CARMA is now live on Github and open for collaborating. The CARMAPlatform is created on a robot operating system (ROS) and utilizes open source software (OSS) that enables cooperative automated driving plug-ins. ,35758,151,151,Java,25,5117,28,-1,-1,-1
+prmr_JetUML,https://github.com/prmr/JetUML,A desktop application for fast UML diagramming.,4802,107,107,Java,43,1437,29,-1,-1,-1
+hortonworks_streamline,https://github.com/hortonworks/streamline,StreamLine - Streaming Analytics ,69196,136,136,Java,91,9037,363,-1,-1,-1
+BuildCraft_BuildCraft,https://github.com/BuildCraft/BuildCraft,BuildCraft,74818,1098,1098,Java,494,10271,410,-1,-1,-1
+naturalprogrammer_spring-lemon,https://github.com/naturalprogrammer/spring-lemon,Helper library for Spring Boot web applications,1235,348,348,Java,110,511,5,-1,-1,-1
+MyCollab_mycollab,https://github.com/MyCollab/mycollab,"An open source, free, high performance, stable and secure Java Application Business Platform of Project Management and Document",269828,918,918,Java,472,887,14,-1,-1,-1
+apache_drill,https://github.com/apache/drill,Apache Drill,78031,1227,1227,Java,746,9783,379,-1,-1,-1
+exoplatform_platform,https://github.com/exoplatform/platform,eXo Platform,325449,105,105,Java,130,15084,348,-1,-1,-1
+jlegewie_zotfile,https://github.com/jlegewie/zotfile,"Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.",9916,730,730,Java,108,1252,66,-1,-1,-1
+google_j2cl,https://github.com/google/j2cl,Java to Closure JavaScript transpiler,35734,561,561,Java,57,2543,29,-1,-1,-1
+ukanth_afwall,https://github.com/ukanth/afwall,AFWall+ (Android Firewall +) - iptables based firewall for Android ,25613,1430,1430,Java,307,1747,38,-1,-1,-1
+Atmosphere_nettosphere,https://github.com/Atmosphere/nettosphere,A Java WebSocket/HTTP server based on the Atmosphere and Netty Framework,2778,305,305,Java,76,865,29,-1,-1,-1
+mitcc_AlgoSolutions,https://github.com/mitcc/AlgoSolutions,":octocat:LeetCode, LintCode, Project Euler, SGU, HackerRank, Cracking the Coding Interview(ctci):palm_tree:",773,106,106,Java,68,9427,4,-1,-1,-1
+SAP_vulnerability-assessment-tool,https://github.com/SAP/vulnerability-assessment-tool,"Analyses your Java and Python applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.  https://sap.github.io/vulnerability-assessment-tool/",38783,248,248,Java,59,722,14,-1,-1,-1
+cometd_cometd,https://github.com/cometd/cometd,"The CometD project, a scalable comet (server push) implementation for web messaging.",18920,479,479,Java,192,5472,65,-1,-1,-1
+spring-projects_spring-hadoop,https://github.com/spring-projects/spring-hadoop,Spring for Apache Hadoop is a framework for application developers to take advantage of the features of both Hadoop and Spring.,8070,577,577,Java,350,2450,72,-1,-1,-1
+google_guava,https://github.com/google/guava,Google core libraries for Java,251505,32627,32627,Java,7298,7936,669,-1,-1,-1
+Teradata_kylo,https://github.com/Teradata/kylo,"Kylo is a data lake management software platform and framework for enabling scalable enterprise-class data lakes on big data technologies such as Teradata, Apache Spark and/or  Hadoop. Kylo is licensed under Apache 2.0. Contributed by Teradata Inc.",86798,680,680,Java,320,9549,104,-1,-1,-1
+tntim96_JSCover,https://github.com/tntim96/JSCover,"JSCover is a JavaScript Code Coverage Tool that measures line, branch and function coverage",15653,363,363,Java,78,1599,29,-1,-1,-1
+pravega_pravega,https://github.com/pravega/pravega,Pravega - Streaming as a new software defined storage primitive,30938,759,759,Java,168,14567,147,-1,-1,-1
+git-commit-id_maven-git-commit-id-plugin,https://github.com/git-commit-id/maven-git-commit-id-plugin,Maven plugin which includes build-time git repository information into an POJO / *.properties). Make your apps tell you which version exactly they were built from! Priceless in large distributed deployments... :-),2791,910,910,Java,195,1092,124,-1,-1,-1
+apache_commons-collections,https://github.com/apache/commons-collections,Mirror of Apache Commons Collections,18972,363,363,Java,239,5279,129,-1,-1,-1
+sparklemotion_nokogiri,https://github.com/sparklemotion/nokogiri,"Nokogiri (鋸) is a Rubygem providing HTML, XML, SAX, and Reader parsers with XPath and CSS selector support.",13514,5232,5232,Java,736,5623,317,-1,-1,-1
+vavr-io_vavr,https://github.com/vavr-io/vavr,"VΛVΓ (Vavr, formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.",18657,3286,3286,Java,390,5465,175,-1,-1,-1
+spring-projects_spring-shell,https://github.com/spring-projects/spring-shell,Spring based interactive shell,6479,411,411,Java,280,757,95,-1,-1,-1
+raeleus_skin-composer,https://github.com/raeleus/skin-composer,Create skins for LibGDX scene2d.ui with a graphical interface.,12866,153,153,Java,11,689,7,-1,-1,-1
+googlemaps_google-maps-services-java,https://github.com/googlemaps/google-maps-services-java,Java client library for Google Maps API Web Services,5944,1171,1171,Java,743,1233,101,-1,-1,-1
+jwtk_jjwt,https://github.com/jwtk/jjwt,Java JWT: JSON Web Token for Java and Android,913,5071,5071,Java,777,597,81,-1,-1,-1
+mybatis_mybatis-dynamic-sql,https://github.com/mybatis/mybatis-dynamic-sql,SQL Generator for MyBatis or Spring JDBC Templates,8678,337,337,Java,87,566,11,-1,-1,-1
+undertow-io_undertow,https://github.com/undertow-io/undertow,High performance non-blocking webserver,22677,2438,2438,Java,721,7791,291,-1,-1,-1
+GoMint_GoMint,https://github.com/GoMint/GoMint,New fresh Minecraft bedrock Server,7708,114,114,Java,29,1735,48,-1,-1,-1
+apache_commons-codec,https://github.com/apache/commons-codec,Apache Commons Codec,4359,215,215,Java,132,2437,56,-1,-1,-1
+Mantaro_MantaroBot,https://github.com/Mantaro/MantaroBot,Multipurpose Discord bot made in Java using JDA.,11347,198,198,Java,126,3152,56,-1,-1,-1
+WildBamaBoy_minecraft-comes-alive,https://github.com/WildBamaBoy/minecraft-comes-alive,"Replaces Minecraft's villagers with humans, who can be interacted with.",14566,102,102,Java,96,1561,36,-1,-1,-1
+linkedin_parseq,https://github.com/linkedin/parseq,Asynchronous Java made easier,4330,915,915,Java,238,1052,55,-1,-1,-1
+estatio_estatio,https://github.com/estatio/estatio,Estatio Open Source Estate Management built on Apache Isis,47675,174,174,Java,107,5466,23,-1,-1,-1
+vaadin_flow,https://github.com/vaadin/flow,Flow is a Java framework binding Vaadin web components to Java. This is part of the Vaadin platform 10+.,128982,202,202,Java,57,32170,240,-1,-1,-1
+tmobile_pacbot,https://github.com/tmobile/pacbot,PacBot (Policy as Code Bot),22308,664,664,Java,110,853,52,-1,-1,-1
+uniVocity_univocity-parsers,https://github.com/uniVocity/univocity-parsers,"uniVocity-parsers is a suite of extremely fast and reliable parsers for Java. It provides a consistent interface for handling different file formats, and a solid framework for the development of new parsers.",3283,644,644,Java,176,819,24,-1,-1,-1
+carlosrafaelgn_FPlayAndroid,https://github.com/carlosrafaelgn/FPlayAndroid,"Simple and straightforward Android music player, with equalizer and bass boost",13449,125,125,Java,63,865,6,-1,-1,-1
+eclipse_smarthome,https://github.com/eclipse/smarthome,Eclipse SmartHome™ project,67196,841,841,Java,842,17222,434,-1,-1,-1
+FreeTymeKiyan_LeetCode-Sol-Res,https://github.com/FreeTymeKiyan/LeetCode-Sol-Res,"Clean, Understandable Solutions and Resources for LeetCode Online Judge Algorithm Problems. ",5329,1395,1395,Java,637,1173,24,-1,-1,-1
+camel-tooling_camel-idea-plugin,https://github.com/camel-tooling/camel-idea-plugin,Apache Camel Intellij IDEA plugin,19418,112,112,Java,30,1104,18,-1,-1,-1
+jitsi_jigasi,https://github.com/jitsi/jigasi,Jigasi: a server-side application acting as a gateway to Jitsi Meet conferences. Currently allows regular SIP clients to join meetings and provides transcription capabilities.,111934,122,122,Java,73,650,35,-1,-1,-1
+hibernate_hibernate-validator,https://github.com/hibernate/hibernate-validator,Hibernate Validator - Bean Validation 2.0 (JSR 380) Reference Implementation,28897,654,654,Java,390,6856,139,-1,-1,-1
+square_retrofit,https://github.com/square/retrofit,"Type-safe HTTP client for Android and Java by Square, Inc.",4964,33026,33026,Java,6133,3041,458,-1,-1,-1
+j-easy_easy-batch,https://github.com/j-easy/easy-batch,"The simple, stupid batch framework for Java",23802,374,374,Java,122,1818,37,-1,-1,-1
+gk-brown_HTTP-RPC,https://github.com/gk-brown/HTTP-RPC,Lightweight REST for Java,51399,281,281,Java,50,1256,4,-1,-1,-1
+find-sec-bugs_find-sec-bugs,https://github.com/find-sec-bugs/find-sec-bugs,"The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)",6832,1085,1085,Java,267,1196,74,-1,-1,-1
+griffon_griffon,https://github.com/griffon/griffon,Next generation desktop application development platform for the JVM,817706,243,243,Java,77,3947,43,-1,-1,-1
+gchq_Gaffer,https://github.com/gchq/Gaffer,A large-scale entity and relation database supporting aggregation of properties,143242,1534,1534,Java,317,8374,74,-1,-1,-1
+bwaldvogel_mongo-java-server,https://github.com/bwaldvogel/mongo-java-server,Fake implementation of MongoDB in Java that speaks the wire protocol.,2153,132,132,Java,37,709,18,-1,-1,-1
+liferay_liferay-portal,https://github.com/liferay/liferay-portal,,13288292,1414,1414,Java,2359,573048,1324,-1,-1,-1
+spring-projects_spring-security,https://github.com/spring-projects/spring-security,Spring Security,37213,3646,3646,Java,3208,11465,642,-1,-1,-1
+spring-projects_spring-security-saml,https://github.com/spring-projects/spring-security-saml,SAML extension for the Spring Security project,7324,327,327,Java,425,1330,106,-1,-1,-1
+dice-group_gerbil,https://github.com/dice-group/gerbil,GERBIL - General Entity annotatoR Benchmark ,123885,119,119,Java,41,1288,54,-1,-1,-1
+geogebra_geogebra,https://github.com/geogebra/geogebra,GeoGebra trunk (testing),1771514,316,316,Java,96,49009,55,-1,-1,-1
+rickfast_consul-client,https://github.com/rickfast/consul-client,Java Client for Consul HTTP API,1002,433,433,Java,190,786,140,-1,-1,-1
+amaembo_streamex,https://github.com/amaembo/streamex,Enhancing Java 8 Streams,4108,1138,1138,Java,125,1260,31,-1,-1,-1
+commons-app_apps-android-commons,https://github.com/commons-app/apps-android-commons,Upload pictures from Android to Wikimedia Commons. Looking for volunteers! Come say hi at https://groups.google.com/d/forum/commons-app-android and install at https://play.google.com/store/apps/details?id=fr.free.nrw.commons,263045,515,515,Java,674,8669,356,-1,-1,-1
+SableCC_sablecc,https://github.com/SableCC/sablecc,SableCC,2299,110,110,Java,20,1693,16,-1,-1,-1
+ORCID_ORCID-Source,https://github.com/ORCID/ORCID-Source,ORCID Open Source Project,140366,170,170,Java,65,24912,111,-1,-1,-1
+DragonetMC_DragonProxy,https://github.com/DragonetMC/DragonProxy,A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.,13784,542,542,Java,114,1090,67,-1,-1,-1
+AlmasB_FXGL,https://github.com/AlmasB/FXGL,Java / JavaFX / Kotlin Game Library (Engine),62862,1015,1015,Java,142,3012,24,-1,-1,-1
+QuickBlox_q-municate-android,https://github.com/QuickBlox/q-municate-android,Qmunicate Android chat application,200000,242,242,Java,199,2498,38,-1,-1,-1
+wso2_msf4j,https://github.com/wso2/msf4j,WSO2 Microservices Framework for Java (MSF4J),33088,326,326,Java,315,2705,103,-1,-1,-1
+novoda_no-player,https://github.com/novoda/no-player, Simplified Player wrapper for MediaPlayer and ExoPlayer,2859,153,153,Java,23,1515,31,-1,-1,-1
+TryGhost_Ghost-Android,https://github.com/TryGhost/Ghost-Android,🤖 Ghost for Android,12401,170,170,Java,40,730,45,-1,-1,-1
+mapbox_mapbox-java,https://github.com/mapbox/mapbox-java,The Mapbox Java SDK – Java wrappers around Mapbox APIs and other location data ,18755,228,228,Java,72,2091,82,-1,-1,-1
+FasterXML_jackson-dataformats-binary,https://github.com/FasterXML/jackson-dataformats-binary,"Uber-project for standard Jackson binary format backends: avro, cbor, protobuf, smile",3995,146,146,Java,49,804,39,-1,-1,-1
+eclipse_egit,https://github.com/eclipse/egit,Eclipse Git Team Provider (EGit) project repository (egit),57584,131,131,Java,100,19351,223,-1,-1,-1
+FINRAOS_herd,https://github.com/FINRAOS/herd,Herd is a managed data lake for the cloud. The Herd unified data catalog helps separate storage from compute in the cloud. Manage petabytes of data and make it accessible for data processing and analytical purposes by any cloud compute platform. ,173657,112,112,Java,32,2666,67,-1,-1,-1
+spring-cloud_spring-cloud-consul,https://github.com/spring-cloud/spring-cloud-consul,Spring Cloud Consul,74665,573,573,Java,391,2338,136,-1,-1,-1
+koral--_android-gif-drawable,https://github.com/koral--/android-gif-drawable,Views and Drawable for displaying animated GIFs on Android,5742,7520,7520,Java,1564,1258,31,-1,-1,-1
+spring-projects_spring-integration-samples,https://github.com/spring-projects/spring-integration-samples,"You are looking for examples, code snippets, sample applications for Spring Integration? This is the place.",12290,1627,1627,Java,2261,914,55,-1,-1,-1
+hankcs_HanLP,https://github.com/hankcs/HanLP,自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现  关键词短语提取 自动摘要 文本分类聚类 拼音简繁,54509,13852,13852,Java,3953,1333,63,-1,-1,-1
+AEFeinstein_mtg-familiar,https://github.com/AEFeinstein/mtg-familiar,An Android app for all things Magic: The Gathering,644542,203,203,Java,67,1770,38,-1,-1,-1
+opendistro-for-elasticsearch_security,https://github.com/opendistro-for-elasticsearch/security,Open Distro for Elasticsearch Security plugin,601,225,225,Java,47,1286,40,-1,-1,-1
+AriaLyy_Aria,https://github.com/AriaLyy/Aria,下载可以很简单,36528,2635,2635,Java,413,705,11,-1,-1,-1
+apache_kafka,https://github.com/apache/kafka,Mirror of Apache Kafka,85353,12757,12757,Java,6843,41562,1823,-1,-1,-1
+sunlet_jplugin,https://github.com/sunlet/jplugin,Server side plugin framework for java,17113,103,103,Java,42,549,5,-1,-1,-1
+diffplug_spotless,https://github.com/diffplug/spotless,Keep your code spotless,30761,724,724,Java,91,1767,105,-1,-1,-1
+javahongxi_whatsmars,https://github.com/javahongxi/whatsmars,Java生态研究(Spring Boot + Redis + Dubbo + RocketMQ + Elasticsearch)🔥🔥🔥🔥🔥,12192,813,813,Java,343,1141,11,-1,-1,-1
+Netflix_Priam,https://github.com/Netflix/Priam,"Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.",11958,940,940,Java,263,2989,142,-1,-1,-1
+mysql_mysql-connector-j,https://github.com/mysql/mysql-connector-j,MySQL Connector/J,26661,353,353,Java,262,2812,80,-1,-1,-1
+TheAlgorithms_Java,https://github.com/TheAlgorithms/Java,All Algorithms implemented in Java,1486,15552,15552,Java,5720,2104,524,-1,-1,-1
+jsonld-java_jsonld-java,https://github.com/jsonld-java/jsonld-java,JSON-LD implementation for Java,2475,284,284,Java,128,905,51,-1,-1,-1
+cbeust_testng,https://github.com/cbeust/testng,TestNG testing framework,29550,1299,1299,Java,756,5223,309,-1,-1,-1
+googleapis_cloud-bigtable-client,https://github.com/googleapis/cloud-bigtable-client,Java libraries and HBase client extensions for accessing Google Cloud Bigtable,11928,113,113,Java,124,5344,123,-1,-1,-1
+hundeva_Lean-Launcher,https://github.com/hundeva/Lean-Launcher,Pixel Launcher with a few added useful options,122776,427,427,Java,86,19946,240,-1,-1,-1
+datacleaner_DataCleaner,https://github.com/datacleaner/DataCleaner,The premier open source Data Quality solution,170285,262,262,Java,104,7634,84,-1,-1,-1
+VocabHunter_VocabHunter,https://github.com/VocabHunter/VocabHunter,VocabHunter helps learners of foreign languages find vital new vocabulary to study.,5809,150,150,Java,48,802,6,-1,-1,-1
+hs-web_hsweb-framework,https://github.com/hs-web/hsweb-framework,"hsweb (haʊs wɛb) 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:便捷的通用增删改查,强大的权限管理,动态多数据源,动态表单,在线数据库维护等. 基于 spring-boot,mybaits.",30778,6283,6283,Java,2499,2331,40,-1,-1,-1
+jolie_jolie,https://github.com/jolie/jolie,The Jolie Language Interpreter,122080,151,151,Java,28,4142,51,-1,-1,-1
+pentaho_pentaho-platform,https://github.com/pentaho/pentaho-platform,Pentaho BA Server Core,166920,366,366,Java,645,12796,379,-1,-1,-1
+caprica_vlcj,https://github.com/caprica/vlcj,Java framework for the vlc media player,86032,621,621,Java,222,2848,17,-1,-1,-1
+meganz_android,https://github.com/meganz/android,MEGA Android App,78575,419,419,Java,164,6815,40,-1,-1,-1
+sinkillerj_ProjectE,https://github.com/sinkillerj/ProjectE,ProjectE. A complete rewrite of EE2 for modern Minecraft versions.,9321,232,232,Java,153,2756,124,-1,-1,-1
+jersey_jersey,https://github.com/jersey/jersey,This is no longer the active Jersey repository. Please see the README.md,38964,2894,2894,Java,2538,8715,393,-1,-1,-1
+deeplearning4j_dl4j-examples,https://github.com/deeplearning4j/dl4j-examples,"Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)",352791,1642,1642,Java,1548,2348,191,-1,-1,-1
+terrier-org_terrier-core,https://github.com/terrier-org/terrier-core,Terrier IR Platform,5888,106,106,Java,26,1006,14,-1,-1,-1
+ferstl_depgraph-maven-plugin,https://github.com/ferstl/depgraph-maven-plugin,"A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)",3045,176,176,Java,30,1039,10,-1,-1,-1
+google_mug,https://github.com/google/mug,,4122,135,135,Java,23,1216,9,-1,-1,-1
+haifengl_smile,https://github.com/haifengl/smile,Statistical Machine Intelligence & Learning Engine,167193,4412,4412,Java,894,1857,92,-1,-1,-1
+couchbase_couchbase-elasticsearch-connector,https://github.com/couchbase/couchbase-elasticsearch-connector,The Official Couchbase Elasticsearch Connector,2693,143,143,Java,89,653,38,-1,-1,-1
+ForgeEssentials_ForgeEssentials,https://github.com/ForgeEssentials/ForgeEssentials,Repository for ForgeEssentials 1.x,48163,229,229,Java,131,4992,115,-1,-1,-1
+apache_incubator-edgent,https://github.com/apache/incubator-edgent,Mirror of Apache Edgent (Incubating),25324,158,158,Java,129,1561,50,-1,-1,-1
+actframework_actframework,https://github.com/actframework/actframework,An easy to use Java MVC server stack,15556,568,568,Java,101,2306,10,-1,-1,-1
+yandex_clickhouse-jdbc,https://github.com/yandex/clickhouse-jdbc,JDBC driver for ClickHouse,971,304,304,Java,156,770,120,-1,-1,-1
+Camelcade_Perl5-IDEA,https://github.com/Camelcade/Perl5-IDEA,Perl5 plugins for IntelliJ IDEA,60654,290,290,Java,50,5438,28,-1,-1,-1
+apache_tika,https://github.com/apache/tika,Mirror of Apache Tika,151723,846,846,Java,468,8958,277,-1,-1,-1
+logstash_logstash-logback-encoder,https://github.com/logstash/logstash-logback-encoder,Logback JSON encoder and appenders,1316,1380,1380,Java,275,706,90,-1,-1,-1
+spotify_helios,https://github.com/spotify/helios,Docker container orchestration platform,7637,2006,2006,Java,229,5054,113,-1,-1,-1
+Whiley_WhileyCompiler,https://github.com/Whiley/WhileyCompiler,The Whiley Compiler (WyC),42853,152,152,Java,26,7768,27,-1,-1,-1
+gitlab4j_gitlab4j-api,https://github.com/gitlab4j/gitlab4j-api,GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API,2277,265,265,Java,137,1729,107,-1,-1,-1
+aNNiMON_Lightweight-Stream-API,https://github.com/aNNiMON/Lightweight-Stream-API,Stream API from Java 8 rewritten on iterators for Java 7 and below,1791,1463,1463,Java,111,663,35,-1,-1,-1
+zalando_riptide,https://github.com/zalando/riptide,Client-side response routing for Spring,5521,111,111,Java,22,1621,31,-1,-1,-1
+mekanism_Mekanism,https://github.com/mekanism/Mekanism,A mod for Minecraft,64276,467,467,Java,275,6374,231,-1,-1,-1
+couchbase_couchbase-lite-android,https://github.com/couchbase/couchbase-lite-android,"Lightweight, embedded, syncable NoSQL database engine for Android.",75013,1118,1118,Java,212,4322,77,-1,-1,-1
+glob3mobile_g3m,https://github.com/glob3mobile/g3m,The multiplatform advanced visualization framework,653396,110,110,Java,55,12890,97,-1,-1,-1
+openhab_openhab2-addons,https://github.com/openhab/openhab2-addons,Add-ons for openHAB 2.x,358460,1150,1150,Java,2042,31307,1405,-1,-1,-1
+evernote_android-job,https://github.com/evernote/android-job,Android library to handle jobs in the background.,1681,5253,5253,Java,523,562,50,-1,-1,-1
+spring-projects_spring-data-envers,https://github.com/spring-projects/spring-data-envers,Envers extension of the Spring Data JPA module,978,172,172,Java,72,502,39,-1,-1,-1
+relayrides_pushy,https://github.com/relayrides/pushy,A Java library for sending APNs (iOS/macOS/Safari) push notifications,7027,1030,1030,Java,283,2043,106,-1,-1,-1
+klarna_HiveRunner,https://github.com/klarna/HiveRunner,An Open Source unit test framework for hadoop hive queries based on JUnit4,1199,167,167,Java,57,639,38,-1,-1,-1
+Floens_Clover,https://github.com/Floens/Clover,Clover - imageboard browser for Android,44904,617,617,Java,238,2118,80,-1,-1,-1
+JabRef_jabref,https://github.com/JabRef/jabref,Graphical Java application for managing BibTeX and biblatex (.bib) databases,112245,1365,1365,Java,939,21638,529,-1,-1,-1
+hangum_TadpoleForDBTools,https://github.com/hangum/TadpoleForDBTools,,183538,498,498,Java,149,3775,55,-1,-1,-1
+ibinti_bugvm,https://github.com/ibinti/bugvm,This is BugVM,1556686,343,343,Java,51,3651,46,-1,-1,-1
+anthonyraymond_joal,https://github.com/anthonyraymond/joal,An open source command line RatioMaster with an optional WebUI.,12413,106,106,Java,11,529,4,-1,-1,-1
+neo4j_neo4j-ogm,https://github.com/neo4j/neo4j-ogm,Java Object-Graph Mapping Library for Neo4j,14113,209,209,Java,118,2905,87,-1,-1,-1
+boy0001_FastAsyncWorldedit,https://github.com/boy0001/FastAsyncWorldedit,"Blazingly fast world manipulation for artists, large networks and developers: https://www.spigotmc.org/resources/13932/",30243,262,262,Java,197,1589,54,-1,-1,-1
+linqs_psl,https://github.com/linqs/psl,The PSL software from the University of Maryland and the University of California Santa Cruz,5980,220,220,Java,79,1305,34,-1,-1,-1
+mopub_mopub-android-sdk,https://github.com/mopub/mopub-android-sdk,,7345,432,432,Java,469,770,215,-1,-1,-1
+hypertrack_hypertrack-live-android,https://github.com/hypertrack/hypertrack-live-android,[DEPRECATED] Build live location sharing in your app,50599,610,610,Java,177,1479,21,-1,-1,-1
+eclipse_lsp4j,https://github.com/eclipse/lsp4j,,2086,175,175,Java,53,541,39,-1,-1,-1
+microsoft_vscode-java-test,https://github.com/microsoft/vscode-java-test,Run and debug Java test cases in Visual Studio Code.,7338,110,110,Java,29,1304,27,-1,-1,-1
+marschall_memoryfilesystem,https://github.com/marschall/memoryfilesystem,An in memory implementation of a JSR-203 file system,2007,153,153,Java,26,727,11,-1,-1,-1
+checkstyle_checkstyle,https://github.com/checkstyle/checkstyle,"Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",64409,4655,4655,Java,6916,18013,458,-1,-1,-1
+HoraApps_LeafPic,https://github.com/HoraApps/LeafPic,MIRROR FROM GITLAB! Don't make PR here do it on Gitlab. ,10462,2863,2863,Java,1224,1586,110,-1,-1,-1
+GoogleCloudPlatform_cloud-bigtable-examples,https://github.com/GoogleCloudPlatform/cloud-bigtable-examples,Examples of how to use Cloud Bigtable both with GCE map/reduce as well as stand alone applications.,1342,161,161,Java,165,1049,62,-1,-1,-1
+ShifuML_shifu,https://github.com/ShifuML/shifu,An end-to-end machine learning and data mining framework on Hadoop,14139,173,173,Java,87,4178,71,-1,-1,-1
+quickfix-j_quickfixj,https://github.com/quickfix-j/quickfixj,The official QuickFIX/J project repository,39611,492,492,Java,354,2158,119,-1,-1,-1
+eclipse_jgit,https://github.com/eclipse/jgit,JGit project repository (jgit),43221,755,755,Java,403,24401,400,-1,-1,-1
+gateship-one_odyssey,https://github.com/gateship-one/odyssey,Odyssey music player,9679,123,123,Java,27,1306,22,-1,-1,-1
+llbit_chunky,https://github.com/llbit/chunky,Minecraft mapping and rendering tool,12083,263,263,Java,32,1526,22,-1,-1,-1
+geoserver_geoserver,https://github.com/geoserver/geoserver,Official GeoServer repository,222171,1565,1565,Java,1304,20001,533,-1,-1,-1
+adminfaces_admin-template,https://github.com/adminfaces/admin-template,JSF responsive admin template based on Bootstrap and AdminLTE ,1172,126,126,Java,73,542,22,-1,-1,-1
+libgdx_libgdx,https://github.com/libgdx/libgdx,Desktop/Android/HTML5/iOS Java game development framework,1040370,15617,15617,Java,5852,18419,1191,-1,-1,-1
+jamesagnew_hapi-fhir,https://github.com/jamesagnew/hapi-fhir,HAPI FHIR - Java API for HL7 FHIR Clients and Servers,689957,820,820,Java,714,6070,202,-1,-1,-1
+apache_maven-surefire,https://github.com/apache/maven-surefire,Apache Maven Surefire,11571,226,226,Java,336,3633,218,-1,-1,-1
+DozerMapper_dozer,https://github.com/DozerMapper/dozer,Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another. ,21197,1481,1481,Java,399,2286,160,-1,-1,-1
+zalando_intellij-swagger,https://github.com/zalando/intellij-swagger,A plugin to help you easily edit Swagger and OpenAPI specification files inside IntelliJ IDEA,11987,865,865,Java,48,532,32,-1,-1,-1
+SmartBear_soapui,https://github.com/SmartBear/soapui,SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.,95755,936,936,Java,452,8104,162,-1,-1,-1
+the-pig-of-jungle_smart-show,https://github.com/the-pig-of-jungle/smart-show,Toast & Snackbar & TopBar & Dialog ,17470,301,301,Java,54,642,7,-1,-1,-1
+iBotPeaches_Apktool,https://github.com/iBotPeaches/Apktool,A tool for reverse engineering Android apk files,133752,8435,8435,Java,2167,2855,143,-1,-1,-1
+mybatis_generator,https://github.com/mybatis/generator,A code generator for MyBatis and iBATIS.,39879,3726,3726,Java,1973,1156,79,-1,-1,-1
+spotify_heroic,https://github.com/spotify/heroic,The Heroic Time Series Database,9096,711,711,Java,89,2348,64,-1,-1,-1
+Netflix_Hystrix,https://github.com/Netflix/Hystrix,"Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",9695,17764,17764,Java,3643,2882,277,-1,-1,-1
+wildfly_quickstart,https://github.com/wildfly/quickstart,Holds all versioned WildFly quickstarts,35109,714,714,Java,1132,2181,172,-1,-1,-1
+apache_flink,https://github.com/apache/flink,Apache Flink,250456,9436,9436,Java,5059,54071,1724,-1,-1,-1
+h2database_h2database,https://github.com/h2database/h2database,H2 is an embeddable RDBMS written in Java.,68672,1866,1866,Java,618,17901,234,-1,-1,-1
+mybatis_jpetstore-6,https://github.com/mybatis/jpetstore-6,"A web application built on top of MyBatis 3, Spring 3 and Stripes",2225,430,430,Java,516,552,15,-1,-1,-1
+indeedeng_imhotep,https://github.com/indeedeng/imhotep,Imhotep is a large-scale analytics platform built by Indeed.,115673,109,109,Java,24,2913,51,-1,-1,-1
+oliexdev_openScale,https://github.com/oliexdev/openScale,"Open-source weight and body metrics tracker, with support for Bluetooth scales",141363,458,458,Java,130,1881,122,-1,-1,-1
+looly_hutool,https://github.com/looly/hutool,A set of tools that keep Java sweet.,29942,6201,6201,Java,1999,2267,71,-1,-1,-1
+react-native-community_react-native-camera,https://github.com/react-native-community/react-native-camera,A Camera component for React Native. Also supports barcode scanning!,11962,7422,7422,Java,2323,2545,577,-1,-1,-1
+material-components_material-components-android,https://github.com/material-components/material-components-android,Modular and customizable Material Design UI components for Android,7870,7530,7530,Java,1109,2421,136,-1,-1,-1
+openwdl_wdl,https://github.com/openwdl/wdl,Workflow Description Language - Specification and Implementations,3745,268,268,Java,97,1031,80,-1,-1,-1
+google_nomulus,https://github.com/google/nomulus,Top-level domain name registry service on Google App Engine,28525,1337,1337,Java,155,2904,81,-1,-1,-1
+mozilla-tw_FirefoxLite,https://github.com/mozilla-tw/FirefoxLite,Emerging Market Experiment,171804,163,163,Java,51,6819,73,-1,-1,-1
+AcademySoftwareFoundation_OpenCue,https://github.com/AcademySoftwareFoundation/OpenCue,A render management system you can deploy for visual effects and animation productions.,5561,380,380,Java,45,0,0,-1,-1,-1
+MarcusWolschon_osmeditor4android,https://github.com/MarcusWolschon/osmeditor4android,Vespucci is a OpenStreetMap editor for Android,100253,141,141,Java,40,5035,45,-1,-1,-1
+openstreetmap_josm,https://github.com/openstreetmap/josm,Git-like mirror of @JOSM's Subversion repository,775563,221,221,Java,139,25569,61,-1,-1,-1
+veraPDF_veraPDF-library,https://github.com/veraPDF/veraPDF-library,"Industry supported, open source PDF/A validation library",8339,139,139,Java,31,2957,33,-1,-1,-1
+yandex_graphouse,https://github.com/yandex/graphouse,Graphouse allows you to use ClickHouse as a Graphite storage.,766,201,201,Java,42,676,47,-1,-1,-1
+spring-projects_spring-data-mongodb,https://github.com/spring-projects/spring-data-mongodb,Provide support to increase developer productivity in Java when using MongoDB. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.,20726,1037,1037,Java,770,6711,299,-1,-1,-1
+firebase_quickstart-android,https://github.com/firebase/quickstart-android,Firebase Quickstart Samples for Android,27969,5701,5701,Java,5645,1310,116,-1,-1,-1
+apache_commons-imaging,https://github.com/apache/commons-imaging,Mirror of Apache Commons Imaging,35449,166,166,Java,97,1541,64,-1,-1,-1
+mulesoft_mule,https://github.com/mulesoft/mule,Mule Community Edition,236313,744,744,Java,550,49472,432,-1,-1,-1
+segler-alex_RadioDroid,https://github.com/segler-alex/RadioDroid,radio browser app that uses www.radio-browser.info on android,4016,196,196,Java,74,877,53,-1,-1,-1
+javadev_underscore-java,https://github.com/javadev/underscore-java,java port of Underscore.js,7936,230,230,Java,52,1143,23,-1,-1,-1
+QuickBlox_quickblox-android-sdk,https://github.com/QuickBlox/quickblox-android-sdk,QuickBlox Android SDK includes code snippets with main use cases and framework JAR library.,255971,366,366,Java,714,2095,50,-1,-1,-1
+cabaletta_baritone,https://github.com/cabaletta/baritone,google maps for block game,7728,366,366,Java,62,2444,24,-1,-1,-1
+apache_shiro,https://github.com/apache/shiro,Mirror of Apache Shiro,24752,2515,2515,Java,1486,4737,124,-1,-1,-1
+spotify_docker-client,https://github.com/spotify/docker-client,INACTIVE: A simple docker client for the JVM,3535,1259,1259,Java,485,2553,283,-1,-1,-1
+jfree_jfreechart,https://github.com/jfree/jfreechart,"A 2D chart library for Java applications (JavaFX, Swing or server-side).",18486,435,435,Java,189,7196,62,-1,-1,-1
+owntracks_android,https://github.com/owntracks/android,OwnTracks Android App,6405,693,693,Java,360,2750,49,-1,-1,-1
+phoenixnap_springmvc-raml-plugin,https://github.com/phoenixnap/springmvc-raml-plugin,"Spring MVC - RAML Spec Synchroniser Plugin. A Maven plugin designed to Generate Server & Client code in Spring from a RAML API descriptor and conversely, a RAML API document from the SpringMVC Server implementation.",2063,124,124,Java,79,678,58,-1,-1,-1
+sherxon_AlgoDS,https://github.com/sherxon/AlgoDS,"Implementation of Algorithms and Data Structures, Problems and Solutions",1573,2941,2941,Java,522,650,26,-1,-1,-1
+MachineMuse_MachineMusePowersuits,https://github.com/MachineMuse/MachineMusePowersuits,"Minecraft mod, take 2",47329,165,165,Java,92,1945,77,-1,-1,-1
+RestComm_restcomm-android-sdk,https://github.com/RestComm/restcomm-android-sdk,"Android Mobile SDK to easily integrate communication features (WebRTC, messaging, presence, voice, video, screensharing) based on RestComm into native Mobile Applications",28991,102,102,Java,94,783,23,-1,-1,-1
+livingobjects_neo4j-lo-extensions,https://github.com/livingobjects/neo4j-lo-extensions,Neo4j server extensions used at LivingObjects,664,2,2,Java,1,536,13,-1,-1,-1
+apache_geronimo-xbean,https://github.com/apache/geronimo-xbean,Mirror of Apache Geronimo xbean,8567,7,7,Java,28,1232,37,-1,-1,-1
+inspectIT_inspectit-ocelot,https://github.com/inspectIT/inspectit-ocelot,"inspectIT Ocelot - Java agent for collecting application performance, tracing and behavior data",6685,31,31,Java,12,542,13,-1,-1,-1
+Bombe_Sone,https://github.com/Bombe/Sone,Social Network Plugin for Freenet,10001,36,36,Java,12,4364,17,-1,-1,-1
+chaohuama_leetcode,https://github.com/chaohuama/leetcode,,1671,0,0,Java,0,682,2,-1,-1,-1
+sakazz_exchange,https://github.com/sakazz/exchange,exchange,157872,0,0,Java,1,3421,62,-1,-1,-1
+Axway_ats-framework,https://github.com/Axway/ats-framework,Axway Automated Testing System (ATS) Framework. Details are in the README at the bottom of this page.,12777,23,23,Java,13,822,21,-1,-1,-1
+brunmor_manFinanceiro,https://github.com/brunmor/manFinanceiro,,3934,0,0,Java,0,767,20,-1,-1,-1
+codeaurora-unofficial_platform-packages-apps-TvSettings,https://github.com/codeaurora-unofficial/platform-packages-apps-TvSettings,,40158,0,0,Java,0,4425,134,-1,-1,-1
+exoplatform_jcr,https://github.com/exoplatform/jcr,eXo JCR,22311,5,5,Java,23,5156,79,-1,-1,-1
+QIAO-QIANCHENG_HELLO,https://github.com/QIAO-QIANCHENG/HELLO,,43007,1,1,Java,0,20915,713,-1,-1,-1
+metadatacenter_cedar-terminology-server,https://github.com/metadatacenter/cedar-terminology-server,"A wrapper for the BioPortal API that simplifies the access to BioPortal ontologies, classes, value sets and values",1611,1,1,Java,1,778,5,-1,-1,-1
+oci-pronghorn_PronghornPipes,https://github.com/oci-pronghorn/PronghornPipes,,9017,13,13,Java,8,1681,21,-1,-1,-1
+diffplug_durian-swt,https://github.com/diffplug/durian-swt,Reactive utilities and fluent builders for SWT,9587,17,17,Java,2,537,41,-1,-1,-1
+embulk_embulk-input-jdbc,https://github.com/embulk/embulk-input-jdbc,"MySQL, PostgreSQL, Redshift and generic JDBC input plugins for Embulk",888,68,68,Java,52,573,43,-1,-1,-1
+opendaylight_netvirt,https://github.com/opendaylight/netvirt,Mirror of the OpenDaylight netvirt gerrit project,37625,13,13,Java,9,7615,297,-1,-1,-1
+snobotsim_SnobotSim,https://github.com/snobotsim/SnobotSim,Simulator For FRC Java and C++ Robots,89225,48,48,Java,8,737,10,-1,-1,-1
+oicr-gsi_pipedev,https://github.com/oicr-gsi/pipedev,Open source utilities for working with SeqWare/Niassa,37502,1,1,Java,0,751,16,-1,-1,-1
+joesgordon_gordoza-code,https://github.com/joesgordon/gordoza-code,Automatically exported from code.google.com/p/gordoza-code,15153,1,1,Java,0,1209,7,-1,-1,-1
+DSL-UMD_hadoop,https://github.com/DSL-UMD/hadoop,,187532,1,1,Java,2,21086,338,-1,-1,-1
+JOverseer_joverseer,https://github.com/JOverseer/joverseer,JOverseer is a desktop application which aims to assist players of the Middle Earth PBM game.,48205,1,1,Java,2,1483,15,-1,-1,-1
+micromata_Merlin,https://github.com/micromata/Merlin,"Magic and customer-friendly Excel, Word and configuration acrobatics, including upload/download and templating.",40390,14,14,Java,2,1427,5,-1,-1,-1
+WSO2Telco_mediation-dep,https://github.com/WSO2Telco/mediation-dep,,21383,1,1,Java,26,675,66,-1,-1,-1
+ist-dsi_fenixedu-ist,https://github.com/ist-dsi/fenixedu-ist,FenixEdu IST Contribution Modules,27065,1,1,Java,35,2674,61,-1,-1,-1
+ShioharaCMS_shiohara,https://github.com/ShioharaCMS/shiohara,Viglet Shiohara CMS - Model Content and Create Site using Javascript with Native Cache and Search.,30768,4,4,Java,2,547,3,-1,-1,-1
+secretwolf98_Lightning-Browser-,https://github.com/secretwolf98/Lightning-Browser-,,9578,0,0,Java,1,1656,90,-1,-1,-1
+zpingmapay_xpay,https://github.com/zpingmapay/xpay,init xpay,1014,0,0,Java,5,532,6,-1,-1,-1
+maggu2810_esh-puremaven,https://github.com/maggu2810/esh-puremaven,,46458,1,1,Java,2,5171,247,-1,-1,-1
+UiNiNex_fastjson,https://github.com/UiNiNex/fastjson,,7966,0,0,Java,0,3687,130,-1,-1,-1
+zzt93_Daily-pracitce,https://github.com/zzt93/Daily-pracitce,The backup of my daily practice,42265,5,5,Java,5,647,5,-1,-1,-1
+RyaDevelopers_Rya,https://github.com/RyaDevelopers/Rya,,145474,3,3,Java,2,7842,62,-1,-1,-1
+wcm-io_wcm-io-wcm,https://github.com/wcm-io/wcm-io-wcm,Extensions for AEM authoring and AEM applications.,977,13,13,Java,4,774,14,-1,-1,-1
+webfirmframework_wff,https://github.com/webfirmframework/wff,Java framework to develop web applications,10603,8,8,Java,3,1377,6,-1,-1,-1
+Sauilitired_Kvantum,https://github.com/Sauilitired/Kvantum,"An intellectual (HTTP/HTTPS) web server with support for server side templating (Crush, Apache Velocity and JTwig)",79080,11,11,Java,6,754,15,-1,-1,-1
+UiNiNex_okdownload,https://github.com/UiNiNex/okdownload,,7702,0,0,Java,0,539,6,-1,-1,-1
+TechStack_TechStack-s-HeavyMachineryMod,https://github.com/TechStack/TechStack-s-HeavyMachineryMod,This is the new Repo home for TechStack's Heavy Machinery Mod.,130662,10,10,Java,9,680,4,-1,-1,-1
+eseifert_vectorgraphics2d,https://github.com/eseifert/vectorgraphics2d,Graphics2D implementations to export various vector file formats,1047,66,66,Java,16,589,8,-1,-1,-1
+clach04_squirrel-sql,https://github.com/clach04/squirrel-sql,Unmaintained mirror of SQuirreL SQL Client; A Java SQL client for any JDBC compliant database - https://git.code.sf.net/p/squirrel-sql/git,169288,0,0,Java,0,7779,52,-1,-1,-1
+FORKS-JC_camel,https://github.com/FORKS-JC/camel,,95596,1,1,Java,0,39338,534,-1,-1,-1
+NullpoMino-X_NullpoMino,https://github.com/NullpoMino-X/NullpoMino,An action puzzle game,35076,6,6,Java,0,966,28,-1,-1,-1
+webdsl_webdsl,https://github.com/webdsl/webdsl,WebDSL compiler,1002443,20,20,Java,3,4345,31,-1,-1,-1
+jenkinsci_branch-api-plugin,https://github.com/jenkinsci/branch-api-plugin,,1805,15,15,Java,94,880,58,-1,-1,-1
+dnanexus_dx-toolkit,https://github.com/dnanexus/dx-toolkit,DNAnexus platform client libraries,24095,59,59,Java,58,7966,128,-1,-1,-1
+ConsensusJ_consensusj,https://github.com/ConsensusJ/consensusj,"Cryptocurrency components for JVM & Android (JSON client & server support, services, DSL, CLI)",8324,64,64,Java,26,733,4,-1,-1,-1
+brianburton_java-immutable-collections,https://github.com/brianburton/java-immutable-collections,Efficient Immutable/Persistent Collections for Java,6057,20,20,Java,2,811,6,-1,-1,-1
+Jorch72_VoltzEngine,https://github.com/Jorch72/VoltzEngine,,28916,0,0,Java,0,4615,65,-1,-1,-1
+sw415f19_Ezuino,https://github.com/sw415f19/Ezuino,Ezuino Official,660,1,1,Java,1,567,12,-1,-1,-1
+cuidadoso_tuturials,https://github.com/cuidadoso/tuturials,,111319,2,2,Java,1,10348,680,-1,-1,-1
+smartdec_smartcheck,https://github.com/smartdec/smartcheck, SmartCheck – a static analysis tool that detects vulnerabilities and bugs in Solidity programs (Ethereum-based smart contracts).,1031,64,64,Java,11,641,28,-1,-1,-1
+Romansko_ZerLi,https://github.com/Romansko/ZerLi,Team Software project ,2281,0,0,Java,0,805,27,-1,-1,-1
+dmpliamplias_Dominion,https://github.com/dmpliamplias/Dominion,Dominion card game,132661,0,0,Java,0,800,11,-1,-1,-1
+amino-os_Amino.Run-Demos,https://github.com/amino-os/Amino.Run-Demos,Amino.Run - Demo Applications,64920,4,4,Java,5,2107,121,-1,-1,-1
+Texera_texera,https://github.com/Texera/texera, Big Text Analytics Using Interactive Workflows,165508,67,67,Java,30,5318,162,-1,-1,-1
+richelivargas_GwtMDC,https://github.com/richelivargas/GwtMDC,GWT wrapper to Material Design Components,17930,1,1,Java,1,505,7,-1,-1,-1
+rapidpro_ureport-android,https://github.com/rapidpro/ureport-android,,3536,12,12,Java,11,690,11,-1,-1,-1
+dddjava_Jig,https://github.com/dddjava/Jig,Java Instant-document Gazer,4031,63,63,Java,5,1635,8,-1,-1,-1
+massivell_df,https://github.com/massivell/df,df,824,0,0,Java,0,688,3,-1,-1,-1
+Servoy_servoy-client,https://github.com/Servoy/servoy-client,Servoy client code,187021,11,11,Java,4,14902,50,-1,-1,-1
+overturetool_overture,https://github.com/overturetool/overture,The Overture Tool,213640,37,37,Java,22,13187,89,-1,-1,-1
+Connor2573_shiny-tribble,https://github.com/Connor2573/shiny-tribble,temporary holding spot for code being from powerup 2018 repo as we rebase.,7881,0,0,Java,1,594,18,-1,-1,-1
+gncloud_fastcatsearch3,https://github.com/gncloud/fastcatsearch3,Realtime Search Engine,81629,10,10,Java,8,2091,38,-1,-1,-1
+viatra_massif,https://github.com/viatra/massif,Massif is a Matlab Simulink Integration Framework for Eclipse,10137,18,18,Java,10,690,28,-1,-1,-1
+marcust_jzenith,https://github.com/marcust/jzenith,An opinionated approach to building modern Java Microservices,770,5,5,Java,2,660,5,-1,-1,-1
+eyolfson_jdk8-corba,https://github.com/eyolfson/jdk8-corba,,7368,0,0,Java,0,1883,52,-1,-1,-1
+GommehFreedom_WorldEdit,https://github.com/GommehFreedom/WorldEdit,,8242,0,0,Java,0,2581,113,-1,-1,-1
+Jorch72_Computronics,https://github.com/Jorch72/Computronics,,18858,0,0,Java,0,1688,29,-1,-1,-1
+anb0s_eclox,https://github.com/anb0s/eclox,Eclox is a simple doxygen frontend plug-in for eclipse. It aims to provide a slim and sleek integration of the code documentation process into Eclipse.,177494,24,24,Java,1,1153,7,-1,-1,-1
+eFaps_eFapsApp-Sales,https://github.com/eFaps/eFapsApp-Sales,eFaps Main Document management.,13153,0,0,Java,1,3348,19,-1,-1,-1
+SoniaZaldana_GameCentre,https://github.com/SoniaZaldana/GameCentre,"A game centre containing three board based games: Simon, Sliding Tiles and Minesweeper. Additionally, different users can sign into the Game Centre and save their scores/games.",2538,0,0,Java,1,610,11,-1,-1,-1
+DigitalCampus_oppia-mobile-android,https://github.com/DigitalCampus/oppia-mobile-android,Android client app for OppiaMobile learning platform,22628,20,20,Java,30,1961,13,-1,-1,-1
+terabyte25_tes3mp-android,https://github.com/terabyte25/tes3mp-android,tes3mp ported to Android devices (using CrabNet). Forked from xyzz/openmw-android.,51867,27,27,Java,4,614,9,-1,-1,-1
+neiderm_pgge,https://github.com/neiderm/pgge,libgdx and Bullet experiments,30705,0,0,Java,0,774,6,-1,-1,-1
+gravitee-io_gravitee-repository-mongodb,https://github.com/gravitee-io/gravitee-repository-mongodb,Gravitee.io - API Management - Repository - MongoDB Implementation,681,3,3,Java,12,670,23,-1,-1,-1
+rclong0000_ego-automat-domain,https://github.com/rclong0000/ego-automat-domain,前海易购domain,2717,0,0,Java,0,2057,30,-1,-1,-1
+lightstep_lightstep-tracer-java,https://github.com/lightstep/lightstep-tracer-java,The LightStep distributed tracing library for JRE,40933,30,30,Java,18,759,32,-1,-1,-1
+dialexo_Fiktion,https://github.com/dialexo/Fiktion,Android social app written in Java about real places in fictional works. Made during CS-305 EPFL Software Engineering course,11681,0,0,Java,0,1040,14,-1,-1,-1
+idexche_testRepository,https://github.com/idexche/testRepository,,1256,0,0,Java,0,5798,283,-1,-1,-1
+universAAL_middleware,https://github.com/universAAL/middleware,The core software that uses semantic matchmaking for brokering messages among participants of an open distributed system.,133351,9,9,Java,4,6800,41,-1,-1,-1
+jerry-jx_javamelody,https://github.com/jerry-jx/javamelody,,100024,0,0,Java,0,7294,19,-1,-1,-1
+ryanfreckleton_fdroidclient,https://github.com/ryanfreckleton/fdroidclient,,28534,0,0,Java,0,5974,165,-1,-1,-1
+srinivasvemula4u_programming,https://github.com/srinivasvemula4u/programming,,2641,1,1,Java,0,1115,4,-1,-1,-1
+liufalang_guns,https://github.com/liufalang/guns,综合管理平台,18284,0,0,Java,0,1102,38,-1,-1,-1
+mumuling_Lilith,https://github.com/mumuling/Lilith,,16190,0,0,Java,0,621,6,-1,-1,-1
+brzaskun_NetBeansProjects,https://github.com/brzaskun/NetBeansProjects,Automatically exported from code.google.com/p/praca-zaliczeniowa,156034,0,0,Java,0,8215,15,-1,-1,-1
+deegree_deegree3,https://github.com/deegree/deegree3,"Official deegree repository providing geospatial core libraries, data access and advanced OGC web service implementations",290801,65,65,Java,77,14243,88,-1,-1,-1
+hub-se_BugLoRD,https://github.com/hub-se/BugLoRD,"A toolkit for ""Bug Location and Repair of Defects"".",110422,2,2,Java,3,1151,6,-1,-1,-1
+eclipse_mwe,https://github.com/eclipse/mwe,Modeling Workflow Engine project repository (mwe),8990,4,4,Java,5,1674,26,-1,-1,-1
+beangle_beangle3,https://github.com/beangle/beangle3,Agile Java Development Scaffold and Toolkit,12926,19,19,Java,11,845,14,-1,-1,-1
+formicary_my-bank,https://github.com/formicary/my-bank,Example bank application,8169,5,5,Java,260,1322,344,-1,-1,-1
+eclipse_rt.equinox.framework,https://github.com/eclipse/rt.equinox.framework,Equinox project repository (rt.equinox.framework),31766,42,42,Java,62,7012,96,-1,-1,-1
+McJtyMods_XNet,https://github.com/McJtyMods/XNet,Advanced item/liquid/energy/... networking,3340,32,32,Java,15,652,19,-1,-1,-1
+armenak_DataDefender,https://github.com/armenak/DataDefender,Sensitive Data Management: Data Discovery and Anonymization toolkit,142205,47,47,Java,16,566,17,-1,-1,-1
+kaitorecca_nifieib,https://github.com/kaitorecca/nifieib,,94750,0,0,Java,0,5099,283,-1,-1,-1
+berry-cs_sinbad,https://github.com/berry-cs/sinbad,,12191,5,5,Java,0,602,2,-1,-1,-1
+apache_ant-ivy,https://github.com/apache/ant-ivy,Mirror of Apache Ant Ivy,12247,38,38,Java,67,3481,51,-1,-1,-1
+maojoey_novel,https://github.com/maojoey/novel,,16866,0,0,Java,0,4194,20,-1,-1,-1
+eclipse_elk,https://github.com/eclipse/elk,Eclipse Layout Kernel - Automatic layout for Java applications.,16637,59,59,Java,34,1403,28,-1,-1,-1
+gitenter_gitenter,https://github.com/gitenter/gitenter,"Source code of GitEnter.com, a Git based version control tool for requirement engineering, design control, verification and validation processes.",36930,0,0,Java,0,984,2,-1,-1,-1
+mdssjc_study,https://github.com/mdssjc/study,Materiais de estudos sobre computação.,150286,0,0,Java,0,4678,6,-1,-1,-1
+SecUSo_privacy-friendly-netmonitor,https://github.com/SecUSo/privacy-friendly-netmonitor,Privacy Friendly App that shows active network connections of installed apps.,35691,80,80,Java,25,558,22,-1,-1,-1
+spritz_spritz,https://github.com/spritz/spritz,"A browser based, reactive event streaming library that is best used when coordinating events",1797,1,1,Java,0,1110,1,-1,-1,-1
+pmd_pmd-eclipse-plugin,https://github.com/pmd/pmd-eclipse-plugin,,58318,75,75,Java,46,784,27,-1,-1,-1
+MIPS_packages-apps-Stk,https://github.com/MIPS/packages-apps-Stk,,989,1,1,Java,0,1144,96,-1,-1,-1
+bobby0809_FACEBOOK-SDK,https://github.com/bobby0809/FACEBOOK-SDK,,22360,0,0,Java,0,764,111,-1,-1,-1
+ReseauEntourage_entourage-android,https://github.com/ReseauEntourage/entourage-android,Application Entourage pour Android,70561,7,7,Java,2,2177,19,-1,-1,-1
+tietokantojen-perusteet_tikape-runko,https://github.com/tietokantojen-perusteet/tikape-runko,,5,2,2,Java,292,1008,115,-1,-1,-1
+robingrether_iDisguise,https://github.com/robingrether/iDisguise,Plugin for CraftBukkit and Spigot,1557,10,10,Java,8,681,3,-1,-1,-1
+mdht_mdht-models,https://github.com/mdht/mdht-models,This branch supports Rational Software components,220334,13,13,Java,13,3659,25,-1,-1,-1
+Tristan971_EasyFXML,https://github.com/Tristan971/EasyFXML,A collection of tools and libraries for easier development on the JavaFX platform!,1327,56,56,Java,2,764,5,-1,-1,-1
+itesla_ipst-core,https://github.com/itesla/ipst-core,Toolkit dedicated to large power grid security analysis info@itesla-pst.org,5567,2,2,Java,4,1235,27,-1,-1,-1
+kiegroup_droolsjbpm-knowledge,https://github.com/kiegroup/droolsjbpm-knowledge,The common API for Drools and jBPM,77495,93,93,Java,230,3567,171,-1,-1,-1
+magnayn_Hudson-GIT-plugin,https://github.com/magnayn/Hudson-GIT-plugin,Git plugin for Hudson,4044,48,48,Java,847,3125,271,-1,-1,-1
+JailtonSampaio_app-finan,https://github.com/JailtonSampaio/app-finan,,4293,0,0,Java,0,843,20,-1,-1,-1
+bonitoo-io_influxdb-client-java,https://github.com/bonitoo-io/influxdb-client-java,InfluxDB 2 JVM Based Clients,90631,6,6,Java,1,728,6,-1,-1,-1
+jaxen-xpath_jaxen,https://github.com/jaxen-xpath/jaxen,The Jaxen XPath Engine for Java,6681,21,21,Java,11,2974,39,-1,-1,-1
+harmony-dev_beacon-chain-java,https://github.com/harmony-dev/beacon-chain-java,Java implementation of Ethereum 2.0 Beacon Chain,3909,10,10,Java,1,1380,6,-1,-1,-1
+apache_royale-compiler,https://github.com/apache/royale-compiler,Apache Royale Compiler,85855,77,77,Java,34,3666,49,-1,-1,-1
+fandan-nyc_leetcode,https://github.com/fandan-nyc/leetcode,algorithms,897,7,7,Java,1,1204,3,-1,-1,-1
+Umweltzone_Umweltzone,https://github.com/Umweltzone/Umweltzone,Low emission zones on Android,4446,5,5,Java,5,1022,6,-1,-1,-1
+informationgrid_ingrid-mdek,https://github.com/informationgrid/ingrid-mdek,Abstracts access to an InGrid Catalog database.,6712,0,0,Java,0,2709,20,-1,-1,-1
+Saahir777_LineTest2,https://github.com/Saahir777/LineTest2,,12194,0,0,Java,0,656,31,-1,-1,-1
+uktrade_lite-permissions-finder,https://github.com/uktrade/lite-permissions-finder,LITE permissions finder frontend,5598,1,1,Java,0,2061,28,-1,-1,-1
+EmilienCocherel_plateformJeux,https://github.com/EmilienCocherel/plateformJeux,,17077,0,0,Java,0,845,9,-1,-1,-1
+OpenSRP_opensrp-client-stock,https://github.com/OpenSRP/opensrp-client-stock,Stock OpenSRP Android client library,19707,2,2,Java,0,679,11,-1,-1,-1
+hhu-propra2_abschlussprojekt-illegalskillsexception,https://github.com/hhu-propra2/abschlussprojekt-illegalskillsexception,abschlussprojekt-illegalskillsexception created by GitHub Classroom,5095,3,3,Java,0,602,16,-1,-1,-1
+eeverman_andhow,https://github.com/eeverman/andhow,"Strongly typed, validated, easy to use Java configuration",14820,17,17,Java,34,1023,49,-1,-1,-1
+liferay_liferay-faces-portal,https://github.com/liferay/liferay-faces-portal,,1972,6,6,Java,22,1312,12,-1,-1,-1
+daisy_pipeline-mod-braille,https://github.com/daisy/pipeline-mod-braille,Braille Production Modules for the DAISY Pipeline 2,29568,1,1,Java,3,2071,12,-1,-1,-1
+zhouchenzc0824_code,https://github.com/zhouchenzc0824/code,README,826,0,0,Java,0,811,2,-1,-1,-1
+anjandev_public-transport-gitlab,https://github.com/anjandev/public-transport-gitlab,,5738,0,0,Java,0,2088,41,-1,-1,-1
+selewa_AndroidUtilCode,https://github.com/selewa/AndroidUtilCode,,29517,0,0,Java,0,1120,36,-1,-1,-1
+majicyoung_app,https://github.com/majicyoung/app,android,4978,0,0,Java,0,885,31,-1,-1,-1
+metafacture_metafacture-core,https://github.com/metafacture/metafacture-core,Core package of the Metafacture tool suite for metadata processing.,3627,53,53,Java,33,1463,44,-1,-1,-1
+namehillsoftware_projectBlue,https://github.com/namehillsoftware/projectBlue,Alternative streaming music player for J River Media Center,45847,2,2,Java,0,3751,10,-1,-1,-1
+amplitude_Amplitude-Android,https://github.com/amplitude/Amplitude-Android,Android SDK for Amplitude,46821,100,100,Java,68,823,40,-1,-1,-1
+htbkoo_java,https://github.com/htbkoo/java,"Repo for java projects, most of them are practices.",1591,1,1,Java,0,698,7,-1,-1,-1
+culturemesh_CultureMeshAndroid,https://github.com/culturemesh/CultureMeshAndroid,,9784,3,3,Java,0,738,12,-1,-1,-1
+terraframe_Runway-SDK,https://github.com/terraframe/Runway-SDK,Terraframe's Enterprise Web Application Framework,101966,5,5,Java,1,2103,19,-1,-1,-1
+ministryofjustice_ndelius-new-tech,https://github.com/ministryofjustice/ndelius-new-tech,nDelius New Technology,13971,1,1,Java,1,2325,11,-1,-1,-1
+esnet_oscars,https://github.com/esnet/oscars,,36003,7,7,Java,6,7271,40,-1,-1,-1
+powercrystals_MineFactoryReloaded,https://github.com/powercrystals/MineFactoryReloaded,,16629,91,91,Java,121,4033,73,-1,-1,-1
+huaweicloudsdk_sdk-java,https://github.com/huaweicloudsdk/sdk-java,,16485,14,14,Java,19,3141,155,-1,-1,-1
+cdapio_hub,https://github.com/cdapio/hub,Public CDAP Hub,2389684,3,3,Java,5,1032,66,-1,-1,-1
+hashmapinc_Drillflow,https://github.com/hashmapinc/Drillflow,A dockerized WITSML API Server that is agnostic of the backend.,2687,4,4,Java,5,1069,20,-1,-1,-1
+NKCR-INPROVE_evidence.periodik,https://github.com/NKCR-INPROVE/evidence.periodik,,41180,0,0,Java,1,856,5,-1,-1,-1
+ThuriyaThwin_XChartJava,https://github.com/ThuriyaThwin/XChartJava,This is written in java,9819,0,0,Java,0,1053,39,-1,-1,-1
+ngageoint_geopackage-android,https://github.com/ngageoint/geopackage-android,GeoPackage Android Library,30853,45,45,Java,23,803,12,-1,-1,-1
+xwiki_xwiki-commons,https://github.com/xwiki/xwiki-commons,Common Modules used by other XWiki top level projects,23427,58,58,Java,87,7204,89,-1,-1,-1
+pjefika_acsAPI,https://github.com/pjefika/acsAPI,,45660,2,2,Java,1,560,6,-1,-1,-1
+fgl27_KA27,https://github.com/fgl27/KA27,A Mod version of KernelAdiutor (An application which manages kernel parameters),8319,12,12,Java,12,1470,58,-1,-1,-1
+amagh_Sherpa,https://github.com/amagh/Sherpa,(WIP) Android Application for hikers to use to discover new trails and guide them when they go.,2674,1,1,Java,0,1235,2,-1,-1,-1
+euske_fgyama,https://github.com/euske/fgyama,Dataflow graph extractor for Java,2213,0,0,Java,0,977,1,-1,-1,-1
+ludoviko_codeRacing,https://github.com/ludoviko/codeRacing,Library of solutions to different code challenges in Java,7546,0,0,Java,0,661,3,-1,-1,-1
+mnlipp_jgrapes,https://github.com/mnlipp/jgrapes,An event driven component framework for Java,185902,0,0,Java,0,2243,6,-1,-1,-1
+openminted_omtd-registry,https://github.com/openminted/omtd-registry,,1998,0,0,Java,2,768,19,-1,-1,-1
+sotier_dubbo,https://github.com/sotier/dubbo,,8407,0,0,Java,0,2922,182,-1,-1,-1
+swatchie-1_Hilux-Android,https://github.com/swatchie-1/Hilux-Android,Android Wallet Development for Hilux,27066,0,0,Java,1,3837,35,-1,-1,-1
+loonwerks_formal-methods-workbench,https://github.com/loonwerks/formal-methods-workbench,,459273,6,6,Java,1,3059,69,-1,-1,-1
+Thutmose_Pokecube,https://github.com/Thutmose/Pokecube,Primary Development has moved to: https://github.com/Pokecube-Development,107545,19,19,Java,10,4114,13,-1,-1,-1
+processtech_runawfe-free-server,https://github.com/processtech/runawfe-free-server,,8272,7,7,Java,36,1800,61,-1,-1,-1
+PIH_openmrs-module-mirebalais,https://github.com/PIH/openmrs-module-mirebalais,Custom EMR application for Mirebalais Hospital,31974,6,6,Java,15,3280,45,-1,-1,-1
+tristancouvares_strongbox,https://github.com/tristancouvares/strongbox,Strongbox is an artifact repository manager.,8384,0,0,Java,0,4498,74,-1,-1,-1
+imagej_imagej-omero,https://github.com/imagej/imagej-omero,Server- and client-side communication between ImageJ and OMERO,1204,5,5,Java,7,995,12,-1,-1,-1
+GirlCod3_HyperTrack,https://github.com/GirlCod3/HyperTrack,,50060,0,0,Java,0,1458,19,-1,-1,-1
+mythwei_dubbo,https://github.com/mythwei/dubbo,,6592,0,0,Java,0,2436,87,-1,-1,-1
+shtsai7_algorithm,https://github.com/shtsai7/algorithm,My solutions to algorithm problems,860,0,0,Java,0,896,6,-1,-1,-1
+ChestShop-authors_ChestShop-3,https://github.com/ChestShop-authors/ChestShop-3,ChestShop - the chest&sign shop plugin for Minecraft Servers running Bukkit,4897,98,98,Java,145,788,60,-1,-1,-1
+Turkey2349_ChanceCubes,https://github.com/Turkey2349/ChanceCubes,Chance Cubes. A Mod for Minecraft. Break a block and see what happens!,8900,22,22,Java,23,768,27,-1,-1,-1
+qmetry_qaf,https://github.com/qmetry/qaf,"QMetry Automation Framework for web, mobileweb, mobile native and rest web-service using Selenium, webdrier, TestNG and Java Jersey",209690,93,93,Java,77,857,18,-1,-1,-1
+thetrime_proactive,https://github.com/thetrime/proactive,Prolog and Java version of Facebook's React concept,2050,8,8,Java,0,1003,2,-1,-1,-1
+jahia-qa_selenium232-72,https://github.com/jahia-qa/selenium232-72,Repo for selenium 232 for Jahia 72 version ,523,0,0,Java,0,769,3,-1,-1,-1
+xueyaohuang_RoadToCodeFarmer,https://github.com/xueyaohuang/RoadToCodeFarmer,,5000,2,2,Java,2,1668,4,-1,-1,-1
+manastalukdar_learning-computer-science,https://github.com/manastalukdar/learning-computer-science,"Learning data structures, algorithms, machine learning and various computer science constructs by programming practice from resources around the web. ",45394,1,1,Java,6,1550,4,-1,-1,-1
+StarChasers_OCGlasses,https://github.com/StarChasers/OCGlasses,mod for minecraft and addon for Open Computers,10554,25,25,Java,6,711,13,-1,-1,-1
+Activiti_activiti-cloud-org-service,https://github.com/Activiti/activiti-cloud-org-service,"Organization, Units & Projects Service",1269,4,4,Java,6,841,29,-1,-1,-1
+meedwallet_loafwallet-android,https://github.com/meedwallet/loafwallet-android,,51424,0,0,Java,0,1947,15,-1,-1,-1
+db1600800_QuotationMarks,https://github.com/db1600800/QuotationMarks,QuotationMarks,65436,0,0,Java,0,781,9,-1,-1,-1
+anonl_nvlist,https://github.com/anonl/nvlist,Cross-platform visual novel engine with a Lua-based scripting language,128191,6,6,Java,1,916,4,-1,-1,-1
+rohanpadhye_jqf,https://github.com/rohanpadhye/jqf,Coverage-guided structured fuzzing for Java.,3857,66,66,Java,7,599,6,-1,-1,-1
+godblessu_android,https://github.com/godblessu/android,,136712,0,0,Java,0,7025,16,-1,-1,-1
+albertyang2007_EasyStoGu,https://github.com/albertyang2007/EasyStoGu,,53924,0,0,Java,0,879,8,-1,-1,-1
+qub-it_fenixedu-academic-treasury,https://github.com/qub-it/fenixedu-academic-treasury,Integration between the treasury and academic fenixedu projects,3020,0,0,Java,2,647,21,-1,-1,-1
+Neamar_teamward-client,https://github.com/Neamar/teamward-client,Android client for Teamward app,2321,15,15,Java,8,647,17,-1,-1,-1
+ten0s_srsa,https://github.com/ten0s/srsa,Repetition System for Algorithms,4409,0,0,Java,0,603,2,-1,-1,-1
+MIPS_packages-providers-TelephonyProvider,https://github.com/MIPS/packages-providers-TelephonyProvider,,1277,1,1,Java,1,1476,114,-1,-1,-1
+OpenAS2_OpenAs2App,https://github.com/OpenAS2/OpenAs2App,OpenAS2 is a java-based implementation of the EDIINT AS2 standard. It is intended to be used as a server. It is extremely configurable and supports a wide variety of signing and encryption algorithms.,82832,78,78,Java,46,858,24,-1,-1,-1
+SWG-Source_dsrc,https://github.com/SWG-Source/dsrc,,94240,1,1,Java,11,3852,46,-1,-1,-1
+wstcliyu_LeetCodeJava,https://github.com/wstcliyu/LeetCodeJava,,1118,0,0,Java,0,763,2,-1,-1,-1
+silvana25almeyda2_SISGESH,https://github.com/silvana25almeyda2/SISGESH,Primera Version,130483,0,0,Java,0,1451,8,-1,-1,-1
+software-jessies-org_jessies,https://github.com/software-jessies-org/jessies,"Terminator, Evergreen, lwm and friends",11130,33,33,Java,7,12475,24,-1,-1,-1
+DDHHKK_NEWFUN,https://github.com/DDHHKK/NEWFUN,,80118,0,0,Java,0,609,11,-1,-1,-1
+chanwit_allure2,https://github.com/chanwit/allure2,,8938,0,0,Java,0,566,35,-1,-1,-1
+BaiMaGod_generator,https://github.com/BaiMaGod/generator,增加 MySQL分页 和 or连接的多列模糊查询,20678,1,1,Java,0,812,27,-1,-1,-1
+qsardb_qsardb-repository,https://github.com/qsardb/qsardb-repository,Digital repository software based on the DSpace platform,106590,1,1,Java,0,10420,262,-1,-1,-1
+darkospoljaric_resillience4j,https://github.com/darkospoljaric/resillience4j,,2732,1,1,Java,0,814,72,-1,-1,-1
+mcidasv_mcidasv,https://github.com/mcidasv/mcidasv,"McIDAS-V is a free, open source, visualization and data analysis software package.",409438,3,3,Java,13,7745,33,-1,-1,-1
+uhh-lt_newsleak,https://github.com/uhh-lt/newsleak,Information extraction and interactive visualization of textual datasets for investigative data-driven journalism and eDiscovery,121794,27,27,Java,10,921,20,-1,-1,-1
+EyeSeeTea_malariapp,https://github.com/EyeSeeTea/malariapp,Android app to help with health center assessments (development repository),34917,7,7,Java,3,5969,20,-1,-1,-1
+lightblueseas_silly-collections,https://github.com/lightblueseas/silly-collections,"Utility library for collections, comparators and iterator classes",819,5,5,Java,2,577,10,-1,-1,-1
+ow2-proactive_programming,https://github.com/ow2-proactive/programming,ProActive Programming library,323565,6,6,Java,16,10509,118,-1,-1,-1
+emmartins_wildfly-server-migration,https://github.com/emmartins/wildfly-server-migration,A tool to migrate a WildFly server,4162,2,2,Java,30,687,15,-1,-1,-1
+mr-3_mrcube,https://github.com/mr-3/mrcube,Meta-Model Management based on RDFs Revision Reflection,39119,1,1,Java,0,760,5,-1,-1,-1
+KrakenProject_kraken-sdk,https://github.com/KrakenProject/kraken-sdk,,5254,0,0,Java,1,934,97,-1,-1,-1
+cobr123_VirtaMarketAnalyzer,https://github.com/cobr123/VirtaMarketAnalyzer,,17227,1,1,Java,1,513,5,-1,-1,-1
+OpenNTF_org.openntf.domino,https://github.com/OpenNTF/org.openntf.domino,Open replacement for lotus.domino package in IBM Domino,105686,51,51,Java,33,3024,40,-1,-1,-1
+glowinthedark_DeskClock9,https://github.com/glowinthedark/DeskClock9,A mod of google's deskclock which adds custom fonts for the screensaver clock and automatically modifies the screen sleep timeout,45872,0,0,Java,0,10805,131,-1,-1,-1
+exoplatform_calendar,https://github.com/exoplatform/calendar,eXo Calendar,16650,7,7,Java,32,3677,123,-1,-1,-1
+haffo_hit-core,https://github.com/haffo/hit-core,"The repo contains the packages  of the different classes and artifcats shared by our hit domain specifis (HL7, ePrescrbing etc...) tools. The packages are not tied to a specific domain",4311,0,0,Java,3,693,17,-1,-1,-1
+mgryszko_intellij-settings,https://github.com/mgryszko/intellij-settings,,9669,0,0,Java,0,4748,2,-1,-1,-1
+renyming_risk,https://github.com/renyming/risk,"Risk game built by Java and JavaFX, adopted agile development approach, implemented different kinds of design patterns.",14955,1,1,Java,2,684,9,-1,-1,-1
+AntonVasilyuk_Aduma,https://github.com/AntonVasilyuk/Aduma,Aduma,5903,1,1,Java,0,585,6,-1,-1,-1
+floragunncom_search-guard-rest-api,https://github.com/floragunncom/search-guard-rest-api,[OUTDATED] This module for Search Guard adds user- and role management capabilities via REST API.,2939,7,7,Java,6,1754,20,-1,-1,-1
+SentinelDataHub_DataHubSystem,https://github.com/SentinelDataHub/DataHubSystem,This webpage was decommissioned. Please visit https://github.com/SentinelDataHub/dhus-distribution,631153,49,49,Java,26,582,12,-1,-1,-1
+eclipsesource_graphical-lsp,https://github.com/eclipsesource/graphical-lsp,The Graphical Language Server Framework provides extensible components to enable editable diagrams in web-applications,7727,21,21,Java,6,661,11,-1,-1,-1
+pillarwallet_pillar-signal-backend,https://github.com/pillarwallet/pillar-signal-backend,,1162,0,0,Java,1,796,22,-1,-1,-1
+Nastel_tnt4j-streams,https://github.com/Nastel/tnt4j-streams,"TNT4J Streams allows data streaming, parsing from various data sources into TNT4J event sinks",45441,1,1,Java,2,1314,13,-1,-1,-1
+revapi_revapi,https://github.com/revapi/revapi,"  Revapi is an API analysis and change tracking tool written in Java.  Its focus is mainly on Java language itself but it has been specifically designed to not be limited to just Java. API is much more than just java classes - also various configuration files, schemas, etc. can contribute to it and users can become reliant on them.",4314,85,85,Java,22,1683,29,-1,-1,-1
+nysenate_Employee-Self-Service,https://github.com/nysenate/Employee-Self-Service,This is the master repository for all Senate Employee Self Service (ESS) applications.,82678,4,4,Java,2,2384,18,-1,-1,-1
+di-wendy_LeetcodeJava,https://github.com/di-wendy/LeetcodeJava,,433,0,0,Java,1,511,4,-1,-1,-1
+O2-Czech-Republic_proxima-platform,https://github.com/O2-Czech-Republic/proxima-platform,The Proxima platform.,2405,5,5,Java,2,768,10,-1,-1,-1
+pingcap_tikv-client-lib-java,https://github.com/pingcap/tikv-client-lib-java,TiKV Java client library,1799,41,41,Java,18,1023,18,-1,-1,-1
+sinnerschrader_SkillWill,https://github.com/sinnerschrader/SkillWill,Skills Management @ SinnerSchrader,5503,15,15,Java,1,697,23,-1,-1,-1
+otto-de_synapse,https://github.com/otto-de/synapse,A library to implement event-sourcing microservices,3003,8,8,Java,9,734,27,-1,-1,-1
+HHNWZ_Sport,https://github.com/HHNWZ/Sport,運動app,18643,0,0,Java,0,546,11,-1,-1,-1
+IOT-DSA_sdk-dslink-java,https://github.com/IOT-DSA/sdk-dslink-java,DSLink Java SDK,2407,15,15,Java,19,1423,29,-1,-1,-1
+LuisPard011_Rummikub,https://github.com/LuisPard011/Rummikub,Rummikub game,69000,0,0,Java,0,975,19,-1,-1,-1
+ParkBum_child,https://github.com/ParkBum/child,구디마지막 프로젝트_어집프,25872,0,0,Java,1,1103,11,-1,-1,-1
+AlexanderKomi_Programmierprojekt,https://github.com/AlexanderKomi/Programmierprojekt,3. Semester Programmierprojekt,64267,4,4,Java,0,760,10,-1,-1,-1
+overture-stack_score,https://github.com/overture-stack/score,:white_check_mark:  Secure Cloud Object Resource,43358,12,12,Java,8,976,33,-1,-1,-1
+AppStoreFoundation_asf-sdk,https://github.com/AppStoreFoundation/asf-sdk,The ASF SDK lets you sell in-app items for AppCoins (APPC) tokens,36758,80,80,Java,27,664,14,-1,-1,-1
+121935608_xgf,https://github.com/121935608/xgf,,24145,0,0,Java,0,504,17,-1,-1,-1
+guoyufu-study_spring-framework-src-note,https://github.com/guoyufu-study/spring-framework-src-note,spring-framework 5.1.x 发布版 源码中文注释,110897,0,0,Java,0,18173,470,-1,-1,-1
+richashworth_planningpoker,https://github.com/richashworth/planningpoker,Agile Estimation for Distributed Teams,27073,4,4,Java,3,703,3,-1,-1,-1
+Tollii_PaperLegionProject,https://github.com/Tollii/PaperLegionProject,Second semester University projcet,39273,0,0,Java,0,1182,15,-1,-1,-1
+ayltai_Newspaper,https://github.com/ayltai/Newspaper,An aggregated newspaper app containing news from 10+ local news publishers in Hong Kong. Made with ❤,8302,70,70,Java,23,925,6,-1,-1,-1
+jmalenko_alarm-morning,https://github.com/jmalenko/alarm-morning,Repository for the Alarm Morning application,112732,0,0,Java,1,603,9,-1,-1,-1
+alphagov_verify-proxy-node,https://github.com/alphagov/verify-proxy-node,eIDAS Proxy Node,6044,5,5,Java,8,988,49,-1,-1,-1
+apache_karaf-cellar,https://github.com/apache/karaf-cellar,Mirror of Apache Karaf Cellar,4951,31,31,Java,45,2553,37,-1,-1,-1
+pentaho_marketplace,https://github.com/pentaho/marketplace,"Providing Pentaho, Partners, and Community Developers a marketplace for plugins within the BI Server product",4964,41,41,Java,86,1362,69,-1,-1,-1
+MIPS_packages-apps-Launcher3,https://github.com/MIPS/packages-apps-Launcher3,,126391,0,0,Java,0,17616,210,-1,-1,-1
+Mgazul_Botania,https://github.com/Mgazul/Botania,植物魔法（魔改）,30703,1,1,Java,1,5752,166,-1,-1,-1
+alauda_alauda-devops-sync-plugin,https://github.com/alauda/alauda-devops-sync-plugin,,876,2,2,Java,8,540,13,-1,-1,-1
+sara0871_http-sara0871-google-tink,https://github.com/sara0871/http-sara0871-google-tink,https://github.com/google/tink,5302,0,0,Java,0,1015,36,-1,-1,-1
+schmave_demschooltools,https://github.com/schmave/demschooltools,,2267,4,4,Java,4,1036,10,-1,-1,-1
+OussamaSghaier_ganttproject-documentation-bot-test,https://github.com/OussamaSghaier/ganttproject-documentation-bot-test,,60346,0,0,Java,0,2976,41,-1,-1,-1
+Drombler_drombler-acp,https://github.com/Drombler/drombler-acp,"Drombler Abstract Client Platform (ACP) - an abstract, GUI-toolkit agnostic, modular Rich Client Platform ",14659,3,3,Java,0,1059,4,-1,-1,-1
+chenmtech_BtDeviceApp,https://github.com/chenmtech/BtDeviceApp,,6055,2,2,Java,0,872,3,-1,-1,-1
+kindBeing_dbeaver,https://github.com/kindBeing/dbeaver,,214073,0,0,Java,0,10861,94,-1,-1,-1
+oleksiikhorunzhyi_appspektor-dreamtrips,https://github.com/oleksiikhorunzhyi/appspektor-dreamtrips,,129242,0,0,Java,0,11889,95,-1,-1,-1
+cristal-ise_kernel,https://github.com/cristal-ise/kernel,OBSOLETE!!! moved to https://github.com/cristal-ise/cristal-ise/tree/develop/kernel repo,2687,9,9,Java,7,972,24,-1,-1,-1
+jesusroncerodam_LazarilloTormes,https://github.com/jesusroncerodam/LazarilloTormes,,143975,0,0,Java,2,507,2,-1,-1,-1
+liuhaojun_mycat,https://github.com/liuhaojun/mycat,,15970,0,0,Java,0,2434,157,-1,-1,-1
+optimizely_java-sdk,https://github.com/optimizely/java-sdk,Optimizely X Full Stack Java SDK,3246,20,20,Java,13,1660,50,-1,-1,-1
+apache_bval,https://github.com/apache/bval,Mirror of Apache Bean Validation,2708,21,21,Java,21,2235,21,-1,-1,-1
+cyyeungaj1_travelagentchatbotdup,https://github.com/cyyeungaj1/travelagentchatbotdup,no description,9586,0,0,Java,1,546,31,-1,-1,-1
+vanzin_jEdit,https://github.com/vanzin/jEdit,My own copy of jEdit's repository from jedit.sourceforge.net.,16060,16,16,Java,22,15695,47,-1,-1,-1
+openflexo-team_gina,https://github.com/openflexo-team/gina,Rich-interfaces framework,9906,1,1,Java,0,1435,21,-1,-1,-1
+hawkore_ignite-hk,https://github.com/hawkore/ignite-hk,Apache Ignite + Hawkore's Apache Ignite Extensions,262663,0,0,Java,0,24905,359,-1,-1,-1
+groothuang_zheng,https://github.com/groothuang/zheng,,40773,0,0,Java,0,1238,15,-1,-1,-1
+panwallet_panwallet-android,https://github.com/panwallet/panwallet-android,Pan - monacoin wallet:  https://www.panwallet.com,51941,5,5,Java,0,0,0,-1,-1,-1
+volzotan_despat,https://github.com/volzotan/despat,a mobile object-detection tool for urban surveys,89070,0,0,Java,0,531,2,-1,-1,-1
+MrZeRo2000_violetnote-android,https://github.com/MrZeRo2000/violetnote-android,,4168,0,0,Java,0,707,1,-1,-1,-1
+frc868_2018-robot,https://github.com/frc868/2018-robot,"Robot code for QuickDraw TechHOUNDS' robot for FRC's 2018 game ""Power Up""",440,0,0,Java,2,515,11,-1,-1,-1
+ControlSystemStudio_cs-studio,https://github.com/ControlSystemStudio/cs-studio,"Control System Studio is an Eclipse-based collections of tools to monitor and operate large scale control systems, such as the ones in the accelerator community. ",595121,77,77,Java,83,26398,212,-1,-1,-1
+Updownquark_ObServe,https://github.com/Updownquark/ObServe,The observable database and application driver,5519,1,1,Java,0,824,5,-1,-1,-1
+dabingcheerup_Wikidata-Toolkit,https://github.com/dabingcheerup/Wikidata-Toolkit,,3983,0,0,Java,0,1489,29,-1,-1,-1
+marklogic-community_corb2,https://github.com/marklogic-community/corb2,"MarkLogic tool for processing and reporting on content, enhanced from the original CoRB",7182,14,14,Java,11,1456,18,-1,-1,-1
+tmoronta1208_Grupp,https://github.com/tmoronta1208/Grupp,,9746,3,3,Java,4,625,10,-1,-1,-1
+Wynntils_Wynntils,https://github.com/Wynntils/Wynntils,Wynntils is a Wynncraft Mod that seeks to enhance the user's gameplay with a variety of customizable options and additions.,7232,18,18,Java,17,1332,40,-1,-1,-1
+sysvii_uni,https://github.com/sysvii/uni,Universty monorepo,221504,0,0,Java,0,0,0,-1,-1,-1
+JeongJaecheol_IoT,https://github.com/JeongJaecheol/IoT,,34009,0,0,Java,0,759,5,-1,-1,-1
+cerberustesting_cerberus-source,https://github.com/cerberustesting/cerberus-source,User-friendly automated testing framework.,151274,77,77,Java,57,5620,91,-1,-1,-1
+haiku_haikudepotserver,https://github.com/haiku/haikudepotserver,Haiku Depot Server,8549,10,10,Java,6,942,15,-1,-1,-1
+fiji_TrackMate3,https://github.com/fiji/TrackMate3,"Mastodon – a large-scale tracking and track-editing framework for large, multi-view images.",7403,15,15,Java,4,3148,16,-1,-1,-1
+yongge666_elasticsearch,https://github.com/yongge666/elasticsearch,elasticsearch插件开发环境,391064,1,1,Java,0,44738,1442,-1,-1,-1
+bobiandreev_tawelibProject,https://github.com/bobiandreev/tawelibProject,,18049,0,0,Java,0,1037,18,-1,-1,-1
+ME3Tweaks_ME3ModManager,https://github.com/ME3Tweaks/ME3ModManager,"Mass Effect 3 Mod Manager, modding Mass Effect 3 made easy.",75325,13,13,Java,2,819,6,-1,-1,-1
+lumien231_Random-Things,https://github.com/lumien231/Random-Things,The Random Things Minecraft Mod,4948,52,52,Java,27,721,17,-1,-1,-1
+heroku_heroku-maven-plugin,https://github.com/heroku/heroku-maven-plugin,,2447,35,35,Java,19,511,11,-1,-1,-1
+Unidata_awips2-core,https://github.com/Unidata/awips2-core,,17254,1,1,Java,2,2528,64,-1,-1,-1
+Lothrazar_Cyclic,https://github.com/Lothrazar/Cyclic,Minecraft mod written in Java,18143,48,48,Java,24,5651,33,-1,-1,-1
+sixh_dubbo-2.6.4-ext,https://github.com/sixh/dubbo-2.6.4-ext,,9686,0,0,Java,0,2374,123,-1,-1,-1
+esoco_esoco-business,https://github.com/esoco/esoco-business,Business process modeling and entity persistence,2809,0,0,Java,0,754,4,-1,-1,-1
+Monyancha_Live-Helpdesk-Chat,https://github.com/Monyancha/Live-Helpdesk-Chat,,49567,1,1,Java,0,6596,86,-1,-1,-1
+openvem_openapi,https://github.com/openvem/openapi,,3095,0,0,Java,0,605,4,-1,-1,-1
+StellarHorizons_Galacticraft-Rewoven,https://github.com/StellarHorizons/Galacticraft-Rewoven,Galacticraft: Rewoven for the FabricMC modding framework,12110,16,16,Java,6,608,16,-1,-1,-1
+mjeanroy_junit-servers,https://github.com/mjeanroy/junit-servers,Add Embedded Server to your junit tests case.,1540,26,26,Java,7,512,10,-1,-1,-1
+aicis_fresco,https://github.com/aicis/fresco,A FRamework for Efficient Secure COmputation,17832,58,58,Java,24,3833,46,-1,-1,-1
+OpenSourcePhysics_tracker,https://github.com/OpenSourcePhysics/tracker,Video analysis and modeling tool built on the Open Source Physics framework,9469,75,75,Java,35,614,7,-1,-1,-1
+venicegeo_bf-api,https://github.com/venicegeo/bf-api,Web service providing automated global vector shoreline extraction.,93703,1,1,Java,1,1532,40,-1,-1,-1
+akihito104_UdonRoad,https://github.com/akihito104/UdonRoad,my Twitter app for Android,2852,0,0,Java,0,1418,5,-1,-1,-1
+apache_incubator-rya,https://github.com/apache/incubator-rya,Mirror of Apache Rya (Incubating),8501,67,67,Java,58,1428,69,-1,-1,-1
+byrage_settings-repository,https://github.com/byrage/settings-repository,IntelliJ setting upstream,756,0,0,Java,0,1322,6,-1,-1,-1
+radixdlt_radixdlt-java,https://github.com/radixdlt/radixdlt-java,A Java/Android Client library for interacting with a RADIX Distributed Ledger.,4146,63,63,Java,19,1104,23,-1,-1,-1
+openstreetcam_josm-plugin,https://github.com/openstreetcam/josm-plugin,The OpenStreetCam JOSM plugin production version (development version is maintained internally),268693,14,14,Java,4,844,44,-1,-1,-1
+CoFH_ThermalDynamics,https://github.com/CoFH/ThermalDynamics,,3027,47,47,Java,31,948,27,-1,-1,-1
+uppersnatch_nononsense-notes,https://github.com/uppersnatch/nononsense-notes,Automatically exported from code.google.com/p/nononsense-notes,29672,3,3,Java,2,1306,26,-1,-1,-1
+cohenadair_anglers-log,https://github.com/cohenadair/anglers-log,"Anglers' Log is a mobile application (Android, iOS) that allows users to track, analyze, and share their catches in the sport of fishing.",165816,2,2,Java,1,1241,6,-1,-1,-1
+Aspire2DroneTeam_ml-kit-texture-view,https://github.com/Aspire2DroneTeam/ml-kit-texture-view,,10121,0,0,Java,0,585,59,-1,-1,-1
+folio-org_mod-circulation-storage,https://github.com/folio-org/mod-circulation-storage,FOLIO mod-circulation-storage,1011,2,2,Java,5,1015,43,-1,-1,-1
+codeprimate-software_cp-elements,https://github.com/codeprimate-software/cp-elements,Elements is a Java Class Library and micro-framework to simplify the development of software applications written in Java.,2580,1,1,Java,2,774,2,-1,-1,-1
+sharplab_spring-security-webauthn,https://github.com/sharplab/spring-security-webauthn,Unofficial WebAuthn module for the Spring Security project,7025,27,27,Java,9,907,3,-1,-1,-1
+JurisMajors_Map-Labeling-Algorithms,https://github.com/JurisMajors/Map-Labeling-Algorithms,"Efficient and highly optimal implementations of the label height maximization problem for the 2-position, 4-position and 1-slider positional models",5577,0,0,Java,0,615,19,-1,-1,-1
+Mu0n_XWVassal,https://github.com/Mu0n/XWVassal,,293443,24,24,Java,14,2313,20,-1,-1,-1
+esong200_QuantumStock,https://github.com/esong200/QuantumStock,Artificially Intelligent Stock Predictor,120817,1,1,Java,0,616,10,-1,-1,-1
+onnela-lab_beiwe-android,https://github.com/onnela-lab/beiwe-android,Beiwe is a smartphone-based digital phenotyping research platform. This is the Beiwe Android app code. The Beiwe2 app is also available on the Google Play store to use with open source builds of the Beiwe backend.,4271,8,8,Java,8,1214,12,-1,-1,-1
+synapticloop_h2zero,https://github.com/synapticloop/h2zero,Java ORM generator for MySQL,66686,2,2,Java,3,555,7,-1,-1,-1
+openlattice_scrunchie,https://github.com/openlattice/scrunchie,,669,0,0,Java,0,548,17,-1,-1,-1
+wso2-cellery_distribution,https://github.com/wso2-cellery/distribution,,10560,10,10,Java,14,1074,34,-1,-1,-1
+gii-is-psg2_PSG2-1819-G2-20,https://github.com/gii-is-psg2/PSG2-1819-G2-20,Primera Entrega,1246,0,0,Java,0,624,56,-1,-1,-1
+btcontract_bitcoinj-atom,https://github.com/btcontract/bitcoinj-atom,,18339,0,0,Java,1,3138,127,-1,-1,-1
+cmartinsgyn_sia,https://github.com/cmartinsgyn/sia,,4529,0,0,Java,0,721,8,-1,-1,-1
+CUBRID_cubrid-testtools,https://github.com/CUBRID/cubrid-testtools,Scripts and utilities that automated testing for CUBRID QA,24618,2,2,Java,16,1416,28,-1,-1,-1
+laurent-daniel-utt_MeshIneBits,https://github.com/laurent-daniel-utt/MeshIneBits,Disintegrate a 3D model into standard bits for fast 3D printing,9297,2,2,Java,0,744,21,-1,-1,-1
+liferay_liferay-faces-bridge-api,https://github.com/liferay/liferay-faces-bridge-api,,1928,2,2,Java,9,682,7,-1,-1,-1
+omunroe-com_googt,https://github.com/omunroe-com/googt,,1063,0,0,Java,0,746,60,-1,-1,-1
+jungwookryu_test,https://github.com/jungwookryu/test,,2556,0,0,Java,0,814,9,-1,-1,-1
+FranckRJ_RespawnIRC-Android,https://github.com/FranckRJ/RespawnIRC-Android,Version android de RespawnIRC.,31999,6,6,Java,0,956,4,-1,-1,-1
+capnkirok_animaniamod,https://github.com/capnkirok/animaniamod,Animania Mod,28653,19,19,Java,20,680,17,-1,-1,-1
+OpenLMIS_openlmis-stockmanagement,https://github.com/OpenLMIS/openlmis-stockmanagement,Stock Managment Service for OpenLMIS v3.1+ http://openlmis.org,6354,6,6,Java,11,1198,35,-1,-1,-1
+afrold_igamt,https://github.com/afrold/igamt,Implementation Guide Authoring and Management Tool,230711,3,3,Java,2,5467,34,-1,-1,-1
+CONNECT-Solution_CONNECT,https://github.com/CONNECT-Solution/CONNECT,"CONNECT Codebase (2.x, 3.x, 4.x,5.x)",1765979,60,60,Java,102,15378,175,-1,-1,-1
+Open-MBEE_mdk,https://github.com/Open-MBEE/mdk,"MagicDraw plugin (includes DocGen, MMS Sync, and Systems Reasoner)",169418,20,20,Java,16,3528,70,-1,-1,-1
+NYRDS_remixed-dungeon,https://github.com/NYRDS/remixed-dungeon,Traditional roguelike game with pixel-art graphics and simple interface - Remixed Pixel Dungeon,90269,97,97,Java,54,7227,30,-1,-1,-1
+RAHULRAJSONU_spring-integration-samples,https://github.com/RAHULRAJSONU/spring-integration-samples,,11232,0,0,Java,0,576,29,-1,-1,-1
+Ainege_ShoppingList,https://github.com/Ainege/ShoppingList,,13295,1,1,Java,1,655,8,-1,-1,-1
+zhuchunliu_his,https://github.com/zhuchunliu/his,,1687,0,0,Java,0,595,4,-1,-1,-1
+vpavic_simple-openid-provider,https://github.com/vpavic/simple-openid-provider,Simple OpenID Provider (OP),1175,3,3,Java,1,515,2,-1,-1,-1
+warmshowers_wsandroid,https://github.com/warmshowers/wsandroid,WarmShowers for Android,6610,35,35,Java,21,861,22,-1,-1,-1
+wultra_powerauth-webflow,https://github.com/wultra/powerauth-webflow,PowerAuth Web Authentication - Federated Authentication and Authorization Server for Web,4505,3,3,Java,4,825,15,-1,-1,-1
+LearnLib_learnlib,https://github.com/LearnLib/learnlib,"A free, open-source Java library for automata learning algorithms",22317,87,87,Java,25,1056,28,-1,-1,-1
+globalmentor_globalmentor-base,https://github.com/globalmentor/globalmentor-base,GlobalMentor base POM and core libraries.,7514,0,0,Java,0,1579,3,-1,-1,-1
+MrLukeKR_Automated-Trader,https://github.com/MrLukeKR/Automated-Trader,"3rd Year University Undergraduate dissertation project, supervised by https://www.nottingham.ac.uk/computerscience/people/thomas.gaertner focusing on using Natural Language Processing, AI Portfolio Optimisation and Machine Learning to produce an Automated Trading Agent. Received 89% overall.",24475,5,5,Java,3,715,5,-1,-1,-1
+JHierrot_openprodoc,https://github.com/JHierrot/openprodoc,OpenProdoc Document management System with Portable and J2EE versions,635419,21,21,Java,5,963,8,-1,-1,-1
+Brokkonaut_CubeQuest,https://github.com/Brokkonaut/CubeQuest,CubeQuest,1767,0,0,Java,0,577,6,-1,-1,-1
+CyrusRenty_whut.House.MgmtSys,https://github.com/CyrusRenty/whut.House.MgmtSys,,116102,1,1,Java,5,803,11,-1,-1,-1
+epam_Wilma,https://github.com/epam/Wilma,Service Virtualization Solution – a combined Service Stub and Transparent Proxy,5749,28,28,Java,7,566,16,-1,-1,-1
+kieker-monitoring_kieker-trace-diagnosis-ui,https://github.com/kieker-monitoring/kieker-trace-diagnosis-ui,The repository for the Kieker Trace Diagnosis tool.,5184,1,1,Java,2,879,9,-1,-1,-1
+yashin-luo_gitee-plugin,https://github.com/yashin-luo/gitee-plugin,This repository has been moved to jenkinsci https://github.com/jenkinsci/gitee-plugin,5417,0,0,Java,2,994,133,-1,-1,-1
+mongodb_stitch-android-sdk,https://github.com/mongodb/stitch-android-sdk,MongoDB Stitch Android SDK,3633,42,42,Java,22,1120,15,-1,-1,-1
+fabric8-quickstarts_spring-boot-camel-drools,https://github.com/fabric8-quickstarts/spring-boot-camel-drools,"a quickstart showing how to use Spring Boot, Apache Camel and Drools together with Kubernetes or OpenShift",237,4,4,Java,13,644,18,-1,-1,-1
+qtumproject_qtum-android,https://github.com/qtumproject/qtum-android,,40406,29,29,Java,36,1745,9,-1,-1,-1
+metadatacenter_cedar-repo-server,https://github.com/metadatacenter/cedar-repo-server,Backend services to support repository operations on CEDAR metadata articats ,291,0,0,Java,0,554,7,-1,-1,-1
+bahmni-msf_bahmni-mart,https://github.com/bahmni-msf/bahmni-mart,,1610,0,0,Java,2,734,44,-1,-1,-1
+GurpreetRaju_Risk,https://github.com/GurpreetRaju/Risk,Java Based game (Acedamic project),2760,1,1,Java,0,668,10,-1,-1,-1
+Ninja-Share_ninjabooks-web,https://github.com/Ninja-Share/ninjabooks-web,,24837,0,0,Java,0,580,4,-1,-1,-1
+streamsets_datacollector-api,https://github.com/streamsets/datacollector-api,StreamSets DataCollector API,718,31,31,Java,44,503,31,-1,-1,-1
+CptWesley_GOALkeeper,https://github.com/CptWesley/GOALkeeper,Static analysis tools for GOAL programming language.,13453,2,2,Java,0,553,6,-1,-1,-1
+rdomloge_catholicon-ms-common,https://github.com/rdomloge/catholicon-ms-common,,247,0,0,Java,0,688,3,-1,-1,-1
+hashgraph_hedera-sdk-java,https://github.com/hashgraph/hedera-sdk-java,Hedera SDK for Java,49848,86,86,Java,37,730,26,-1,-1,-1
+sghpjuikit_player,https://github.com/sghpjuikit/player,Audio player and management application.,177291,14,14,Java,2,2449,12,-1,-1,-1
+pedja1_SMC-Android,https://github.com/pedja1/SMC-Android,Secret Maryo Chronicles for Android,546900,13,13,Java,15,577,7,-1,-1,-1
+omise_omise-java,https://github.com/omise/omise-java,Omise Java Library,847,18,18,Java,13,864,21,-1,-1,-1
+adorsys_ledgers,https://github.com/adorsys/ledgers,,3534,3,3,Java,3,803,17,-1,-1,-1
+jorgeavilae_SporTTeam,https://github.com/jorgeavilae/SporTTeam,Android app social network for organizing team sports matches,4383,2,2,Java,0,732,1,-1,-1,-1
+Ashish-Bansal_OneTapVideoDownload,https://github.com/Ashish-Bansal/OneTapVideoDownload,Download Videos on Android with One Tap.,12715,50,50,Java,22,760,17,-1,-1,-1
+ResearchWorx_Cresco-Agent-Controller-Plugin,https://github.com/ResearchWorx/Cresco-Agent-Controller-Plugin,,1597,0,0,Java,1,1340,6,-1,-1,-1
+Alvinbalzan_ProjectEuler,https://github.com/Alvinbalzan/ProjectEuler,,412,0,0,Java,0,0,0,-1,-1,-1
+evgenymalishevskiy_JD2018-11-13-000,https://github.com/evgenymalishevskiy/JD2018-11-13-000,,10118,0,0,Java,0,1936,45,-1,-1,-1
+TheAndroidMaster_Status,https://github.com/TheAndroidMaster/Status,A no-root status bar replacement for Android.,1577,2,2,Java,3,566,7,-1,-1,-1
+pellierd_pddl4j,https://github.com/pellierd/pddl4j,PDDL4J is an open source library under LGPL license whose purpose of PDDL4J is to facilitate the development of JAVA tools for Automated Planning based on PDDL language (Planning Domain Description Language).,22954,47,47,Java,20,517,11,-1,-1,-1
+ZachHerridge_Acuity,https://github.com/ZachHerridge/Acuity,"Acuity is a project that handles the backend infastructure of Runescape botting clients like https://rspeer.org/. This includes security, databases, client communication, dashboards, and services.",8419,19,19,Java,4,617,7,-1,-1,-1
+liferay_liferay-faces-bridge-ext,https://github.com/liferay/liferay-faces-bridge-ext,,1699,2,2,Java,7,1540,9,-1,-1,-1
+rkonovalov_jfilter,https://github.com/rkonovalov/jfilter,JFilter. Spring Web Service response filtering,867,32,32,Java,5,955,2,-1,-1,-1
+CleanstoneMC_Cleanstone,https://github.com/CleanstoneMC/Cleanstone,Scalable enterprise-style Minecraft Server,3069,49,49,Java,5,925,10,-1,-1,-1
+nataliekenat_test,https://github.com/nataliekenat/test,,131047,0,0,Java,0,3097,40,-1,-1,-1
+Neerajakshulu_parlell-run2,https://github.com/Neerajakshulu/parlell-run2,,41496,0,0,Java,0,4410,76,-1,-1,-1
+aht-group_jeesl,https://github.com/aht-group/jeesl,,21883,0,0,Java,4,6282,27,-1,-1,-1
+Dukou007_leetcode,https://github.com/Dukou007/leetcode,,1026,0,0,Java,0,594,28,-1,-1,-1
+nalbam_sample-spring,https://github.com/nalbam/sample-spring,,58559,0,0,Java,0,574,7,-1,-1,-1
+Serendipity-UOB_HelloBeacon,https://github.com/Serendipity-UOB/HelloBeacon,,6402,0,0,Java,0,529,3,-1,-1,-1
+hazelcast_hazelcast-client-protocol,https://github.com/hazelcast/hazelcast-client-protocol,Hazelcast Open Binary Client Protocol,5398,3,3,Java,37,514,53,-1,-1,-1
+kevinten10_Ware-Tomcat,https://github.com/kevinten10/Ware-Tomcat,"Tomcat - Source code study, including code comment documentation for test cases for code analysis",61662,0,0,Java,0,20669,52,-1,-1,-1
+theAgileFactory_app-framework,https://github.com/theAgileFactory/app-framework,,5384,3,3,Java,2,563,17,-1,-1,-1
+asad_ReactionDecoder,https://github.com/asad/ReactionDecoder,Reaction Decoder Tool (RDT) - Atom Atom Mapping Tool,235290,31,31,Java,9,574,15,-1,-1,-1
+fiji-hpc_hpc-workflow-manager,https://github.com/fiji-hpc/hpc-workflow-manager,,979,1,1,Java,1,530,11,-1,-1,-1
+wonjiBae_testscan2,https://github.com/wonjiBae/testscan2,,892,0,0,Java,0,735,169,-1,-1,-1
+mylife-xiaomo_weixin-java-tools,https://github.com/mylife-xiaomo/weixin-java-tools,,4472,0,0,Java,0,1998,98,-1,-1,-1
+proarc_proarc,https://github.com/proarc/proarc,ProArc - The Production and Archiving System,59108,12,12,Java,10,1997,14,-1,-1,-1
+ravijaiswal07_weblogic-kubernetes-operator,https://github.com/ravijaiswal07/weblogic-kubernetes-operator,,9398,0,0,Java,0,1661,24,-1,-1,-1
+hhu-propra2_abschlussprojekt-javageddon,https://github.com/hhu-propra2/abschlussprojekt-javageddon,abschlussprojekt-javageddon created by GitHub Classroom,85656,0,0,Java,0,640,11,-1,-1,-1
+liuyandong33_service-catering,https://github.com/liuyandong33/service-catering,,7879,2,2,Java,2,759,1,-1,-1,-1
+venusdrogon_feilong-spring,https://github.com/venusdrogon/feilong-spring,:gem:focus on spring,1741,4,4,Java,8,600,1,-1,-1,-1
+informationgrid_ingrid-udk-importer,https://github.com/informationgrid/ingrid-udk-importer,Updates InGrid Catalog databases.,8348,0,0,Java,0,794,14,-1,-1,-1
+adorsys_docusafe,https://github.com/adorsys/docusafe,,2092,0,0,Java,4,644,16,-1,-1,-1
+LordMonoxide_gradient,https://github.com/LordMonoxide/gradient,,8280,0,0,Java,0,884,2,-1,-1,-1
+bonitasoft_bonita-ui-designer,https://github.com/bonitasoft/bonita-ui-designer,,7685,19,19,Java,20,3793,45,-1,-1,-1
+Ajapaik_ajapaik-android-app,https://github.com/Ajapaik/ajapaik-android-app,Rephotography app (for Ajapaik),2238,1,1,Java,1,620,6,-1,-1,-1
+leonidasJH_tinkerpop,https://github.com/leonidasJH/tinkerpop,,112886,0,0,Java,0,15118,157,-1,-1,-1
+Creacionescpm_Mejoras-web,https://github.com/Creacionescpm/Mejoras-web,Mejoras editor web,10592,0,0,Java,0,2100,154,-1,-1,-1
+metaborg_stratego,https://github.com/metaborg/stratego,,1259,7,7,Java,3,666,30,-1,-1,-1
+hasithaa_ballerina,https://github.com/hasithaa/ballerina,Ballerina is a new programming language for integration built on a sequence diagram metaphor.,382916,0,0,Java,1,64096,441,-1,-1,-1
+bluesnap_bluesnap-android-int,https://github.com/bluesnap/bluesnap-android-int,BlueSnap Android SDK,4002,4,4,Java,1,768,14,-1,-1,-1
+openwebnet_openwebnet-android,https://github.com/openwebnet/openwebnet-android,OpenWebNet Android client for My Home BTicino and Legrand home automation system,3593,25,25,Java,23,933,13,-1,-1,-1
+esaude_openmrs-module-eptsreports,https://github.com/esaude/openmrs-module-eptsreports,  Electronic Patient Tracking System (EPTS) report pack,3577,1,1,Java,5,1407,21,-1,-1,-1
+ww20081120_framework,https://github.com/ww20081120/framework,java企业级底层框架，提供日志、缓存、DB访问、消息中间件、规则、流程引擎便捷使用方法， 我们不重复造轮子，我们只是开源世界的搬运工。,18462,80,80,Java,48,866,28,-1,-1,-1
+bedatadriven_activityinfo,https://github.com/bedatadriven/activityinfo,Platform for field-level monitoring and analysis of humanitarian actions,72679,33,33,Java,21,11863,85,-1,-1,-1
+bergerhealer_TrainCarts,https://github.com/bergerhealer/TrainCarts,Minecarts redefined,87699,57,57,Java,38,1145,33,-1,-1,-1
+aceleradora-TW_Raizes,https://github.com/aceleradora-TW/Raizes,,5504,3,3,Java,0,681,38,-1,-1,-1
+VegemiteJ_YearningtoExploreEvolutionaryTSP,https://github.com/VegemiteJ/YearningtoExploreEvolutionaryTSP,,722,0,0,Java,0,0,0,-1,-1,-1
+gstamatelat_social-influence,https://github.com/gstamatelat/social-influence,Java 8 network/graph framework with emphasis on social network analysis,1631,1,1,Java,1,957,4,-1,-1,-1
+sunwww_ecom-ast-ru,https://github.com/sunwww/ecom-ast-ru,Automatically exported from code.google.com/p/ecom-ast-ru,122872,2,2,Java,1,7715,17,-1,-1,-1
+halestudio_hale,https://github.com/halestudio/hale,(Spatial) data harmonisation with hale studio (formerly HUMBOLDT Alignment Editor),347640,48,48,Java,29,17378,58,-1,-1,-1
+Garath88_JDA,https://github.com/Garath88/JDA,,22549,0,0,Java,0,1539,74,-1,-1,-1
+SonarSource_sonar-html,https://github.com/SonarSource/sonar-html,,3796,29,29,Java,28,800,54,-1,-1,-1
+zk25796_jfinal-jfinal,https://github.com/zk25796/jfinal-jfinal,,1020,0,0,Java,0,513,22,-1,-1,-1
+Sebastian1984_snailclimb,https://github.com/Sebastian1984/snailclimb,,772,2,2,Java,1,598,20,-1,-1,-1
+quanchuynh_para,https://github.com/quanchuynh/para,,3954,0,0,Java,0,1162,11,-1,-1,-1
+liu-weihao_yoogurt-taxi,https://github.com/liu-weihao/yoogurt-taxi,!!Deprecated!!,3489,2,2,Java,1,957,6,-1,-1,-1
+cojen_Tupl,https://github.com/cojen/Tupl,The Unnamed Persistence Library,17887,75,75,Java,20,3200,13,-1,-1,-1
+pentaho_pentaho-mongodb-plugin,https://github.com/pentaho/pentaho-mongodb-plugin,,28337,18,18,Java,107,1270,107,-1,-1,-1
+pvarry_intra42,https://github.com/pvarry/intra42,"Unofficial, free and open-source 42's intranet App.",5470,23,23,Java,4,646,7,-1,-1,-1
+ahome-it_lienzo-core,https://github.com/ahome-it/lienzo-core,Lienzo Structure Graphics GWT Toolkit,3086,47,47,Java,51,666,29,-1,-1,-1
+TehNut_HWYLA,https://github.com/TehNut/HWYLA,A fork of Waila maintaining it for new MC versions,3038,60,60,Java,33,1680,60,-1,-1,-1
+EsupPortail_esup-dematec,https://github.com/EsupPortail/esup-dematec,Application de dématérialisation des recrutements des enseignants chercheurs et ATER liés à l'application nationale Galaxie. ,1892,3,3,Java,3,583,2,-1,-1,-1
+Coveros_selenified,https://github.com/Coveros/selenified,"The Selenified Test Framework provides mechanisms for simply testing applications at multiple tiers while easily integrating into DevOps build environments. Selenified provides traceable reporting for both web and API testing, wraps and extends Selenium calls to more appropriately handle testing errors, and supports testing over multiple browsers locally, or in the cloud in parallel. It can be a great starting point for building or improving test automation in your organization.",9291,27,27,Java,9,1424,14,-1,-1,-1
+micronaut-projects_micronaut-sql,https://github.com/micronaut-projects/micronaut-sql,Projects to support SQL Database access in Micronaut,1554,12,12,Java,9,596,28,-1,-1,-1
+googleapis_gax-java,https://github.com/googleapis/gax-java,Google API Extensions for Java - shared runtime for clients generated by googleapis/gapic-generator,15795,62,62,Java,55,2593,57,-1,-1,-1
+radislavB_SeleniumExample,https://github.com/radislavB/SeleniumExample,,16243,0,0,Java,0,2899,152,-1,-1,-1
+Khmelov_AT2019-03-12,https://github.com/Khmelov/AT2019-03-12,Курс AT2019-03-12,49386,0,0,Java,14,907,26,-1,-1,-1
+RomuCampu_Java-Bootcamp,https://github.com/RomuCampu/Java-Bootcamp,,5682,1,1,Java,0,557,5,-1,-1,-1
+a-sf-mirror_opencamera,https://github.com/a-sf-mirror/opencamera,Snapshot of OpenCamera,7707,1,1,Java,1,3016,16,-1,-1,-1
+gnahZ-eH_LeetCodeSolutionsInJavaAndCpp,https://github.com/gnahZ-eH/LeetCodeSolutionsInJavaAndCpp,The solutions of some questions from leetCode in both C++ and Java.,1142,3,3,Java,2,1823,5,-1,-1,-1
+TakumaMochizuki_Komica,https://github.com/TakumaMochizuki/Komica,,1260,3,3,Java,2,553,2,-1,-1,-1
+phax_ph-oton,https://github.com/phax/ph-oton,The complete ph websuite,31568,2,2,Java,1,2324,7,-1,-1,-1
+Jorch72_NewTardisMod,https://github.com/Jorch72/NewTardisMod,,10525,0,0,Java,0,1148,17,-1,-1,-1
+JetBrains_Arend,https://github.com/JetBrains/Arend,,11441,79,79,Java,9,2569,18,-1,-1,-1
+rjdeleon03_QuikDataApp,https://github.com/rjdeleon03/QuikDataApp,QuikData is an app developed to speed up reporting of disaster-related information such as needs and impact assessments for disaster-stricken communities in the Philippines.,2756,0,0,Java,0,580,6,-1,-1,-1
+apache_streams,https://github.com/apache/streams,Apache Streams,147671,61,61,Java,34,3157,67,-1,-1,-1
+igm-team_atav,https://github.com/igm-team/atav,Analysis Tool for Annotated Variants - a platform for population scale genomic analyses,56349,1,1,Java,1,1286,21,-1,-1,-1
+sg-test-org_curly-octo-funicular,https://github.com/sg-test-org/curly-octo-funicular,,13061,0,0,Java,0,2577,223,-1,-1,-1
+snowdrop_configmap-example,https://github.com/snowdrop/configmap-example,Quickstart to expose a REST Greeting endpoint using Spring Boot where the message is defined as a Kubernetes Config Map property,699,3,3,Java,17,589,29,-1,-1,-1
+AlexanderPeters_FRC-2018-Archived-Branches,https://github.com/AlexanderPeters/FRC-2018-Archived-Branches,One of many repositories that I authored or contributed significantly towards (occasionally under other user accounts) while on FRC team 3140.,4093,0,0,Java,0,517,21,-1,-1,-1
+thraaawn_CompactMachines,https://github.com/thraaawn/CompactMachines,Minecraft Mod. Adds one simple game mechanic: Small rooms inside of blocks.,2646,69,69,Java,38,575,31,-1,-1,-1
+FollettSchoolSolutions_perfmon4j,https://github.com/FollettSchoolSolutions/perfmon4j,PerfMon4j™ is a software API designed to diagnose and monitor application performance while the software is under load.,6042,5,5,Java,1,744,9,-1,-1,-1
+home-climate-control_dz,https://github.com/home-climate-control/dz,Home Climate Control Core: platform independent code and device drivers for multi-zone temperature and climate control system.,15824,16,16,Java,3,503,8,-1,-1,-1
+oasp_oasp4j,https://github.com/oasp/oasp4j,The Open Application Standard Platform for Java,10483,60,60,Java,320,1707,118,-1,-1,-1
+confluentinc_kafka-connect-storage-common,https://github.com/confluentinc/kafka-connect-storage-common,Shared software among connectors that target distributed filesystems and cloud storage.,1115,24,24,Java,83,942,54,-1,-1,-1
+vietnv5_motel-project,https://github.com/vietnv5/motel-project,My Motel Project,231687,0,0,Java,0,1940,13,-1,-1,-1
+usagecontrolsystem_usagecontrolsystem,https://github.com/usagecontrolsystem/usagecontrolsystem,,92601,4,4,Java,4,797,10,-1,-1,-1
+ujfalusi95_HOSPITAL-APP,https://github.com/ujfalusi95/HOSPITAL-APP,,28471,0,0,Java,0,512,1,-1,-1,-1
+LabKey_onprcEHRModules,https://github.com/LabKey/onprcEHRModules,LabKey Server modules used by the Oregon National Primate Research Center for their primate EHR and other functionality,5778,0,0,Java,1,677,27,-1,-1,-1
+AarthiBhatt_Broadleaf,https://github.com/AarthiBhatt/Broadleaf,,249051,0,0,Java,0,20418,140,-1,-1,-1
+Engineering-Research-and-Development_loa-evaluation-tool,https://github.com/Engineering-Research-and-Development/loa-evaluation-tool,Level of Automation Evaluation Tool,32513,0,0,Java,0,914,11,-1,-1,-1
+swethacts_frameworkium-core-maven-rest,https://github.com/swethacts/frameworkium-core-maven-rest,,1109,0,0,Java,0,812,34,-1,-1,-1
+rqwxin_rocketmq,https://github.com/rqwxin/rocketmq,,2504,0,0,Java,0,665,66,-1,-1,-1
+driver733_VK-Uploader,https://github.com/driver733/VK-Uploader,VK.com group posts generator ,4780,17,17,Java,0,720,7,-1,-1,-1
+seeker_commonj,https://github.com/seeker/commonj,common classes used in other projects,2934,2,2,Java,0,687,3,-1,-1,-1
+bcdev_calvalus2,https://github.com/bcdev/calvalus2,Cal/Val and User Services: Utilising Apache Hadoop and SNAP for Earth Observation Data,124277,11,11,Java,4,4494,29,-1,-1,-1
+nebula-plugins_gradle-metrics-plugin,https://github.com/nebula-plugins/gradle-metrics-plugin,Plugin to send Gradle metrics to external datasources,1311,53,53,Java,15,518,19,-1,-1,-1
+medic_medic-gateway,https://github.com/medic/medic-gateway,Android SMS gateway app for Medic Mobile,815,13,13,Java,5,634,11,-1,-1,-1
+SDSMT-CSC_AugmentedEducation,https://github.com/SDSMT-CSC/AugmentedEducation,Augmented Education for SD Mines,328482,0,0,Java,0,746,17,-1,-1,-1
+CAAPIM_Android-MAS-SDK,https://github.com/CAAPIM/Android-MAS-SDK,Install and use the Mobile SDK for Android™,5844,7,7,Java,14,1615,40,-1,-1,-1
+Minecrell_ServerListPlus,https://github.com/Minecrell/ServerListPlus,A flexible Minecraft plugin to customize the appearance of your server in the server list,1972,79,79,Java,33,858,16,-1,-1,-1
+processtech_runawfe-free-devstudio,https://github.com/processtech/runawfe-free-devstudio,,37475,1,1,Java,23,919,46,-1,-1,-1
+jqm4gwt_jqm4gwt,https://github.com/jqm4gwt/jqm4gwt,GWT library for jQuery Mobile,4453,49,49,Java,18,882,25,-1,-1,-1
+davidg95_JTillServer,https://github.com/davidg95/JTillServer,JTill Server repository.,162555,0,0,Java,0,1006,5,-1,-1,-1
+Zielon_NavimeeMobile,https://github.com/Zielon/NavimeeMobile,Drively mobile application,3987,4,4,Java,0,906,11,-1,-1,-1
+alyssonrodrigues_afrcode,https://github.com/alyssonrodrigues/afrcode,Automatically exported from code.google.com/p/afrcode,107900,0,0,Java,1,844,10,-1,-1,-1
+exonum_exonum-java-binding,https://github.com/exonum/exonum-java-binding,Java Binding for the Exonum blockchain framework,4762,53,53,Java,22,4810,43,-1,-1,-1
+kodinganyar_square21,https://github.com/kodinganyar/square21,,2802,0,0,Java,0,1721,169,-1,-1,-1
+sdoxsee_poc-WebClientHttpInvokerRequestExecutor,https://github.com/sdoxsee/poc-WebClientHttpInvokerRequestExecutor,,115040,1,1,Java,1,11539,757,-1,-1,-1
+neowu_core-ng-project,https://github.com/neowu/core-ng-project,webapp framework,6779,61,61,Java,25,1690,15,-1,-1,-1
+joeflack4_xform-test-with-javarosa-history,https://github.com/joeflack4/xform-test-with-javarosa-history,A test suite for Xforms.,10497,0,0,Java,1,3721,66,-1,-1,-1
+phenoscape_phenoscape-data,https://github.com/phenoscape/phenoscape-data,NeXML data files annotated by Phenoscape curators.,184082,2,2,Java,0,1915,2,-1,-1,-1
+uptonking_tablesaw,https://github.com/uptonking/tablesaw,slice data in java like pandas/R.        forked from jtablesaw/tablesaw,57874,0,0,Java,0,1080,28,-1,-1,-1
+didclab_onedatashare-spring,https://github.com/didclab/onedatashare-spring,OneDataShare,53592,6,6,Java,5,501,20,-1,-1,-1
+Jaxonwht_voogasalad,https://github.com/Jaxonwht/voogasalad,This repository contains a little Game Authoring Environment for turn based games developed with JavaFx,177796,0,0,Java,0,1571,16,-1,-1,-1
+SOCIALHS_SOCIALHS,https://github.com/SOCIALHS/SOCIALHS,,72281,0,0,Java,1,563,17,-1,-1,-1
+EyeSeeTea_QAApp,https://github.com/EyeSeeTea/QAApp, Android app to help with health center assessments  (HNQIS blessed repository),30377,1,1,Java,0,4545,18,-1,-1,-1
+trifork_fmk-schemas,https://github.com/trifork/fmk-schemas,,3506,1,1,Java,0,1266,36,-1,-1,-1
+CommuteCompanion_etsn05-project,https://github.com/CommuteCompanion/etsn05-project,ETSN05 project,2122,1,1,Java,0,774,15,-1,-1,-1
+openjdk_jdk12u,https://github.com/openjdk/jdk12u,Read-only mirror of https://hg.openjdk.java.net/jdk-updates/jdk12u/,274731,10,10,Java,1,53426,1217,-1,-1,-1
+sturtesm_appdynamics-paypal-integration-auth-service,https://github.com/sturtesm/appdynamics-paypal-integration-auth-service,Authorization and payment service to manage / coordinate payments with PayPal,5760,0,0,Java,0,4908,3,-1,-1,-1
+GSA_gsa-icam-card-builder,https://github.com/GSA/gsa-icam-card-builder,ICAM Test Card Signer and Data Populator,42338,3,3,Java,5,770,9,-1,-1,-1
+BrunoEberhard_minimal-j,https://github.com/BrunoEberhard/minimal-j,Java - but small,12225,13,13,Java,4,3461,13,-1,-1,-1
+inf112-v19_Robocop,https://github.com/inf112-v19/Robocop,Project repo for team 1 in group 1,9758,3,3,Java,0,611,12,-1,-1,-1
+opencb_hpg-bigdata,https://github.com/opencb/hpg-bigdata,This repository implements converters and tools for working with NGS data in HPC or Hadoop cluster,19564,17,17,Java,15,628,14,-1,-1,-1
+infraling_atomic,https://github.com/infraling/atomic,Software for multi-level annotation of linguistic corpora,10238,17,17,Java,7,1915,10,-1,-1,-1
+sambooo_runelite,https://github.com/sambooo/runelite,Fork of runelite/runelite,27658,0,0,Java,0,7121,434,-1,-1,-1
+OussamaSghaier_smile-bot-test,https://github.com/OussamaSghaier/smile-bot-test,,165318,0,0,Java,0,1656,56,-1,-1,-1
+JaneliaSciComp_workstation,https://github.com/JaneliaSciComp/workstation,Janelia Workstation,97347,2,2,Java,2,15692,47,-1,-1,-1
+johan-martenson_settlers,https://github.com/johan-martenson/settlers,,3036,0,0,Java,0,833,3,-1,-1,-1
+fiergra_cl-doc,https://github.com/fiergra/cl-doc,Automatically exported from code.google.com/p/cl-doc,45307,0,0,Java,0,521,4,-1,-1,-1
+filus95_DIMA-Project,https://github.com/filus95/DIMA-Project,,16582,0,0,Java,0,530,4,-1,-1,-1
+despinoza0406_holaasdasd,https://github.com/despinoza0406/holaasdasd,,30946,0,0,Java,0,534,25,-1,-1,-1
+frc3197_Eileen,https://github.com/frc3197/Eileen,"Code for 3197's Robot competing in the 2019 challenge, Destination: Deep Space",2017,0,0,Java,1,526,8,-1,-1,-1
+rubenvidalcss_test-gamma-postgresjdbc,https://github.com/rubenvidalcss/test-gamma-postgresjdbc,,7644,0,0,Java,0,2968,174,-1,-1,-1
+hawkular_hawkular-agent,https://github.com/hawkular/hawkular-agent,Hawkular Agents that can be used to monitor managed products,5386,32,32,Java,36,1990,38,-1,-1,-1
+codeaurora-unofficial_platform-packages-apps-Nfc,https://github.com/codeaurora-unofficial/platform-packages-apps-Nfc,,10865,0,0,Java,0,8672,243,-1,-1,-1
+eclipse_webtools.javaee,https://github.com/eclipse/webtools.javaee,Eclipse Web Tools Platform Project project repository (webtools.javaee),49922,7,7,Java,8,11450,76,-1,-1,-1
+djrain_as,https://github.com/djrain/as,,243,0,0,Java,0,626,5,-1,-1,-1
+divino_marklogic-data-hub,https://github.com/divino/marklogic-data-hub,A data hub framework for MarkLogic. Start here =>,73940,0,0,Java,0,986,16,-1,-1,-1
+sefcom_FrozenNode-nodeRequireResolver,https://github.com/sefcom/FrozenNode-nodeRequireResolver,This is a modified closure-compiler that staticly links modules contained in require. There is also a preprocesswrapper.py for ease of calling,72240,0,0,Java,0,11910,863,-1,-1,-1
+poisondog_poisondog.commons,https://github.com/poisondog/poisondog.commons,,1344,0,0,Java,0,779,3,-1,-1,-1
+savoirfairelinux_ring-client-android,https://github.com/savoirfairelinux/ring-client-android,Mirror of Gerrit Ring Android Client,86176,96,96,Java,26,7496,53,-1,-1,-1
+895660789_java,https://github.com/895660789/java,,743,0,0,Java,0,582,20,-1,-1,-1
+defano_wyldcard,https://github.com/defano/wyldcard,A clone of Apple's HyperCard and HyperTalk scripting language.,5631,31,31,Java,2,992,3,-1,-1,-1
+go-barbarians_badh-zookeeper,https://github.com/go-barbarians/badh-zookeeper,Barbarian big data system - ZooKeeper repo,21998,0,0,Java,0,1713,97,-1,-1,-1
+DennisVargas_noNameRPG,https://github.com/DennisVargas/noNameRPG,A multiplayer game where the goal is to reach the end of the dungeon without dying. Written in Java Using Slick2d and the JIG library.,23183,0,0,Java,0,564,9,-1,-1,-1
