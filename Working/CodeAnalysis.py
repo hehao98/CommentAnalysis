@@ -130,10 +130,13 @@ def get_file_stats(filepath, lang):
     '''
     Given a source code file and its programming language, return comment analysis result 
     '''
-    stat = {'functions': 0}
+    stat = {'functions': 0, 'doc_comment': 0, 'impl_comment': 0}
     trees = CodeParser.get_json_syntax_tree(filepath)
     for tree in trees:
         stat['functions'] += CodeParser.count_functions(tree)
+        comment_count = CodeParser.count_comments(tree, trees, lang)
+        stat['doc_comment'] += comment_count['doc_comment']
+        stat['impl_comment'] += comment_count['impl_comment']
     return stat
 
 
@@ -153,13 +156,21 @@ if __name__ == '__main__':
     projects = pd.read_csv(csv_path)
 
     # Initialize metrics if not present
-    metrics = ['src_files', 'header_comment', 'functions', 'func_with_doc', 'doc_comment', 'impl_comment']
+    # TODO Add more metrics to them
+    #metrics = ['src_files', 'header_comment', 'functions', 'func_with_doc', 'doc_comment', 'impl_comment']
+    metrics = ['src_files', 'functions', 'doc_comment', 'impl_comment']
     for metric in metrics:
         if metric not in projects:
             projects[metric] = -1
 
     for index, row in projects.iterrows():
-        # Skipping analyzed projects if the related flag is set
+        # Skipping analyzed projects if all the related fields is set
+        should_skip = True
+        for metric in metrics:
+            if row[metric] == -1:
+                should_skip = False
+        if should_skip:
+            continue
 
         print(colored('Processing {}...'.format(row['name']), 'green'))
 
@@ -175,10 +186,16 @@ if __name__ == '__main__':
         print('Read {} source files in which {} files are unique...'.format(
             read_count, len(file_list)))
 
+        projects.at[index, 'src_files'] = len(file_list)
+        projects.at[index, 'functions'] = 0
+        projects.at[index, 'doc_comment'] = 0
+        projects.at[index, 'impl_comment'] = 0
         for file in file_list:
             stat = get_file_stats(file, row['language'])
             # TODO Copy the stats into csv
-            projects.at[index, 'functions'] = stat['functions']
+            projects.at[index, 'functions'] += stat['functions']
+            projects.at[index, 'doc_comment'] += stat['doc_comment']
+            projects.at[index, 'impl_comment'] += stat['impl_comment']
 
         print(projects.loc[index])
         projects.to_csv(csv_path, index=False)
