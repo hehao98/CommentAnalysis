@@ -16,7 +16,7 @@ from termcolor import colored
 def run_proc(index, url, name):
     print(colored('Downloading Project {}...'.format(index), 'green'))
     subprocess.call(
-        'git clone --depth=1 {}.git {}'.format(url, name), shell=True)
+        'git clone {}.git {}'.format(url, name), shell=True)
 
 
 if __name__ == '__main__':

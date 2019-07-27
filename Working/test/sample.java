@@ -13,13 +13,17 @@ public class sample {
         int x;
         /* This is another normal comment */
         int y;
-        return 0;
+        return 0; // This is another nomal comment
     }
 
     /**
      * This is the main function
      */
     public static void main(String[] args) {
+        /*
+         * int a = b + c; // There is another nasty comment
+         */
+        System.out.printf("This is a nasty comment /*")
         return;
     }
 }
