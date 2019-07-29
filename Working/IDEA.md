@@ -10,6 +10,25 @@ RQ1: What are the commenting practices in the wild?
 
 RQ2: What are the impact of different commenting practices on a project's popularity, robustness and sustainability?
 
+## Methodology
+
+We use projects from JavaScript, Java and Python because they are easy to parse and have clear separation between documentation comments and implementation comments
+
+To answer RQ1, we collect the following metrics for each project and present our results
+
+1. Line of code and Line of comments. Comment density = line of comment / line of code
+2. Number of implementation comments and number of documentation comments
+3. Percentage of functions with a documentation comment
+4. Percentage of files with a header comment
+5. Vocabulary used in a comment
+6. A list of files and per file metrics like header comment length, documentation comment length, etc
+
+To answer RQ2, we conduct xxx and xxx analysis on the previously collected data
+
+1. We measure a projects' popularity by its number of stars, forks, contributors and used_by, if applicable
+2. We measure a projects' robustness by … (Not determined yet)
+3. We measure a projects' sustainability by … (Not determined yet)
+
 ## How other people think about comments
 
 1. From the Software Engineering Literature
