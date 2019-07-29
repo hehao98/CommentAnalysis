@@ -1,0 +1,1001 @@
+name,url,description,size,stars,watchers,language,forks,commits,authors,lines_of_code,lines_of_comments,lines_blank
+tensorflow_federated,https://github.com/tensorflow/federated,A framework for implementing federated learning,4042,537,537,Python,94,853,40,-1,-1,-1
+stanfordnlp_cocoa,https://github.com/stanfordnlp/cocoa,Framework for learning dialogue agents in a two-player game setting.,12191,110,110,Python,48,2053,19,-1,-1,-1
+eskerda_pybikes,https://github.com/eskerda/pybikes,bike sharing + python = pybikes,1310,375,375,Python,128,1063,105,-1,-1,-1
+mukulhase_WebWhatsapp-Wrapper,https://github.com/mukulhase/WebWhatsapp-Wrapper,An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018],1439,925,925,Python,441,724,96,-1,-1,-1
+StanfordVL_robosuite,https://github.com/StanfordVL/robosuite,Surreal Robotics Suite: standardized and accessible robot manipulation benchmark in physics simulation,154033,129,129,Python,34,604,19,-1,-1,-1
+adithyakhamithkar_ansible-playbooks,https://github.com/adithyakhamithkar/ansible-playbooks,"Ansible playbook collection that have been written for Ubuntu. Some of the playbooks are Elasticsearch, Mesos, AWS, MySql, Sensu, Nginx etc.. ",322068,297,297,Python,198,724,6,-1,-1,-1
+OpenZWave_python-openzwave,https://github.com/OpenZWave/python-openzwave,Python wrapper for openzwave,53104,165,165,Python,119,1838,57,-1,-1,-1
+lmfit_lmfit-py,https://github.com/lmfit/lmfit-py,"Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize.leastsq, and with many additional classes and methods for curve fitting ",13495,403,403,Python,131,2319,68,-1,-1,-1
+chrisdev_wagtail-cookiecutter-foundation,https://github.com/chrisdev/wagtail-cookiecutter-foundation,A Cookiecutter template for Wagtail CMS using Zurb Foundation 6,21376,141,141,Python,38,2286,22,-1,-1,-1
+django-crispy-forms_django-crispy-forms,https://github.com/django-crispy-forms/django-crispy-forms,The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.,2032,3575,3575,Python,619,2022,353,-1,-1,-1
+baohaojun_system-config,https://github.com/baohaojun/system-config,My customizations of Posix systems (Linux/Cygwin/Darwin).,716585,197,197,Python,74,19665,263,-1,-1,-1
+oauthlib_oauthlib,https://github.com/oauthlib/oauthlib,"A generic, spec-compliant, thorough implementation of the OAuth request-signing logic",2178,1814,1814,Python,378,2058,245,-1,-1,-1
+repology_repology,https://github.com/repology/repology,Compare package versions in many repositories,5307,277,277,Python,63,5204,70,-1,-1,-1
+inasafe_inasafe,https://github.com/inasafe/inasafe,InaSAFE - QGIS plugin for estimating impact from natural disasters,247490,149,149,Python,122,20798,95,-1,-1,-1
+cyverse_atmosphere,https://github.com/cyverse/atmosphere,Where cloud lives.,181508,227,227,Python,95,8617,58,-1,-1,-1
+ncclient_ncclient,https://github.com/ncclient/ncclient,Python library for NETCONF clients,3037,351,351,Python,267,1011,144,-1,-1,-1
+afewmail_afew,https://github.com/afewmail/afew,an initial tagging script for notmuch mail,375,224,224,Python,77,581,82,-1,-1,-1
+home-assistant_appdaemon,https://github.com/home-assistant/appdaemon,:page_facing_up: Python Apps for Home Automation,11476,351,351,Python,244,2267,124,-1,-1,-1
+openstack_python-keystoneclient,https://github.com/openstack/python-keystoneclient,OpenStack Identity (Keystone) Client,12083,194,194,Python,224,9566,455,-1,-1,-1
+googleapis_google-api-python-client,https://github.com/googleapis/google-api-python-client,🐍 The official Python client library for Google's discovery based APIs.,35694,2738,2738,Python,1275,1441,224,-1,-1,-1
+suavecode_SUAVE,https://github.com/suavecode/SUAVE,An Aircraft Design Toolbox,203439,110,110,Python,103,4641,94,-1,-1,-1
+pubnub_python,https://github.com/pubnub/python,"PubNub Python-based APIs for core Python, Twisted, and Tornado",2665,118,118,Python,105,1148,62,-1,-1,-1
+amdegroot_ssd.pytorch,https://github.com/amdegroot/ssd.pytorch,A PyTorch Implementation of Single Shot MultiBox Detector,108865,2495,2495,Python,929,545,46,-1,-1,-1
+lingthio_Flask-User,https://github.com/lingthio/Flask-User,"Customizable User Authorization & User Management: Register, Confirm, Login, Change username/password, Forgot password and more.",2849,780,780,Python,207,773,89,-1,-1,-1
+d2l-ai_d2l-en,https://github.com/d2l-ai/d2l-en,"Dive into Deep Learning: an interactive deep learning book with code, math, and discussions",142283,2117,2117,Python,588,1798,114,-1,-1,-1
+LockGit_Hacking,https://github.com/LockGit/Hacking,hacking is a kind of spirit !,60502,334,334,Python,125,1766,3,-1,-1,-1
+networktocode_ntc-ansible,https://github.com/networktocode/ntc-ansible,Multi-vendor network modules,420,210,210,Python,80,685,53,-1,-1,-1
+fxsjy_jieba,https://github.com/fxsjy/jieba,结巴中文分词,44251,19300,19300,Python,5012,687,117,-1,-1,-1
+XanaduAI_pennylane,https://github.com/XanaduAI/pennylane,"PennyLane is a cross-platform Python library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations",17226,261,261,Python,66,2235,16,-1,-1,-1
+LazoCoder_Pokemon-Terminal,https://github.com/LazoCoder/Pokemon-Terminal,Pokemon terminal themes.,69291,3250,3250,Python,160,540,40,-1,-1,-1
+hyperledger_indy-node,https://github.com/hyperledger/indy-node,The server portion of a distributed ledger purpose-built for decentralized identity.,19322,387,387,Python,359,6602,134,-1,-1,-1
+sao-eht_eat,https://github.com/sao-eht/eat,EHT Analysis Toolkit,1257,111,111,Python,18,879,20,-1,-1,-1
+jisaacks_GitGutter,https://github.com/jisaacks/GitGutter,A Sublime Text 2/3 plugin to see git diff in gutter,1919,3859,3859,Python,237,967,154,-1,-1,-1
+kubernetes-client_python,https://github.com/kubernetes-client/python,Official Python client library for kubernetes,12246,1748,1748,Python,1079,1001,132,-1,-1,-1
+ulfalizer_Kconfiglib,https://github.com/ulfalizer/Kconfiglib,A flexible Python 2/3 Kconfig implementation and library,6707,131,131,Python,61,1677,24,-1,-1,-1
+jazzband_django-constance,https://github.com/jazzband/django-constance,Dynamic Django settings.,669,1027,1027,Python,228,766,165,-1,-1,-1
+googlemaps_google-maps-services-python,https://github.com/googlemaps/google-maps-services-python,Python client library for Google Maps API Web Services,746,2267,2267,Python,787,557,69,-1,-1,-1
+openstack_magnum,https://github.com/openstack/magnum,Container Infrastructure Management Service for OpenStack,39571,269,269,Python,182,18517,498,-1,-1,-1
+django-haystack_django-haystack,https://github.com/django-haystack/django-haystack,Modular search for Django,3817,2772,2772,Python,1143,3585,616,-1,-1,-1
+hugapi_hug,https://github.com/hugapi/hug,"Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.",5330,5795,5795,Python,345,2349,121,-1,-1,-1
+snapcore_snapcraft,https://github.com/snapcore/snapcraft,"Package, distribute, and update any app for Linux and IoT.",22772,801,801,Python,298,13013,327,-1,-1,-1
+PyCQA_baron,https://github.com/PyCQA/baron,"IDE allow you to refactor code, Baron allows you to write refactoring code.",2557,214,214,Python,40,1563,38,-1,-1,-1
+cobbler_cobbler,https://github.com/cobbler/cobbler,Cobbler is a versatile Linux deployment server,21374,1791,1791,Python,506,9682,440,-1,-1,-1
+lilydjwg_winterpy,https://github.com/lilydjwg/winterpy,My python scripts started in winter.,1083,181,181,Python,55,1034,12,-1,-1,-1
+Azure_aztk,https://github.com/Azure/aztk,"AZTK powered by Azure Batch: On-demand, Dockerized, Spark Jobs on Azure",6451,124,124,Python,55,2864,44,-1,-1,-1
+autopkg_autopkg,https://github.com/autopkg/autopkg,Automating packaging and software distribution on OS X.,1585,681,681,Python,119,1504,86,-1,-1,-1
+eirannejad_pyRevit,https://github.com/eirannejad/pyRevit,python Rapid Application Development (RAD) Environment for Autodesk Revit®,571577,254,254,Python,95,3937,33,-1,-1,-1
+m-labs_artiq,https://github.com/m-labs/artiq,A leading-edge control system for quantum information experiments,12623,182,182,Python,78,8000,69,-1,-1,-1
+zim-desktop-wiki_zim-desktop-wiki,https://github.com/zim-desktop-wiki/zim-desktop-wiki,Main repository of the zim desktop wiki project,66565,689,689,Python,158,2272,124,-1,-1,-1
+pyqtgraph_pyqtgraph,https://github.com/pyqtgraph/pyqtgraph,Fast data visualization and GUI tools for scientific / engineering applications,4544,1608,1608,Python,628,3163,308,-1,-1,-1
+pgiri_dispy,https://github.com/pgiri/dispy,Distributed and Parallel Computing Framework with / for Python,3525,183,183,Python,43,668,17,-1,-1,-1
+mil-tokyo_webdnn,https://github.com/mil-tokyo/webdnn,The Fastest DNN Running Framework on Web Browser,25738,1621,1621,Python,134,1715,21,-1,-1,-1
+manahl_pytest-plugins,https://github.com/manahl/pytest-plugins,A grab-bag of nifty pytest plugins,11242,243,243,Python,42,931,60,-1,-1,-1
+PyCQA_pycodestyle,https://github.com/PyCQA/pycodestyle,Simple Python style checker in one Python file,1472,3715,3715,Python,548,1686,266,-1,-1,-1
+getredash_redash,https://github.com/getredash/redash,"Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",15626,13146,13146,Python,2181,13239,670,-1,-1,-1
+dfki-ric_phobos,https://github.com/dfki-ric/phobos,"An add-on for Blender allowing to create URDF, SDF and SMURF robot models in a WYSIWYG environment.",12620,133,133,Python,43,2472,37,-1,-1,-1
+sdaps_sdaps,https://github.com/sdaps/sdaps,Scripts for data acquisition with paper based surveys,6562,127,127,Python,51,1212,69,-1,-1,-1
+angr_cle,https://github.com/angr/cle,"CLE Loads Everything (at least, many binary formats!)",3963,189,189,Python,74,1399,93,-1,-1,-1
+avisingh599_reward-learning-rl,https://github.com/avisingh599/reward-learning-rl,[RSS 2019] End-to-End Robotic Reinforcement Learning without Reward Engineering,13574,185,185,Python,31,1549,20,-1,-1,-1
+enthought_traitsui,https://github.com/enthought/traitsui,TraitsUI: Traits-capable windowing framework,45084,168,168,Python,77,4243,153,-1,-1,-1
+behave_behave,https://github.com/behave/behave,"BDD, Python style.",3555,1746,1746,Python,434,2698,203,-1,-1,-1
+rthalley_dnspython,https://github.com/rthalley/dnspython,a powerful DNS toolkit for python,1933,1294,1294,Python,291,1191,129,-1,-1,-1
+s4w3d0ff_python-poloniex,https://github.com/s4w3d0ff/python-poloniex,Poloniex API wrapper for Python 2.7 & 3,335,545,545,Python,178,606,27,-1,-1,-1
+simon-weber_gmusicapi,https://github.com/simon-weber/gmusicapi,An unofficial client library for Google Music.,4098,2423,2423,Python,289,1545,80,-1,-1,-1
+pydata_numexpr,https://github.com/pydata/numexpr,"Fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, bcolz and more",2484,1041,1041,Python,133,809,69,-1,-1,-1
+mozilla_OpenWPM,https://github.com/mozilla/OpenWPM,A web privacy measurement framework,40801,854,854,Python,170,1153,49,-1,-1,-1
+angr_angr-doc,https://github.com/angr/angr-doc,Documentation for the angr suite,7422,491,491,Python,274,1314,141,-1,-1,-1
+toxygen-project_toxygen,https://github.com/toxygen-project/toxygen,Toxygen is pythonic Tox client,8017,191,191,Python,34,817,11,-1,-1,-1
+shuup_shuup,https://github.com/shuup/shuup,E-Commerce Platform,23194,970,970,Python,508,7281,93,-1,-1,-1
+mongodb_specifications,https://github.com/mongodb/specifications,Specifications related to MongoDB,4794,157,157,Python,96,2562,82,-1,-1,-1
+SecureAuthCorp_pysap,https://github.com/SecureAuthCorp/pysap,"pysap is an open source Python library that provides modules for crafting and sending packets using SAP's NI, Diag, Enqueue, Router, Message Server, SNC, IGS and RFC protocols.",20588,114,114,Python,37,763,13,-1,-1,-1
+marshmallow-code_webargs,https://github.com/marshmallow-code/webargs,"A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, Falcon, and aiohttp.",2362,842,842,Python,113,1102,63,-1,-1,-1
+mila-iqia_blocks,https://github.com/mila-iqia/blocks,A Theano framework for building and training neural networks,4776,1148,1148,Python,358,0,0,-1,-1,-1
+bmoscon_cryptofeed,https://github.com/bmoscon/cryptofeed,Cryptocurrency Exchange Feed Handler with synthetic NBBO,815,207,207,Python,73,741,20,-1,-1,-1
+google_pytype,https://github.com/google/pytype,A static type analyzer for Python code,31606,2021,2021,Python,110,3132,55,-1,-1,-1
+odlgroup_odl,https://github.com/odlgroup/odl,Operator Discretization Library  https://odlgroup.github.io/odl/,44097,128,128,Python,63,7200,53,-1,-1,-1
+arteria_django-hijack,https://github.com/arteria/django-hijack,"With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.",586,743,743,Python,113,554,71,-1,-1,-1
+wxWidgets_Phoenix,https://github.com/wxWidgets/Phoenix,"wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.",38874,1070,1070,Python,275,5068,115,-1,-1,-1
+instabot-py_instabot.py,https://github.com/instabot-py/instabot.py,"Instagram bot. It works without instagram api, need only login and password. Write on python.",687,4785,4785,Python,2077,1465,231,-1,-1,-1
+mongodb_docs,https://github.com/mongodb/docs,The MongoDB Documentation Project Source.,93583,606,606,Python,1482,26500,835,-1,-1,-1
+getsentry_sentry,https://github.com/getsentry/sentry,"Sentry is cross-platform application monitoring, with a focus on error reporting.",117128,21449,21449,Python,2457,51989,817,-1,-1,-1
+snowplow-referer-parser_referer-parser,https://github.com/snowplow-referer-parser/referer-parser,Library for extracting marketing attribution data from referrer URLs,1641,271,271,Python,137,736,107,-1,-1,-1
+DeepX-inc_machina,https://github.com/DeepX-inc/machina,Deep Reinforcement Learning framework,7120,204,204,Python,32,1963,22,-1,-1,-1
+cloud-custodian_cloud-custodian,https://github.com/cloud-custodian/cloud-custodian,"Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",122727,2263,2263,Python,656,16342,489,-1,-1,-1
+ZeitOnline_briefkasten,https://github.com/ZeitOnline/briefkasten,a reasonably secure web application for submitting content anonymously,1560,153,153,Python,11,1062,8,-1,-1,-1
+hellerve_programming-talks,https://github.com/hellerve/programming-talks,Awesome & interesting talks about programming,761,3284,3284,Python,269,814,54,-1,-1,-1
+coveralls-clients_coveralls-python,https://github.com/coveralls-clients/coveralls-python,Show coverage stats online via coveralls.io,300,401,401,Python,125,514,65,-1,-1,-1
+readthedocs_readthedocs.org,https://github.com/readthedocs/readthedocs.org,The source code that powers readthedocs.org,62221,5256,5256,Python,2874,0,0,-1,-1,-1
+facebook_FAI-PEP,https://github.com/facebook/FAI-PEP,Facebook AI Performance Evaluation Platform,24959,206,206,Python,47,976,30,-1,-1,-1
+oppia_oppia,https://github.com/oppia/oppia,Tool for collaboratively building interactive lessons.,117776,1049,1049,Python,995,34383,758,-1,-1,-1
+pirate_ArchiveBox,https://github.com/pirate/ArchiveBox,"🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",3854,5185,5185,Python,279,1172,55,-1,-1,-1
+ellmetha_django-machina,https://github.com/ellmetha/django-machina,A Django forum engine for building powerful community driven websites.,9824,334,334,Python,66,1676,48,-1,-1,-1
+miguelgrinberg_python-engineio,https://github.com/miguelgrinberg/python-engineio,Python Engine.IO server and client,818,113,113,Python,64,657,69,-1,-1,-1
+testing-cabal_mock,https://github.com/testing-cabal/mock,The Python mock library,1307,419,419,Python,86,2383,92,-1,-1,-1
+andreikop_enki,https://github.com/andreikop/enki,A text editor for programmers,17001,136,136,Python,32,5018,39,-1,-1,-1
+vaexio_vaex,https://github.com/vaexio/vaex,"Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second.",122281,1455,1455,Python,91,2538,26,-1,-1,-1
+liampauling_betfair,https://github.com/liampauling/betfair,Lightweight python wrapper for Betfair API-NG (with streaming),885,143,143,Python,60,1062,22,-1,-1,-1
+scikit-learn-contrib_DESlib,https://github.com/scikit-learn-contrib/DESlib,A Python library for dynamic classifier and ensemble selection,2241,159,159,Python,39,695,15,-1,-1,-1
+pyviz_datashader,https://github.com/pyviz/datashader,"Reveal everything even in your largest datasets, by turning them into images.",36836,1980,1980,Python,264,2640,52,-1,-1,-1
+duckietown_Software,https://github.com/duckietown/Software,"This repository contains all the software that runs on the Duckiebot, as well as support files (e.g. maps), plus hardware schematics.",1074091,180,180,Python,327,12775,407,-1,-1,-1
+okfde_froide,https://github.com/okfde/froide,Freedom Of Information Portal,23067,177,177,Python,61,4450,40,-1,-1,-1
+translate_pootle,https://github.com/translate/pootle,Online translation tool,126233,1188,1188,Python,268,22456,151,-1,-1,-1
+biocore_scikit-bio,https://github.com/biocore/scikit-bio,"scikit-bio is an open-source, BSD-licensed, Python package providing data structures, algorithms, and educational resources for bioinformatics.",46974,490,490,Python,181,7056,122,-1,-1,-1
+datalad_datalad,https://github.com/datalad/datalad,Keep scientific data under control with git  and git-annex,17301,151,151,Python,52,11244,53,-1,-1,-1
+python_peps,https://github.com/python/peps,Python Enhancement Proposals,12117,1730,1730,Python,593,15630,422,-1,-1,-1
+donnemartin_saws,https://github.com/donnemartin/saws,A supercharged AWS command line interface (CLI).,4028,4104,4104,Python,218,874,13,-1,-1,-1
+cisagov_pshtt,https://github.com/cisagov/pshtt,Scan domains and return data based on HTTPS best practices,565,531,531,Python,58,670,38,-1,-1,-1
+Yelp_Tron,https://github.com/Yelp/Tron,Next generation batch process scheduling and management,9555,309,309,Python,57,3542,73,-1,-1,-1
+steemit_steem-python,https://github.com/steemit/steem-python,The official Python (3) library for the Steem Blockchain.,936,165,165,Python,102,650,58,-1,-1,-1
+mwclient_mwclient,https://github.com/mwclient/mwclient,Python client library to interface with the MediaWiki API,774,185,185,Python,68,737,60,-1,-1,-1
+algorhythms_LeetCode,https://github.com/algorhythms/LeetCode,LeetCode In Action -  Python (705+),1849,548,548,Python,177,792,10,-1,-1,-1
+ipython_ipyparallel,https://github.com/ipython/ipyparallel,Interactive Parallel Computing in Python,6161,1378,1378,Python,543,5444,149,-1,-1,-1
+frappe_erpnext,https://github.com/frappe/erpnext,Open Source ERP built for the web,750372,4940,4940,Python,2158,43572,669,-1,-1,-1
+python-adaptive_adaptive,https://github.com/python-adaptive/adaptive,:chart_with_upwards_trend: Tools for adaptive and parallel samping of mathematical functions ,2374,331,331,Python,19,1513,10,-1,-1,-1
+asciimoo_searx,https://github.com/asciimoo/searx,Privacy-respecting metasearch engine,8723,4935,4935,Python,804,3493,204,-1,-1,-1
+glumpy_glumpy,https://github.com/glumpy/glumpy,"Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization",12153,628,628,Python,114,853,42,-1,-1,-1
+openstack_trove,https://github.com/openstack/trove,OpenStack Database As A Service (Trove),58863,249,249,Python,207,31108,743,-1,-1,-1
+mailgun_flanker,https://github.com/mailgun/flanker,Python email address and Mime parsing library,10218,1317,1317,Python,150,584,83,-1,-1,-1
+evansd_whitenoise,https://github.com/evansd/whitenoise,Radically simplified static file serving for Python web apps,487,1253,1253,Python,74,510,53,-1,-1,-1
+jleclanche_fireplace,https://github.com/jleclanche/fireplace,A Hearthstone simulator in Python,2950,546,546,Python,135,3431,43,-1,-1,-1
+ethereum_research,https://github.com/ethereum/research,,33945,949,949,Python,223,662,47,-1,-1,-1
+Marginal_EDMarketConnector,https://github.com/Marginal/EDMarketConnector,Downloads commodity market and other station data from the game Elite: Dangerous for use with all popular online and offline trading tools.,28438,460,460,Python,96,1190,30,-1,-1,-1
+overviewer_Minecraft-Overviewer,https://github.com/overviewer/Minecraft-Overviewer,Render high-resolution maps of a Minecraft world with a Leaflet powered interface,11360,2017,2017,Python,333,3432,232,-1,-1,-1
+cornellius-gp_gpytorch,https://github.com/cornellius-gp/gpytorch,A highly efficient and modular implementation of Gaussian Processes in PyTorch,12790,1372,1372,Python,168,2762,54,-1,-1,-1
+donnemartin_system-design-primer,https://github.com/donnemartin/system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,4233,69069,69069,Python,10721,841,185,-1,-1,-1
+snipsco_snips-nlu,https://github.com/snipsco/snips-nlu,Snips Python library to extract meaning from text,19978,2800,2800,Python,271,2643,32,-1,-1,-1
+aws_sagemaker-tensorflow-container,https://github.com/aws/sagemaker-tensorflow-container,This support code is used for making the TensorFlow framework run on Amazon SageMaker.,13680,148,148,Python,85,738,46,-1,-1,-1
+thu-ml_zhusuan,https://github.com/thu-ml/zhusuan,"A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow",1553,1668,1668,Python,326,937,50,-1,-1,-1
+mete0r_pyhwp,https://github.com/mete0r/pyhwp,.hwp file format v5 parser in python,4305,154,154,Python,34,1553,4,-1,-1,-1
+QingdaoU_OnlineJudge,https://github.com/QingdaoU/OnlineJudge,"open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com",22789,2368,2368,Python,658,2123,57,-1,-1,-1
+bitcoin-core_HWI,https://github.com/bitcoin-core/HWI,Bitcoin Hardware Wallet Interaction scripts,707,127,127,Python,32,511,15,-1,-1,-1
+jbjorne_TEES,https://github.com/jbjorne/TEES,Turku Event Extraction System,5457,111,111,Python,36,3394,10,-1,-1,-1
+i3visio_osrframework,https://github.com/i3visio/osrframework,"OSRFramework, the Open Sources Research Framework is a AGPLv3+ project by i3visio focused on providing API and tools to perform more accurate online researches.",4101,336,336,Python,109,798,12,-1,-1,-1
+timothycrosley_isort,https://github.com/timothycrosley/isort,A Python utility / library to sort imports.,2722,1980,1980,Python,239,2130,190,-1,-1,-1
+TheRenegadeCoder_sample-programs,https://github.com/TheRenegadeCoder/sample-programs,Sample Programs in Every Programming Language,18244,158,158,Python,86,2989,105,-1,-1,-1
+Gallopsled_pwntools,https://github.com/Gallopsled/pwntools,CTF framework and exploit development library,21619,5421,5421,Python,1030,5513,244,-1,-1,-1
+python-xlib_python-xlib,https://github.com/python-xlib/python-xlib,XLib in pure Python (Py2/Py3 compatible),1114,182,182,Python,49,755,43,-1,-1,-1
+tahoe-lafs_tahoe-lafs,https://github.com/tahoe-lafs/tahoe-lafs,The Tahoe-LAFS decentralized secure filesystem.,70488,896,896,Python,206,17504,143,-1,-1,-1
+openstack_tacker,https://github.com/openstack/tacker,Tacker: ETSI MANO NFV Orchestrator / VNF Manager. See https://wiki.openstack.org/wiki/Tacker,27196,101,101,Python,106,7665,266,-1,-1,-1
+graphql-python_graphql-core,https://github.com/graphql-python/graphql-core,GraphQL base implementation for Python,2181,361,361,Python,159,1205,90,-1,-1,-1
+Showndarya_Hacktoberfest,https://github.com/Showndarya/Hacktoberfest,A collection of words! :star: it if you :+1: it !,8316,136,136,Python,943,4700,1220,-1,-1,-1
+ReactionMechanismGenerator_RMG-Py,https://github.com/ReactionMechanismGenerator/RMG-Py,Python version of the amazing Reaction Mechanism Generator (RMG).,109959,138,138,Python,117,14421,121,-1,-1,-1
+shawnbrown_datatest,https://github.com/shawnbrown/datatest,Tools for test driven data-wrangling and data validation.,2916,196,196,Python,13,1759,6,-1,-1,-1
+chainer_chainercv,https://github.com/chainer/chainercv,ChainerCV: a Library for Deep Learning in Computer Vision,5733,1161,1161,Python,287,6211,58,-1,-1,-1
+fabric_fabric,https://github.com/fabric/fabric,"Simple, Pythonic remote execution and deployment.",18849,11447,11447,Python,1732,6442,564,-1,-1,-1
+F5Networks_f5-common-python,https://github.com/F5Networks/f5-common-python,Python SDK for configuration and monitoring of F5® BIG-IP® devices via the iControl® REST API.,2698,185,185,Python,105,2279,68,-1,-1,-1
+zdresearch_OWASP-Nettacker,https://github.com/zdresearch/OWASP-Nettacker,Automated Penetration Testing Framework,5958,540,540,Python,200,1210,34,-1,-1,-1
+pychess_pychess,https://github.com/pychess/pychess,PyChess - a chess client for Linux/Windows,32500,291,291,Python,93,12190,50,-1,-1,-1
+palantir_python-language-server,https://github.com/palantir/python-language-server,An implementation of the Language Server Protocol for Python,809,1323,1323,Python,142,949,99,-1,-1,-1
+equinor_segyio,https://github.com/equinor/segyio,Fast Python library for SEGY files.,3976,160,160,Python,92,1296,55,-1,-1,-1
+hypothesis_h,https://github.com/hypothesis/h,"Annotate with anyone, anywhere.",31848,1493,1493,Python,294,17757,138,-1,-1,-1
+python_black,https://github.com/python/black,The uncompromising Python code formatter,3297,11353,11353,Python,580,1126,172,-1,-1,-1
+mikedh_trimesh,https://github.com/mikedh/trimesh,Python library for loading and using triangular meshes.,23204,534,534,Python,153,2169,56,-1,-1,-1
+nitely_Spirit,https://github.com/nitely/Spirit,Spirit is a modern Python based forum built on top of Django framework,9847,913,913,Python,264,1279,55,-1,-1,-1
+platformio_platformio-core,https://github.com/platformio/platformio-core,An open source ecosystem for IoT development :alien: Cross-platform IDE and unified debugger. Remote unit testing and firmware updates.,35552,3239,3239,Python,422,4244,102,-1,-1,-1
+astronomer_airflow-guides,https://github.com/astronomer/airflow-guides,Guides and docs to help you get up and running with Airflow and Astronomer,1519,204,204,Python,22,557,24,-1,-1,-1
+mlflow_mlflow,https://github.com/mlflow/mlflow,Open source platform for the machine learning lifecycle,9991,4202,4202,Python,813,7912,238,-1,-1,-1
+Theano_Theano,https://github.com/Theano/Theano,"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.",67980,8835,8835,Python,2491,36257,810,-1,-1,-1
+Tautulli_Tautulli,https://github.com/Tautulli/Tautulli,A Python based monitoring and tracking tool for Plex Media Server.,85488,2981,2981,Python,451,3514,166,-1,-1,-1
+python-escpos_python-escpos,https://github.com/python-escpos/python-escpos,Python library to manipulate ESC/POS printers,784,437,437,Python,170,872,68,-1,-1,-1
+openstack_pyghmi,https://github.com/openstack/pyghmi,A Pure python IPMI library,2137,213,213,Python,72,2017,81,-1,-1,-1
+sagemath_sage,https://github.com/sagemath/sage,Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/,223410,1013,1013,Python,288,78959,1198,-1,-1,-1
+wrye-bash_wrye-bash,https://github.com/wrye-bash/wrye-bash,The main Wrye Bash repository.,201258,197,197,Python,53,11014,57,-1,-1,-1
+trailofbits_manticore,https://github.com/trailofbits/manticore,Symbolic execution tool,25519,1691,1691,Python,252,6445,152,-1,-1,-1
+rackerlabs_mimic,https://github.com/rackerlabs/mimic,An API mock service,3158,159,159,Python,59,3978,69,-1,-1,-1
+mido_mido,https://github.com/mido/mido,MIDI Objects for Python,2385,456,456,Python,85,2128,53,-1,-1,-1
+the-tale_the-tale,https://github.com/the-tale/the-tale,Основной репозиторий проекта: сайт и логика игры,38138,237,237,Python,53,3108,28,-1,-1,-1
+gi0baro_weppy,https://github.com/gi0baro/weppy,The web framework for humans,2532,587,587,Python,48,1241,27,-1,-1,-1
+mu-editor_mu,https://github.com/mu-editor/mu,"A small, simple editor for beginner Python programmers. Written in Python and Qt5.",16476,660,660,Python,240,2002,124,-1,-1,-1
+inducer_loopy,https://github.com/inducer/loopy,A code generator for array-based code on CPUs and GPUs,6523,239,239,Python,36,4299,37,-1,-1,-1
+rafalp_Misago,https://github.com/rafalp/Misago,"Misago is fully featured modern forum application that is fast, scalable and responsive.",76343,1655,1655,Python,351,5699,62,-1,-1,-1
+spyder-ide_qtpy,https://github.com/spyder-ide/qtpy,"Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase",307,302,302,Python,74,559,37,-1,-1,-1
+prompt-toolkit_python-prompt-toolkit,https://github.com/prompt-toolkit/python-prompt-toolkit,Library for building powerful interactive command line applications in Python,7769,5578,5578,Python,397,3185,211,-1,-1,-1
+stan-dev_pystan,https://github.com/stan-dev/pystan,"PyStan, the Python interface to Stan",55814,691,691,Python,156,1221,76,-1,-1,-1
+studioml_studio,https://github.com/studioml/studio,Studio: Simplify and expedite model building process,2220,320,320,Python,44,2334,31,-1,-1,-1
+bleachbit_bleachbit,https://github.com/bleachbit/bleachbit,BleachBit system cleaner for Windows and Linux,7184,609,609,Python,102,5120,230,-1,-1,-1
+jmcgeheeiv_pyfakefs,https://github.com/jmcgeheeiv/pyfakefs,pyfakefs implements a fake file system that mocks the Python file system modules.,5459,265,265,Python,56,998,55,-1,-1,-1
+bundlewrap_bundlewrap,https://github.com/bundlewrap/bundlewrap,Config management with Python,7820,134,134,Python,21,2482,25,-1,-1,-1
+Mariewelt_OpenChem,https://github.com/Mariewelt/OpenChem,OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research,111219,139,139,Python,17,584,5,-1,-1,-1
+deeppomf_DeepCreamPy,https://github.com/deeppomf/DeepCreamPy,Decensoring Hentai with Deep Neural Networks,21650,8112,8112,Python,833,550,24,-1,-1,-1
+psychopy_psychopy,https://github.com/psychopy/psychopy,For running psychology and neuroscience experiments,86524,690,690,Python,454,11715,243,-1,-1,-1
+cuckoosandbox_community,https://github.com/cuckoosandbox/community,Repository of modules and signatures contributed by the community,18831,223,223,Python,152,2054,110,-1,-1,-1
+philpep_testinfra,https://github.com/philpep/testinfra,Testinfra test your infrastructures,719,1439,1439,Python,206,1314,145,-1,-1,-1
+micahflee_onionshare,https://github.com/micahflee/onionshare,Securely and anonymously send and receive files,12649,3165,3165,Python,402,3001,167,-1,-1,-1
+jedie_django-tools,https://github.com/jedie/django-tools,miscellaneous django tools,962,102,102,Python,24,733,12,-1,-1,-1
+mozilla_MozDef,https://github.com/mozilla/MozDef,MozDef: Mozilla Enterprise Defense Platform,63441,1819,1819,Python,292,5252,68,-1,-1,-1
+plotly_plotly.py,https://github.com/plotly/plotly.py,"An open-source, interactive graphing library for Python :sparkles:",108040,5169,5169,Python,1145,5021,174,-1,-1,-1
+JoelBender_bacpypes,https://github.com/JoelBender/bacpypes,"BACpypes provides a BACnet application layer and network layer written in Python for daemons, scripting, and graphical interfaces.",1940,112,112,Python,62,1126,28,-1,-1,-1
+ytdl-org_youtube-dl,https://github.com/ytdl-org/youtube-dl,Command-line program to download videos from YouTube.com and other video sites,56262,52572,52572,Python,9172,27688,2279,-1,-1,-1
+m-labs_nmigen,https://github.com/m-labs/nmigen,A refreshed Python toolbox for building complex digital hardware,767,140,140,Python,25,511,16,-1,-1,-1
+codalab_codalab-competitions,https://github.com/codalab/codalab-competitions,CodaLab Competitions,62921,238,238,Python,90,8162,92,-1,-1,-1
+boto_boto,https://github.com/boto/boto,"For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services",15965,6330,6330,Python,2292,11585,1666,-1,-1,-1
+pycurl_pycurl,https://github.com/pycurl/pycurl,PycURL - Python interface to libcurl,3227,589,589,Python,169,3125,87,-1,-1,-1
+swapagarwal_JARVIS-on-Messenger,https://github.com/swapagarwal/JARVIS-on-Messenger,:speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks,288,954,954,Python,550,1327,308,-1,-1,-1
+cookiecutter-flask_cookiecutter-flask,https://github.com/cookiecutter-flask/cookiecutter-flask,"A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.",2447,2677,2677,Python,511,1077,79,-1,-1,-1
+vmware_pyvmomi-community-samples,https://github.com/vmware/pyvmomi-community-samples,A place for community contributed samples for the pyVmomi library.,652,602,602,Python,613,1023,166,-1,-1,-1
+amzn_emukit,https://github.com/amzn/emukit,"A Python-based toolbox of various methods in uncertainty quantification and statistical emulation: multi-fidelity, experimental design, Bayesian optimisation, Bayesian quadrature, etc. ",13024,121,121,Python,41,835,25,-1,-1,-1
+ewels_MultiQC,https://github.com/ewels/MultiQC,Aggregate results from bioinformatics analyses across many samples into a single report.,21568,491,491,Python,262,3358,146,-1,-1,-1
+espressif_esptool,https://github.com/espressif/esptool,ESP8266 and ESP32 serial bootloader utility,7706,2606,2606,Python,714,676,89,-1,-1,-1
+openstack_octavia,https://github.com/openstack/octavia,Load Balancing as a Service (LBaaS) for OpenStack,25737,111,111,Python,99,15027,293,-1,-1,-1
+kibitzr_kibitzr,https://github.com/kibitzr/kibitzr,Personal Web Assistant,541,211,211,Python,22,696,19,-1,-1,-1
+jboss-openshift_application-templates,https://github.com/jboss-openshift/application-templates,OpenShift application templates supporting JBoss Middleware based applications.,4704,135,135,Python,281,1175,94,-1,-1,-1
+vmware_pyvcloud,https://github.com/vmware/pyvcloud,Python SDK for VMware vCloud Director,25472,120,120,Python,123,2921,125,-1,-1,-1
+openstack_kuryr,https://github.com/openstack/kuryr,Bridge between container framework networking and storage models to OpenStack networking and storage abstractions.,2874,157,157,Python,47,2848,125,-1,-1,-1
+SmileyChris_django-countries,https://github.com/SmileyChris/django-countries,"A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.",2583,685,685,Python,166,577,99,-1,-1,-1
+confluentinc_ducktape,https://github.com/confluentinc/ducktape,System integration and performance tests,924,210,210,Python,43,860,41,-1,-1,-1
+openstack_tempest,https://github.com/openstack/tempest,OpenStack Testing (Tempest) of an existing cloud,71069,323,323,Python,441,52568,1372,-1,-1,-1
+release-monitoring_anitya,https://github.com/release-monitoring/anitya,A cross-distribution upstream release monitoring project,6647,131,131,Python,59,2196,66,-1,-1,-1
+michaeljoseph_changes,https://github.com/michaeljoseph/changes,changes automates python library release tasks.,589,261,261,Python,12,872,11,-1,-1,-1
+dask_distributed,https://github.com/dask/distributed,A distributed task scheduler for Dask,12310,843,843,Python,331,7960,276,-1,-1,-1
+sailoog_openplotter,https://github.com/sailoog/openplotter,The open-source sailing platform for ARM computers.,36752,140,140,Python,58,1123,33,-1,-1,-1
+roddhjav_pass-import,https://github.com/roddhjav/pass-import,A pass extension for importing data from most of the existing password manager.,1011,227,227,Python,37,543,29,-1,-1,-1
+lucyparsons_OpenOversight,https://github.com/lucyparsons/OpenOversight,Police oversight and accountability through public data 👮,11467,111,111,Python,43,1745,63,-1,-1,-1
+thtrieu_darkflow,https://github.com/thtrieu/darkflow,"Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices",19191,4870,4870,Python,1708,797,106,-1,-1,-1
+allegro_vaas,https://github.com/allegro/vaas,VaaS - Varnish as a Service,1922,184,184,Python,24,555,40,-1,-1,-1
+pyscaffold_pyscaffold,https://github.com/pyscaffold/pyscaffold,🛠 Python project template generator with batteries included,2002,577,577,Python,78,1488,46,-1,-1,-1
+johnbywater_eventsourcing,https://github.com/johnbywater/eventsourcing,Event sourcing in Python,5317,456,456,Python,37,2564,16,-1,-1,-1
+pipermerriam_flex,https://github.com/pipermerriam/flex,Swagger schema validator,792,130,130,Python,67,585,62,-1,-1,-1
+freelawproject_courtlistener,https://github.com/freelawproject/courtlistener,A free and powerful system for awareness and research of the American judicial system.,209269,141,141,Python,63,7855,77,-1,-1,-1
+descarteslabs_descarteslabs-python,https://github.com/descarteslabs/descarteslabs-python,Descartes Labs Python Client Library,1500,105,105,Python,27,1171,33,-1,-1,-1
+mozilla_kitsune,https://github.com/mozilla/kitsune,Platform for Mozilla Support,127703,504,504,Python,490,14227,222,-1,-1,-1
+trezor_trezor-core,https://github.com/trezor/trezor-core,":lock: Don't use this repo, use the new monorepo instead:",15541,327,327,Python,181,3746,106,-1,-1,-1
+zentralopensource_zentral,https://github.com/zentralopensource/zentral,"Zentral is a framework to gather, process, and monitor system events and link them to an inventory.",4148,410,410,Python,44,894,30,-1,-1,-1
+pupil-labs_pupil,https://github.com/pupil-labs/pupil,Open source eye tracking ,25717,774,774,Python,510,6184,77,-1,-1,-1
+foospidy_HoneyPy,https://github.com/foospidy/HoneyPy,A low to medium interaction honeypot.,2889,368,368,Python,80,609,25,-1,-1,-1
+numixproject_numix-core,https://github.com/numixproject/numix-core,Builder for App Icon Themes,45946,743,743,Python,152,10417,190,-1,-1,-1
+jazzband_django-debug-toolbar,https://github.com/jazzband/django-debug-toolbar,A configurable set of panels that display various debug information about the current request/response.,6243,5501,5501,Python,840,2532,392,-1,-1,-1
+psss_did,https://github.com/psss/did,"What did you do last week, month, year?",481,126,126,Python,60,601,51,-1,-1,-1
+facebookresearch_maskrcnn-benchmark,https://github.com/facebookresearch/maskrcnn-benchmark,"Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.",6710,5909,5909,Python,1521,947,162,-1,-1,-1
+theacodes_nox,https://github.com/theacodes/nox,Flexible test automation for Python,4677,167,167,Python,35,572,35,-1,-1,-1
+mozillazg_python-pinyin,https://github.com/mozillazg/python-pinyin,汉字转拼音(pypinyin),4498,1981,1981,Python,333,626,19,-1,-1,-1
+zerosum0x0_koadic,https://github.com/zerosum0x0/koadic,Koadic C3 COM Command & Control - JScript RAT,8117,1309,1309,Python,372,522,19,-1,-1,-1
+openmicroscopy_openmicroscopy,https://github.com/openmicroscopy/openmicroscopy,"OME (Open Microscopy Environment) develops open-source software and data format standards for the storage and manipulation of biological light microscopy data. A joint project between universities, research establishments and industry in Europe and the USA, OME has over 20 active researchers with strong links to the microscopy community. Funded by private and public research grants, OME has been a major force on the international microscopy stage since 2000.",1982086,131,131,Python,95,67323,178,-1,-1,-1
+burke-software_django-report-builder,https://github.com/burke-software/django-report-builder,This is a github mirror for django-report-builder which is hosted on Gitlab. Django Report Builder is a GUI for Django ORM. Build custom queries and display results. Targets sys admins and capable end users who might not be able to program.,11113,621,621,Python,214,1283,93,-1,-1,-1
+z411_trackma,https://github.com/z411/trackma,Open multi-site list manager for Unix-like systems. (ex-wMAL),3835,344,344,Python,50,1892,66,-1,-1,-1
+firstlookmedia_gpgsync,https://github.com/firstlookmedia/gpgsync,:lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization,1198,248,248,Python,18,578,15,-1,-1,-1
+SecureAuthCorp_impacket,https://github.com/SecureAuthCorp/impacket,Impacket is a collection of Python classes for working with network protocols.,5849,3289,3289,Python,979,4572,144,-1,-1,-1
+pycket_pycket,https://github.com/pycket/pycket,A rudimentary Racket implementation using RPython,50314,190,190,Python,20,4888,29,-1,-1,-1
+jythontools_jython,https://github.com/jythontools/jython,A mirror of hg.python.org (use it for pull requests only and do not push directly),277925,267,267,Python,91,8730,109,-1,-1,-1
+nteract_papermill,https://github.com/nteract/papermill,"📚 Parameterize, execute, and analyze notebooks",1556,2164,2164,Python,162,1000,65,-1,-1,-1
+facebook_facebook-python-business-sdk,https://github.com/facebook/facebook-python-business-sdk,An SDK built to facilitate application development for Facebook Ads API.,11690,620,620,Python,420,759,186,-1,-1,-1
+HttpRunner_HttpRunner,https://github.com/HttpRunner/HttpRunner,One-stop solution for HTTP(S) testing.,2298,1441,1441,Python,556,1411,33,-1,-1,-1
+tohojo_flent,https://github.com/tohojo/flent,The FLExible Network Tester.,6620,189,189,Python,47,2212,22,-1,-1,-1
+scrapinghub_dateparser,https://github.com/scrapinghub/dateparser,python parser for human readable dates,2923,1218,1218,Python,244,1459,150,-1,-1,-1
+Exa-Networks_exabgp,https://github.com/Exa-Networks/exabgp,The BGP swiss army knife of networking,12566,1296,1296,Python,322,4837,156,-1,-1,-1
+olofk_fusesoc,https://github.com/olofk/fusesoc,FuseSoC is a package manager and a set of build tools for FPGA/ASIC development,1860,346,346,Python,97,1578,58,-1,-1,-1
+RhinoSecurityLabs_pacu,https://github.com/RhinoSecurityLabs/pacu,"The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",26021,881,881,Python,143,924,15,-1,-1,-1
+nyu-mll_jiant,https://github.com/nyu-mll/jiant,The jiant toolkit for general-purpose text understanding models,4504,469,469,Python,56,4651,87,-1,-1,-1
+cowrie_cowrie,https://github.com/cowrie/cowrie,Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io,8367,2207,2207,Python,492,3696,192,-1,-1,-1
+internetarchive_brozzler,https://github.com/internetarchive/brozzler,brozzler - distributed browser-based web crawler,3855,250,250,Python,59,1774,28,-1,-1,-1
+tqdm_tqdm,https://github.com/tqdm/tqdm,"A Fast, Extensible Progress Bar for Python and CLI",4037,10760,10760,Python,570,1602,139,-1,-1,-1
+HearthSim_python-hearthstone,https://github.com/HearthSim/python-hearthstone,"Hearthstone Python library (CardDefs, DBF, enums, log parser)",632,142,142,Python,40,649,12,-1,-1,-1
+jupyter_repo2docker,https://github.com/jupyter/repo2docker,Turn git repositories into Jupyter enabled Docker Images,1869,732,732,Python,167,1712,89,-1,-1,-1
+fonttools_fonttools,https://github.com/fonttools/fonttools,A library to manipulate font files from Python.,15663,1799,1799,Python,251,9695,134,-1,-1,-1
+fizyr_keras-retinanet,https://github.com/fizyr/keras-retinanet,Keras implementation of RetinaNet object detection.,14808,2898,2898,Python,1263,1127,97,-1,-1,-1
+openstack_heat,https://github.com/openstack/heat,OpenStack Orchestration (Heat),135646,352,352,Python,335,56071,814,-1,-1,-1
+evennia_evennia,https://github.com/evennia/evennia,Python MUD/MUX/MUSH/MU* development system,36218,946,946,Python,421,7042,167,-1,-1,-1
+containerbuildsystem_atomic-reactor,https://github.com/containerbuildsystem/atomic-reactor,Simple python library for building docker images.,4728,119,119,Python,49,3204,65,-1,-1,-1
+GenericMappingTools_pygmt,https://github.com/GenericMappingTools/pygmt,A Python interface for the Generic Mapping Tools,23929,191,191,Python,63,848,12,-1,-1,-1
+theupdateframework_tuf,https://github.com/theupdateframework/tuf,A framework for securing software update systems,14347,908,908,Python,136,4531,96,-1,-1,-1
+TarrySingh_Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials,https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials,"A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Automotives, Retail, Pharma, Medicine, Healthcare by Tarry Singh until at-least 2020 until he finishes his Ph.D. (which might end up being inter-stellar cosmic networks! Who knows! 😀)",1703359,1895,1895,Python,964,1015,10,-1,-1,-1
+aliyun_aliyun-openapi-python-sdk,https://github.com/aliyun/aliyun-openapi-python-sdk,Alibaba Cloud SDK for Python,5845,520,520,Python,341,1974,85,-1,-1,-1
+invoice-x_invoice2data,https://github.com/invoice-x/invoice2data,Extract structured data from PDF invoices,1238,501,501,Python,187,644,54,-1,-1,-1
+markstory_lint-review,https://github.com/markstory/lint-review,An automated code linting bot that integrates various code lint tools with github pull requests.,5912,251,251,Python,71,1440,52,-1,-1,-1
+ArangoDB-Community_pyArango,https://github.com/ArangoDB-Community/pyArango,Python Driver for ArangoDB with built-in validation,664,116,116,Python,70,569,49,-1,-1,-1
+ibis-project_ibis,https://github.com/ibis-project/ibis,"A pandas-like deferred expression system, with first-class SQL support",6244,1235,1235,Python,165,5205,79,-1,-1,-1
+rail-berkeley_softlearning,https://github.com/rail-berkeley/softlearning,Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm.,13537,361,361,Python,78,1690,20,-1,-1,-1
+pydanny_cookiecutter-djangopackage,https://github.com/pydanny/cookiecutter-djangopackage,A cookiecutter template for creating reusable Django packages quickly. ,257,346,346,Python,133,3138,71,-1,-1,-1
+ArchiveTeam_grab-site,https://github.com/ArchiveTeam/grab-site,"The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns",1243,504,504,Python,51,1130,20,-1,-1,-1
+interactiveaudiolab_nussl,https://github.com/interactiveaudiolab/nussl,A simple audio source separation library built in python,16978,196,196,Python,40,1143,24,-1,-1,-1
+Mirantis_kqueen,https://github.com/Mirantis/kqueen,Kubernetes queen - cluster manager,3190,110,110,Python,27,1423,28,-1,-1,-1
+apachecn_awesome-algorithm,https://github.com/apachecn/awesome-algorithm,项目暂时冻结，本周会给大家一个答复,25251,10589,10589,Python,2136,2878,65,-1,-1,-1
+rhinstaller_anaconda,https://github.com/rhinstaller/anaconda,Graphical system installer,146399,235,235,Python,169,46228,640,-1,-1,-1
+facelessuser_BracketHighlighter,https://github.com/facelessuser/BracketHighlighter,Bracket and tag highlighter for Sublime Text http://facelessuser.github.io/BracketHighlighter/,2199,1666,1666,Python,256,982,92,-1,-1,-1
+arraiyopensource_kornia,https://github.com/arraiyopensource/kornia,Open Source Differentiable Computer Vision Library,18968,651,651,Python,59,939,25,-1,-1,-1
+QQuick_Transcrypt,https://github.com/QQuick/Transcrypt,"Python 3.7 to JavaScript compiler - Lean, fast, open! - ",122300,1730,1730,Python,149,1191,46,-1,-1,-1
+thenetcircle_dino,https://github.com/thenetcircle/dino,Distributed notifications using websockets,62828,140,140,Python,5,1867,7,-1,-1,-1
+asciidisco_plugin.video.netflix,https://github.com/asciidisco/plugin.video.netflix,Inputstream based Netflix plugin for Kodi,4259,1109,1109,Python,226,882,78,-1,-1,-1
+translate_translate,https://github.com/translate/translate,Useful localization tools with Python API for building localization & translation systems,7880,463,463,Python,214,9208,152,-1,-1,-1
+jamesoff_simplemonitor,https://github.com/jamesoff/simplemonitor,A Python-based network and host monitor,887,237,237,Python,99,1012,43,-1,-1,-1
+CouchPotato_CouchPotatoServer,https://github.com/CouchPotato/CouchPotatoServer,Automatic Movie Downloading via NZBs & Torrents,22936,3522,3522,Python,1321,7788,701,-1,-1,-1
+pytorch_translate,https://github.com/pytorch/translate,Translate - a PyTorch Language Library,2102,484,484,Python,103,1767,92,-1,-1,-1
+pajbot_pajbot,https://github.com/pajbot/pajbot,Twitch moderation bot,3386,131,131,Python,45,2108,41,-1,-1,-1
+stellargraph_stellargraph,https://github.com/stellargraph/stellargraph,StellarGraph - Machine Learning on Graphs,49556,549,549,Python,67,1618,27,-1,-1,-1
+yt-project_unyt,https://github.com/yt-project/unyt,"Handle, manipulate, and convert data with units in Python",4427,211,211,Python,18,1147,25,-1,-1,-1
+Suor_funcy,https://github.com/Suor/funcy,A fancy and practical functional tools,931,2090,2090,Python,95,909,33,-1,-1,-1
+m-labs_misoc,https://github.com/m-labs/misoc,A high performance and small footprint system-on-chip based on Migen,4694,185,185,Python,52,2344,39,-1,-1,-1
+CleanCut_green,https://github.com/CleanCut/green,"Green is a clean, colorful, fast python test runner.",2032,614,614,Python,62,1028,46,-1,-1,-1
+Syncplay_syncplay,https://github.com/Syncplay/syncplay,Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers,15998,487,487,Python,72,2665,57,-1,-1,-1
+okfn-brasil_diario-oficial,https://github.com/okfn-brasil/diario-oficial,"📰 Brazilian government gazettes, accessible to everyone.",11954,357,357,Python,98,682,59,-1,-1,-1
+inkstitch_inkstitch,https://github.com/inkstitch/inkstitch,Ink/Stitch: an Inkscape extension for machine embroidery design,23011,242,242,Python,41,2771,35,-1,-1,-1
+HariSekhon_DevOps-Python-tools,https://github.com/HariSekhon/DevOps-Python-tools,"75+ DevOps CLI Tools - Hadoop, Spark, HBase, Log Anonymizer, Ambari Blueprints, AWS CloudFormation, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Elasticsearch, Solr, Travis CI, Pig, IPython - Python / Jython Tools-",1793,195,195,Python,89,2887,2,-1,-1,-1
+manns_pyspread,https://github.com/manns/pyspread,Pyspread is a spreadsheet application that is based on and written in the programming language Python. ,132874,299,299,Python,61,2227,30,-1,-1,-1
+jupyter_nbdime,https://github.com/jupyter/nbdime,Tools for diffing and merging of Jupyter notebooks.,5026,1263,1263,Python,83,1948,28,-1,-1,-1
+ethereum_web3.py,https://github.com/ethereum/web3.py,A python interface for interacting with the Ethereum blockchain and ecosystem.,4032,1357,1357,Python,497,3830,180,-1,-1,-1
+pinax_django-user-accounts,https://github.com/pinax/django-user-accounts,User accounts for Django,755,701,701,Python,318,958,135,-1,-1,-1
+tableau_server-client-python,https://github.com/tableau/server-client-python,A Python library for the Tableau Server REST API,1108,210,210,Python,140,1088,85,-1,-1,-1
+VCVRack_library,https://github.com/VCVRack/library,Library of plugins for VCV Rack,1035,160,160,Python,76,1878,69,-1,-1,-1
+roomai_RoomAI,https://github.com/roomai/RoomAI,A toolkit for developing and comparing AI-bots of imperfect information and imcomplete information games. ,5304,261,261,Python,65,671,17,-1,-1,-1
+skylines-project_skylines,https://github.com/skylines-project/skylines,"Live tracking, flight database and competition framework",36308,226,226,Python,69,7956,72,-1,-1,-1
+rigetti_pyquil,https://github.com/rigetti/pyquil,A Python library for quantum programming using Quil.,68114,812,812,Python,236,2686,138,-1,-1,-1
+pbugnion_gmaps,https://github.com/pbugnion/gmaps,Google maps for Jupyter notebooks,110087,548,548,Python,102,1493,22,-1,-1,-1
+robshakir_pyangbind,https://github.com/robshakir/pyangbind,A plugin for pyang that creates Python bindings for a YANG model.,4860,119,119,Python,85,700,60,-1,-1,-1
+mbi_django-rosetta,https://github.com/mbi/django-rosetta,Rosetta is a Django application that eases the translation process of your Django projects,938,718,718,Python,172,581,110,-1,-1,-1
+mps-youtube_mps-youtube,https://github.com/mps-youtube/mps-youtube,Terminal based YouTube player and downloader,2671,5440,5440,Python,444,2083,137,-1,-1,-1
+openshift_openshift-ansible,https://github.com/openshift/openshift-ansible,OpenShift Installation and Configuration Management,39768,1687,1687,Python,2036,26604,1064,-1,-1,-1
+wikimedia_pywikibot,https://github.com/wikimedia/pywikibot,🤖 A Python library that interfaces with the MediaWiki API. This is a mirror from gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.,46171,300,300,Python,144,11312,295,-1,-1,-1
+gruns_furl,https://github.com/gruns/furl,🌐 URL parsing and manipulation made easy.,791,1639,1639,Python,102,552,41,-1,-1,-1
+ibm-watson-iot_iot-python,https://github.com/ibm-watson-iot/iot-python,Client libraries and samples for connecting to IBM Watson IoT using Python 2.7 and 3.x,2341,158,158,Python,148,656,53,-1,-1,-1
+python_typeshed,https://github.com/python/typeshed,"Collection of library stubs for Python, with static types",4552,1221,1221,Python,649,7672,909,-1,-1,-1
+HackathonHackers_personal-sites,https://github.com/HackathonHackers/personal-sites,List of Hackathon Hackers' personal sites.,1135,1094,1094,Python,761,1817,749,-1,-1,-1
+armadillica_flamenco,https://github.com/armadillica/flamenco,Free and Open Source render manager.,9115,182,182,Python,45,2015,35,-1,-1,-1
+bashtage_arch,https://github.com/bashtage/arch,ARCH models in Python,18812,376,376,Python,107,766,25,-1,-1,-1
+dpgaspar_Flask-AppBuilder,https://github.com/dpgaspar/Flask-AppBuilder,"Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/",40923,2237,2237,Python,679,4059,201,-1,-1,-1
+0xInfection_TIDoS-Framework,https://github.com/0xInfection/TIDoS-Framework,The Offensive Manual Web Application Penetration Testing Framework.,15707,806,806,Python,197,804,12,-1,-1,-1
+winpython_winpython,https://github.com/winpython/winpython,"A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.",5384,836,836,Python,136,1408,23,-1,-1,-1
+rianhunter_dbxfs,https://github.com/rianhunter/dbxfs,User-space file system for Dropbox,639,579,579,Python,27,626,7,-1,-1,-1
+alecthomas_voluptuous,https://github.com/alecthomas/voluptuous,"Voluptuous, despite the name, is a Python data validation library.",2123,1493,1493,Python,173,612,114,-1,-1,-1
+autopkg_recipes,https://github.com/autopkg/recipes,Recipes for AutoPkg,729,142,142,Python,152,862,110,-1,-1,-1
+jendrikseipp_rednotebook,https://github.com/jendrikseipp/rednotebook,RedNotebook is a cross-platform journal,32685,255,255,Python,62,2561,38,-1,-1,-1
+apache_airflow,https://github.com/apache/airflow,Apache Airflow,38838,13023,13023,Python,4756,20227,2131,-1,-1,-1
+FreeOpcUa_python-opcua,https://github.com/FreeOpcUa/python-opcua,LGPL Pure Python OPC-UA Client and Server,5213,500,500,Python,283,2117,124,-1,-1,-1
+ipython_traitlets,https://github.com/ipython/traitlets,A lightweight Traits like module,1619,301,301,Python,121,4886,151,-1,-1,-1
+convexengineering_gpkit,https://github.com/convexengineering/gpkit,Geometric programming for engineers,38985,153,153,Python,25,3877,36,-1,-1,-1
+2ndquadrant-it_barman,https://github.com/2ndquadrant-it/barman,BaRMan - Backup and Recovery Manager for PostgreSQL,6092,662,662,Python,79,1162,79,-1,-1,-1
+nadineproject_nadine,https://github.com/nadineproject/nadine,Open Coworking Software,33593,122,122,Python,64,3792,29,-1,-1,-1
+syncloud_platform,https://github.com/syncloud/platform,Run popular services on your device with one click,4007,146,146,Python,17,2742,7,-1,-1,-1
+sqlalchemy_sqlalchemy,https://github.com/sqlalchemy/sqlalchemy,The Database Toolkit for Python,36865,1091,1091,Python,158,15403,426,-1,-1,-1
+statsmodels_statsmodels,https://github.com/statsmodels/statsmodels,Statsmodels: statistical modeling and econometrics in Python,33810,4040,4040,Python,1661,21396,474,-1,-1,-1
+home-assistant_netdisco,https://github.com/home-assistant/netdisco,:mag_right: Python library to scan local network for services and devices.,279,227,227,Python,152,2229,146,-1,-1,-1
+spaam_svtplay-dl,https://github.com/spaam/svtplay-dl,Small command-line program to download videos from some streaming sites.,2865,422,422,Python,79,2422,69,-1,-1,-1
+AlessandroZ_LaZagne,https://github.com/AlessandroZ/LaZagne,Credentials recovery project,2772,4414,4414,Python,1209,1267,45,-1,-1,-1
+openstack_ospurge,https://github.com/openstack/ospurge,Cleanup OpenStack project resources.,575,113,113,Python,39,564,50,-1,-1,-1
+donkirkby_live-py-plugin,https://github.com/donkirkby/live-py-plugin,"Live coding in Python with PyCharm, Emacs, or Eclipse.",14652,157,157,Python,30,565,20,-1,-1,-1
+scrapy_parsel,https://github.com/scrapy/parsel,Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors,416,430,430,Python,70,526,64,-1,-1,-1
+taigaio_taiga-back,https://github.com/taigaio/taiga-back,Project management web application with scrum in mind! Built on top of Django and AngularJS (Backend Code),17498,4826,4826,Python,941,4585,121,-1,-1,-1
+Gab0_japonicus,https://github.com/Gab0/japonicus,Genetic Algorithm for Gekko Trading Bot.,528,239,239,Python,77,503,15,-1,-1,-1
+YunoHost_yunohost,https://github.com/YunoHost/yunohost,YunoHost Python scripts core,5853,452,452,Python,119,5333,186,-1,-1,-1
+moble_quaternion,https://github.com/moble/quaternion,Add built-in support for quaternions to numpy,571,236,236,Python,45,613,19,-1,-1,-1
+kengz_SLM-Lab,https://github.com/kengz/SLM-Lab,Modular Deep Reinforcement Learning framework in PyTorch.,3521,546,546,Python,91,4502,15,-1,-1,-1
+systemd_mkosi,https://github.com/systemd/mkosi,Build Legacy-Free OS Images,838,399,399,Python,123,798,92,-1,-1,-1
+trentm_python-markdown2,https://github.com/trentm/python-markdown2,markdown2: A fast and complete implementation of Markdown in Python,1803,1791,1791,Python,283,794,103,-1,-1,-1
+tmux-python_tmuxp,https://github.com/tmux-python/tmuxp,:computer: tmux session manager. built on libtmux,4679,2465,2465,Python,155,2510,67,-1,-1,-1
+annoviko_pyclustering,https://github.com/annoviko/pyclustering,"pyclustring is a Python, C++ data mining library.",32501,532,532,Python,141,1828,32,-1,-1,-1
+SpriteLink_NIPAP,https://github.com/SpriteLink/NIPAP,"Neat IP Address Planner - NIPAP is the best open source IPAM in the known universe, challenging classical IP address management (IPAM) systems in many areas.",35471,334,334,Python,89,3631,71,-1,-1,-1
+horazont_aioxmpp,https://github.com/horazont/aioxmpp,An XMPP library for use with Python 3.4+ asyncio.,4936,122,122,Python,22,2003,12,-1,-1,-1
+evhub_coconut,https://github.com/evhub/coconut,"Simple, elegant, Pythonic functional programming.",4436,2478,2478,Python,81,3539,47,-1,-1,-1
+pyviz_param,https://github.com/pyviz/param,Param: Make your Python code clearer and more reliable by declaring Parameters,1795,140,140,Python,20,1034,41,-1,-1,-1
+silverapp_silver,https://github.com/silverapp/silver,Automated billing and payments for Django with a REST API,3250,211,211,Python,58,2509,40,-1,-1,-1
+IDSIA_sacred,https://github.com/IDSIA/sacred,"Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.",2849,1996,1996,Python,219,1300,99,-1,-1,-1
+pypa_twine,https://github.com/pypa/twine,Utilities for interacting with PyPI,656,835,835,Python,168,857,119,-1,-1,-1
+cclib_cclib,https://github.com/cclib/cclib,Parsers and algorithms for computational chemistry logfiles,32400,137,137,Python,91,3468,68,-1,-1,-1
+mpolden_jarvis2,https://github.com/mpolden/jarvis2,Awesome dashboard built with Flask and Mithril,1756,151,151,Python,25,709,8,-1,-1,-1
+privacyidea_privacyidea,https://github.com/privacyidea/privacyidea,":closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)",30164,674,674,Python,150,4752,77,-1,-1,-1
+QuarkChain_pyquarkchain,https://github.com/QuarkChain/pyquarkchain,Python implementation of QuarkChain,16146,177,177,Python,102,2255,27,-1,-1,-1
+autokey_autokey,https://github.com/autokey/autokey,"AutoKey, a desktop automation utility for Linux and X11.",1907,904,904,Python,76,1963,35,-1,-1,-1
+scikit-image_scikit-image,https://github.com/scikit-image/scikit-image,Image processing in Python,60304,3110,3110,Python,1322,19371,772,-1,-1,-1
+koalalorenzo_python-digitalocean,https://github.com/koalalorenzo/python-digitalocean,🐍🐳 Python module to manage Digital Ocean droplets,550,915,915,Python,212,776,117,-1,-1,-1
+nephila_djangocms-blog,https://github.com/nephila/djangocms-blog,"django CMS blog application - Support for multilingual posts, placeholders, social network meta tags and configurable apphooks",1920,182,182,Python,115,1402,80,-1,-1,-1
+threat9_routersploit,https://github.com/threat9/routersploit,Exploitation Framework for Embedded Devices,1790,7117,7117,Python,1336,1350,107,-1,-1,-1
+sphinx-gallery_sphinx-gallery,https://github.com/sphinx-gallery/sphinx-gallery,Sphinx extension for automatic generation of an example gallery,1607,167,167,Python,103,1828,69,-1,-1,-1
+peterbrittain_asciimatics,https://github.com/peterbrittain/asciimatics,"A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations",3143,1486,1486,Python,123,1730,35,-1,-1,-1
+celery_kombu,https://github.com/celery/kombu,Messaging library for Python.,7408,1625,1625,Python,645,4366,475,-1,-1,-1
+mozilla_mozillians,https://github.com/mozilla/mozillians,Mozilla community directory -- A centralized directory of all Mozilla contributors!,37891,255,255,Python,356,8841,236,-1,-1,-1
+MozillaSecurity_funfuzz,https://github.com/MozillaSecurity/funfuzz,A collection of fuzzers in a harness for testing the SpiderMonkey JavaScript engine.,28594,486,486,Python,118,6613,39,-1,-1,-1
+sloria_TextBlob,https://github.com/sloria/TextBlob,"Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.",7835,6363,6363,Python,834,621,48,-1,-1,-1
+TadaSoftware_PyNFe,https://github.com/TadaSoftware/PyNFe,"Projeto de biblioteca para fazer interface com o webservice de Nota Fiscal eletrônica para Python, disponível sob LGPL.",5694,163,163,Python,70,558,43,-1,-1,-1
+fossasia_open-event-server,https://github.com/fossasia/open-event-server,The Open Event Organizer Server to Manage Events https://api.eventyay.com | http://open-event-api.herokuapp.com,47807,1698,1698,Python,1151,11728,310,-1,-1,-1
+Nyloner_Nyspider,https://github.com/Nyloner/Nyspider,各种爬虫,5705,1720,1720,Python,916,513,4,-1,-1,-1
+gdassori_spruned,https://github.com/gdassori/spruned,A Bitcoin-without-Blockchain client w/ RPC that can provide any block or transaction,801,121,121,Python,19,575,13,-1,-1,-1
+homebysix_recipe-robot,https://github.com/homebysix/recipe-robot,A kick ass tool for creating AutoPkg recipes.,23246,183,183,Python,19,1031,9,-1,-1,-1
+kvesteri_sqlalchemy-continuum,https://github.com/kvesteri/sqlalchemy-continuum,Versioning extension for SQLAlchemy.,931,303,303,Python,81,783,63,-1,-1,-1
+openstack_cliff,https://github.com/openstack/cliff,Command Line Interface Formulation Framework,1134,150,150,Python,41,1678,148,-1,-1,-1
+pykaldi_pykaldi,https://github.com/pykaldi/pykaldi,A Python wrapper for Kaldi,2654,379,379,Python,89,818,19,-1,-1,-1
+out0fmemory_GoAgent-Always-Available,https://github.com/out0fmemory/GoAgent-Always-Available,一直可用的GoAgent，会定时扫描可用的google gae ip，提供可自动化获取ip运行的版本,21588,1125,1125,Python,548,1663,6,-1,-1,-1
+terryyin_lizard,https://github.com/terryyin/lizard,"A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.",2445,679,679,Python,110,942,45,-1,-1,-1
+jarun_googler,https://github.com/jarun/googler,:eyes: Google from the terminal,1968,3704,3704,Python,348,947,49,-1,-1,-1
+CartoDB_carto-python,https://github.com/CartoDB/carto-python,CARTO Python client,1432,125,125,Python,55,659,47,-1,-1,-1
+hugsy_gef,https://github.com/hugsy/gef,GEF - GDB Enhanced Features for exploit devs & reversers,3938,2265,2265,Python,331,1993,71,-1,-1,-1
+artisan-roaster-scope_artisan,https://github.com/artisan-roaster-scope/artisan,artisan: visual scope for coffee roasters,147782,294,294,Python,84,4843,34,-1,-1,-1
+Sceptre_sceptre,https://github.com/Sceptre/sceptre,Build better AWS infrastructure,1154,848,848,Python,222,0,0,-1,-1,-1
+blueboxgroup_ursula,https://github.com/blueboxgroup/ursula,Ansible playbooks for operating OpenStack - Powering Blue Box Cloud.,7241,207,207,Python,1,8030,240,-1,-1,-1
+plexinc_plex-for-kodi,https://github.com/plexinc/plex-for-kodi,Offical Plex for Kodi add-on releases.,5198,109,109,Python,58,1152,33,-1,-1,-1
+gcovr_gcovr,https://github.com/gcovr/gcovr,generate code coverage reports with gcc/gcov,2007,329,329,Python,151,777,113,-1,-1,-1
+pyroscope_pyrocore,https://github.com/pyroscope/pyrocore,:wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client,2653,200,200,Python,25,1750,9,-1,-1,-1
+cgrok_selfbot.py,https://github.com/cgrok/selfbot.py,selfbot.py - A python discord selfbot thats easy to install - Written using discord.py,980,154,154,Python,1439,1446,30,-1,-1,-1
+scour-project_scour,https://github.com/scour-project/scour,Scour - An SVG Optimizer / Cleaner,5897,293,293,Python,30,639,32,-1,-1,-1
+DefectDojo_django-DefectDojo,https://github.com/DefectDojo/django-DefectDojo,DefectDojo is an open-source application vulnerability correlation and security orchestration tool.,28933,911,911,Python,388,3296,179,-1,-1,-1
+trezor_python-trezor,https://github.com/trezor/python-trezor,":snake: Don't use this repo, use the new monorepo instead:",3221,193,193,Python,195,2095,119,-1,-1,-1
+xiaodongxiexie_python-widget,https://github.com/xiaodongxiexie/python-widget,,940141,103,103,Python,39,1079,2,-1,-1,-1
+scipy_scipy,https://github.com/scipy/scipy,Scipy library main repository,85846,6029,6029,Python,2865,32224,1561,-1,-1,-1
+psycopg_psycopg2,https://github.com/psycopg/psycopg2,PostgreSQL database adapter for the Python programming language,8013,1352,1352,Python,281,3484,159,-1,-1,-1
+aiven_pghoard,https://github.com/aiven/pghoard,PostgreSQL backup and restore service,1543,905,905,Python,65,923,41,-1,-1,-1
+home-assistant_home-assistant,https://github.com/home-assistant/home-assistant,:house_with_garden: Open source home automation that puts local control and privacy first,114489,24912,24912,Python,7258,106875,3505,-1,-1,-1
+deepchem_deepchem,https://github.com/deepchem/deepchem,"Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",445377,1625,1625,Python,537,4981,184,-1,-1,-1
+GDquest_Blender-power-sequencer,https://github.com/GDquest/Blender-power-sequencer,Video editing add-on for Blender,1237,376,376,Python,35,784,27,-1,-1,-1
+pyrocko_pyrocko,https://github.com/pyrocko/pyrocko,A seismology toolkit for Python,22061,102,102,Python,50,5213,74,-1,-1,-1
+hasgeek_lastuser,https://github.com/hasgeek/lastuser,User management in each new app is a pain. This is the last time you should be doing it,1973,166,166,Python,34,1219,29,-1,-1,-1
+glandium_git-cinnabar,https://github.com/glandium/git-cinnabar,git remote helper to interact with mercurial repositories,2104,148,148,Python,27,1479,26,-1,-1,-1
+musalbas_mcc-mnc-table,https://github.com/musalbas/mcc-mnc-table,"Mobile Country Codes (MCC) and Mobile Network Codes (MNC) table in CSV, JSON and XML. Updated daily.",3049,260,260,Python,140,762,11,-1,-1,-1
+openstack_openstacksdk,https://github.com/openstack/openstacksdk,Unified SDK for OpenStack,30495,180,180,Python,128,12242,384,-1,-1,-1
+keon_algorithms,https://github.com/keon/algorithms,Minimal examples of data structures and algorithms in Python,1272,15395,15395,Python,2896,1966,210,-1,-1,-1
+cjx82630_cjxlist,https://github.com/cjx82630/cjxlist,,588,117,117,Python,17,526,3,-1,-1,-1
+playframework_play1,https://github.com/playframework/play1,Play framework,583411,1567,1567,Python,683,8078,597,-1,-1,-1
+pfnet_optuna,https://github.com/pfnet/optuna,A hyperparameter optimization framework,1792,918,918,Python,73,1828,32,-1,-1,-1
+ionelmc_python-hunter,https://github.com/ionelmc/python-hunter,Hunter is a flexible code tracing toolkit. ,6013,406,406,Python,14,714,7,-1,-1,-1
+mila-iqia_myia,https://github.com/mila-iqia/myia,Myia prototyping,2049,260,260,Python,27,1997,15,-1,-1,-1
+prestodb_presto-admin,https://github.com/prestodb/presto-admin,"A tool to install, configure and manage Presto installations",40622,136,136,Python,78,1357,54,-1,-1,-1
+tBuLi_symfit,https://github.com/tBuLi/symfit,Symbolic Fitting; fitting as it should be.,3163,115,115,Python,9,1249,50,-1,-1,-1
+etingof_snmpsim,https://github.com/etingof/snmpsim,SNMP Simulator,705,151,151,Python,40,562,13,-1,-1,-1
+SAP_InfraBox,https://github.com/SAP/InfraBox,InfraBox is a cloud native continuous integration system,18801,201,201,Python,35,3682,49,-1,-1,-1
+salopensource_sal,https://github.com/salopensource/sal,Modular reporting for Endpoints,6029,152,152,Python,46,2489,63,-1,-1,-1
+haarnoja_sac,https://github.com/haarnoja/sac,Soft Actor-Critic,619,340,340,Python,96,764,10,-1,-1,-1
+pavlov99_json-rpc,https://github.com/pavlov99/json-rpc,🔁 JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.,394,275,275,Python,73,923,59,-1,-1,-1
+weechat_scripts,https://github.com/weechat/scripts,Official scripts for WeeChat.,2967,135,135,Python,145,2072,358,-1,-1,-1
+rigetti_grove,https://github.com/rigetti/grove,Quantum algorithms built using pyQuil.,4579,265,265,Python,97,1033,76,-1,-1,-1
+bbolli_tumblr-utils,https://github.com/bbolli/tumblr-utils,"Utilities for dealing with Tumblr blogs, Tumblr backup",405,549,549,Python,109,521,43,-1,-1,-1
+facebook_chisel,https://github.com/facebook/chisel,Chisel is a collection of LLDB commands to assist debugging iOS apps.,3423,7741,7741,Python,690,578,112,-1,-1,-1
+andydandy74_ClockworkForDynamo,https://github.com/andydandy74/ClockworkForDynamo,A collection of 400+ custom nodes for the Dynamo visual programming environment,202367,105,105,Python,54,1568,10,-1,-1,-1
+noirbizarre_flask-restplus,https://github.com/noirbizarre/flask-restplus,"Fully featured framework for fast, easy and documented API development with Flask",1222,1758,1758,Python,364,1002,197,-1,-1,-1
+harvardnlp_var-attn,https://github.com/harvardnlp/var-attn,Latent Alignment and Variational Attention,97719,257,257,Python,51,1746,120,-1,-1,-1
+jcrobak_parquet-python,https://github.com/jcrobak/parquet-python,python implementation of the parquet columnar file format.,150,222,222,Python,154,659,48,-1,-1,-1
+facebookincubator_FCR,https://github.com/facebookincubator/FCR,FBNet-Command-Runner: A thrift service to run commands on heterogeneous Network devices with configurable parameters.,816,121,121,Python,20,1674,14,-1,-1,-1
+transifex_transifex-client,https://github.com/transifex/transifex-client,The Transifex command-line tool.,1223,104,104,Python,56,835,91,-1,-1,-1
+wkentaro_labelme,https://github.com/wkentaro/labelme,"Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).",40078,2839,2839,Python,966,1997,50,-1,-1,-1
+sass_libsass-python,https://github.com/sass/libsass-python,A straightforward binding of libsass for Python.  Compile Sass/SCSS in Python with no Ruby stack at all!,7560,420,420,Python,40,2659,113,-1,-1,-1
+pypa_pipenv,https://github.com/pypa/pipenv, Python Development Workflow for Humans.,235106,17688,17688,Python,1304,7619,504,-1,-1,-1
+darknessomi_musicbox,https://github.com/darknessomi/musicbox,网易云音乐命令行版本,1729,7656,7656,Python,1401,834,125,-1,-1,-1
+jorvis_biocode,https://github.com/jorvis/biocode,Bioinformatics code libraries and scripts,7517,182,182,Python,126,970,19,-1,-1,-1
+GeneralMills_pytrends,https://github.com/GeneralMills/pytrends,Pseudo API for Google Trends ,373,1301,1301,Python,388,535,71,-1,-1,-1
+tyarkoni_pliers,https://github.com/tyarkoni/pliers,Automated feature extraction in Python,19186,198,198,Python,50,1331,25,-1,-1,-1
+kennethreitz_requests3,https://github.com/kennethreitz/requests3,"Requests 3.0, for Humans and Machines, alike. 🤖",9754,748,748,Python,28,5983,661,-1,-1,-1
+Flexget_Flexget,https://github.com/Flexget/Flexget,The official FlexGet repository,56414,1026,1026,Python,421,17851,502,-1,-1,-1
+18F_domain-scan,https://github.com/18F/domain-scan,"A lightweight pipeline, locally or in Lambda, for scanning things like HTTPS, third party service use, and web accessibility.",113885,251,251,Python,98,1357,54,-1,-1,-1
+mobolic_facebook-sdk,https://github.com/mobolic/facebook-sdk,Python SDK for Facebook's Graph API,396,2422,2422,Python,882,1076,242,-1,-1,-1
+bitcoinbook_bitcoinbook,https://github.com/bitcoinbook/bitcoinbook,Mastering Bitcoin 2nd Edition - Programming the Open Blockchain,44378,12048,12048,Python,3501,3790,304,-1,-1,-1
+simpeg_simpeg,https://github.com/simpeg/simpeg,Simulation and Parameter Estimation in Geophysics  -  A python package for simulation and gradient based parameter estimation in the context of geophysical applications.,74507,161,161,Python,84,6671,66,-1,-1,-1
+huge-success_sanic,https://github.com/huge-success/sanic,Async Python 3.6+ web server/framework | Build fast. Run fast.,2176,12393,12393,Python,1156,2906,387,-1,-1,-1
+alerta_alerta,https://github.com/alerta/alerta,Alerta monitoring system,10301,1439,1439,Python,224,3625,94,-1,-1,-1
+edgedb_edgedb,https://github.com/edgedb/edgedb,The next generation relational database.,13844,3016,3016,Python,63,4551,19,-1,-1,-1
+broadinstitute_viral-ngs,https://github.com/broadinstitute/viral-ngs,Viral genomics analysis pipelines,62468,101,101,Python,41,5958,27,-1,-1,-1
+openstack_python-openstackclient,https://github.com/openstack/python-openstackclient,Client for OpenStack services,21873,262,262,Python,157,16234,555,-1,-1,-1
+openstack_dragonflow,https://github.com/openstack/dragonflow,SDN based Distributed Virtual Router for OpenStack Neutron,24013,115,115,Python,48,13876,196,-1,-1,-1
+pyca_cryptography,https://github.com/pyca/cryptography,cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.,46181,2859,2859,Python,620,12848,328,-1,-1,-1
+splunk_eventgen,https://github.com/splunk/eventgen,Splunk Event Generator: Eventgen,4517,222,222,Python,117,1671,75,-1,-1,-1
+keras-team_keras-contrib,https://github.com/keras-team/keras-contrib,Keras community contributions,854,1122,1122,Python,464,1850,150,-1,-1,-1
+sammchardy_python-binance,https://github.com/sammchardy/python-binance,Binance Exchange API python implementation for automated trading,540,1439,1439,Python,695,768,69,-1,-1,-1
+dateutil_dateutil,https://github.com/dateutil/dateutil,Useful extensions to the standard Python datetime features,5216,1027,1027,Python,282,1944,209,-1,-1,-1
+aquasecurity_kube-hunter,https://github.com/aquasecurity/kube-hunter,Hunt for security weaknesses in Kubernetes clusters,678,1438,1438,Python,158,687,38,-1,-1,-1
+vyapp_vy,https://github.com/vyapp/vy,A vim-like in python made from scratch.,7923,868,868,Python,42,873,23,-1,-1,-1
+mirumee_saleor,https://github.com/mirumee/saleor,"A modular, high performance e-commerce storefront built with Python, GraphQL, Django, and ReactJS.",112051,5046,5046,Python,1894,16708,318,-1,-1,-1
+projecthamster_hamster,https://github.com/projecthamster/hamster,GNOME time tracker,9302,774,774,Python,187,3037,334,-1,-1,-1
+stephenmcd_mezzanine,https://github.com/stephenmcd/mezzanine,CMS framework for Django,49183,3874,3874,Python,1417,6269,523,-1,-1,-1
+exaile_exaile,https://github.com/exaile/exaile,:notes: Cross-platform music player,82367,181,181,Python,57,8112,226,-1,-1,-1
+firesim_firesim,https://github.com/firesim/firesim,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",21341,225,225,Python,49,1573,40,-1,-1,-1
+turicas_rows,https://github.com/turicas/rows,"A common, beautiful interface to tabular data, no matter the format",2833,582,582,Python,113,1076,58,-1,-1,-1
+rm-hull_luma.oled,https://github.com/rm-hull/luma.oled,Python module to drive a SSD1306 / SSD1309 / SSD1322 / SSD1325 / SSD1327 / SSD1331 / SSD1351 / SH1106 OLED ,15065,392,392,Python,93,784,21,-1,-1,-1
+matplotlib_matplotlib,https://github.com/matplotlib/matplotlib,matplotlib: plotting with Python,351856,9588,9588,Python,4314,61932,1754,-1,-1,-1
+spulec_freezegun,https://github.com/spulec/freezegun,Let your Python tests travel through time,756,2009,2009,Python,163,600,120,-1,-1,-1
+libp2p_py-libp2p,https://github.com/libp2p/py-libp2p,The Python implementation of the libp2p networking stack 🐍 [under development],549,113,113,Python,26,857,29,-1,-1,-1
+vatlab_sos,https://github.com/vatlab/sos,"SoS Workflow, a workflow system designed for daily data analysis",15635,142,142,Python,18,0,0,-1,-1,-1
+hendrix_hendrix,https://github.com/hendrix/hendrix,"A python web server focused on async and offbeat network traffic.  Named for the thought, ""who is a 'twisted' Django R?"" (though it works with any WSGI app).",870,427,427,Python,41,640,28,-1,-1,-1
+storyscript_storyscript,https://github.com/storyscript/storyscript,"The polyglot, cloud-native programming language for zero-devops deployments into Kubernetes.",2880,263,263,Python,29,2520,25,-1,-1,-1
+openworm_org.geppetto,https://github.com/openworm/org.geppetto,Geppetto is an open-source platform to build web-based applications to visualize and simulate neuroscience data and models.,47269,172,172,Python,47,724,42,-1,-1,-1
+BerkeleyAutomation_gqcnn,https://github.com/BerkeleyAutomation/gqcnn,Python module for GQ-CNN training and deployment with ROS integration.,162618,155,155,Python,74,1016,25,-1,-1,-1
+deepmind_kapitan,https://github.com/deepmind/kapitan,"Generic templated configuration management for Kubernetes, Terraform and other things",1624,901,901,Python,77,803,38,-1,-1,-1
+marcoeilers_nagini,https://github.com/marcoeilers/nagini,"Nagini is a static verifier for Python 3, based on the Viper verification infrastructure.",3257,122,122,Python,2,2253,20,-1,-1,-1
+angr_pyvex,https://github.com/angr/pyvex,Python bindings for Valgrind's VEX IR.,992,171,171,Python,78,945,63,-1,-1,-1
+gtimelog_gtimelog,https://github.com/gtimelog/gtimelog,A time tracking application,1582,107,107,Python,40,1439,50,-1,-1,-1
+xjsender_haoide,https://github.com/xjsender/haoide,HaoIDE is a Sublime Text 3 plugin for Salesforce1 and Force.com Development,7771,182,182,Python,32,1201,29,-1,-1,-1
+Yelp_paasta,https://github.com/Yelp/paasta,"An open, distributed platform as a service",63607,1353,1353,Python,169,10238,210,-1,-1,-1
+jim-easterbrook_pywws,https://github.com/jim-easterbrook/pywws,Python software for USB Wireless WeatherStations,4896,174,174,Python,56,1597,34,-1,-1,-1
+pytest-dev_pytest-bdd,https://github.com/pytest-dev/pytest-bdd,BDD library for the py.test runner,848,512,512,Python,88,808,58,-1,-1,-1
+pypa_packaging.python.org,https://github.com/pypa/packaging.python.org,Python Packaging User Guide,2670,789,789,Python,333,1585,255,-1,-1,-1
+linkedin_oncall,https://github.com/linkedin/oncall,Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.,5664,460,460,Python,93,560,33,-1,-1,-1
+vlachoudis_bCNC,https://github.com/vlachoudis/bCNC,"GRBL CNC command sender, autoleveler and g-code editor",43097,778,778,Python,304,2174,85,-1,-1,-1
+jiaaro_pydub,https://github.com/jiaaro/pydub,Manipulate audio with a simple and easy high level interface,36477,3643,3643,Python,508,782,106,-1,-1,-1
+Pagure_pagure,https://github.com/Pagure/pagure,pagure is a light-weight git-centered forge based on pygit2. (MIRROR),29650,152,152,Python,41,8723,171,-1,-1,-1
+Evfro_polara,https://github.com/Evfro/polara,"Recommender system and evaluation framework for top-n recommendations tasks that respects polarity of feedbacks. Fast, flexible and easy to use. Written in python, boosted by scientific python stack.",1688,123,123,Python,12,551,6,-1,-1,-1
+probcomp_bayeslite,https://github.com/probcomp/bayeslite,BayesDB on SQLite. A Bayesian database table for querying the probable implications of data as easily as SQL databases query the data itself.,7902,791,791,Python,57,3196,45,-1,-1,-1
+libtcod_python-tcod,https://github.com/libtcod/python-tcod,The Python port of libtcod.  Includes the python-tdl and libtcodpy modules.,24206,187,187,Python,15,1246,27,-1,-1,-1
+uqfoundation_dill,https://github.com/uqfoundation/dill,serialize all of python,994,941,941,Python,90,789,41,-1,-1,-1
+lektor_lektor,https://github.com/lektor/lektor,The lektor static file content management system,3535,3082,3082,Python,237,1044,131,-1,-1,-1
+MSiam_TFSegmentation,https://github.com/MSiam/TFSegmentation,RTSeg: Real-time Semantic Segmentation Comparative Study ,46038,486,486,Python,146,967,20,-1,-1,-1
+etingof_pyasn1,https://github.com/etingof/pyasn1,Generic ASN.1 library for Python,1630,127,127,Python,57,974,24,-1,-1,-1
+atexio_mercure,https://github.com/atexio/mercure,Mercure is a tool for security managers who want to train their colleague to phishing.,592,241,241,Python,46,666,15,-1,-1,-1
+waveform80_picamera,https://github.com/waveform80/picamera,A pure Python interface to the Raspberry Pi camera module,64371,1076,1076,Python,245,1014,45,-1,-1,-1
+mkleehammer_pyodbc,https://github.com/mkleehammer/pyodbc,Python ODBC bridge,1069,1353,1353,Python,323,525,72,-1,-1,-1
+dulwich_dulwich,https://github.com/dulwich/dulwich,Pure-Python Git implementation,10956,1322,1322,Python,282,6507,286,-1,-1,-1
+ansible_mazer,https://github.com/ansible/mazer,Experimental Ansible Galaxy Content Manager,1200,117,117,Python,19,1515,10,-1,-1,-1
+aliyun_aliyun-oss-python-sdk,https://github.com/aliyun/aliyun-oss-python-sdk,Aliyun OSS SDK for Python,1466,472,472,Python,221,578,57,-1,-1,-1
+django-treebeard_django-treebeard,https://github.com/django-treebeard/django-treebeard,Efficient tree implementations for Django,3614,548,548,Python,148,1456,98,-1,-1,-1
+dit_dit,https://github.com/dit/dit,Python package for information theory.,4026,207,207,Python,45,2061,23,-1,-1,-1
+pingcap_tidb-ansible,https://github.com/pingcap/tidb-ansible,,2548,222,222,Python,137,2400,124,-1,-1,-1
+pywren_pywren,https://github.com/pywren/pywren,Teraflops and microservices,4306,662,662,Python,77,1138,26,-1,-1,-1
+ibmdb_python-ibmdb,https://github.com/ibmdb/python-ibmdb,Automatically exported from code.google.com/p/ibm-db,1449,130,130,Python,93,562,55,-1,-1,-1
+richrd_suplemon,https://github.com/richrd/suplemon,":lemon: Console (CLI) text editor with multi cursor support. Suplemon replicates Sublime Text like functionality in the terminal. Try it out, give feedback, fork it!",919,695,695,Python,39,985,20,-1,-1,-1
+ethereum_homestead-guide,https://github.com/ethereum/homestead-guide,,3668,251,251,Python,363,1009,173,-1,-1,-1
+certsocietegenerale_FIR,https://github.com/certsocietegenerale/FIR,Fast Incident Response,2207,1095,1095,Python,347,591,61,-1,-1,-1
+k2kobayashi_sprocket,https://github.com/k2kobayashi/sprocket,Voice Conversion Tool Kit,1772,263,263,Python,63,732,11,-1,-1,-1
+Kenya-Oohigashi_python-docs-samples,https://github.com/Kenya-Oohigashi/python-docs-samples,,14054,0,0,Python,0,1787,195,-1,-1,-1
+mpaulweeks_changepurse,https://github.com/mpaulweeks/changepurse,view market price of crypto coins,2140,0,0,Python,0,574,3,-1,-1,-1
+wolfmanjm_kivy-smoothie-host,https://github.com/wolfmanjm/kivy-smoothie-host,"AKA Smoopi. A Smoothie host, running on rpi with touch screen, or on a Desktop",1589,12,12,Python,4,627,2,-1,-1,-1
+mibillen_2019-03-28-ucdavis,https://github.com/mibillen/2019-03-28-ucdavis,,3100,0,0,Python,0,1501,161,-1,-1,-1
+getslash_backslash,https://github.com/getslash/backslash,Centralized test reporting and monitoring service,5756,14,14,Python,8,2746,52,-1,-1,-1
+denmilu_ScoutSuite,https://github.com/denmilu/ScoutSuite,,1661,0,0,Python,0,1404,30,-1,-1,-1
+vahana_prf,https://github.com/vahana/prf,pyramid rest framework,615,0,0,Python,0,701,9,-1,-1,-1
+botify-labs_simpleflow,https://github.com/botify-labs/simpleflow,Python library for dataflow programming.,5262,62,62,Python,17,5026,45,-1,-1,-1
+jamiebull1_seasonally,https://github.com/jamiebull1/seasonally,Seasonal recipes,108973,1,1,Python,0,1121,7,-1,-1,-1
+openprocurement_openprocurement.tender.openeu,https://github.com/openprocurement/openprocurement.tender.openeu,,3099,5,5,Python,23,1203,53,-1,-1,-1
+unlhcc_2018-08-13-NU,https://github.com/unlhcc/2018-08-13-NU,,3232,0,0,Python,0,1335,137,-1,-1,-1
+alunsbr_Python,https://github.com/alunsbr/Python,Python Code,1231,0,0,Python,0,687,174,-1,-1,-1
+saidbm24_NIFTY-NET,https://github.com/saidbm24/NIFTY-NET,,8484,0,0,Python,0,2988,53,-1,-1,-1
+zdohnal_system-config-printer,https://github.com/zdohnal/system-config-printer,Graphical user interface for CUPS administration,43183,1,1,Python,1,7096,232,-1,-1,-1
+ActivityWatch_aw-core,https://github.com/ActivityWatch/aw-core,Core library for ActivityWatch,509,12,12,Python,15,621,13,-1,-1,-1
+manimi_depression-discord-bot,https://github.com/manimi/depression-discord-bot,"Depression, discord bot. Online hosting test.",8414,0,0,Python,0,21295,1,-1,-1,-1
+mesfind_2018-09-03-DC-Wollo,https://github.com/mesfind/2018-09-03-DC-Wollo,,1811,0,0,Python,1,1278,107,-1,-1,-1
+wowdd1_xlinkBook,https://github.com/wowdd1/xlinkBook,a web base research management tool that deal with big data for everyone,107687,20,20,Python,13,1382,3,-1,-1,-1
+sagemath_cysignals,https://github.com/sagemath/cysignals,cysignals: interrupt and signal handling for Cython,389,20,20,Python,12,500,23,-1,-1,-1
+avocado-framework-tests_avocado-misc-tests,https://github.com/avocado-framework-tests/avocado-misc-tests,Community maintained Avocado tests repository,3214,9,9,Python,48,2634,87,-1,-1,-1
+Atcold_pytorch-PPUU,https://github.com/Atcold/pytorch-PPUU,Code for Prediction and Planning Under Uncertainty (PPUU),100878,42,42,Python,11,644,13,-1,-1,-1
+AnyBody-Research-Group_AnyPyTools,https://github.com/AnyBody-Research-Group/AnyPyTools,Python tools and utilities for working with the AnyBody Modelling System,7002,10,10,Python,6,628,11,-1,-1,-1
+danielperna84_pyhomematic,https://github.com/danielperna84/pyhomematic,Python 3 Interface to interact with Homematic devices,658,49,49,Python,70,847,64,-1,-1,-1
+NLPatVCU_medaCy,https://github.com/NLPatVCU/medaCy,:hospital: Medical Text Mining and Information Extraction with spaCy,1844,59,59,Python,30,539,15,-1,-1,-1
+facebookexperimental_buckit,https://github.com/facebookexperimental/buckit,Makes building C++ projects easier with Buck.,10422,18,18,Python,10,1654,130,-1,-1,-1
+stochasticHydroTools_RigidMultiblobsWall,https://github.com/stochasticHydroTools/RigidMultiblobsWall,Multiblob method for rigid bodies,102224,6,6,Python,3,1192,15,-1,-1,-1
+netchampfaris_frappe-deskv3,https://github.com/netchampfaris/frappe-deskv3,Rewrite of Frappe Desk in VueJS and Tailwind,183043,1,1,Python,0,18617,369,-1,-1,-1
+Khojanator_2019-01-15-umn,https://github.com/Khojanator/2019-01-15-umn,,3117,0,0,Python,0,1455,154,-1,-1,-1
+Srinivas11789_AlgorithmNuggets,https://github.com/Srinivas11789/AlgorithmNuggets,":eyes::blue_book::pencil::thought_balloon::blue_book: Research, Study and Learning of Algorithms, ProblemSolving, ProgrammingLanguages",16259,2,2,Python,2,632,8,-1,-1,-1
+smartsheet-platform_smartsheet-python-sdk,https://github.com/smartsheet-platform/smartsheet-python-sdk,Library that uses Python to connect to Smartsheet services (using API 2.0).,8934,47,47,Python,46,571,33,-1,-1,-1
+dvanic_bmctest,https://github.com/dvanic/bmctest,,4671,0,0,Python,0,589,61,-1,-1,-1
+openSUSE_osc,https://github.com/openSUSE/osc,The Command Line Interface to work with an Open Build Service,10431,91,91,Python,130,3899,224,-1,-1,-1
+parltrack_parltrack,https://github.com/parltrack/parltrack,Parliamentary Tracker Application,3707,45,45,Python,11,1365,16,-1,-1,-1
+SFDO-Tooling_sfdoc,https://github.com/SFDO-Tooling/sfdoc,Publish easyDITA documents to Salesforce Knowledge,1242,1,1,Python,3,717,11,-1,-1,-1
+vertexproject_synapse,https://github.com/vertexproject/synapse,Synapse intelligence analysis platform,12633,64,64,Python,35,8337,54,-1,-1,-1
+cpnota_autonomous-learning-library,https://github.com/cpnota/autonomous-learning-library,A Pytorch Reinforcement Learning Library,1837,3,3,Python,1,661,4,-1,-1,-1
+codingEnzo_ProjectNewHouseMonitor,https://github.com/codingEnzo/ProjectNewHouseMonitor,ProjectNewHouseMonitor,1111,1,1,Python,1,960,17,-1,-1,-1
+syncope_adapt,https://github.com/syncope/adapt,A Data Processing Toolkit,551,0,0,Python,0,554,2,-1,-1,-1
+TENET-RCCPII_2018-12-04-DUT-SWC,https://github.com/TENET-RCCPII/2018-12-04-DUT-SWC,,1710,0,0,Python,0,1156,119,-1,-1,-1
+LSSTDESC_imSim,https://github.com/LSSTDESC/imSim,GalSim based Large Synoptic Survey Telescope (LSST) image simulation package,51057,2,2,Python,4,830,18,-1,-1,-1
+mattuff_metaknight,https://github.com/mattuff/metaknight,A Python Package for Kirby Calculus,862,0,0,Python,0,549,31,-1,-1,-1
+laforest_Octavo,https://github.com/laforest/Octavo,Verilog FPGA Parts Library. Old Octavo soft-CPU project.,2268,53,53,Python,8,947,3,-1,-1,-1
+praekeltfoundation_molo.surveys,https://github.com/praekeltfoundation/molo.surveys,An implementation of wagtailsurveys as a Molo plugin,784,0,0,Python,1,1080,28,-1,-1,-1
+aws_sagemaker-containers,https://github.com/aws/sagemaker-containers,"This support code is used for making machine learning frameworks (e.g. MXNet, TensorFlow) run on Amazon SageMaker. ",590,62,62,Python,40,819,34,-1,-1,-1
+projecthamster_hamster-gtk,https://github.com/projecthamster/hamster-gtk,A GTK3 time tracker. Powered by 'hamster-lib',512,100,100,Python,17,584,11,-1,-1,-1
+switch-model_switch,https://github.com/switch-model/switch,A Modern Platform for Planning High-Renewable Power Systems,4356,42,42,Python,39,667,21,-1,-1,-1
+Rudd-O_zfs-fedora-installer,https://github.com/Rudd-O/zfs-fedora-installer,Fedora on ZFS root installer,439,25,25,Python,5,651,7,-1,-1,-1
+djwong_rscds,https://github.com/djwong/rscds,Portland Oregon RSCDS Website,49858,0,0,Python,2,943,20,-1,-1,-1
+h4ppyy_m-mooc,https://github.com/h4ppyy/m-mooc,hello m-mooc,887625,0,0,Python,0,46848,870,-1,-1,-1
+JoshKarpel_simulacra,https://github.com/JoshKarpel/simulacra,A simulation and visualization framework for Python.,2306,1,1,Python,2,505,5,-1,-1,-1
+zenoss_zenoss-prodbin,https://github.com/zenoss/zenoss-prodbin,Zenoss - zenoss-prodbin module,754522,23,23,Python,22,27049,307,-1,-1,-1
+neurostuff_NiMARE,https://github.com/neurostuff/NiMARE,Coordinate- and image-based meta-analysis in Python,13348,30,30,Python,24,562,16,-1,-1,-1
+mozilla-services_antenna,https://github.com/mozilla-services/antenna,Antenna is a breakpad crash collector for Socorro,1025,13,13,Python,9,769,10,-1,-1,-1
+KVSlab_morphMan,https://github.com/KVSlab/morphMan,A collection of tools for manipulation of morphological features in patient-specific geometries,61123,10,10,Python,4,648,6,-1,-1,-1
+marksteve9494_qkc-tps,https://github.com/marksteve9494/qkc-tps,,13654,0,0,Python,0,1049,18,-1,-1,-1
+bsi-liberia_liberia-projects,https://github.com/bsi-liberia/liberia-projects,Liberia projects dashboard,3872,1,1,Python,1,591,3,-1,-1,-1
+InformedSolutions_OFS-MORE-Childminder-Website,https://github.com/InformedSolutions/OFS-MORE-Childminder-Website,,6067,0,0,Python,2,3910,50,-1,-1,-1
+MSD200X_magenta,https://github.com/MSD200X/magenta,,25370,0,0,Python,0,817,81,-1,-1,-1
+openstack_python-zaqarclient,https://github.com/openstack/python-zaqarclient,OpenStack Messaging (Zaqar) Client,1678,44,44,Python,13,2307,144,-1,-1,-1
+jkinfotech_Flectra,https://github.com/jkinfotech/Flectra,,140197,0,0,Python,0,588,54,-1,-1,-1
+jhauberg_comply,https://github.com/jhauberg/comply,C99 Compliant Style Guide,1102,0,0,Python,0,609,1,-1,-1,-1
+jonn-yan_Archery,https://github.com/jonn-yan/Archery,,12328,1,1,Python,0,906,27,-1,-1,-1
+maurov_xraysloth,https://github.com/maurov/xraysloth,sloth: slowly evolving utilities for x-ray spectroscopists,9885,2,2,Python,2,611,6,-1,-1,-1
+openstack_networking-sfc,https://github.com/openstack/networking-sfc,API's and implementations to support Service Function Chaining in Neutron.,3803,42,42,Python,25,3032,128,-1,-1,-1
+frejanordsiek_hdf5storage,https://github.com/frejanordsiek/hdf5storage,Python package to read and write a wide range of Python types to/from HDF5 formatted files. Can read/write data to the HDF5 based Matlab v7.3 MAT files.,793,45,45,Python,12,562,8,-1,-1,-1
+mdechiaro_vctools,https://github.com/mdechiaro/vctools,command-line vCenter tools,396,1,1,Python,1,531,6,-1,-1,-1
+OCHA-DAP_hdx-ckan,https://github.com/OCHA-DAP/hdx-ckan,A repo for HDX's configurations and extensions to CKAN,211143,45,45,Python,12,29240,329,-1,-1,-1
+DigitalSlideArchive_HistomicsTK,https://github.com/DigitalSlideArchive/HistomicsTK,A Python library for pathology image analysis algorithms.,56736,100,100,Python,43,3204,27,-1,-1,-1
+radical-cybertools_radical.utils,https://github.com/radical-cybertools/radical.utils,Utility classes and tools for various radical projects,1550,4,4,Python,4,1147,17,-1,-1,-1
+Axtrecius_selfbot,https://github.com/Axtrecius/selfbot,,7967,0,0,Python,0,1402,39,-1,-1,-1
+neuromat_nes,https://github.com/neuromat/nes,Helping researchers in routine procedures for data collection,58086,10,10,Python,11,3606,46,-1,-1,-1
+OSSystems_jenkins-job-builder,https://github.com/OSSystems/jenkins-job-builder,"Takes simple descriptions of Jenkins jobs in YAML format, and uses them to configure it",4686,3,3,Python,1,2604,295,-1,-1,-1
+josephsl_stationPlaylist,https://github.com/josephsl/stationPlaylist,StationPlaylist Studio add-on for NVDA screen reader,7630,6,6,Python,3,3190,11,-1,-1,-1
+astair_2018-10-09-embl,https://github.com/astair/2018-10-09-embl,,2985,0,0,Python,0,1332,142,-1,-1,-1
+HBPNeurorobotics_EPFLx-RoboX-Neurorobotics-utils,https://github.com/HBPNeurorobotics/EPFLx-RoboX-Neurorobotics-utils,Classes and functions for the SOM and SARSA algorithms,28094,0,0,Python,0,636,4,-1,-1,-1
+openstack_python-magnumclient,https://github.com/openstack/python-magnumclient,Python client for Container Infrastructure Management Service,2001,32,32,Python,21,2521,185,-1,-1,-1
+DEX-Company_starfish-py,https://github.com/DEX-Company/starfish-py,Ocean Ecosystem client library for Python,845,4,4,Python,0,657,12,-1,-1,-1
+yunzichang_yunzichan,https://github.com/yunzichang/yunzichan,下一代加密货币网络,3512,0,0,Python,0,3165,97,-1,-1,-1
+MozillaSecurity_laniakea,https://github.com/MozillaSecurity/laniakea,Laniakea is a utility for managing instances at various cloud providers and aids in setting up a fuzzing cluster.,6316,24,24,Python,12,571,12,-1,-1,-1
+soar-telescope_goodman_pipeline,https://github.com/soar-telescope/goodman_pipeline,Goodman Data Reduction Pipeline,191588,8,8,Python,6,1225,7,-1,-1,-1
+circleguard_circleguard,https://github.com/circleguard/circleguard,Catch replay stealers by comparing replays,3864,15,15,Python,8,513,16,-1,-1,-1
+GStreamer_cerbero,https://github.com/GStreamer/cerbero,Cerbero build system used to build the official upstream GStreamer 1.0 SDK binaries,6501,50,50,Python,54,5263,119,-1,-1,-1
+uwescience_2019-01-15-uw,https://github.com/uwescience/2019-01-15-uw,,2983,0,0,Python,0,1336,142,-1,-1,-1
+whimian_pyGeoPressure,https://github.com/whimian/pyGeoPressure,Pore pressure prediction using seismic velocity and well log data,20698,14,14,Python,12,562,4,-1,-1,-1
+kirayukeno5_gaw3,https://github.com/kirayukeno5/gaw3,,39981,0,0,Python,0,1149,85,-1,-1,-1
+DanielBrett_2019-01-25-brocku-swc,https://github.com/DanielBrett/2019-01-25-brocku-swc,,3064,0,0,Python,0,1444,154,-1,-1,-1
+RaphielGang_Telegram-UserBot,https://github.com/RaphielGang/Telegram-UserBot,"Just coz I'm too lazy, I program it, to make stuff easier. A userbot to improve telegram experience  (`･ω･´)",1787,75,75,Python,443,1810,67,-1,-1,-1
+joeybernard_2019-05-16-UNB,https://github.com/joeybernard/2019-05-16-UNB,,3112,0,0,Python,1,1506,162,-1,-1,-1
+googlefonts_glyphsLib,https://github.com/googlefonts/glyphsLib,A bridge from Glyphs source files (.glyphs) to UFOs,4499,63,63,Python,28,1852,38,-1,-1,-1
+abkfenris_gage-beaglebone,https://github.com/abkfenris/gage-beaglebone,Collecting stream height via an ultrasonic sensor connected to a BeagleBone Black and communicating it to web server,781,0,0,Python,0,578,6,-1,-1,-1
+takeshixx_deen,https://github.com/takeshixx/deen,Generic data DEcoding/ENcoding application built with PyQt5.,486,35,35,Python,5,586,7,-1,-1,-1
+vitroid_GenIce,https://github.com/vitroid/GenIce,A swiss army knife to generate proton-disordered ice structures for GROMACS.,10384,12,12,Python,5,562,2,-1,-1,-1
+kqf_phos,https://github.com/kqf/phos,,3918,1,1,Python,0,2394,27,-1,-1,-1
+plone_plone.app.event,https://github.com/plone/plone.app.event,Event content type for Plone,4362,16,16,Python,38,2932,121,-1,-1,-1
+NWU-eResearch_2019-05-29-NWU-PC,https://github.com/NWU-eResearch/2019-05-29-NWU-PC,,1873,0,0,Python,0,1231,121,-1,-1,-1
+openstack-infra_elastic-recheck,https://github.com/openstack-infra/elastic-recheck,Classify tempest-devstack failures using ElasticSearch,3746,52,52,Python,5,5096,193,-1,-1,-1
+techsami_MyGit,https://github.com/techsami/MyGit,,59883,1,1,Python,0,3426,183,-1,-1,-1
+zloopk09_git-repo-mirror,https://github.com/zloopk09/git-repo-mirror,A mirror repository of Google's git-repo tool. see: https://gerrit.googlesource.com/git-repo ,5973,0,0,Python,0,11905,549,-1,-1,-1
+dschep_dc-bike-finder,https://github.com/dschep/dc-bike-finder,🚲🗺️ A webapp for finding bikeshares in DC,6801,7,7,Python,0,689,4,-1,-1,-1
+annefou_2018-10-11-Uppsala-SWC,https://github.com/annefou/2018-10-11-Uppsala-SWC,"Software Carpentry workshop 10-11 October 2018, Upsalla, Sweden",3025,0,0,Python,1,1338,143,-1,-1,-1
+scrapinghub_shub,https://github.com/scrapinghub/shub,Scrapinghub Command Line Client,1071,84,84,Python,52,907,60,-1,-1,-1
+open-ods_open-ods,https://github.com/open-ods/open-ods,REST API for serving NHS ODS data,46319,3,3,Python,1,938,11,-1,-1,-1
+resource-watch_nrt-scripts,https://github.com/resource-watch/nrt-scripts,Scripts to generate data of real time datasets,834,2,2,Python,5,962,23,-1,-1,-1
+UofTCoders_2018-01-18-utoronto,https://github.com/UofTCoders/2018-01-18-utoronto,,1773,0,0,Python,0,1126,116,-1,-1,-1
+zooniverse_hco-experiments,https://github.com/zooniverse/hco-experiments,,2507,2,2,Python,3,891,8,-1,-1,-1
+openstack_python-designateclient,https://github.com/openstack/python-designateclient,OpenStack DNS As A Service (Designate) Client,1212,47,47,Python,8,1617,120,-1,-1,-1
+gltn_stdm,https://github.com/gltn/stdm,"STDM is a free and open source pro-poor land recordation system based on QGIS, PostgreSQL and PostGIS.",48267,20,20,Python,26,3483,27,-1,-1,-1
+OpenPythons_OpenPython,https://github.com/OpenPythons/OpenPython,Micropython for OpenComputer,4139,16,16,Python,4,670,1,-1,-1,-1
+TaewonHeo_manim,https://github.com/TaewonHeo/manim,,8600,0,0,Python,0,2343,45,-1,-1,-1
+hu4012_flask,https://github.com/hu4012/flask,learn flask,3623,0,0,Python,0,3457,604,-1,-1,-1
+gae-init_gae-init-docs,https://github.com/gae-init/gae-init-docs,Documentation and Tutorial for gae-init,7803,13,13,Python,23,2899,41,-1,-1,-1
+hasura_platform-docs,https://github.com/hasura/platform-docs,Documentation for the Hasura platform,59615,25,25,Python,17,1580,52,-1,-1,-1
+jussienko_2018-11-11-CSC,https://github.com/jussienko/2018-11-11-CSC,,2975,0,0,Python,0,1332,142,-1,-1,-1
+TENET-RCCPII_2018-11-12-UFH-Alice,https://github.com/TENET-RCCPII/2018-11-12-UFH-Alice,,1685,0,0,Python,0,1150,119,-1,-1,-1
+bornhack_bornhack-website,https://github.com/bornhack/bornhack-website,Django project to power BornHack,70710,2,2,Python,19,1942,29,-1,-1,-1
+allink_allink-core,https://github.com/allink/allink-core,,5742,2,2,Python,0,1036,6,-1,-1,-1
+StyXman_elevation,https://github.com/StyXman/elevation,Scripts for generating maps based in OSM and SRTM,1630,2,2,Python,2,755,9,-1,-1,-1
+ph4r05_polynomial-distinguishers,https://github.com/ph4r05/polynomial-distinguishers,BoolTest - polynomial randomness tester,11056,5,5,Python,5,618,1,-1,-1,-1
+fpsom_2019-01-10-elixir-athens,https://github.com/fpsom/2019-01-10-elixir-athens,,3619,0,0,Python,2,1349,146,-1,-1,-1
+nllz_IRTF-HRPC,https://github.com/nllz/IRTF-HRPC,Files of IRTF HRPC research group,33105,19,19,Python,21,882,19,-1,-1,-1
+jtimon_elements-explorer,https://github.com/jtimon/elements-explorer,,4298,11,11,Python,3,1203,8,-1,-1,-1
+emanjavacas_seqmod,https://github.com/emanjavacas/seqmod,Sequence modelling with pytorch,1276,7,7,Python,5,700,3,-1,-1,-1
+wyolum_TouchSelfie,https://github.com/wyolum/TouchSelfie,"Open Source Photobooth based on the official Raspberry Pi 7"" Touchscreen",132150,34,34,Python,61,569,15,-1,-1,-1
+dPys_PyNets,https://github.com/dPys/PyNets,A Fully-Automated Workflow for Reproducible Ensemble Graph Analysis of Functional and Structural Connectomes,704593,57,57,Python,23,679,15,-1,-1,-1
+Anyz01_chainer,https://github.com/Anyz01/chainer,A flexible framework of neural networks for deep learning,27591,0,0,Python,0,26002,342,-1,-1,-1
+Gauravjsh127_openBMCFSP2-V2,https://github.com/Gauravjsh127/openBMCFSP2-V2,"openBMC(Branch created on 18th July 2018 from upstream openBMC ): Adding support for fsp2-ppc ,fsp2-x86 and system-q-fsp2",34942,1,1,Python,0,3968,110,-1,-1,-1
+acaciawater_acaciadata,https://github.com/acaciawater/acaciadata,Basis app voor acaciadata.com sites,2980,0,0,Python,0,911,6,-1,-1,-1
+openstack_osc-lib,https://github.com/openstack/osc-lib,OpenStackClient plugin library support,1210,12,12,Python,7,1910,177,-1,-1,-1
+ychnlgy_DeepConsensus-experimental-FROZEN,https://github.com/ychnlgy/DeepConsensus-experimental-FROZEN,Using the consensus of low and high level features for robust classification.,3683,1,1,Python,0,1382,2,-1,-1,-1
+oisdk_team-software-project,https://github.com/oisdk/team-software-project,,10417,1,1,Python,7,2070,22,-1,-1,-1
+apertium_apertium-tat,https://github.com/apertium/apertium-tat,Apertium linguistic data for Tatar,85753,1,1,Python,3,2179,19,-1,-1,-1
+stephanebetbeder_Moultimmediat,https://github.com/stephanebetbeder/Moultimmediat,,10061,0,0,Python,0,1524,56,-1,-1,-1
+JakeBV_assis,https://github.com/JakeBV/assis,,2125,0,0,Python,0,588,1,-1,-1,-1
+paulosjd_aurnapi,https://github.com/paulosjd/aurnapi,,683,1,1,Python,0,555,3,-1,-1,-1
+vladalexeev_grid-paint,https://github.com/vladalexeev/grid-paint,,2460,0,0,Python,0,806,6,-1,-1,-1
+makinacorpus_django-mapentity,https://github.com/makinacorpus/django-mapentity,Generic CRUD for geographic data,20091,27,27,Python,12,4811,30,-1,-1,-1
+openstack_kingbird,https://github.com/openstack/kingbird,Centralized service for multi-region deployments.,1098,23,23,Python,4,1304,53,-1,-1,-1
+cinnamon4-debian_cinnamon-screensaver,https://github.com/cinnamon4-debian/cinnamon-screensaver,,3444,0,0,Python,0,872,34,-1,-1,-1
+pacoqueen_ginn,https://github.com/pacoqueen/ginn,Geotex-INN,312210,5,5,Python,0,2688,8,-1,-1,-1
+thorrak_fermentrack,https://github.com/thorrak/fermentrack,A replacement web interface for BrewPi,5047,46,46,Python,18,984,10,-1,-1,-1
+glormph_kantele,https://github.com/glormph/kantele,Lab proteomics raw and search data management,1334,2,2,Python,1,563,3,-1,-1,-1
+SylvainDe_ComicBookMaker,https://github.com/SylvainDe/ComicBookMaker,Script to fetch webcomics and use them to create ebooks.,691,18,18,Python,3,703,5,-1,-1,-1
+Prakasaka_Mybub,https://github.com/Prakasaka/Mybub,,508,0,0,Python,0,601,38,-1,-1,-1
+araffin_srl-zoo,https://github.com/araffin/srl-zoo,State Representation Learning (SRL) zoo with PyTorch - Part of S-RL Toolbox,4728,68,68,Python,10,618,21,-1,-1,-1
+axibase_atsd-api-python,https://github.com/axibase/atsd-api-python,Axibase Time Series Database API Client for Python,943,10,10,Python,4,644,22,-1,-1,-1
+willemarcel_osmcha-django,https://github.com/willemarcel/osmcha-django,A database manager and API for OSMCha,2029,17,17,Python,9,1059,14,-1,-1,-1
+aioworkers_aioworkers,https://github.com/aioworkers/aioworkers,Easy configurable workers based on asyncio,414,20,20,Python,1,564,6,-1,-1,-1
+ppb_ppb-vector,https://github.com/ppb/ppb-vector,A 2D Vector class for PPB.,513,2,2,Python,17,913,31,-1,-1,-1
+ARTbio_tools-artbio,https://github.com/ARTbio/tools-artbio,Collection of galaxy tools developed by the artbio-platform at the IBPS (Institut de Biologie Paris-Seine),120883,6,6,Python,11,2058,25,-1,-1,-1
+feysalmama_nadre,https://github.com/feysalmama/nadre,,14368,0,0,Python,0,1804,51,-1,-1,-1
+atx_libsigrokdecode,https://github.com/atx/libsigrokdecode,,2070,1,1,Python,0,1486,69,-1,-1,-1
+open-nav_meta-updater,https://github.com/open-nav/meta-updater,,685,0,0,Python,0,828,36,-1,-1,-1
+bham-carpentries_2019-02-18-bham,https://github.com/bham-carpentries/2019-02-18-bham,https://bham-carpentries.github.io/2019-02-18-bham/,3115,0,0,Python,0,1460,156,-1,-1,-1
+OpenPLi_enigma2-plugins,https://github.com/OpenPLi/enigma2-plugins,,25198,19,19,Python,64,6235,136,-1,-1,-1
+ahf_torspec,https://github.com/ahf/torspec,,2726,0,0,Python,0,2821,72,-1,-1,-1
+sugarlabs_sugar-toolkit-gtk3,https://github.com/sugarlabs/sugar-toolkit-gtk3,"Sugar Learning Environment, Activity Toolkit, GTK 3.",15412,17,17,Python,63,7195,178,-1,-1,-1
+JeffersonLab_PyPWA,https://github.com/JeffersonLab/PyPWA,Python Partial Wave Analysis Tool. A simple tool that can be used for statistical fitting and simulation.,5584,8,8,Python,4,1836,30,-1,-1,-1
+hydpy-dev_hydpy,https://github.com/hydpy-dev/hydpy,A framework for the development and application of hydrological models based on Python,13340,7,7,Python,8,1888,8,-1,-1,-1
+SmartloopAI_docs,https://github.com/SmartloopAI/docs,Documentation for the Recime Bot Development Platform. ,40609,2,2,Python,3,707,12,-1,-1,-1
+dtl-nl_workshop-template,https://github.com/dtl-nl/workshop-template,,3087,0,0,Python,0,1501,161,-1,-1,-1
+omnia-md_conda-dev-recipes,https://github.com/omnia-md/conda-dev-recipes,"Conda development recipes (*-dev packages), built nightly by travis cron",340,1,1,Python,8,665,15,-1,-1,-1
+vosowij_CS-work2,https://github.com/vosowij/CS-work2,test,185,0,0,Python,0,763,2,-1,-1,-1
+ilius_starcal,https://github.com/ilius/starcal,StarCalendar: Full-featured International Calendar for Linux Desktop,8666,86,86,Python,16,4665,14,-1,-1,-1
+droxit_roxcomposer,https://github.com/droxit/roxcomposer,This is the droxit microservice framework repository. ,1222,4,4,Python,0,1111,17,-1,-1,-1
+HenriWahl_dhcpy6d,https://github.com/HenriWahl/dhcpy6d,MAC address aware DHCPv6 server written in Python,965,42,42,Python,16,537,12,-1,-1,-1
+globusgenomics_genomics-galaxy-dev,https://github.com/globusgenomics/genomics-galaxy-dev,Genomics fork of Galaxy,396825,2,2,Python,0,28350,293,-1,-1,-1
+vais-ral_CCPi-Framework,https://github.com/vais-ral/CCPi-Framework,Basic Python Framework for CIL,16926,0,0,Python,2,970,20,-1,-1,-1
+jimbob666_aqi,https://github.com/jimbob666/aqi,This is based on this project https://openschoolsolutions.org/measure-particulate-matter-with-a-raspberry-pi/,6315,2,2,Python,1,10080,1,-1,-1,-1
+mjirik_imtools,https://github.com/mjirik/imtools,tools for 2D and 3D images ,1064,4,4,Python,1,664,6,-1,-1,-1
+certbot_josepy,https://github.com/certbot/josepy,JOSE protocol implementation in Python using cryptography,14582,13,13,Python,13,8128,365,-1,-1,-1
+mesfind_2017-11-05-AAU,https://github.com/mesfind/2017-11-05-AAU,,1791,0,0,Python,0,0,0,-1,-1,-1
+City-of-Helsinki_kerrokantasi,https://github.com/City-of-Helsinki/kerrokantasi,Kerro kantasi participatory democracy backend,1572,6,6,Python,11,936,29,-1,-1,-1
+RandallShanePhD_information.garden,https://github.com/RandallShanePhD/information.garden,Core platform for information.garden project,113148,0,0,Python,0,507,6,-1,-1,-1
+ali21049_2018-12-30-Sialkot,https://github.com/ali21049/2018-12-30-Sialkot,,3036,0,0,Python,0,1417,154,-1,-1,-1
+snipsco_snips-app-sonos,https://github.com/snipsco/snips-app-sonos,Sonos app for Snips,460,13,13,Python,10,551,15,-1,-1,-1
+yunity_karrot-backend,https://github.com/yunity/karrot-backend,Django API server for the karrot frontend,4949,81,81,Python,73,3851,71,-1,-1,-1
+LibrIT_passhport,https://github.com/LibrIT/passhport,OpenSSH proxy gateway,1992,15,15,Python,9,900,20,-1,-1,-1
+angr_claripy,https://github.com/angr/claripy,An abstraction layer for constraint solvers.,2427,94,94,Python,56,2458,68,-1,-1,-1
+rltillett_2019-03-28-davis,https://github.com/rltillett/2019-03-28-davis,,3087,0,0,Python,0,1500,160,-1,-1,-1
+carmenalab_brain-python-interface,https://github.com/carmenalab/brain-python-interface,,15804,3,3,Python,1,3551,41,-1,-1,-1
+mleverance_2019-03-18-uark,https://github.com/mleverance/2019-03-18-uark,"University of Arkansas Software Carpentry workshop website for March 18-19, 2019",3153,0,0,Python,0,1504,160,-1,-1,-1
+swarris_longread-assemblies,https://github.com/swarris/longread-assemblies,,4082,0,0,Python,0,551,54,-1,-1,-1
+bashtage_randomgen,https://github.com/bashtage/randomgen,Numpy-like random number generator that supports multiple core pseudo RNGs and explicitly parallel generation.,17202,32,32,Python,9,609,8,-1,-1,-1
+geopython_pywps,https://github.com/geopython/pywps,PyWPS is an implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python.,14099,95,95,Python,97,2919,89,-1,-1,-1
+fomightez_sequencework,https://github.com/fomightez/sequencework,"programs and scripts, mainly python, for analyses related to nucleic or protein sequences",3089,5,5,Python,2,909,3,-1,-1,-1
+AGProjects_sylkserver,https://github.com/AGProjects/sylkserver,SIP/WebRTC Application Server,218563,76,76,Python,21,1186,6,-1,-1,-1
+ncsurobotics_seawolf,https://github.com/ncsurobotics/seawolf,Seawolf Software Platform,51038,6,6,Python,6,1510,59,-1,-1,-1
+xgfone_snippet,https://github.com/xgfone/snippet,The code snippets of all kinds of languages and some docs.,17172,19,19,Python,10,1054,3,-1,-1,-1
+openeobs_openeobs,https://github.com/openeobs/openeobs,An e-observations and ward management tool for Acute and Mental Health hospitals.,16184,22,22,Python,11,7301,39,-1,-1,-1
+nexdatas_recselector,https://github.com/nexdatas/recselector,Tango server of Component Selector -- selector of user configuration for NeXus/HDF5 files ,4027,1,1,Python,1,1062,5,-1,-1,-1
+mahajrod_MAVR,https://github.com/mahajrod/MAVR,various bioinformatic instruments,13532,5,5,Python,4,3468,5,-1,-1,-1
+c3cashdesk_postix,https://github.com/c3cashdesk/postix,Cashdesk system used at Chaos Communication Congress,2702,43,43,Python,4,890,12,-1,-1,-1
+mauriciovasquezbernal_stgit,https://github.com/mauriciovasquezbernal/stgit,,1518,0,0,Python,0,1657,73,-1,-1,-1
+BlackLight_platypush,https://github.com/BlackLight/platypush,The ultimate platform for home automation experiences and much more,1815,39,39,Python,2,1134,3,-1,-1,-1
+murraycadzow_2018-09-13-ttt-online,https://github.com/murraycadzow/2018-09-13-ttt-online,,2926,0,0,Python,1,1160,115,-1,-1,-1
+bsurc_2018-09-21-sc,https://github.com/bsurc/2018-09-21-sc,,1696,0,0,Python,0,1172,118,-1,-1,-1
+AngelFP_VisualPIC,https://github.com/AngelFP/VisualPIC,Data visualizer for PIC codes.,7074,6,6,Python,1,626,6,-1,-1,-1
+sClarkeIsBack_StreamHub,https://github.com/sClarkeIsBack/StreamHub,,127525,7,7,Python,11,620,5,-1,-1,-1
+CGATOxford_CGATPipelines,https://github.com/CGATOxford/CGATPipelines,Collection of CGAT NGS Pipelines,280628,34,34,Python,17,5544,83,-1,-1,-1
+openstax_os-automation,https://github.com/openstax/os-automation,Page object testing for OpenStax products,866,2,2,Python,0,556,12,-1,-1,-1
+City-of-Helsinki_respa,https://github.com/City-of-Helsinki/respa,Django application for resource reservation,2485,11,11,Python,22,1840,34,-1,-1,-1
+sbamin_2018-09-26-dummy,https://github.com/sbamin/2018-09-26-dummy,,2951,0,0,Python,0,1330,142,-1,-1,-1
+willjschmitt_joulia-webserver,https://github.com/willjschmitt/joulia-webserver,Webserver and logging for electric brewing controller connecting distributed users to the equipment.,7930,0,0,Python,0,578,4,-1,-1,-1
+datosgobar_series-tiempo-ar-api,https://github.com/datosgobar/series-tiempo-ar-api,Aplicación en Django y ElasticSearch de la API de series de tiempo basada en el Perfil Nacional de Metadatos de la política de apertura de datos de la APN.,33740,14,14,Python,4,1948,15,-1,-1,-1
+jnsebgosselin_gwhat,https://github.com/jnsebgosselin/gwhat,Ground-Water Hydrograph Analysis Toolbox,100785,12,12,Python,2,2721,4,-1,-1,-1
+HEP-KBFI_tth-htt,https://github.com/HEP-KBFI/tth-htt,"code and python config files for ttH, H -> tautau analysis with matrix element techniques",129194,1,1,Python,8,5185,24,-1,-1,-1
+clintbellanger_flare-game,https://github.com/clintbellanger/flare-game,Fantasy action RPG using the FLARE engine,848988,13,13,Python,7,7188,102,-1,-1,-1
+voxel51_eta,https://github.com/voxel51/eta,ETA: Extensible Toolkit for Analytics,8368,13,13,Python,5,3118,29,-1,-1,-1
+colons_nkd.su,https://github.com/colons/nkd.su,A Neko Desu request robot.,4162,4,4,Python,2,1115,14,-1,-1,-1
+hemberg-lab_MicroExonator,https://github.com/hemberg-lab/MicroExonator,Snakemake pipeline for microexon discovery and quantification,624,2,2,Python,0,508,7,-1,-1,-1
+aras999_yowsup,https://github.com/aras999/yowsup,,1415,0,0,Python,0,1405,94,-1,-1,-1
+plone_plone.app.content,https://github.com/plone/plone.app.content,"Various views for Plone, such as folder_contents, as well as general content infrastructure, such as base classes and name choosers.",1197,5,5,Python,29,1089,128,-1,-1,-1
+itf_6s092,https://github.com/itf/6s092,The 6s092 catsoop repo clone from mit github,1309,0,0,Python,0,729,11,-1,-1,-1
+biosol_2019-04-11-EHUworkshop,https://github.com/biosol/2019-04-11-EHUworkshop,,3102,0,0,Python,0,1502,161,-1,-1,-1
+mozilla-services_server-syncstorage,https://github.com/mozilla-services/server-syncstorage,"The SyncServer server software, as used by Firefox Sync",2595,59,59,Python,22,1162,31,-1,-1,-1
+reconstruir_bes,https://github.com/reconstruir/bes,bes is a set collection of generic python (2 and 3) classes to help write tools.,1009,0,0,Python,0,932,1,-1,-1,-1
+JulianYG_perls,https://github.com/JulianYG/perls,SteamVR - BulletPhysics - ROS interface,200531,3,3,Python,0,1034,8,-1,-1,-1
+etcher-be_epab,https://github.com/etcher-be/epab,,5955,1,1,Python,0,1067,10,-1,-1,-1
+lanl_Pavilion,https://github.com/lanl/Pavilion,HPC testing harness ,17901,15,15,Python,11,563,23,-1,-1,-1
+openstack_openstack-doc-tools,https://github.com/openstack/openstack-doc-tools,Tools used by OpenStack Documentation,2557,64,64,Python,20,2924,103,-1,-1,-1
+andela_wg-justice-league,https://github.com/andela/wg-justice-league,Self hosted FLOSS fitness/workout and weight tracker written with Django,30925,0,0,Python,0,3887,38,-1,-1,-1
+themightyoarfish_ikkuna,https://github.com/themightyoarfish/ikkuna,Exploring signals to supervise neural network training :diamond_shape_with_a_dot_inside:,21141,4,4,Python,1,621,4,-1,-1,-1
+datacarpentry_genomics-r-intro,https://github.com/datacarpentry/genomics-r-intro,,11109,5,5,Python,19,723,63,-1,-1,-1
+wwood_singlem,https://github.com/wwood/singlem,De-novo OTUs from shotgun metagenomes,209990,17,17,Python,6,501,4,-1,-1,-1
+sveinhansen_svtplay-dl-sh2,https://github.com/sveinhansen/svtplay-dl-sh2,Updates,2752,0,0,Python,0,2055,49,-1,-1,-1
+BobStein_qiki-python,https://github.com/BobStein/qiki-python,,2741,0,0,Python,0,504,3,-1,-1,-1
+NREL_streamm-tools,https://github.com/NREL/streamm-tools,,17151,3,3,Python,3,1156,19,-1,-1,-1
+CSIRO-enviro-informatics_gsq-ckanext-scheming,https://github.com/CSIRO-enviro-informatics/gsq-ckanext-scheming,,645,0,0,Python,0,582,23,-1,-1,-1
+peaktogoo_HarukaAya,https://github.com/peaktogoo/HarukaAya,Bot that help me manage my group because I'm lazy,2471,1,1,Python,26,805,43,-1,-1,-1
+tamasgal_km3pipe,https://github.com/tamasgal/km3pipe,Extemporary analysis framework for KM3NeT,102114,10,10,Python,3,6738,28,-1,-1,-1
+threeML_threeML,https://github.com/threeML/threeML,The Multi-Mission Maximum Likelihood framework (3ML),107737,26,26,Python,25,3071,40,-1,-1,-1
+ccoulombe_9999-99-99-swc-bash,https://github.com/ccoulombe/9999-99-99-swc-bash,,3039,0,0,Python,0,1443,154,-1,-1,-1
+elias-pap_stem,https://github.com/elias-pap/stem,,5892,0,0,Python,0,3291,40,-1,-1,-1
+lslochov_2018-09-25-lslochov-workshop,https://github.com/lslochov/2018-09-25-lslochov-workshop,,2964,0,0,Python,0,1331,142,-1,-1,-1
+Marcello-Sega_pytim,https://github.com/Marcello-Sega/pytim,a python package for the interfacial analysis of molecular simulations,213345,20,20,Python,12,1253,18,-1,-1,-1
+amlanpatnaik_arthur-redshift-etl,https://github.com/amlanpatnaik/arthur-redshift-etl,,1889,0,0,Python,0,1289,23,-1,-1,-1
+scanlime_robot-odyssey-rewired,https://github.com/scanlime/robot-odyssey-rewired,Robot Odyssey is a computer game about digital logic from 1984. This version has been ported from DOS to your browser.,5818,62,62,Python,4,537,7,-1,-1,-1
+Nattgew_X-Plane-Plugins,https://github.com/Nattgew/X-Plane-Plugins,,2381,5,5,Python,0,641,2,-1,-1,-1
+creola_django-open-pms,https://github.com/creola/django-open-pms,An Open Travel Alliance compliant PMS,85,2,2,Python,0,559,4,-1,-1,-1
+ilastik_tiktorch,https://github.com/ilastik/tiktorch,Tiktorch,3811,1,1,Python,7,538,21,-1,-1,-1
+lunar-linux_moonbase-xorg,https://github.com/lunar-linux/moonbase-xorg,,1082,13,13,Python,14,2023,29,-1,-1,-1
+khanhdang_khanhdang.github.io,https://github.com/khanhdang/khanhdang.github.io,My personal website,305616,0,0,Python,0,532,7,-1,-1,-1
+inJeans_supervised-learning,https://github.com/inJeans/supervised-learning,,2204,0,0,Python,0,562,56,-1,-1,-1
+jbudis_snakelines,https://github.com/jbudis/snakelines,Computational pipelines for processing of paired-end Illumina reads,32384,0,0,Python,1,887,17,-1,-1,-1
+lanl-ansi_flexes-build,https://github.com/lanl-ansi/flexes-build,Components needed for building and deploying flexes,418,0,0,Python,0,621,6,-1,-1,-1
+AdaCore_e3-core,https://github.com/AdaCore/e3-core,Core framework for developing portable automated build systems ,1399,7,7,Python,11,1237,13,-1,-1,-1
+niranjan-nagaraju_Development,https://github.com/niranjan-nagaraju/Development,"Contains miscellaneous source code of my solutions to Hackerrank, Codechef, Project Euler problems and a library of useful code fragments",1784,1,1,Python,0,860,7,-1,-1,-1
+emacsmirror_stgit,https://github.com/emacsmirror/stgit,Major mode for StGit interaction,1825,0,0,Python,0,1753,76,-1,-1,-1
+btmoyers_2018-08-22-USDA,https://github.com/btmoyers/2018-08-22-USDA,,3000,0,0,Python,0,1321,137,-1,-1,-1
+mcocdawc_chemcoord,https://github.com/mcocdawc/chemcoord,A python module for manipulating cartesian and internal coordinates.,3935,25,25,Python,5,792,7,-1,-1,-1
+anjo-hsr_Traffic-Analyzer,https://github.com/anjo-hsr/Traffic-Analyzer,Splunk App to analyze traffic from pcap(ng) files,6412,2,2,Python,1,1239,3,-1,-1,-1
+StackStorm_PySwitchLib,https://github.com/StackStorm/PySwitchLib,A next gen PyNOS/PySLX/Py*** library,30957,3,3,Python,4,1594,44,-1,-1,-1
+makinacorpus_makina-states,https://github.com/makinacorpus/makina-states,,33992,10,10,Python,3,6408,18,-1,-1,-1
+Saleh-janahi_instaPy,https://github.com/Saleh-janahi/instaPy,,76907,0,0,Python,0,1792,193,-1,-1,-1
+silnrsi_smith,https://github.com/silnrsi/smith,smith font and keyboard build system,14867,5,5,Python,5,3374,26,-1,-1,-1
+Lucius117_2019-04-06-python,https://github.com/Lucius117/2019-04-06-python,,3086,0,0,Python,0,1500,160,-1,-1,-1
+sonidosmutantes_apicultor,https://github.com/sonidosmutantes/apicultor,API.Cultor: Another BigData approach to sound collections,162909,14,14,Python,3,825,11,-1,-1,-1
+Math2522_2019-05-29-elixir-nottingham,https://github.com/Math2522/2019-05-29-elixir-nottingham,,3276,0,0,Python,1,1539,163,-1,-1,-1
+vortex-exoplanet_VIP,https://github.com/vortex-exoplanet/VIP,"VIP is a python package/library for angular, reference star and spectral differential imaging for exoplanet/disk detection through high-contrast imaging.",19273,37,37,Python,25,1362,30,-1,-1,-1
+tlubitz_SBtab,https://github.com/tlubitz/SBtab,SBtab - Table format for Systems Biology:,80240,3,3,Python,2,585,21,-1,-1,-1
+danielvarga_repulsive-autoencoder,https://github.com/danielvarga/repulsive-autoencoder,Variations on the Variational Autoencoder,559,2,2,Python,2,533,18,-1,-1,-1
+TeHikuMedia_corpora,https://github.com/TeHikuMedia/corpora,A Django App for gathering written and spoken corpora for indigenous languages.,11646,19,19,Python,4,1285,11,-1,-1,-1
+pcubillos_MCcubed,https://github.com/pcubillos/MCcubed,Python Differential Evolution MCMC,11183,15,15,Python,6,595,12,-1,-1,-1
+iw3hxn_addons,https://github.com/iw3hxn/addons,addons,1518804,1,1,Python,1,40882,831,-1,-1,-1
+uzhdag_pathpy,https://github.com/uzhdag/pathpy,An OpenSource python package for the analysis of time series data on networks using higher-order and multi-order graphical models. ,2273,31,31,Python,10,599,19,-1,-1,-1
+berkeleyflow_flow,https://github.com/berkeleyflow/flow,,34683,13,13,Python,3,1746,71,-1,-1,-1
+hpc-carpentry_hpc-intro,https://github.com/hpc-carpentry/hpc-intro,Intro to HPC lesson materials,14879,46,46,Python,49,579,51,-1,-1,-1
+newren_git-filter-repo,https://github.com/newren/git-filter-repo,filter-branch replacement,701,5,5,Python,3,631,4,-1,-1,-1
+jwilk_i18nspector,https://github.com/jwilk/i18nspector,"checking tool for gettext POT, PO and MO files",4847,1,1,Python,2,1954,2,-1,-1,-1
+topwinner101_poky,https://github.com/topwinner101/poky,,148327,0,0,Python,0,63422,1288,-1,-1,-1
+egor5q_basic,https://github.com/egor5q/basic,,918,1,1,Python,0,1333,5,-1,-1,-1
+lhayhurst_xwlists,https://github.com/lhayhurst/xwlists,A web site to track X-Wing Miniature Combat lists.,5068320,19,19,Python,9,12335,7,-1,-1,-1
+VanilleBid_weekly-saleor,https://github.com/VanilleBid/weekly-saleor,,31346,0,0,Python,2,7338,103,-1,-1,-1
+intel_workload-collocation-agent,https://github.com/intel/workload-collocation-agent,Orchestration-aware Workload Collocation Agent - a daemon that can help you collocate your workloads.,9523,28,28,Python,15,1843,27,-1,-1,-1
+Jflick58_DepressionAI,https://github.com/Jflick58/DepressionAI,Alexa skill for people suffering with depression. ,109924,67,67,Python,12,725,8,-1,-1,-1
+openstack_networking-powervm,https://github.com/openstack/networking-powervm,Neutron drivers for PowerVM network management.,1283,27,27,Python,4,980,50,-1,-1,-1
+vmotso_openprocurement.auctions.geb,https://github.com/vmotso/openprocurement.auctions.geb,,2235,0,0,Python,0,577,29,-1,-1,-1
+ejsbrocco_2019-04-05-durham,https://github.com/ejsbrocco/2019-04-05-durham,,3086,0,0,Python,0,1500,160,-1,-1,-1
+xiang12835_python-learning,https://github.com/xiang12835/python-learning,Python 语言学习,807,1,1,Python,0,918,7,-1,-1,-1
+Blaez_Bot,https://github.com/Blaez/Bot,,40733,0,0,Python,0,1512,102,-1,-1,-1
+openstack_neutron-vpnaas,https://github.com/openstack/neutron-vpnaas,Virtual private network services for OpenStack Neutron.,52555,54,54,Python,32,12985,670,-1,-1,-1
+NotNANtoN_A.I.gar,https://github.com/NotNANtoN/A.I.gar,The Bachelor Project of Anton Orell Wiehe and Nil Stolt Ànso. We implement different reinforcement learning algorithms on a self-written agar.io clone and compare them.,1219372,0,0,Python,1,648,5,-1,-1,-1
+treussart_ProbeManager,https://github.com/treussart/ProbeManager,Centralize Management of Intrusion Detection System like Suricata Bro Ossec ...,13928,60,60,Python,13,1127,4,-1,-1,-1
+ocloarec_jupyterhub,https://github.com/ocloarec/jupyterhub,,3180,0,0,Python,0,1308,46,-1,-1,-1
+OasisLMF_OasisLMF,https://github.com/OasisLMF/OasisLMF,Loss modelling framework.,32458,22,22,Python,15,2213,23,-1,-1,-1
+luzzyzhang_my-python-cookbook,https://github.com/luzzyzhang/my-python-cookbook,Anyone can be cook but only the fearless can be great.,2959,3,3,Python,0,612,5,-1,-1,-1
+JNRowe_jnrbase,https://github.com/JNRowe/jnrbase,Common utility functionality for @JNRowe's Python projects,735,0,0,Python,0,546,4,-1,-1,-1
+Aifred-Health_Vulcan,https://github.com/Aifred-Health/Vulcan,"A high level deep learning framework for quickly prototyping networks with added tools in data visualisation, model interpretability and performance metrics",26769,10,10,Python,4,1456,22,-1,-1,-1
+4teamwork_opengever.core,https://github.com/4teamwork/opengever.core,OneGov GEVER core package,109186,5,5,Python,4,23045,72,-1,-1,-1
+Temityoalawiye_2018-11-08-Test,https://github.com/Temityoalawiye/2018-11-08-Test,,2964,0,0,Python,0,1334,144,-1,-1,-1
+aws_aws-parallelcluster-node,https://github.com/aws/aws-parallelcluster-node,aws-parallelcluster-node is the python package installed on the Amazon EC2 instances launched as part of AWS ParallelCluster,392,23,23,Python,36,550,38,-1,-1,-1
+bird-house_hummingbird,https://github.com/bird-house/hummingbird,A Web Processing Service for compliance checks used in the climate science community.,630,1,1,Python,1,984,14,-1,-1,-1
+dcppc_centillion,https://github.com/dcppc/centillion,Centillion is the Data Commons search engine. One centillion is 3.03 log-times better than a googol.,9119,6,6,Python,0,684,8,-1,-1,-1
+mjirik_io3d,https://github.com/mjirik/io3d,3D data read and write,3852,3,3,Python,5,862,10,-1,-1,-1
+bioinformatics-core-shared-training_2018-11-29-Crick-London,https://github.com/bioinformatics-core-shared-training/2018-11-29-Crick-London,"Version of Data Carpentry in R Course for CRUK FCI,London",1904,0,0,Python,1,1174,120,-1,-1,-1
+jpatsenker_cra,https://github.com/jpatsenker/cra,Website for calculating CRAP quality of given proteome and providing information regarding shortfalls and strengths of the proteome,77016,0,0,Python,0,1604,4,-1,-1,-1
+aelol_quant,https://github.com/aelol/quant,,717,0,0,Python,1,588,5,-1,-1,-1
+e-koch_FilFinder,https://github.com/e-koch/FilFinder,Detection of filamentary structure in molecular clouds,32500,14,14,Python,9,926,8,-1,-1,-1
+j0e1in_pyCryptoTrader,https://github.com/j0e1in/pyCryptoTrader,,752,0,0,Python,0,788,3,-1,-1,-1
+PlagiatBros_PlagiatSetup,https://github.com/PlagiatBros/PlagiatSetup,Plagiat Setup (https://plagiat.org),557405,0,0,Python,0,521,7,-1,-1,-1
+mikkie_stocking,https://github.com/mikkie/stocking,,16347,0,0,Python,0,858,3,-1,-1,-1
+omnis-labs-company_omnis,https://github.com/omnis-labs-company/omnis,Deep Learning for Everyone,583,4,4,Python,2,1374,11,-1,-1,-1
+jtande_2019-06-25-ColbyCollege,https://github.com/jtande/2019-06-25-ColbyCollege,,3248,0,0,Python,0,1522,162,-1,-1,-1
+jason-neal_eniric,https://github.com/jason-neal/eniric,Extended Near InfraRed spectra Information Content analysis.,108469,3,3,Python,4,3765,7,-1,-1,-1
+ipfire_pakfire,https://github.com/ipfire/pakfire,Pakfire is the package management and build system for IPFire 3.x.,2374,3,3,Python,1,1440,4,-1,-1,-1
+mozilla-releng_releasewarrior-2.0,https://github.com/mozilla-releng/releasewarrior-2.0,releasewarrior is a tool that manages and provides a checklist for human decision tasks with releases in flight,5574,2,2,Python,13,539,18,-1,-1,-1
+singnet_reputation,https://github.com/singnet/reputation,,33336,4,4,Python,7,595,7,-1,-1,-1
+inducer_pytential,https://github.com/inducer/pytential,Evaluate layer and volume potentials accurately. Solve integral equations.,2155,9,9,Python,5,1592,15,-1,-1,-1
+SergeySatskiy_codimension,https://github.com/SergeySatskiy/codimension,Experimental Python IDE written mostly in Python,29140,61,61,Python,8,5660,14,-1,-1,-1
+debexpo_debexpo,https://github.com/debexpo/debexpo,"GitHub mirror of Debexpo git repository, which is officially hosted on https://salsa.debian.org/mentors.debian.net-team/debexpo",2425,3,3,Python,5,1542,50,-1,-1,-1
+jamiebull1_remotor,https://github.com/jamiebull1/remotor,Scraper for finding remote (mainly software development) jobs from various job sites,2513,7,7,Python,1,640,6,-1,-1,-1
+magnuscolors_nsm-addons,https://github.com/magnuscolors/nsm-addons,,1308,0,0,Python,5,896,14,-1,-1,-1
+bambeero1_Jail,https://github.com/bambeero1/Jail,,1375,0,0,Python,0,806,74,-1,-1,-1
+lfortran_lfortran,https://github.com/lfortran/lfortran,Official mirror of https://gitlab.com/lfortran/lfortran. Please submit pull requests (PR) there. Any PR sent here will be closed automatically.,693,86,86,Python,4,1232,2,-1,-1,-1
+rpmfusion-infra_ansible-rpmfusion,https://github.com/rpmfusion-infra/ansible-rpmfusion,ansible-rpmfusion,2013,3,3,Python,3,752,4,-1,-1,-1
+dabercro_ConsistencyCheck,https://github.com/dabercro/ConsistencyCheck,,2650,0,0,Python,0,598,5,-1,-1,-1
+cloud-orchestration-group_cenv,https://github.com/cloud-orchestration-group/cenv,Command Environment for Networked Ventures,8566,1,1,Python,0,0,0,-1,-1,-1
+spriggsy83_regex-tutorial,https://github.com/spriggsy83/regex-tutorial,,2935,0,0,Python,0,597,52,-1,-1,-1
+mesfind_2018-09-17-DC-DMU,https://github.com/mesfind/2018-09-17-DC-DMU,,1770,0,0,Python,0,1282,107,-1,-1,-1
+ekansa_open-context-py,https://github.com/ekansa/open-context-py,Open Context Python Code Repository,13404,28,28,Python,7,3104,11,-1,-1,-1
+fzyukio_koe,https://github.com/fzyukio/koe,"Koe: open-source software to visualise, segment and classify acoustic units in animal vocalisations",33810,1,1,Python,0,584,2,-1,-1,-1
+splitio_python-client,https://github.com/splitio/python-client,Python SDK client for Split Software,12074,6,6,Python,5,765,23,-1,-1,-1
+rebase-helper_rebase-helper,https://github.com/rebase-helper/rebase-helper,This tool helps you rebase your package to the latest version,4145,30,30,Python,18,1830,24,-1,-1,-1
+vadim-job-hg_CodeCombat,https://github.com/vadim-job-hg/CodeCombat,Codecombat,15574,61,61,Python,67,1441,15,-1,-1,-1
+EverydayDesignStudio_olo,https://github.com/EverydayDesignStudio/olo,,21323,2,2,Python,2,755,5,-1,-1,-1
+GSA_srt-fbo-scraper,https://github.com/GSA/srt-fbo-scraper,Predicting FedBizOps doc compliance with section 508,59930,10,10,Python,6,643,4,-1,-1,-1
+rsumner868_pyt,https://github.com/rsumner868/pyt,,3077,0,0,Python,0,1520,26,-1,-1,-1
+crunchyroll_ef-open,https://github.com/crunchyroll/ef-open,Ellation Formation Tools for AWS,711,2,2,Python,7,876,22,-1,-1,-1
+CyberTrainingUSAF_05-Python-Programming,https://github.com/CyberTrainingUSAF/05-Python-Programming,,11407,1,1,Python,4,0,0,-1,-1,-1
+sulu_sulu-docs,https://github.com/sulu/sulu-docs,Sulu documentation,3418,8,8,Python,59,1029,98,-1,-1,-1
+plone_plone.app.upgrade,https://github.com/plone/plone.app.upgrade,Database upgrade steps for the Plone CMS,4241,6,6,Python,24,1709,124,-1,-1,-1
+mujin_mujincontrollerclientpy,https://github.com/mujin/mujincontrollerclientpy,MUJIN Controller Python Client,901,4,4,Python,6,1007,58,-1,-1,-1
+angela-li_2018-10-11-chicago,https://github.com/angela-li/2018-10-11-chicago,,2963,0,0,Python,0,1332,143,-1,-1,-1
+tardyp_Xpra,https://github.com/tardyp/Xpra,,38294,0,0,Python,0,21764,10,-1,-1,-1
+dimazest_fc,https://github.com/dimazest/fc,Deployment configuration for fowler.corpora,311,0,0,Python,0,933,2,-1,-1,-1
+pyepics_epicsscan,https://github.com/pyepics/epicsscan,scannng and data acquisition with pyepics,2186,1,1,Python,4,1248,4,-1,-1,-1
+shubhangipriya_Python,https://github.com/shubhangipriya/Python,,4255,0,0,Python,0,916,230,-1,-1,-1
+ocf_ocflib,https://github.com/ocf/ocflib,Python libraries for account and server management,785,11,11,Python,33,1011,86,-1,-1,-1
+transposit_docs,https://github.com/transposit/docs,User-facing product documentation,1721,2,2,Python,1,850,30,-1,-1,-1
+seequent_properties,https://github.com/seequent/properties,An organizational aid and wrapper for validation and tab completion of class properties/traits.,1017,8,8,Python,4,1239,20,-1,-1,-1
+materialsvirtuallab_monty,https://github.com/materialsvirtuallab/monty,This repository implements supplementary useful functions for Python that are not part of the standard library. Examples include useful utilities like transparent support for zipped files etc.,1092,22,22,Python,21,539,22,-1,-1,-1
+xuhuimin2017_storygenerative,https://github.com/xuhuimin2017/storygenerative,,2994,0,0,Python,0,812,40,-1,-1,-1
+codefordc_housing-insights,https://github.com/codefordc/housing-insights,Bringing open data to affordable housing decision makers in Washington DC. A D3/Javascript based website to visualize data related to affordable housing in Washington DC. Data processing with Python.,52616,47,47,Python,106,1692,71,-1,-1,-1
+gisce_libCNMC,https://github.com/gisce/libCNMC,Llibreria per generar tots els informes de la CNMC pel sector elèctric a través de GISCE-ERP,1413,4,4,Python,1,2063,23,-1,-1,-1
+hivesolutions_omnix,https://github.com/hivesolutions/omnix,Simple web application consuming the Omni API,537,0,0,Python,0,707,4,-1,-1,-1
+desihub_desispec,https://github.com/desihub/desispec,DESI spectral pipeline,19222,7,7,Python,12,4087,67,-1,-1,-1
+pepkit_peppy,https://github.com/pepkit/peppy,A python-based project metadata manager for portable encapsulated projects,2380,24,24,Python,6,2200,23,-1,-1,-1
+googleapis_artman,https://github.com/googleapis/artman,"Artifact Manager, a build and packaging tool for Google API client libraries.",1252,83,83,Python,68,2046,62,-1,-1,-1
+tethysplatform_tethys,https://github.com/tethysplatform/tethys,The Tethys Platform main Django website project repository.,92875,44,44,Python,28,2365,68,-1,-1,-1
+codeforboston_voiceapp311,https://github.com/codeforboston/voiceapp311,Voice assistant connection to Boston services,13339,27,27,Python,41,684,50,-1,-1,-1
+openstack_networking-ovn,https://github.com/openstack/networking-ovn,Neutron integration with OVN,28611,78,78,Python,53,8762,162,-1,-1,-1
+pindo-io_pindo,https://github.com/pindo-io/pindo,Cloud Communication Platform built for Developers,498,5,5,Python,0,575,7,-1,-1,-1
+mesfind_2018-09-26-DC-UOG,https://github.com/mesfind/2018-09-26-DC-UOG,,1769,0,0,Python,0,1269,107,-1,-1,-1
+927gaming_hq,https://github.com/927gaming/hq,,5927,0,0,Python,0,1986,10,-1,-1,-1
+Fuyukai_Jokusoramame,https://github.com/Fuyukai/Jokusoramame,The best best worst best worst bot,1331,6,6,Python,4,945,19,-1,-1,-1
+Tribler_gumby,https://github.com/Tribler/gumby,Experiment runner framework for IPv8 and Tribler,31156,12,12,Python,36,2468,42,-1,-1,-1
+1ts-org_snipe,https://github.com/1ts-org/snipe,"curses based roost, irccloud & zulip client  (a snipe is a kind of bird)",1403,14,14,Python,4,1155,5,-1,-1,-1
+gnowledge_gstudio,https://github.com/gnowledge/gstudio,gstudio is a node description framework (NDF) to create knowledge networks.  We are recreating gnowsys-studio with mongodb as storage.  This scaled up version with support for multiple projects will be used for the several OER and open courseware projects.,112670,30,30,Python,130,17148,153,-1,-1,-1
+Amulet-Team_Amulet-Map-Editor,https://github.com/Amulet-Team/Amulet-Map-Editor,"A new Minecraft world editor that aims to be flexible, extendable, and support most editions of Minecraft",3412,68,68,Python,14,510,12,-1,-1,-1
+fyumoto_Avocado,https://github.com/fyumoto/Avocado,,9482,0,0,Python,0,5947,71,-1,-1,-1
+cedrick-f_pySequence,https://github.com/cedrick-f/pySequence,aide à la création de Séquences et Progressions pédagogiques et à la validation de Projets,104992,7,7,Python,8,1915,9,-1,-1,-1
+fabric8-analytics_fabric8-analytics-jobs,https://github.com/fabric8-analytics/fabric8-analytics-jobs,[DEPRECATED] fabric8-analytics periodic and query-specific jobs,642,5,5,Python,24,965,32,-1,-1,-1
+Katello_katello-host-tools,https://github.com/Katello/katello-host-tools,Client side agent for package actions from katello ,39858,6,6,Python,25,12774,100,-1,-1,-1
+praekeltfoundation_seed-stage-based-messaging,https://github.com/praekeltfoundation/seed-stage-based-messaging,Seed Stage-Based Messaging and Content Store,748,1,1,Python,2,673,23,-1,-1,-1
+galaxyproject_cargo-port,https://github.com/galaxyproject/cargo-port,cache packages permanently,3657,10,10,Python,32,641,52,-1,-1,-1
+btodac_ase,https://github.com/btodac/ase,Atomic Simulation Environment branch,18972,0,0,Python,0,11531,302,-1,-1,-1
+tridesclous_tridesclous,https://github.com/tridesclous/tridesclous,offline/online spike sorting. Un logiciel de gauche qui ne fait pas d'amalgame entre la classe et la coquetterie.,13370,22,22,Python,16,640,12,-1,-1,-1
+rietmann-nv_statsmodel,https://github.com/rietmann-nv/statsmodel,Fork of Statsmodel,29818,0,0,Python,0,11066,248,-1,-1,-1
+mf15726_TP,https://github.com/mf15726/TP,,926,0,0,Python,0,1041,2,-1,-1,-1
+airshipit_armada,https://github.com/airshipit/armada,An orchestrator for managing a collection of Kubernetes Helm charts.,1259,32,32,Python,7,555,73,-1,-1,-1
+openstack_sushy,https://github.com/openstack/sushy,Sushy is a small Python library to communicate with Redfish based systems,1708,24,24,Python,14,1110,51,-1,-1,-1
+jwlynch_irc-subst,https://github.com/jwlynch/irc-subst,addon to irc client that makes output lines like an infobot,232,0,0,Python,0,600,3,-1,-1,-1
+rohitdatta_pepper,https://github.com/rohitdatta/pepper,The spiciest hackathon application and user management system out there 🌶🌶🌶,9103,16,16,Python,6,545,18,-1,-1,-1
+aig-upf_features-generalized-planning,https://github.com/aig-upf/features-generalized-planning,,6908,0,0,Python,0,518,4,-1,-1,-1
+f4b10_X4GA,https://github.com/f4b10/X4GA,X4 Gestione Aziendale,10630,5,5,Python,4,931,7,-1,-1,-1
+mkuzak_2019-04-16-ttt-Utrecht,https://github.com/mkuzak/2019-04-16-ttt-Utrecht,https://mkuzak.github.io/2019-04-16-ttt-Utrecht/,3052,0,0,Python,1,1177,115,-1,-1,-1
+faginawu_httpbin,https://github.com/faginawu/httpbin,"HTTP Request & Response Service, written in Python + Flask.",741,0,0,Python,0,844,116,-1,-1,-1
+jerryllim_afRPIsens,https://github.com/jerryllim/afRPIsens,,7868,0,0,Python,0,796,5,-1,-1,-1
+leeping_forcebalance,https://github.com/leeping/forcebalance,Systematic force field optimization.,387389,60,60,Python,43,2005,79,-1,-1,-1
+lobachevzky_ppo,https://github.com/lobachevzky/ppo,,279104,0,0,Python,0,0,0,-1,-1,-1
+DeciderWill_dcos-outflank,https://github.com/DeciderWill/dcos-outflank,,5071,0,0,Python,0,3439,155,-1,-1,-1
+griffithlab_pVACtools,https://github.com/griffithlab/pVACtools,,85866,49,49,Python,29,2048,32,-1,-1,-1
+jifar_2018-08-24-otago,https://github.com/jifar/2018-08-24-otago,,2945,0,0,Python,0,1322,139,-1,-1,-1
+peerchemist_cryptotik,https://github.com/peerchemist/cryptotik,Standardized common API for leading cryptocurrency exchanges.,494,73,73,Python,15,667,4,-1,-1,-1
+PNNL-CompBio_2018-10-29-PNNL-SWC,https://github.com/PNNL-CompBio/2018-10-29-PNNL-SWC,,3297,0,0,Python,0,1336,138,-1,-1,-1
+segfault16_modular-led-controller-workstation,https://github.com/segfault16/modular-led-controller-workstation,:musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi,44590,6,6,Python,3,755,12,-1,-1,-1
+ngld_knossos,https://github.com/ngld/knossos,A mod launcher/installer for FSO,6510,17,17,Python,11,1069,16,-1,-1,-1
+ITVBO_screenlytest,https://github.com/ITVBO/screenlytest,,3147,0,0,Python,0,1495,55,-1,-1,-1
+ripple-docker_lets,https://github.com/ripple-docker/lets,,403,0,0,Python,1,596,18,-1,-1,-1
+3liz_QuickOSM,https://github.com/3liz/QuickOSM,QGIS plugin to fetch OSM data with the Overpass API,3357,57,57,Python,23,579,20,-1,-1,-1
+ooi-integration_ingestion-csvs,https://github.com/ooi-integration/ingestion-csvs,A definitive collection of calibration and ingestion parameter data for all platforms.,39262,2,2,Python,18,1671,39,-1,-1,-1
+DReichLab_adna-workflow,https://github.com/DReichLab/adna-workflow,Workflow for processing Illumina sequencing runs for ancient human DNA,448,2,2,Python,0,551,2,-1,-1,-1
+hammerheadlemon_dbasik,https://github.com/hammerheadlemon/dbasik,Experimental web version of bcompiler. Basically.,749,0,0,Python,0,504,2,-1,-1,-1
+expyriment_expyriment,https://github.com/expyriment/expyriment,Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments,8250,76,76,Python,26,1435,27,-1,-1,-1
+jlw345_requests,https://github.com/jlw345/requests,,6944,0,0,Python,0,5873,651,-1,-1,-1
+openstack_monasca-agent,https://github.com/openstack/monasca-agent,Agent for Monasca,15223,85,85,Python,76,5213,244,-1,-1,-1
+cms-gem-daq-project_vfatqc-python-scripts,https://github.com/cms-gem-daq-project/vfatqc-python-scripts,,23422,1,1,Python,19,1246,33,-1,-1,-1
+kornai_4lang,https://github.com/kornai/4lang,Concept dictionary using Eilenberg machines,4077,8,8,Python,11,682,25,-1,-1,-1
+egor5q_generatorgame,https://github.com/egor5q/generatorgame,,887,0,0,Python,1,1264,5,-1,-1,-1
+lmakows-uva_sonic-mgmt,https://github.com/lmakows-uva/sonic-mgmt,,1337,0,0,Python,0,536,56,-1,-1,-1
+DarLiner_awesome-python,https://github.com/DarLiner/awesome-python,awesome-python 是 vinta 发起维护的 Python 资源列表，内容包括：Web框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。十分受Python开发者的青睐。,2126,5,5,Python,4,1319,346,-1,-1,-1
+Epsilon-Lee_fairseq-epsilon,https://github.com/Epsilon-Lee/fairseq-epsilon,Customized fairseq for fast experiment prototyping.,3482,2,2,Python,0,591,51,-1,-1,-1
+cloudify-incubator_cloudify-utilities-plugin,https://github.com/cloudify-incubator/cloudify-utilities-plugin,"Deployment proxy, SSH Key",778,4,4,Python,17,561,23,-1,-1,-1
+hypo-test_BitcoinBips-713993353,https://github.com/hypo-test/BitcoinBips-713993353,,4422,0,0,Python,0,1814,176,-1,-1,-1
+chaoss_grimoirelab-sortinghat,https://github.com/chaoss/grimoirelab-sortinghat,A tool to manage identities,1214,23,23,Python,17,818,19,-1,-1,-1
+bprasadrao_paramiko,https://github.com/bprasadrao/paramiko,,2890,0,0,Python,0,3417,155,-1,-1,-1
+TIGRLab_datman,https://github.com/TIGRLab/datman,"scripts for managing xnat, QC, and data analysis",86170,7,7,Python,13,3071,59,-1,-1,-1
+justindav1s_openshift-ansible-on-openstack,https://github.com/justindav1s/openshift-ansible-on-openstack,Openshift on Openstack using Ansible,395,0,0,Python,0,571,5,-1,-1,-1
+sara-nl_2019-10-01-GoodPracticesPython,https://github.com/sara-nl/2019-10-01-GoodPracticesPython,,3143,0,0,Python,0,1530,161,-1,-1,-1
+divvun_kbdgen,https://github.com/divvun/kbdgen,Generate keyboards and keyboard layouts for various operating systems.,759,17,17,Python,6,513,8,-1,-1,-1
+wylee_runcommands,https://github.com/wylee/runcommands,Simple command/task runner that uses Python's standard library argparse under the hood,484,5,5,Python,2,503,2,-1,-1,-1
+OpenTransitTools_gtfsdb,https://github.com/OpenTransitTools/gtfsdb,GTFS ORM using SQLAlchemy,7275,80,80,Python,26,819,27,-1,-1,-1
+soscleaner_soscleaner,https://github.com/soscleaner/soscleaner,A python application to clean sensitive and un-wanted data from an existing sosreport,1276,35,35,Python,19,0,0,-1,-1,-1
+ucldc_harvester,https://github.com/ucldc/harvester,Harvester for the ucldc solr index. Pushes content into the raw solr index.,1962,3,3,Python,5,1300,16,-1,-1,-1
+CommandBlockLogic_exploding-sheep,https://github.com/CommandBlockLogic/exploding-sheep,地陷圣坛数据包,1217,4,4,Python,1,883,5,-1,-1,-1
+JasonJWilliamsNY_2018-12-10-earlham,https://github.com/JasonJWilliamsNY/2018-12-10-earlham,,1647,0,0,Python,0,1137,120,-1,-1,-1
+tgc-dk_openlp-migration--test,https://github.com/tgc-dk/openlp-migration--test,,80723,0,0,Python,0,16225,142,-1,-1,-1
+willyborja95_jupyter2,https://github.com/willyborja95/jupyter2,,4716,0,0,Python,0,3368,167,-1,-1,-1
+CPFL_AMS,https://github.com/CPFL/AMS,Autoware-Management-System,42873,22,22,Python,16,738,13,-1,-1,-1
+hashdist_hashstack,https://github.com/hashdist/hashstack,Collection of software profiles for HashDist,18470,47,47,Python,63,3112,92,-1,-1,-1
+abhiShankar_thalapathyfan,https://github.com/abhiShankar/thalapathyfan,,456,1,1,Python,0,561,16,-1,-1,-1
+WuLiFang_Nuke,https://github.com/WuLiFang/Nuke,Nuke plugins for WuLiFang Studio,9462,7,7,Python,2,1364,2,-1,-1,-1
+wazo-pbx_wazo-calld,https://github.com/wazo-pbx/wazo-calld,:phone: UC micro service for Wazo,2197,4,4,Python,2,1403,26,-1,-1,-1
+danieljaouen_dotfiles,https://github.com/danieljaouen/dotfiles,,414,4,4,Python,2,516,3,-1,-1,-1
+ewallace_2018-06-12-Edinburgh,https://github.com/ewallace/2018-06-12-Edinburgh,,5717,0,0,Python,0,1177,123,-1,-1,-1
+Farseer-NMR_FarSeer-NMR,https://github.com/Farseer-NMR/FarSeer-NMR,"A software suite for automatic treatment, analysis and plotting of large and multivariable datasets of bioNMR peaklists.",61190,8,8,Python,2,1228,8,-1,-1,-1
+FAForever_client,https://github.com/FAForever/client,FAF Python Client,14931,64,64,Python,88,3664,92,-1,-1,-1
+fedora-infra_bodhi,https://github.com/fedora-infra/bodhi,Bodhi is a web-system that facilitates the process of publishing updates for a Fedora-based software distribution.,44823,93,93,Python,141,9974,168,-1,-1,-1
+cloud-ark_caastle,https://github.com/cloud-ark/caastle,Full-stack microservices deployment for Google Kubernetes Engine and Amazon Elastic Container Service ,29047,25,25,Python,2,575,2,-1,-1,-1
+tempse_ML-generalization,https://github.com/tempse/ML-generalization,A Machine Learning Framework for Classifier Generalization Studies,204,1,1,Python,0,548,4,-1,-1,-1
+conda-forge_conda-smithy,https://github.com/conda-forge/conda-smithy,The tool for managing conda-forge feedstocks.,1523,65,65,Python,96,2053,98,-1,-1,-1
+raynamharris_2018-04-07-BuenosAires,https://github.com/raynamharris/2018-04-07-BuenosAires,Un taller de La Terminal y Git,1965,0,0,Python,2,1201,127,-1,-1,-1
+MrScytheLULZ_PuPPY,https://github.com/MrScytheLULZ/PuPPY,,26539,0,0,Python,0,2387,35,-1,-1,-1
+kernelci_lava-ci,https://github.com/kernelci/lava-ci,(DEPRECATED: check kernelci-core) LAVA CI Tools for Production KernelCI - please make pull requests against lava-ci-staging instead,726,20,20,Python,22,899,42,-1,-1,-1
+OllyButters_puma,https://github.com/OllyButters/puma,"Getting, analysing and displaying lists of papers",45200,4,4,Python,0,737,11,-1,-1,-1
+phxbandit_scripts-and-tools,https://github.com/phxbandit/scripts-and-tools,Scripts and utilities to help your hacking needs,85992,64,64,Python,27,628,10,-1,-1,-1
+NSW-OEH-EMS-KST_grid-garage,https://github.com/NSW-OEH-EMS-KST/grid-garage,ArcGIS python toolbox supporting table-based processing,14144,3,3,Python,1,513,11,-1,-1,-1
+derp-caf_development,https://github.com/derp-caf/development,,331642,0,0,Python,0,24812,656,-1,-1,-1
+wdwang_pyABC,https://github.com/wdwang/pyABC,,29496,0,0,Python,0,877,9,-1,-1,-1
+scizen9_sedmpy,https://github.com/scizen9/sedmpy,SED Machine Instrument Software Repository,2944,3,3,Python,2,566,7,-1,-1,-1
+swc-uiuc_2018-09-20-illinois,https://github.com/swc-uiuc/2018-09-20-illinois,,3068,0,0,Python,2,1332,140,-1,-1,-1
+Geotab_mygeotab-python,https://github.com/Geotab/mygeotab-python,"An Apache2 Licensed, unofficial Python client for the MyGeotab API.",427,20,20,Python,6,758,6,-1,-1,-1
+flavour_ifrc,https://github.com/flavour/ifrc,IFRC branch of Eden,178173,10,10,Python,7,11993,117,-1,-1,-1
+infor-design_website,https://github.com/infor-design/website,Design guidelines and code documentation for the Infor Design System,5892,3,3,Python,1,2089,13,-1,-1,-1
+gae-init_gae-init-magic,https://github.com/gae-init/gae-init-magic,,7169,4,4,Python,0,2319,24,-1,-1,-1
+OpenUpSA_umibukela,https://github.com/OpenUpSA/umibukela,Community-Based Monitoring advocacy and reporting platform,6338,0,0,Python,0,1114,15,-1,-1,-1
+MouseLand_suite2p,https://github.com/MouseLand/suite2p,cell detection in calcium imaging recordings,65013,62,62,Python,26,854,10,-1,-1,-1
+1991chandu_AWS-Demos,https://github.com/1991chandu/AWS-Demos,,13434,0,0,Python,0,597,6,-1,-1,-1
+ilastik_volumina,https://github.com/ilastik/volumina,Volume Slicing and Editing,5618,25,25,Python,42,2374,69,-1,-1,-1
+arinbasu_2019-05-13-ttt-wellington,https://github.com/arinbasu/2019-05-13-ttt-wellington,,2998,1,1,Python,0,1172,115,-1,-1,-1
+liqd_a4-meinberlin,https://github.com/liqd/a4-meinberlin,"The central participation platform of the city of Berlin, Germany",8527,14,14,Python,1,7705,36,-1,-1,-1
+engal_2019-4-30-escience,https://github.com/engal/2019-4-30-escience,,3116,0,0,Python,0,1506,162,-1,-1,-1
+CSSIP-AIR_PatentsView-DB,https://github.com/CSSIP-AIR/PatentsView-DB,,177711,5,5,Python,6,807,31,-1,-1,-1
+superdesk_superdesk-fi,https://github.com/superdesk/superdesk-fi,,499,2,2,Python,11,773,24,-1,-1,-1
+mdangschat_ctc-asr,https://github.com/mdangschat/ctc-asr,"End-to-end trained speech recognition system, based on RNNs and the connectionist temporal classification (CTC) cost function.",57819,52,52,Python,17,789,4,-1,-1,-1
+saradogg95_peppbilar,https://github.com/saradogg95/peppbilar,,456,0,0,Python,0,568,12,-1,-1,-1
+quantumcomputers_musicbot,https://github.com/quantumcomputers/musicbot,,112331,0,0,Python,0,1182,32,-1,-1,-1
+eric-erki_geopandas,https://github.com/eric-erki/geopandas,Python tools for geographic data,12141,0,0,Python,0,1125,70,-1,-1,-1
+m-v-nikolov_dtk-tools-py3,https://github.com/m-v-nikolov/dtk-tools-py3,,369975,0,0,Python,0,3340,42,-1,-1,-1
+jaraco_svg.charts,https://github.com/jaraco/svg.charts,SVG Charting Library for Python,1059,10,10,Python,6,511,9,-1,-1,-1
+sahana_BRCMS,https://github.com/sahana/BRCMS,Sahana Beneficiary Registry and Case Management System,131537,1,1,Python,0,11420,117,-1,-1,-1
+CloudPadovana_openstack-security-integrations,https://github.com/CloudPadovana/openstack-security-integrations,Security extensions for openstack,1136,2,2,Python,2,602,3,-1,-1,-1
+mgijax_femover,https://github.com/mgijax/femover,Move Data from MGD into FE,4301,0,0,Python,0,1921,21,-1,-1,-1
+os2webscanner_os2webscanner,https://github.com/os2webscanner/os2webscanner,,7425,12,12,Python,2,2047,31,-1,-1,-1
+datosgobar_georef-ar-api,https://github.com/datosgobar/georef-ar-api,API del Servicio de Normalización de Datos Geográficos de Argentina.,16185,36,36,Python,7,818,7,-1,-1,-1
+TheIoTLearningInitiative_CodeLabs,https://github.com/TheIoTLearningInitiative/CodeLabs,Internet of Things Code Labs,15312,5,5,Python,12,8133,15,-1,-1,-1
+dstrigl_htheatpump,https://github.com/dstrigl/htheatpump,Easy-to-use Python communication module for Heliotherm heat pumps.,507,5,5,Python,2,560,7,-1,-1,-1
+cyberconsultant3199_Phishing-KIngphisher,https://github.com/cyberconsultant3199/Phishing-KIngphisher,,3989,0,0,Python,0,2294,26,-1,-1,-1
+globocom_GloboNetworkAPI,https://github.com/globocom/GloboNetworkAPI,"API to automate IP Networking management, resource allocation and provisioning.",7355,49,49,Python,30,3452,55,-1,-1,-1
+ViaFerrata_OrcaNet,https://github.com/ViaFerrata/OrcaNet,Deep Learning project for the neutrino telescope KM3NeT-ORCA,15896,3,3,Python,1,740,11,-1,-1,-1
+dvm-shlee_PyNIT,https://github.com/dvm-shlee/PyNIT,Python based NeuroImaging Toolkit,3421,2,2,Python,0,562,5,-1,-1,-1
+Crystal-SDS_controller,https://github.com/Crystal-SDS/controller,Control plane of Crystal's SDS system. It is composed by the Crystal API and the distributed controllers.,1487,6,6,Python,3,760,29,-1,-1,-1
+vincentalbouy_mi-prometheus,https://github.com/vincentalbouy/mi-prometheus,,63946,0,0,Python,0,1668,30,-1,-1,-1
+manivannan39_algorithms-in-python,https://github.com/manivannan39/algorithms-in-python,,1725,0,0,Python,0,729,162,-1,-1,-1
+alex-konovalov_2019-05-13-ttt-online-BST,https://github.com/alex-konovalov/2019-05-13-ttt-online-BST,"Online Carpentries Instructor Training, 13-14 May 2019",2978,0,0,Python,0,1172,115,-1,-1,-1
+UCF_PostMaster,https://github.com/UCF/PostMaster,,4766,1,1,Python,1,1140,15,-1,-1,-1
+OCHA-DAP_hdx-python-api,https://github.com/OCHA-DAP/hdx-python-api,Python API for interacting with the HDX Data Portal,13885,26,26,Python,8,716,6,-1,-1,-1
+openstack_sahara-plugin-spark,https://github.com/openstack/sahara-plugin-spark,Spark provisioning plugin for Sahara,1093,1,1,Python,0,3084,92,-1,-1,-1
+UMN-CMS_cmsWRextensions,https://github.com/UMN-CMS/cmsWRextensions,,54494,0,0,Python,3,649,9,-1,-1,-1
+GoProgrammer_ungoogled-chromium,https://github.com/GoProgrammer/ungoogled-chromium,,5065,0,0,Python,0,0,0,-1,-1,-1
+Varskin_mod,https://github.com/Varskin/mod,,661,0,0,Python,0,859,19,-1,-1,-1
+chetanzope_mytheme,https://github.com/chetanzope/mytheme,,173131,0,0,Python,0,13868,889,-1,-1,-1
+LolexUK_Lolex-Tools,https://github.com/LolexUK/Lolex-Tools,A project with some potentially useful utilities. IN DEVELOPMENT,1744,1,1,Python,0,1465,8,-1,-1,-1
+GNOME_gedit-plugins,https://github.com/GNOME/gedit-plugins,Collection of plugins for the gedit Text Editor,7879,26,26,Python,14,1920,311,-1,-1,-1
+eecs-autograder_autograder-server,https://github.com/eecs-autograder/autograder-server,,5798,1,1,Python,0,1411,13,-1,-1,-1
+ARPA-SIMC_meteomixer,https://github.com/ARPA-SIMC/meteomixer,tool per selezione e editing di modelli previsionali,21299,0,0,Python,0,593,4,-1,-1,-1
+sa2c_intermediate-git-2019-03-20,https://github.com/sa2c/intermediate-git-2019-03-20,,2939,0,0,Python,0,1351,147,-1,-1,-1
+nakagami_minipg,https://github.com/nakagami/minipg,Yet another Python PostgreSQL database driver,301,10,10,Python,0,524,2,-1,-1,-1
+ccnmtl_wardenclyffe,https://github.com/ccnmtl/wardenclyffe,video thingamajig,84043,0,0,Python,4,3672,26,-1,-1,-1
+aertoria_InternetMonitor,https://github.com/aertoria/InternetMonitor,InternetMonitor,1154,0,0,Python,0,2992,9,-1,-1,-1
+Ilhasoft_bothub-engine,https://github.com/Ilhasoft/bothub-engine,,900,6,6,Python,1,1066,14,-1,-1,-1
+radomd92_botjagwar,https://github.com/radomd92/botjagwar,"Official code repository for Bot-Jagwar. ""Bot-Jagwar"" is the account name of the bot that runs the code in this repository. The ultimate goal of that bot is to be an agent that evolves inside Wikimedia project",33547,1,1,Python,0,592,5,-1,-1,-1
+kimdurante_2019-03-25-opa,https://github.com/kimdurante/2019-03-25-opa,,3229,0,0,Python,0,1470,154,-1,-1,-1
+AlgernonSolutions_leech,https://github.com/AlgernonSolutions/leech,the leech,1269,1,1,Python,1,797,6,-1,-1,-1
+NESCLiC_2018-11-09-tufts,https://github.com/NESCLiC/2018-11-09-tufts,,2962,0,0,Python,0,1343,141,-1,-1,-1
+volodymyrss_data-analysis,https://github.com/volodymyrss/data-analysis,reproducbile workflow expression in python,769,0,0,Python,1,613,8,-1,-1,-1
+pytest-dev_py,https://github.com/pytest-dev/py,Python development support library (note: maintenance only),21939,26,26,Python,38,2583,96,-1,-1,-1
+xrloong_qiangheng,https://github.com/xrloong/qiangheng,瑲珩－－動態拆碼暨動態組字,10594,2,2,Python,1,1324,6,-1,-1,-1
+SUNET_eduid-developer,https://github.com/SUNET/eduid-developer,Developer environment files,1723,0,0,Python,1,659,13,-1,-1,-1
+gitsucker_better-Bitcoin-improvement-proposals-4,https://github.com/gitsucker/better-Bitcoin-improvement-proposals-4,,4424,0,0,Python,0,1814,176,-1,-1,-1

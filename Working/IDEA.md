@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Source code comments are one of the most important software artifacts produced by programmers during software development. It forms an essential part of documentation, providing additional information not immediately visible from source code
+Source code comments are one of the most important software artifacts produced by programmers during software development. It forms an essential part of documentation, providing additional information not immediately visible from source code. However, comments are also notorious for its scarcity and inconsistency with source code. To address these issues, there are a number of "best practices" in the wild, while their impact on a project remain unclear. Therefore, this research project aims to understand the commenting practices and give practical insights about how to write comments.
 
 ## Research Questions
 
@@ -54,4 +54,12 @@ To answer RQ2, we conduct xxx and xxx analysis on the previously collected data
 
 ### Project Filtering
 
+We use a combination of GHTorrent, World of Code and GitHub API. We have collected approcimately 50000 projects. The major programming languages of these projects are either Java, JavaScript, Python, C, C++ or Go.
+
 ### Metrics Extracted for Each Project
+
+1. Stars, forks, authors, commits and number of source files
+2. Line of code, line of comments, blank lines
+3. Number of documentation comments, number of implementation comments
+4. Number of functions and number of functions with documentation comments
+5. Number of files with a descriptive file header

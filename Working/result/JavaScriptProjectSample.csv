@@ -1,0 +1,1001 @@
+name,url,description,size,stars,watchers,language,forks,commits,authors,lines_of_code,lines_of_comments,lines_blank
+reactjs_pt-BR.reactjs.org,https://github.com/reactjs/pt-BR.reactjs.org,🇧🇷💯React documentation website in Portuguese (Brazil),72092,194,194,JavaScript,138,6018,1411,-1,-1,-1
+orbitdb_ipfs-log,https://github.com/orbitdb/ipfs-log,Append-only log CRDT on IPFS,11692,180,180,JavaScript,40,1124,31,-1,-1,-1
+MoonMail_MoonMail,https://github.com/MoonMail/MoonMail,Email marketing platform for bulk emailing via Amazon SES (Google Cloud Platform and Azure coming soon),29720,1393,1393,JavaScript,158,2128,32,-1,-1,-1
+babel_website,https://github.com/babel/website,:globe_with_meridians: The Babel documentation website,20968,525,525,JavaScript,904,5470,846,-1,-1,-1
+eleme_duang,https://github.com/eleme/duang,自动 CMS 生成工具,867,189,189,JavaScript,45,700,18,-1,-1,-1
+karma-runner_karma,https://github.com/karma-runner/karma,Spectacular Test Runner for JavaScript,8044,10745,10745,JavaScript,1606,5193,682,-1,-1,-1
+Netflix_falcor,https://github.com/Netflix/falcor,A JavaScript library for efficient data fetching,22042,9371,9371,JavaScript,451,3143,117,-1,-1,-1
+Paxa_postbird,https://github.com/Paxa/postbird,"Open source PostgreSQL GUI client for macOS, Linux and Windows",18512,609,609,JavaScript,60,686,16,-1,-1,-1
+highlightjs_highlight.js,https://github.com/highlightjs/highlight.js,Javascript syntax highlighter,9037,14620,14620,JavaScript,2473,7070,830,-1,-1,-1
+draft-js-plugins_draft-js-plugins,https://github.com/draft-js-plugins/draft-js-plugins,"React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers",8699,3184,3184,JavaScript,696,2944,322,-1,-1,-1
+inikulin_publish-please,https://github.com/inikulin/publish-please,Safe and highly functional replacement for `npm publish`.,3436,744,744,JavaScript,31,604,18,-1,-1,-1
+ankane_chartkick.js,https://github.com/ankane/chartkick.js,Create beautiful charts with one line of JavaScript,578,1036,1036,JavaScript,127,616,41,-1,-1,-1
+eweitz_ideogram,https://github.com/eweitz/ideogram,Chromosome visualization for the web,19391,135,135,JavaScript,35,1947,15,-1,-1,-1
+joshwcomeau_react-flip-move,https://github.com/joshwcomeau/react-flip-move,Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.,5889,2824,2824,JavaScript,170,685,50,-1,-1,-1
+Foliotek_Croppie,https://github.com/Foliotek/Croppie,A Javascript Image Cropper,3849,1767,1767,JavaScript,659,633,107,-1,-1,-1
+FNNDSC_ami,https://github.com/FNNDSC/ami,AMI Medical Imaging (AMI) JS ToolKit,162899,406,406,JavaScript,150,1440,65,-1,-1,-1
+apache_couchdb-nano,https://github.com/apache/couchdb-nano,Apache CouchDB Nano,1545,300,300,JavaScript,102,991,125,-1,-1,-1
+xojs_xo,https://github.com/xojs/xo,❤️ JavaScript linter with great defaults,432,4605,4605,JavaScript,226,734,107,-1,-1,-1
+qilin-editor_qilin-app,https://github.com/qilin-editor/qilin-app,"Fully hackable text editor developed for exact sciences with built-in KaTeX and AsciiMath support. Extensible via plugins and themes. Exportable as HTML, PDF and GFM.",3657,231,231,JavaScript,20,1036,10,-1,-1,-1
+nordnet_nordnet-ui-kit,https://github.com/nordnet/nordnet-ui-kit,Nordnet UI Kit,19847,104,104,JavaScript,30,2787,95,-1,-1,-1
+hackmdio_codimd,https://github.com/hackmdio/codimd,CodiMD - Realtime collaborative markdown notes on all platforms.,21930,4901,4901,JavaScript,628,2633,212,-1,-1,-1
+pavjacko_renative,https://github.com/pavjacko/renative,"🚀🚀🚀Build universal cross-platform apps with React Native. Includes latest iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms",92367,406,406,JavaScript,43,765,23,-1,-1,-1
+RuntimeTools_appmetrics,https://github.com/RuntimeTools/appmetrics,Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.,922,635,635,JavaScript,115,1255,71,-1,-1,-1
+jiahaog_nativefier,https://github.com/jiahaog/nativefier,Make any web page a desktop application,4671,20150,20150,JavaScript,1164,1136,157,-1,-1,-1
+mailvelope_mailvelope,https://github.com/mailvelope/mailvelope,Browser extension for OpenPGP encryption with Webmail,32596,1191,1191,JavaScript,175,2511,74,-1,-1,-1
+skulpt_skulpt,https://github.com/skulpt/skulpt,Skulpt is a Javascript implementation of the Python programming language,85224,2515,2515,JavaScript,721,4545,153,-1,-1,-1
+logux_client,https://github.com/logux/client,Logux base components to build web client,1971,263,263,JavaScript,15,731,25,-1,-1,-1
+uncss_uncss,https://github.com/uncss/uncss,Remove unused styles from CSS,1012,8507,8507,JavaScript,381,775,79,-1,-1,-1
+tulios_kafkajs,https://github.com/tulios/kafkajs,A modern Apache Kafka client for node.js,8513,347,347,JavaScript,47,1418,32,-1,-1,-1
+ableplayer_ableplayer,https://github.com/ableplayer/ableplayer,fully accessible cross-browser HTML5 media player. ,139052,355,355,JavaScript,116,750,48,-1,-1,-1
+dockersamples_example-voting-app,https://github.com/dockersamples/example-voting-app,Example Docker Compose app,858,1495,1495,JavaScript,1652,716,94,-1,-1,-1
+silverwind_droppy,https://github.com/silverwind/droppy,Self-hosted file storage,9940,710,710,JavaScript,81,4263,32,-1,-1,-1
+bkimminich_juice-shop,https://github.com/bkimminich/juice-shop,OWASP Juice Shop: Probably the most modern and sophisticated insecure web application,119618,2151,2151,JavaScript,1216,8777,99,-1,-1,-1
+nhn_tui.chart,https://github.com/nhn/tui.chart,🍞📊  Beautiful chart for data visualization.,64003,4153,4153,JavaScript,202,2377,42,-1,-1,-1
+dollarshaveclub_stickybits,https://github.com/dollarshaveclub/stickybits,Stickybits is a lightweight alternative to `position: sticky` polyfills 🍬,3826,1964,1964,JavaScript,147,1077,46,-1,-1,-1
+FormidableLabs_redux-little-router,https://github.com/FormidableLabs/redux-little-router,A tiny router for Redux that lets the URL do the talking.,4346,1090,1090,JavaScript,133,756,87,-1,-1,-1
+codeforthailand_election-live,https://github.com/codeforthailand/election-live,Live Scoreboard for Thai General Election 2562 (2019),8490,402,402,JavaScript,146,763,36,-1,-1,-1
+Shopify_js-buy-sdk,https://github.com/Shopify/js-buy-sdk,"The JS Buy SDK is a lightweight library that allows you to build ecommerce into any website. It is based on Shopify's API and provides the ability to retrieve products and collections from your shop, add products to a cart, and checkout.",3643,441,441,JavaScript,132,2157,65,-1,-1,-1
+sindresorhus_file-type,https://github.com/sindresorhus/file-type,Detect the file type of a Buffer/Uint8Array/ArrayBuffer,75267,1139,1139,JavaScript,159,622,112,-1,-1,-1
+udacity_reactnd-project-myreads-starter,https://github.com/udacity/reactnd-project-myreads-starter,Starter Code for the React MyReads Project,293,175,175,JavaScript,2686,889,156,-1,-1,-1
+Netflix_vector,https://github.com/Netflix/vector,Vector is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.,2759,3182,3182,JavaScript,232,704,31,-1,-1,-1
+naptha_tesseract.js,https://github.com/naptha/tesseract.js,Pure Javascript OCR for more than 100 Languages 📖🎉🖥,102876,17055,17055,JavaScript,1154,519,50,-1,-1,-1
+flowhub_the-graph,https://github.com/flowhub/the-graph,SVG custom elements for FBP graph editing and visualization. Used in noflo/noflo-ui,6426,812,812,JavaScript,167,1392,39,-1,-1,-1
+openshift_origin-web-console,https://github.com/openshift/origin-web-console,Web Console for the OpenShift Application Platform,79580,111,111,JavaScript,231,6383,158,-1,-1,-1
+ember-cli_ember-exam,https://github.com/ember-cli/ember-exam,"Run your tests with randomization, splitting, and parallelization for beautiful tests.",3174,242,242,JavaScript,35,637,41,-1,-1,-1
+zodern_meteor-up,https://github.com/zodern/meteor-up,Production Quality Meteor Deployment to Anywhere,1923,1188,1188,JavaScript,252,1240,122,-1,-1,-1
+oleksiyk_kafka,https://github.com/oleksiyk/kafka,Apache Kafka 0.9 client for Node,596,282,282,JavaScript,81,647,66,-1,-1,-1
+StopModReposts_Illegal-Mod-Sites,https://github.com/StopModReposts/Illegal-Mod-Sites,A list of websites that are illegally redistributing Minecraft mods.,1324,103,103,JavaScript,52,539,34,-1,-1,-1
+golden-layout_golden-layout,https://github.com/golden-layout/golden-layout,A multi window layout manager for webapps,5941,4329,4329,JavaScript,362,547,99,-1,-1,-1
+withspectrum_spectrum,https://github.com/withspectrum/spectrum,"Simple, powerful online communities.",53208,7098,7098,JavaScript,618,15762,142,-1,-1,-1
+interactivethings_catalog,https://github.com/interactivethings/catalog,Create living style guides using Markdown or React,15635,1159,1159,JavaScript,119,2082,58,-1,-1,-1
+nodemailer_nodemailer,https://github.com/nodemailer/nodemailer,✉️ Send e-mails with Node.JS – easy as cake!,9710,11365,11365,JavaScript,1009,983,162,-1,-1,-1
+thorntail_thorntail-examples,https://github.com/thorntail/thorntail-examples,Examples of how to write applications using Swarm.,20639,300,300,JavaScript,285,978,92,-1,-1,-1
+byteball_obyte-gui-wallet,https://github.com/byteball/obyte-gui-wallet,Smart payments made simple,13390,425,425,JavaScript,156,2342,54,-1,-1,-1
+kogosoftwarellc_open-api,https://github.com/kogosoftwarellc/open-api,A Monorepo of various packages to power OpenAPI in node,2480,272,272,JavaScript,98,2127,85,-1,-1,-1
+woocommerce_FlexSlider,https://github.com/woocommerce/FlexSlider,"An awesome, fully responsive jQuery slider plugin",3034,4963,4963,JavaScript,1811,1026,344,-1,-1,-1
+mozilla_fxa-auth-server,https://github.com/mozilla/fxa-auth-server,DEPRECATED - Migrated to https://github.com/mozilla/fxa,17821,394,394,JavaScript,121,6356,104,-1,-1,-1
+Kinto_kinto.js,https://github.com/Kinto/kinto.js,An Offline-First JavaScript Client for Kinto.,13752,228,228,JavaScript,55,2492,64,-1,-1,-1
+webpro_reveal-md,https://github.com/webpro/reveal-md,reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file,340,1537,1537,JavaScript,253,517,73,-1,-1,-1
+KC3Kai_KC3Kai,https://github.com/KC3Kai/KC3Kai,Kantai Collection Game Viewer and Tools,88861,342,342,JavaScript,147,8254,98,-1,-1,-1
+JedWatson_react-select,https://github.com/JedWatson/react-select,The Select Component for React.js,14410,17211,17211,JavaScript,3248,5344,1000,-1,-1,-1
+NorthernMan54_homebridge-alexa,https://github.com/NorthernMan54/homebridge-alexa,Expose your homebridge controlled devices to Amazon Alexa.,23899,212,212,JavaScript,31,577,12,-1,-1,-1
+fedwiki_wiki-client,https://github.com/fedwiki/wiki-client,Federated wiki client-side javascript as a npm module.,2347,110,110,JavaScript,32,788,19,-1,-1,-1
+google_closure-library,https://github.com/google/closure-library,Google's common JavaScript library,135333,3236,3236,JavaScript,842,9055,808,-1,-1,-1
+chalk_chalk,https://github.com/chalk/chalk,🖍 Terminal string styling done right,688,12569,12569,JavaScript,476,570,121,-1,-1,-1
+amejiarosario_dsa.js-data-structures-algorithms-javascript,https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript,Data Structures and Algorithms explained and implemented in JavaScript,111398,2471,2471,JavaScript,190,0,0,-1,-1,-1
+liferay_senna.js,https://github.com/liferay/senna.js,:seedling: A blazing-fast Single Page Application engine,14408,1709,1709,JavaScript,170,1229,46,-1,-1,-1
+firebase_firebase-tools,https://github.com/firebase/firebase-tools,The Firebase Command Line Tools,2850,1853,1853,JavaScript,324,3665,182,-1,-1,-1
+saguijs_sagui,https://github.com/saguijs/sagui,:monkey: Front-end tooling in a single dependency,2050,694,694,JavaScript,32,1324,22,-1,-1,-1
+z-edit_zedit,https://github.com/z-edit/zedit,An integrated development environment for Bethesda Plugin Files.,87254,121,121,JavaScript,20,2852,10,-1,-1,-1
+wix_react-native-calendars,https://github.com/wix/react-native-calendars,React Native Calendar Components 📆 ,4514,4449,4449,JavaScript,1211,1430,272,-1,-1,-1
+buildkite_frontend,https://github.com/buildkite/frontend,🌏 The front-end application code for https://buildkite.com,9533,124,124,JavaScript,27,4639,26,-1,-1,-1
+GoogleChromeLabs_web-audio-samples,https://github.com/GoogleChromeLabs/web-audio-samples,Web Audio API samples by Chrome WebAudio Team,699721,270,270,JavaScript,77,1161,25,-1,-1,-1
+up-for-grabs_up-for-grabs.net,https://github.com/up-for-grabs/up-for-grabs.net,Jump in!,9141,1424,1424,JavaScript,731,3307,775,-1,-1,-1
+sehugg_8bitworkshop,https://github.com/sehugg/8bitworkshop,web-based IDE for 8-bit retro consoles like Atari 2600,25186,114,114,JavaScript,20,617,2,-1,-1,-1
+wikimedia_VisualEditor,https://github.com/wikimedia/VisualEditor,✏ Stand-alone contentEditable-based rich HTML5 editor.  This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.,89162,104,104,JavaScript,25,82039,236,-1,-1,-1
+zenika-open-source_immutadot,https://github.com/zenika-open-source/immutadot,immutadot is a JavaScript library to deal with nested immutable structures.,2724,159,159,JavaScript,5,1173,19,-1,-1,-1
+mojs_mojs,https://github.com/mojs/mojs,The motion graphics toolbelt for the web,137587,14856,14856,JavaScript,809,1450,36,-1,-1,-1
+lufylegend_lufylegend.js,https://github.com/lufylegend/lufylegend.js,a library for html5,42779,453,453,JavaScript,187,759,10,-1,-1,-1
+aws-samples_aws-serverless-workshops,https://github.com/aws-samples/aws-serverless-workshops,Code and walkthrough labs to set up serverless applications for Wild Rydes workshops,90233,1914,1914,JavaScript,1408,943,116,-1,-1,-1
+electricjs_electric,https://github.com/electricjs/electric,⚡ Create beautiful documentation for your projects,8595,122,122,JavaScript,26,834,38,-1,-1,-1
+graphql-boilerplates_node-graphql-server,https://github.com/graphql-boilerplates/node-graphql-server,"Boilerplate code for scalable, production-ready GraphQL servers",2343,631,631,JavaScript,102,1323,33,-1,-1,-1
+apache_skywalking-ui,https://github.com/apache/skywalking-ui,The web UI for skywalking APM,4592,254,254,JavaScript,136,666,49,-1,-1,-1
+buttercup_buttercup-desktop,https://github.com/buttercup/buttercup-desktop,:key: Javascript Secrets Vault - Multi-Platform Desktop Application,11770,2875,2875,JavaScript,201,1775,85,-1,-1,-1
+mzgoddard_hard-source-webpack-plugin,https://github.com/mzgoddard/hard-source-webpack-plugin,,2111,1863,1863,JavaScript,134,1708,56,-1,-1,-1
+Trustroots_trustroots,https://github.com/Trustroots/trustroots,"Travellers' community for sharing, hosting and getting people together.",26194,251,251,JavaScript,104,5050,191,-1,-1,-1
+iopipe_iopipe-js-core,https://github.com/iopipe/iopipe-js-core,"Observe and develop serverless apps with confidence on AWS Lambda with Tracing, Metrics, Profiling, Monitoring, and more.",669,117,117,JavaScript,18,792,20,-1,-1,-1
+react-component_table,https://github.com/react-component/table,React Table,14030,505,505,JavaScript,261,1149,111,-1,-1,-1
+appcelerator_alloy,https://github.com/appcelerator/alloy,Alloy is an MVC framework for the Appcelerator Titanium SDK,48691,972,972,JavaScript,981,5004,164,-1,-1,-1
+marmelab_EventDrops,https://github.com/marmelab/EventDrops,A time based / event series interactive visualization using d3.js,2659,1062,1062,JavaScript,213,685,48,-1,-1,-1
+jupyter_notebook,https://github.com/jupyter/notebook,Jupyter Interactive Notebook,23635,6010,6010,JavaScript,2547,22067,687,-1,-1,-1
+civiccc_react-waypoint,https://github.com/civiccc/react-waypoint,A React component to execute a function whenever you scroll to an element.,595,3250,3250,JavaScript,201,638,84,-1,-1,-1
+WeebDev_lolisafe,https://github.com/WeebDev/lolisafe,Blazing fast file uploader and awesome bunker written in node! 🚀,6249,457,457,JavaScript,114,692,72,-1,-1,-1
+amazeeio_lagoon,https://github.com/amazeeio/lagoon,Docker Build and Deploy System for OpenShift & Kubernetes,14822,313,313,JavaScript,86,5924,84,-1,-1,-1
+moeiscool_Shinobi,https://github.com/moeiscool/Shinobi,:peace_symbol: :palestinian_territories: Shinobi CE - The Free Open Source CCTV platform written in Node.JS (Camera Recorder - Security Surveillance Software - Restreamer,23906,913,913,JavaScript,135,1062,32,-1,-1,-1
+TryGhost_Ghost,https://github.com/TryGhost/Ghost,👻 The most popular headless Node.js CMS for professional publishing,32171,30367,30367,JavaScript,6553,24137,1072,-1,-1,-1
+SpigotMC_SpigotCraft,https://github.com/SpigotMC/SpigotCraft,Make a server!,38984,197,197,JavaScript,109,524,100,-1,-1,-1
+typicode_json-server,https://github.com/typicode/json-server,Get a full fake REST API with zero coding in less than 30 seconds (seriously),1838,41337,41337,JavaScript,3686,1319,207,-1,-1,-1
+oaeproject_3akai-ux,https://github.com/oaeproject/3akai-ux,Open Academic Environment (OAE) Front-End,134557,132,132,JavaScript,219,23644,176,-1,-1,-1
+brave_browser-laptop,https://github.com/brave/browser-laptop,[DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave,396095,8230,8230,JavaScript,1070,17768,427,-1,-1,-1
+nutzam_nutzmore,https://github.com/nutzam/nutzmore,让Nutz更好用,124552,285,285,JavaScript,182,1245,64,-1,-1,-1
+chrisguttandin_standardized-audio-context,https://github.com/chrisguttandin/standardized-audio-context,A cross-browser implementation of the AudioContext which aims to closely follow the standard.,9096,106,106,JavaScript,11,3134,8,-1,-1,-1
+LedgerHQ_ledger-wallet-chrome,https://github.com/LedgerHQ/ledger-wallet-chrome,Ledger Wallet Chrome application,22344,144,144,JavaScript,134,2532,84,-1,-1,-1
+wavesplatform_WavesGUI,https://github.com/wavesplatform/WavesGUI,Waves Client,33762,412,412,JavaScript,204,9096,72,-1,-1,-1
+observablehq_runtime,https://github.com/observablehq/runtime,The Observable dataflow runtime.,1251,339,339,JavaScript,23,732,9,-1,-1,-1
+radare_radare2-r2pipe,https://github.com/radare/radare2-r2pipe,Access radare2 via pipe from any programming language!,659,105,105,JavaScript,48,523,75,-1,-1,-1
+shoutem_redux-io,https://github.com/shoutem/redux-io,Data fetching with redux made easy,656,101,101,JavaScript,17,662,25,-1,-1,-1
+kirjs_react-highcharts,https://github.com/kirjs/react-highcharts,react-highcharts,1641,1182,1182,JavaScript,232,679,62,-1,-1,-1
+open-webrtc-toolkit_owt-server,https://github.com/open-webrtc-toolkit/owt-server,General server (streaming/conference/transcoding/anayltics) for OWT. (A.k.a. MediaServer) ,51707,176,176,JavaScript,58,7702,114,-1,-1,-1
+screwdriver-cd_screwdriver,https://github.com/screwdriver-cd/screwdriver,An open source build platform designed for continuous delivery.,3017,702,702,JavaScript,107,2607,116,-1,-1,-1
+jeromelachaud_freelancer-theme,https://github.com/jeromelachaud/freelancer-theme,Jekyll theme based on Freelancer Start Bootstrap theme,4504,970,970,JavaScript,1123,651,64,-1,-1,-1
+tomchadwin_qgis2web,https://github.com/tomchadwin/qgis2web,A QGIS plugin to export a map to an OpenLayers/Leaflet webmap,20074,218,218,JavaScript,89,3266,35,-1,-1,-1
+ianstormtaylor_slate,https://github.com/ianstormtaylor/slate,A completely customizable framework for building rich text editors. (Currently in beta.),235406,14768,14768,JavaScript,1279,6899,446,-1,-1,-1
+densitydesign_raw,https://github.com/densitydesign/raw,The missing link between spreadsheets and data visualization,15714,6029,6029,JavaScript,1362,658,75,-1,-1,-1
+itgalaxy_favicons,https://github.com/itgalaxy/favicons,Favicons generator for Node.js,30590,708,708,JavaScript,114,634,82,-1,-1,-1
+fridays_next-routes,https://github.com/fridays/next-routes,Universal dynamic routes for Next.js,2948,1872,1872,JavaScript,187,867,71,-1,-1,-1
+electron-userland_electron-installer-windows,https://github.com/electron-userland/electron-installer-windows,Create a Windows package for your Electron app.,41854,278,278,JavaScript,34,561,10,-1,-1,-1
+gildas-lormeau_SingleFile,https://github.com/gildas-lormeau/SingleFile,SingleFile is a Web Extension for Firefox and Chrome to save a complete web page as a single HTML file,330340,642,642,JavaScript,109,3494,19,-1,-1,-1
+mozilla_FirefoxColor,https://github.com/mozilla/FirefoxColor,Theming demo for Firefox Quantum and beyond,24655,177,177,JavaScript,40,1903,38,-1,-1,-1
+kingdido999_zooming,https://github.com/kingdido999/zooming,🔍 Image zoom that makes sense.,6143,1181,1181,JavaScript,85,648,20,-1,-1,-1
+jsxgraph_jsxgraph,https://github.com/jsxgraph/jsxgraph,"JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.",89425,452,452,JavaScript,108,5609,52,-1,-1,-1
+express-vue_express-vue,https://github.com/express-vue/express-vue,Vue rendering engine for Express.js. Use .Vue files as templates using streams,1897,1016,1016,JavaScript,79,558,19,-1,-1,-1
+doublespeakgames_adarkroom,https://github.com/doublespeakgames/adarkroom,A Dark Room - A Minimalist Text Adventure,4611,4446,4446,JavaScript,1122,1545,252,-1,-1,-1
+dat-land_dat-desktop,https://github.com/dat-land/dat-desktop,Peer to peer data sharing app built for humans,2878,531,531,JavaScript,76,1761,31,-1,-1,-1
+phil-r_react-native-looped-carousel,https://github.com/phil-r/react-native-looped-carousel,:carousel_horse: Looped carousel for React Native,1032,1206,1206,JavaScript,258,504,75,-1,-1,-1
+codemirror_CodeMirror,https://github.com/codemirror/CodeMirror,In-browser code editor,17357,18030,18030,JavaScript,3925,13972,1526,-1,-1,-1
+geosolutions-it_MapStore2,https://github.com/geosolutions-it/MapStore2,"Modern webmapping with OpenLayers, Leaflet and React",79215,154,154,JavaScript,133,7033,97,-1,-1,-1
+dropbox_dropbox-sdk-js,https://github.com/dropbox/dropbox-sdk-js,Dropbox JavaScript SDK —,3067,626,626,JavaScript,243,540,56,-1,-1,-1
+electron-userland_electron-packager,https://github.com/electron-userland/electron-packager,"Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI",1261,6448,6448,JavaScript,617,1273,136,-1,-1,-1
+asciidoctor_asciidoctor.js,https://github.com/asciidoctor/asciidoctor.js,"A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc",24151,350,350,JavaScript,73,1318,26,-1,-1,-1
+developit_preact-boilerplate,https://github.com/developit/preact-boilerplate,":guitar: Ready-to-rock Preact starter project, powered by Webpack.",331,891,891,JavaScript,188,989,46,-1,-1,-1
+ReactTraining_react-workshop,https://github.com/ReactTraining/react-workshop,Lectures and exercises for React Training workshops,12092,1256,1256,JavaScript,534,855,78,-1,-1,-1
+mroote_factorio-server-manager,https://github.com/mroote/factorio-server-manager,A tool to help manage Factorio multiplayer servers including mods and save games.,23761,217,217,JavaScript,57,619,33,-1,-1,-1
+nfarina_homebridge,https://github.com/nfarina/homebridge,HomeKit support for the impatient,1694,11953,11953,JavaScript,1451,1256,154,-1,-1,-1
+reactjs_react-modal,https://github.com/reactjs/react-modal,Accessible modal dialog component for React,2621,4870,4870,JavaScript,660,1035,239,-1,-1,-1
+lodash_lodash.com,https://github.com/lodash/lodash.com,The Lodash website.,3368,106,106,JavaScript,56,1149,55,-1,-1,-1
+Leaflet_Leaflet,https://github.com/Leaflet/Leaflet, :leaves: JavaScript library for mobile-friendly interactive maps,48771,25258,25258,JavaScript,4113,11268,1365,-1,-1,-1
+jpush_jpush-phonegap-plugin,https://github.com/jpush/jpush-phonegap-plugin,JPush's officially supported PhoneGap/Cordova plugin (Android & iOS).  极光推送官方支持的 PhoneGap/Cordova 插件（Android & iOS）。,85407,826,826,JavaScript,331,728,46,-1,-1,-1
+kaltura_mwEmbed,https://github.com/kaltura/mwEmbed,Kaltura's Cross Platform Video Player ToolKit ,849966,180,180,JavaScript,141,24619,232,-1,-1,-1
+trufflesuite_ganache-cli,https://github.com/trufflesuite/ganache-cli,Fast Ethereum RPC client for testing and development,6756,2707,2707,JavaScript,556,940,129,-1,-1,-1
+ioBroker_ioBroker.js-controller,https://github.com/ioBroker/ioBroker.js-controller,ioBroker controller,75247,202,202,JavaScript,35,2126,33,-1,-1,-1
+google_closure-compiler-npm,https://github.com/google/closure-compiler-npm,Package for managing and documenting closure-compiler for use via npm,20740,229,229,JavaScript,48,677,34,-1,-1,-1
+almende_vis,https://github.com/almende/vis,⚠️ This project is not maintained anymore! Please got se https://github.com/almende/vis/issues/4259,139220,8012,8012,JavaScript,1564,6126,452,-1,-1,-1
+istanbuljs_nyc,https://github.com/istanbuljs/nyc,the Istanbul command line interface,1890,3556,3556,JavaScript,258,1642,164,-1,-1,-1
+FormidableLabs_spectacle,https://github.com/FormidableLabs/spectacle,ReactJS based Presentation Library,8739,7781,7781,JavaScript,556,1318,199,-1,-1,-1
+codelab-fun_codelab,https://github.com/codelab-fun/codelab,Angular presentation library,197249,111,111,JavaScript,35,2015,73,-1,-1,-1
+funkensturm_ember-local-storage,https://github.com/funkensturm/ember-local-storage,The addon provides a storageFor computed property that returns a proxy and persists the changes to localStorage or sessionStorage. It ships with an ember-data adapter.,1221,203,203,JavaScript,53,763,43,-1,-1,-1
+TheBastionBot_Bastion,https://github.com/TheBastionBot/Bastion,🚀 Give awesome perks to your Discord server!,7785,143,143,JavaScript,201,4475,52,-1,-1,-1
+testem_testem,https://github.com/testem/testem,Test'em 'Scripts! A test runner that makes Javascript unit testing fun.,38577,2865,2865,JavaScript,363,3155,300,-1,-1,-1
+tarassh_fairy-wallet,https://github.com/tarassh/fairy-wallet,Client for ledger nano s hw,125295,127,127,JavaScript,19,581,12,-1,-1,-1
+all-contributors_all-contributors-bot,https://github.com/all-contributors/all-contributors-bot,🤖 A GitHub bot to automate acknowledging contributors to your open source projects,3382,163,163,JavaScript,19,729,12,-1,-1,-1
+ivmartel_dwv,https://github.com/ivmartel/dwv,DICOM Web Viewer: open source zero footprint medical image viewer.,65758,847,847,JavaScript,392,3957,38,-1,-1,-1
+node-red_node-red-nodes,https://github.com/node-red/node-red-nodes,Extra nodes for Node-RED,2695,478,478,JavaScript,395,1751,195,-1,-1,-1
+FormidableLabs_nuka-carousel,https://github.com/FormidableLabs/nuka-carousel,Pure React Carousel Component,1598,2021,2021,JavaScript,510,1079,239,-1,-1,-1
+swagger-api_swagger-editor,https://github.com/swagger-api/swagger-editor,Swagger Editor,236804,5229,5229,JavaScript,1464,4479,175,-1,-1,-1
+plaid_plaid-node,https://github.com/plaid/plaid-node,Node bindings for Plaid,940,254,254,JavaScript,82,537,81,-1,-1,-1
+sir-dunxalot_ember-tooltips,https://github.com/sir-dunxalot/ember-tooltips,Easy and extendible tooltips for Ember components - http://sir-dunxalot.github.io/ember-tooltips/,3945,191,191,JavaScript,121,1037,116,-1,-1,-1
+rocket-pool_rocketpool,https://github.com/rocket-pool/rocketpool,"A next generation decentralised Ethereum proof of stake network with pool, currently in beta and built to be compatible with Ethereum 2.0 Casper and Beacon Chain.",9384,269,269,JavaScript,57,1316,17,-1,-1,-1
+fram-x_FluidTransitions,https://github.com/fram-x/FluidTransitions,Fluid Transitions for React Navigation,9068,2045,2045,JavaScript,162,752,32,-1,-1,-1
+y-js_yjs,https://github.com/y-js/yjs,Peer-to-peer shared types / A CRDT abstraction,71188,987,987,JavaScript,57,1279,23,-1,-1,-1
+strongloop_loopback-component-passport,https://github.com/strongloop/loopback-component-passport,LoopBack passport integration to support third party logins and account linking,535,138,138,JavaScript,234,593,152,-1,-1,-1
+sivasamyk_logtrail,https://github.com/sivasamyk/logtrail,"Kibana plugin to view, search & live tail log events",3977,1178,1178,JavaScript,150,537,34,-1,-1,-1
+thomasjo_atom-latex,https://github.com/thomasjo/atom-latex,Compile LaTeX or knitr documents from within Atom,1473,206,206,JavaScript,44,2089,62,-1,-1,-1
+codesandbox_codesandbox-client,https://github.com/codesandbox/codesandbox-client,An online code editor tailored for web application development 🏖️,176816,7568,7568,JavaScript,944,6381,271,-1,-1,-1
+arackaf_mongo-graphql-starter,https://github.com/arackaf/mongo-graphql-starter,"Turns MongoDB metadata into an extensible, functioning GraphQL endpoint. Supports middleware, and Mongo 4 transactions.",1329,320,320,JavaScript,20,559,8,-1,-1,-1
+immutable-js_immutable-js,https://github.com/immutable-js/immutable-js,Immutable persistent data collections for Javascript which increase efficiency and simplicity.,21903,27808,27808,JavaScript,1614,2743,446,-1,-1,-1
+vuejs_vue-cli,https://github.com/vuejs/vue-cli,🛠️ Standard Tooling for Vue.js Development,15819,21690,21690,JavaScript,3675,4884,641,-1,-1,-1
+Esri_solutions-webappbuilder-widgets,https://github.com/Esri/solutions-webappbuilder-widgets,Web App Builder widgets created and managed by the Esri Solutions teams.,28683,157,157,JavaScript,152,1406,43,-1,-1,-1
+sergiitk_pagerbeauty,https://github.com/sergiitk/pagerbeauty,:pager::sparkles: PagerDuty on-call widget for monitoring dashboard. Datadog and Grafana compatible,3165,179,179,JavaScript,14,638,7,-1,-1,-1
+feross_simple-peer,https://github.com/feross/simple-peer,📡 Simple WebRTC video/voice and data channels,2287,2800,2800,JavaScript,441,1084,77,-1,-1,-1
+linagora_hublin,https://github.com/linagora/hublin,An easy and free video conference service based on WebRTC,5246,1550,1550,JavaScript,292,1036,74,-1,-1,-1
+samselikoff_ember-cli-mirage,https://github.com/samselikoff/ember-cli-mirage,"A client-side mock server to develop, test and prototype your app",20385,840,840,JavaScript,405,3067,360,-1,-1,-1
+caryll_ideohint,https://github.com/caryll/ideohint,Optimized hinter for Ideographs,1168,387,387,JavaScript,32,629,8,-1,-1,-1
+wagenaartje_neataptic,https://github.com/wagenaartje/neataptic,:rocket: Blazing fast neuro-evolution & backpropagation for the browser and Node.js,3219,895,895,JavaScript,194,753,53,-1,-1,-1
+nhn_tui.image-editor,https://github.com/nhn/tui.image-editor,"🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.",8596,2114,2114,JavaScript,307,702,36,-1,-1,-1
+thelinmichael_spotify-web-api-node,https://github.com/thelinmichael/spotify-web-api-node,A Node.js wrapper for Spotify's Web API.,644,1302,1302,JavaScript,251,509,113,-1,-1,-1
+jupyterhub_configurable-http-proxy,https://github.com/jupyterhub/configurable-http-proxy,node-http-proxy plus a REST API,587,130,130,JavaScript,91,613,37,-1,-1,-1
+mqttjs_MQTT.js,https://github.com/mqttjs/MQTT.js,The MQTT client for Node.js and the browser,1548,4609,4609,JavaScript,833,1586,215,-1,-1,-1
+KartikTalwar_gmail.js,https://github.com/KartikTalwar/gmail.js,Gmail JavaScript API,1348,3213,3213,JavaScript,381,928,121,-1,-1,-1
+react-navigation_react-navigation.github.io,https://github.com/react-navigation/react-navigation.github.io,Home of the documentation and other miscellanea,17722,104,104,JavaScript,749,1028,219,-1,-1,-1
+logux_server,https://github.com/logux/server,Build own Logux server or make proxy between WebSocket and HTTP backend on any language,1996,200,200,JavaScript,68,685,34,-1,-1,-1
+MrRio_jsPDF,https://github.com/MrRio/jsPDF,Client-side JavaScript PDF generation for everyone.,66346,16976,16976,JavaScript,3203,4423,269,-1,-1,-1
+google_chicago-brick,https://github.com/google/chicago-brick,Software that displays content on a multi-node video wall.,13314,108,108,JavaScript,26,638,22,-1,-1,-1
+facebook_react-360,https://github.com/facebook/react-360,Create amazing 360 and VR content using React,79722,7319,7319,JavaScript,902,927,132,-1,-1,-1
+ember-engines_ember-engines,https://github.com/ember-engines/ember-engines,Composable Ember applications for ambitious user experiences,1980,474,474,JavaScript,113,1111,110,-1,-1,-1
+n6g7_redux-saga-firebase,https://github.com/n6g7/redux-saga-firebase,A redux saga integration for firebase.,13436,224,224,JavaScript,44,810,28,-1,-1,-1
+agershun_alasql,https://github.com/agershun/alasql,"AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.",82098,4524,4524,JavaScript,438,1898,96,-1,-1,-1
+facebook_react-devtools,https://github.com/facebook/react-devtools,An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.,21128,10253,10253,JavaScript,1476,3169,317,-1,-1,-1
+fbsamples_messenger-platform-samples,https://github.com/fbsamples/messenger-platform-samples,Messenger Platform samples for sending and receiving messages. Walk through the Get Started with this code. https://developers.facebook.com/docs/messenger-platform/quickstart,7389,1464,1464,JavaScript,2402,554,61,-1,-1,-1
+reactnativecn_react-native.cn,https://github.com/reactnativecn/react-native.cn,reactnative.cn home site.,14939,571,571,JavaScript,564,832,117,-1,-1,-1
+busyorg_busy,https://github.com/busyorg/busy,Blockchain-based social network where anyone can earn rewards 🚀,69715,314,314,JavaScript,224,10201,107,-1,-1,-1
+jhipster_generator-jhipster,https://github.com/jhipster/generator-jhipster,Open Source application generator for creating Spring Boot + Angular/React projects in seconds!,42377,14186,14186,JavaScript,2892,22561,1007,-1,-1,-1
+expressjs_generator,https://github.com/expressjs/generator,Express' application generator,248,1305,1305,JavaScript,418,943,143,-1,-1,-1
+outline_outline,https://github.com/outline/outline,"The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.",10479,2308,2308,JavaScript,186,2748,41,-1,-1,-1
+vivliostyle_vivliostyle.js,https://github.com/vivliostyle/vivliostyle.js,JavaScript library for web sites with rich paged viewing and EPUB support,324892,212,212,JavaScript,29,2816,34,-1,-1,-1
+traccar_traccar-web,https://github.com/traccar/traccar-web,Traccar GPS Tracking System,2241,310,310,JavaScript,465,1281,67,-1,-1,-1
+jippi_hashi-ui,https://github.com/jippi/hashi-ui,A modern user interface for @hashicorp Consul & Nomad,8756,947,947,JavaScript,130,1347,77,-1,-1,-1
+thomaswilburn_Caret,https://github.com/thomaswilburn/Caret,A sublime text editor for Chrome OS,8374,1114,1114,JavaScript,180,1110,90,-1,-1,-1
+Temasys_SkylinkJS,https://github.com/Temasys/SkylinkJS,SkylinkJS Javascript WebRTC SDK,41920,247,247,JavaScript,52,3094,53,-1,-1,-1
+oblador_react-native-vector-icons,https://github.com/oblador/react-native-vector-icons,"Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.",4960,11458,11458,JavaScript,1305,1007,221,-1,-1,-1
+koajs_koa,https://github.com/koajs/koa,Expressive middleware for node.js using ES2017 async functions,2018,26623,26623,JavaScript,2432,2221,395,-1,-1,-1
+pagarme_pagarme-js,https://github.com/pagarme/pagarme-js,💛 Pagar.me's JavaScript API,10167,254,254,JavaScript,47,623,55,-1,-1,-1
+libp2p_js-libp2p-webrtc-star,https://github.com/libp2p/js-libp2p-webrtc-star,libp2p WebRTC transport that includes a discovery mechanism provided by the signalling-star,247,111,111,JavaScript,34,604,37,-1,-1,-1
+brief-rss_brief,https://github.com/brief-rss/brief,RSS reader extension for Firefox,5072,164,164,JavaScript,40,2424,35,-1,-1,-1
+ngageoint_geopackage-js,https://github.com/ngageoint/geopackage-js,GeoPackage JavaScript Library,158185,119,119,JavaScript,31,867,18,-1,-1,-1
+nearform_graphql-hooks,https://github.com/nearform/graphql-hooks,🎣 Minimal hooks-first GraphQL client,378,835,835,JavaScript,26,718,27,-1,-1,-1
+att_rcloud,https://github.com/att/rcloud,Collaborative data analysis and visualization,86880,387,387,JavaScript,141,8343,105,-1,-1,-1
+hackclub_hackclub,https://github.com/hackclub/hackclub,🎓🏫 Hack Club is a nonprofit network of computer science clubs where members learn to code through tinkering and building projects,381090,1768,1768,JavaScript,220,3969,134,-1,-1,-1
+moment_moment-timezone,https://github.com/moment/moment-timezone,Timezone support for moment.js,14660,3154,3154,JavaScript,659,804,115,-1,-1,-1
+db-migrate_node-db-migrate,https://github.com/db-migrate/node-db-migrate,Database migration framework for node,1541,1698,1698,JavaScript,286,1501,188,-1,-1,-1
+socketio_engine.io,https://github.com/socketio/engine.io,,1087,3800,3800,JavaScript,510,1492,186,-1,-1,-1
+rvpanoz_luna,https://github.com/rvpanoz/luna,Manage npm dependencies through a modern UI.,16401,764,764,JavaScript,38,1761,12,-1,-1,-1
+emberjs_ember-test-helpers,https://github.com/emberjs/ember-test-helpers,Test-framework-agnostic helpers for testing Ember.js applications,5414,130,130,JavaScript,150,1693,111,-1,-1,-1
+keen_keen-tracking.js,https://github.com/keen/keen-tracking.js,"A light, fast and flexible javascript tracking library",3131,152,152,JavaScript,50,597,39,-1,-1,-1
+hyperledger_composer-sample-networks,https://github.com/hyperledger/composer-sample-networks,Sample business network definitions for Composer,846,226,226,JavaScript,320,521,57,-1,-1,-1
+node-modules_urllib,https://github.com/node-modules/urllib,Request HTTP(s) URLs in a complex world,1127,464,464,JavaScript,71,931,66,-1,-1,-1
+spencermountain_spacetime,https://github.com/spencermountain/spacetime,A lightweight javascript timezone library,1889,2600,2600,JavaScript,96,785,25,-1,-1,-1
+arackaf_booklist,https://github.com/arackaf/booklist,"A fully-functioning book tracking website—my own LibraryThing, basically.",14344,138,138,JavaScript,20,2528,6,-1,-1,-1
+uccser_cs-field-guide,https://github.com/uccser/cs-field-guide,An online interactive resource/textbook for high school students learning about computer science.,103487,237,237,JavaScript,55,4930,57,-1,-1,-1
+keeweb_keeweb,https://github.com/keeweb/keeweb,Free cross-platform password manager compatible with KeePass,24052,7714,7714,JavaScript,646,2546,82,-1,-1,-1
+sematext_logagent-js,https://github.com/sematext/logagent-js,"Extensible log shipper with input/output plugins, buffering, parsing, data masking, and small memory/CPU footprint",2477,271,271,JavaScript,56,1471,39,-1,-1,-1
+amir20_phantomjs-node,https://github.com/amir20/phantomjs-node,PhantomJS integration module for NodeJS,5420,3486,3486,JavaScript,486,1148,184,-1,-1,-1
+darktrojan_openwith,https://github.com/darktrojan/openwith,Open With add-on for Firefox,1294,206,206,JavaScript,37,623,53,-1,-1,-1
+snapappointments_bootstrap-select-temp,https://github.com/snapappointments/bootstrap-select-temp,Development of bootstrap-select is officially located at snapappointments/bootstrap-select. This repository is a remnant of the transition process.,5628,179,179,JavaScript,32,1891,161,-1,-1,-1
+byteball_ocore,https://github.com/byteball/ocore,Core library for Obyte,3469,133,133,JavaScript,86,1805,41,-1,-1,-1
+DataFire_DataFire,https://github.com/DataFire/DataFire,A framework for building integrations and APIs,12850,308,308,JavaScript,45,1117,12,-1,-1,-1
+Semantic-Org_Semantic-UI-Docs,https://github.com/Semantic-Org/Semantic-UI-Docs,Official Documentation for Semantic UI,79571,254,254,JavaScript,1168,4185,332,-1,-1,-1
+datproject_dat,https://github.com/datproject/dat,:floppy_disk: Share & live sync files anywhere via command line,4777,7547,7547,JavaScript,460,2993,114,-1,-1,-1
+miguelcobain_ember-leaflet,https://github.com/miguelcobain/ember-leaflet,:fire: :leaves: Easy and declarative mapping for ember,6592,195,195,JavaScript,77,876,89,-1,-1,-1
+ReactTraining_react-router,https://github.com/ReactTraining/react-router,Declarative routing for React,13542,36902,36902,JavaScript,7532,7416,1315,-1,-1,-1
+wxsms_uiv,https://github.com/wxsms/uiv,Bootstrap 3 components implemented by Vue 2.,6504,766,766,JavaScript,151,933,60,-1,-1,-1
+h5bp_html5-boilerplate,https://github.com/h5bp/html5-boilerplate,"A professional front-end template for building fast, robust, and adaptable web apps or sites.",13940,43056,43056,JavaScript,10263,3624,704,-1,-1,-1
+status-im_open-bounty,https://github.com/status-im/open-bounty,Enable communities to distribute funds to push their cause forward.,6246,124,124,JavaScript,40,1761,50,-1,-1,-1
+ensdomains_ens,https://github.com/ensdomains/ens,"Implementations for ENS core functionality: The registry, registrars, and public resolvers.",3800,515,515,JavaScript,251,709,66,-1,-1,-1
+gaearon_react-hot-loader,https://github.com/gaearon/react-hot-loader,Tweak React components in real time.,3818,10766,10766,JavaScript,757,2131,332,-1,-1,-1
+Tencent_wepy,https://github.com/Tencent/wepy,小程序组件化开发框架,7150,18298,18298,JavaScript,2666,3017,270,-1,-1,-1
+Chicago_opengrid,https://github.com/Chicago/opengrid,"A user-friendly, map-based tool to combine and explore real-time or historical data.",270263,217,217,JavaScript,54,625,20,-1,-1,-1
+VisualDataWeb_WebVOWL,https://github.com/VisualDataWeb/WebVOWL,Visualizing ontologies on the Web,13120,349,349,JavaScript,111,1763,22,-1,-1,-1
+kriasoft_react-app,https://github.com/kriasoft/react-app,Create React App with server-side code support,1156,584,584,JavaScript,77,1336,417,-1,-1,-1
+thelounge_thelounge,https://github.com/thelounge/thelounge,"💬 Modern, responsive, cross-platform, self-hosted web IRC client",14014,3144,3144,JavaScript,394,7056,240,-1,-1,-1
+Cloud-CV_Origami,https://github.com/Cloud-CV/Origami,:unlock: :key: :closed_lock_with_key: Origami: Artificial Intelligence as a Service,3363,114,114,JavaScript,96,932,48,-1,-1,-1
+substack_tape,https://github.com/substack/tape,tap-producing test harness for node and browsers,529,5063,5063,JavaScript,279,974,179,-1,-1,-1
+chrislopresto_ember-freestyle,https://github.com/chrislopresto/ember-freestyle,Create a component explorer for your Ember app,4094,245,245,JavaScript,75,502,53,-1,-1,-1
+Leaflet_Leaflet.draw,https://github.com/Leaflet/Leaflet.draw,Vector drawing and editing plugin for Leaflet,13604,1410,1410,JavaScript,843,1696,299,-1,-1,-1
+spencermountain_compromise,https://github.com/spencermountain/compromise,modest natural-language processing in javascript,24277,8758,8758,JavaScript,558,2986,92,-1,-1,-1
+cocos2d_cocos2d-html5,https://github.com/cocos2d/cocos2d-html5,cocos2d for Web Browsers. Built using JavaScript,66394,2549,2549,JavaScript,911,10424,308,-1,-1,-1
+LiskHQ_lisk-hub,https://github.com/LiskHQ/lisk-hub,🖥 Lisk graphical user interface for desktop,46687,568,568,JavaScript,56,11018,70,-1,-1,-1
+fabricjs_fabric.js,https://github.com/fabricjs/fabric.js,"Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",122959,13002,13002,JavaScript,2125,9152,516,-1,-1,-1
+strongloop_strong-soap,https://github.com/strongloop/strong-soap,SOAP driver for Node.js (A complete rewrite of node-soap),3823,195,195,JavaScript,90,1065,226,-1,-1,-1
+ember-lifeline_ember-lifeline,https://github.com/ember-lifeline/ember-lifeline,An Ember addon for managing the lifecyle of asynchronous behavior in your objects,12337,236,236,JavaScript,45,1100,57,-1,-1,-1
+expressjs_session,https://github.com/expressjs/session,Simple session middleware for Express,577,4371,4371,JavaScript,720,1129,248,-1,-1,-1
+jasmine_jasmine,https://github.com/jasmine/jasmine,Simple JavaScript testing framework for browsers and node.js,7849,14432,14432,JavaScript,2125,3066,599,-1,-1,-1
+farbelous_bootstrap-colorpicker,https://github.com/farbelous/bootstrap-colorpicker,Bootstrap Colorpicker is a modular color picker plugin for Bootstrap.,3822,1228,1228,JavaScript,338,567,99,-1,-1,-1
+sendgrid_sendgrid-nodejs,https://github.com/sendgrid/sendgrid-nodejs,"The Official Twilio SendGrid Led, Community Driven Node.js API Library",2066,1615,1615,JavaScript,504,1749,314,-1,-1,-1
+d3_d3-geo-projection,https://github.com/d3/d3-geo-projection,Extended geographic projections for d3-geo.,20115,748,748,JavaScript,161,592,26,-1,-1,-1
+yaacov_node-modbus-serial,https://github.com/yaacov/node-modbus-serial,A pure JavaScript implemetation of MODBUS-RTU (and TCP) for NodeJS,528,191,191,JavaScript,107,628,55,-1,-1,-1
+reactjs_es.reactjs.org,https://github.com/reactjs/es.reactjs.org,React documentation website in Spanish,72458,152,152,JavaScript,84,5615,1347,-1,-1,-1
+gruntjs_grunt,https://github.com/gruntjs/grunt,Grunt: The JavaScript Task Runner,2672,11949,11949,JavaScript,1545,2576,402,-1,-1,-1
+conorhastings_react-syntax-highlighter,https://github.com/conorhastings/react-syntax-highlighter,syntax highlighting component for react with prismjs or highlightjs ast using inline styles,9423,1115,1115,JavaScript,90,610,43,-1,-1,-1
+cibernox_ember-basic-dropdown,https://github.com/cibernox/ember-basic-dropdown,The basic dropdown you ember app needs,3075,114,114,JavaScript,105,1398,97,-1,-1,-1
+ansible_awx,https://github.com/ansible/awx,AWX Project,217010,6225,6225,JavaScript,1418,24130,425,-1,-1,-1
+serverless_serverless-graphql,https://github.com/serverless/serverless-graphql,Serverless GraphQL Examples for AWS AppSync and Apollo,9973,2129,2129,JavaScript,298,876,66,-1,-1,-1
+geonetwork_core-geonetwork,https://github.com/geonetwork/core-geonetwork,GeoNetwork repository,296380,200,200,JavaScript,344,20431,191,-1,-1,-1
+ember-cli_ember-cli-mocha,https://github.com/ember-cli/ember-cli-mocha,Mocha and Chai tests for ember-cli applications,744,150,150,JavaScript,56,676,50,-1,-1,-1
+eggjs_egg-core,https://github.com/eggjs/egg-core,A core Pluggable framework based on koa.,760,162,162,JavaScript,77,823,77,-1,-1,-1
+collab-project_videojs-record,https://github.com/collab-project/videojs-record,video.js plugin for recording audio/video/image files,11232,730,730,JavaScript,176,1677,28,-1,-1,-1
+webpro_DOMtastic,https://github.com/webpro/DOMtastic,"Small, fast, and modular DOM and event library for modern browsers.",9345,749,749,JavaScript,46,1316,21,-1,-1,-1
+graphql-compose_graphql-compose,https://github.com/graphql-compose/graphql-compose,Toolkit for generating complex GraphQL Schemas on Node.js,2613,635,635,JavaScript,38,837,28,-1,-1,-1
+videojs_videojs-flash,https://github.com/videojs/videojs-flash,The Flash tech for video.js,2950,142,142,JavaScript,44,530,20,-1,-1,-1
+z-------------_CPod,https://github.com/z-------------/CPod,"A simple, beautiful podcast app for Windows, macOS, and Linux.",4546,376,376,JavaScript,39,1288,19,-1,-1,-1
+mochi_mochikit,https://github.com/mochi/mochikit,MochiKit makes JavaScript suck less,21561,212,212,JavaScript,47,2998,28,-1,-1,-1
+ds300_derivablejs,https://github.com/ds300/derivablejs,Functional Reactive State for JavaScript and TypeScript,2218,485,485,JavaScript,21,786,16,-1,-1,-1
+marmelab_admin-on-rest,https://github.com/marmelab/admin-on-rest,"A frontend framework for building admin SPAs on top of REST services, using React and Material Design.",78035,341,341,JavaScript,109,3880,242,-1,-1,-1
+lovell_sharp,https://github.com/lovell/sharp,"High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.",38260,13359,13359,JavaScript,728,1570,185,-1,-1,-1
+Trimps_Trimps.github.io,https://github.com/Trimps/Trimps.github.io,,9721,136,136,JavaScript,91,1229,51,-1,-1,-1
+trufflesuite_truffle,https://github.com/trufflesuite/truffle,A tool for developing smart contracts. Crafted with the finest cacaos.,66160,8084,8084,JavaScript,1220,8325,277,-1,-1,-1
+bem_bem-components,https://github.com/bem/bem-components,Set of components for sites development,10832,288,288,JavaScript,92,4497,170,-1,-1,-1
+mbrevda_react-image,https://github.com/mbrevda/react-image,React.js <img> tag rendering with multiple fallback & loader support,493,542,542,JavaScript,36,987,21,-1,-1,-1
+prebuild_prebuild,https://github.com/prebuild/prebuild,A command line tool for easily doing prebuilds for multiple version of node on a specific platform,355,231,231,JavaScript,44,646,45,-1,-1,-1
+zalando_tailor,https://github.com/zalando/tailor,A streaming layout service for front-end microservices,752,1053,1053,JavaScript,110,672,65,-1,-1,-1
+tannerlinsley_react-table,https://github.com/tannerlinsley/react-table,⚛️ Hooks for building fast and extendable tables and datagrids for React,9972,6140,6140,JavaScript,753,1006,250,-1,-1,-1
+webpack_webpack-dev-server,https://github.com/webpack/webpack-dev-server,Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.,5207,5543,5543,JavaScript,962,2777,504,-1,-1,-1
+zaggino_z-schema,https://github.com/zaggino/z-schema,JSON Schema validator written in JavaScript for NodeJS and Browsers,7757,267,267,JavaScript,83,682,43,-1,-1,-1
+projectpages_project-pages,https://github.com/projectpages/project-pages,"Fork this repo for a quick start. If ""Project Timeline"" or ""License"" appeared on your nav bar, Look Below!",18494,107,107,JavaScript,343,639,29,-1,-1,-1
+bufferapp_buffer-components,https://github.com/bufferapp/buffer-components,Buffer's shared collection of React UI components 🤜🤛,2652,109,109,JavaScript,20,952,29,-1,-1,-1
+segmentio_analytics-node,https://github.com/segmentio/analytics-node,The hassle-free way to integrate analytics into any node application.,1502,448,448,JavaScript,91,564,76,-1,-1,-1
+intoli_user-agents,https://github.com/intoli/user-agents,A JavaScript library for generating random user agents with data that's updated daily.,104984,210,210,JavaScript,11,735,4,-1,-1,-1
+angular-ui_ui-scroll,https://github.com/angular-ui/ui-scroll,Unlimited bidirectional scrolling over a limited element buffer ,2995,307,307,JavaScript,114,743,32,-1,-1,-1
+nuxt_vue-meta,https://github.com/nuxt/vue-meta,Manage HTML metadata in Vue.js components with SSR support,2870,2652,2652,JavaScript,151,1082,63,-1,-1,-1
+LedgerHQ_ledger-live-mobile,https://github.com/LedgerHQ/ledger-live-mobile,Ledger Live (Mobile),11451,137,137,JavaScript,18,2955,22,-1,-1,-1
+olifolkerd_tabulator,https://github.com/olifolkerd/tabulator,Interactive Tables and Data Grids for JavaScript,13098,2525,2525,JavaScript,334,2719,80,-1,-1,-1
+zotero_translators,https://github.com/zotero/translators,Zotero Translators,13461,400,400,JavaScript,317,7914,274,-1,-1,-1
+plotly_falcon,https://github.com/plotly/falcon,"Free, open-source SQL client for Windows and Mac 🦅",12926,728,728,JavaScript,96,2813,37,-1,-1,-1
+blargbot_blargbot,https://github.com/blargbot/blargbot,A multipurpose discord bot,22302,102,102,JavaScript,30,6179,25,-1,-1,-1
+storj_core,https://github.com/storj/core,Deprecated. Implementation of the Storj v2 protocol for Node.js.,7262,422,422,JavaScript,96,1796,46,-1,-1,-1
+browserify_resolve,https://github.com/browserify/resolve,Implements the node.js require.resolve() algorithm,377,523,523,JavaScript,152,522,122,-1,-1,-1
+ealush_emoji-picker-react,https://github.com/ealush/emoji-picker-react,React Emoji Picker,29459,122,122,JavaScript,17,734,14,-1,-1,-1
+NervJS_taro-ui,https://github.com/NervJS/taro-ui,一款基于 Taro 框架开发的多端 UI 组件库,7601,2277,2277,JavaScript,285,1385,78,-1,-1,-1
+mistic100_jQuery-QueryBuilder,https://github.com/mistic100/jQuery-QueryBuilder,jQuery plugin offering an interface to create complex queries,4105,1241,1241,JavaScript,453,756,123,-1,-1,-1
+PursuanceProject_pursuance,https://github.com/PursuanceProject/pursuance,Pursuance: end-to-end encrypted task management optimized for large numbers of volunteers. We are building a vast and formidable ecosystem of opposition to institutionalized injustice.,42333,108,108,JavaScript,16,758,27,-1,-1,-1
+frctl_fractal,https://github.com/frctl/fractal,"A tool to help you build & document web component libraries, and then integrate them into your web projects.",3793,1601,1601,JavaScript,120,2113,39,-1,-1,-1
+wekan_wekan,https://github.com/wekan/wekan,"The open-source kanban (built with Meteor). NOTE: All Pull Requests should be done to master branch. Old devel branch will be removed in near future. For translations, only add PR changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.",14098,14614,14614,JavaScript,2140,5169,295,-1,-1,-1
+zaproxy_zap-hud,https://github.com/zaproxy/zap-hud,The OWASP ZAP Heads Up Display (HUD),6755,101,101,JavaScript,28,2689,69,-1,-1,-1
+webcomponents_custom-elements-everywhere,https://github.com/webcomponents/custom-elements-everywhere,Custom Element + Framework Interoperability Tests.,9238,595,595,JavaScript,69,1540,43,-1,-1,-1
+mde_ejs,https://github.com/mde/ejs,Embedded JavaScript templates -- http://ejs.co,6754,3652,3652,JavaScript,415,3243,216,-1,-1,-1
+jbeard4_SCION,https://github.com/jbeard4/SCION,"SCXML/Statecharts in JavaScript, moved to gitlab: https://gitlab.com/scion-scxml/scion",33908,138,138,JavaScript,28,1359,18,-1,-1,-1
+opensourceBIM_BIMsurfer-before2019,https://github.com/opensourceBIM/BIMsurfer-before2019,This is the repository of the v1 and v2 version of BIM Surfer. It is not maintained anymore. Find the most recent version on https://github.com/opensourceBIM/BIMsurfer,67670,437,437,JavaScript,209,984,40,-1,-1,-1
+peer-base_peer-base,https://github.com/peer-base/peer-base,Build real-time collaborative DApps on top of IPFS,6306,109,109,JavaScript,18,1148,17,-1,-1,-1
+iodide-project_iodide,https://github.com/iodide-project/iodide,Literate scientific computing and communication for the web,25169,1109,1109,JavaScript,100,4669,65,-1,-1,-1
+webpack_webpack.js.org,https://github.com/webpack/webpack.js.org,Repository for webpack documentation and more!,153936,1550,1550,JavaScript,2498,11836,1421,-1,-1,-1
+KhaosT_HAP-NodeJS,https://github.com/KhaosT/HAP-NodeJS,Node.js implementation of HomeKit Accessory Server.,4597,2114,2114,JavaScript,585,647,89,-1,-1,-1
+vizabi_vizabi,https://github.com/vizabi/vizabi,Vizabi is a framework for building visual data exploration tools freely provided by Gapminder [WARNING: 🐞 Don't expect too much!],81580,208,208,JavaScript,56,7921,82,-1,-1,-1
+DextApp_dext,https://github.com/DextApp/dext,🔍 A smart launcher. Powered by JavaScript.,77650,673,673,JavaScript,60,679,34,-1,-1,-1
+decentraland_marketplace,https://github.com/decentraland/marketplace,🏛️ Decentraland's LAND Marketplace,41750,104,104,JavaScript,32,3108,27,-1,-1,-1
+hypothesis_client,https://github.com/hypothesis/client,The Hypothesis web-based annotation client.,20295,239,239,JavaScript,101,8374,102,-1,-1,-1
+exceljs_exceljs,https://github.com/exceljs/exceljs,Excel Workbook Manager,4737,4033,4033,JavaScript,520,1053,160,-1,-1,-1
+nuxt-community_pwa-module,https://github.com/nuxt-community/pwa-module,"⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution",3150,658,658,JavaScript,77,583,62,-1,-1,-1
+sunspot_sunspot,https://github.com/sunspot/sunspot,Solr-powered search for Ruby objects,152511,2858,2858,JavaScript,915,3213,409,-1,-1,-1
+ModusCreateOrg_budgeting,https://github.com/ModusCreateOrg/budgeting,Budgeting - React + Redux + Webpack (tree shaking) Sample App,1981,940,940,JavaScript,287,1019,165,-1,-1,-1
+jobisoft_TbSync,https://github.com/jobisoft/TbSync,"[Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and calendar information with Thunderbird",4614,221,221,JavaScript,19,1927,25,-1,-1,-1
+uxsolutions_bootstrap-datepicker,https://github.com/uxsolutions/bootstrap-datepicker,A datepicker for twitter bootstrap (@twbs),5264,11654,11654,JavaScript,5451,3302,854,-1,-1,-1
+wix_wix-style-react,https://github.com/wix/wix-style-react,Common React UI components for all Wix verticals developing in React,15013,568,568,JavaScript,129,16987,429,-1,-1,-1
+TargetProcess_tauCharts,https://github.com/TargetProcess/tauCharts,D3 based data-focused charting library. Designed with passion. Flexible.,21360,1799,1799,JavaScript,111,3472,44,-1,-1,-1
+styled-components_stylelint-processor-styled-components,https://github.com/styled-components/stylelint-processor-styled-components,Lint your styled components with stylelint!,773,504,504,JavaScript,43,676,45,-1,-1,-1
+appleple_lite-editor,https://github.com/appleple/lite-editor,A Modern WYSIWYG Editor especially for inline elements,2730,137,137,JavaScript,7,525,6,-1,-1,-1
+mongo-express_mongo-express,https://github.com/mongo-express/mongo-express,"Web-based MongoDB admin interface, written with Node.js and express",2033,3300,3300,JavaScript,638,1204,144,-1,-1,-1
+stealjs_steal,https://github.com/stealjs/steal,Gets JavaScript,68803,1321,1321,JavaScript,543,4061,135,-1,-1,-1
+tmijs_tmi.js,https://github.com/tmijs/tmi.js,:speech_balloon: Javascript library for the Twitch Messaging Interface. (Twitch.tv),2536,474,474,JavaScript,120,812,66,-1,-1,-1
+chaoss_augur,https://github.com/chaoss/augur,Python library and web service for GitHub Health and Sustainability metrics.,108894,125,125,JavaScript,144,1568,52,-1,-1,-1
+mozilla_thimble.mozilla.org,https://github.com/mozilla/thimble.mozilla.org,UPDATE: This project is no longer maintained. Please check out Glitch.com instead.,26446,1405,1405,JavaScript,516,6306,385,-1,-1,-1
+egret-labs_egret3d,https://github.com/egret-labs/egret3d,open source 3d renderer for egret,70218,173,173,JavaScript,53,1547,21,-1,-1,-1
+scrumpy_tiptap,https://github.com/scrumpy/tiptap,A rich-text editor for Vue.js,3605,5249,5249,JavaScript,312,914,46,-1,-1,-1
+jimhigson_oboe.js,https://github.com/jimhigson/oboe.js,A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.,32790,4542,4542,JavaScript,224,2829,54,-1,-1,-1
+iExecBlockchainComputing_iexec-sdk,https://github.com/iExecBlockchainComputing/iexec-sdk,CLI and JS library allowing developers to easily interact with the iExec stack,2049,383,383,JavaScript,18,1308,16,-1,-1,-1
+DistributedObjectProtocol_dop,https://github.com/DistributedObjectProtocol/dop,JavaScript implementation for Distributed Object Protocol,2446,155,155,JavaScript,9,557,7,-1,-1,-1
+sachinchoolur_lightGallery,https://github.com/sachinchoolur/lightGallery,"A customizable, modular, responsive, lightbox gallery plugin. ",80882,3620,3620,JavaScript,869,736,117,-1,-1,-1
+gridstack_gridstack.js,https://github.com/gridstack/gridstack.js,Design your own drag-and-drop dashboards with ease,1832,2935,2935,JavaScript,888,1137,138,-1,-1,-1
+23_resumable.js,https://github.com/23/resumable.js,"A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.",457,3908,3908,JavaScript,553,844,190,-1,-1,-1
+capnmidnight_Primrose,https://github.com/capnmidnight/Primrose,A WebVR framework,213642,425,425,JavaScript,59,3209,25,-1,-1,-1
+medikoo_deferred,https://github.com/medikoo/deferred,Modular and fast Promises implementation for JavaScript,858,362,362,JavaScript,19,804,16,-1,-1,-1
+log4js-node_log4js-node,https://github.com/log4js-node/log4js-node,A port of log4js to node.js,2468,4018,4018,JavaScript,630,1685,244,-1,-1,-1
+web-scrobbler_web-scrobbler,https://github.com/web-scrobbler/web-scrobbler,Scrobble music all around the web!,7678,1269,1269,JavaScript,377,4757,384,-1,-1,-1
+fauna_faunadb-js,https://github.com/fauna/faunadb-js,Node.js driver for FaunaDB - browser package here: https://github.com/fauna/faunadb-js-release,2632,125,125,JavaScript,12,591,32,-1,-1,-1
+Wizzercn_NutzWk,https://github.com/Wizzercn/NutzWk,Java开源企业级微服务分布式开发框架,65201,1368,1368,JavaScript,622,1353,25,-1,-1,-1
+reactjs_react-docgen,https://github.com/reactjs/react-docgen,A CLI and toolbox to extract information from React component files for documentation generation purposes.,1754,2352,2352,JavaScript,219,760,112,-1,-1,-1
+khoanguyen96_vue-paypal-checkout,https://github.com/khoanguyen96/vue-paypal-checkout,A simple Vue.js wrapper component for paypal-checkout,5425,109,109,JavaScript,37,830,8,-1,-1,-1
+metarhia_impress,https://github.com/metarhia/impress,"Application Server for Node.js, scaling, highload, interactivity",5960,488,488,JavaScript,62,2458,47,-1,-1,-1
+mapbox_mapping,https://github.com/mapbox/mapping,OpenStreetMap contributions from the data team at Mapbox,373610,194,194,JavaScript,37,552,55,-1,-1,-1
+madhums_node-express-mongoose,https://github.com/madhums/node-express-mongoose,A boilerplate application for building web apps using node and mongodb,501,991,991,JavaScript,319,1258,22,-1,-1,-1
+EmmanuelDemey_eslint-plugin-angular,https://github.com/EmmanuelDemey/eslint-plugin-angular,ESLint plugin for AngularJS applications,1580,601,601,JavaScript,126,1087,85,-1,-1,-1
+actionhero_actionhero,https://github.com/actionhero/actionhero,actionhero.js is a multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks,15886,2010,2010,JavaScript,241,5008,214,-1,-1,-1
+techfort_LokiJS,https://github.com/techfort/LokiJS,javascript embeddable / in-memory database,8392,4957,4957,JavaScript,389,1303,124,-1,-1,-1
+tutao_tutanota,https://github.com/tutao/tutanota,Tutanota is an email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.,105055,2708,2708,JavaScript,294,4519,71,-1,-1,-1
+brightcove_videojs-playlist,https://github.com/brightcove/videojs-playlist,Playlist plugin for videojs,2694,203,203,JavaScript,86,688,37,-1,-1,-1
+nearform_node-clinic-doctor,https://github.com/nearform/node-clinic-doctor,Programmable interface to `clinic doctor`,15870,231,231,JavaScript,25,841,32,-1,-1,-1
+neo4j_neo4j-javascript-driver,https://github.com/neo4j/neo4j-javascript-driver,Neo4j Bolt driver for JavaScript,26023,490,490,JavaScript,95,1299,62,-1,-1,-1
+joshwcomeau_guppy,https://github.com/joshwcomeau/guppy,🐠A friendly application manager and task runner for React.js,14009,2792,2792,JavaScript,146,1553,60,-1,-1,-1
+letterpad_letterpad,https://github.com/letterpad/letterpad,Letterpad is an open-source and a high performant publishing engine for blogs built with react & graphql and runs ridiculously fast 🚀,11133,433,433,JavaScript,32,834,13,-1,-1,-1
+tleunen_babel-plugin-module-resolver,https://github.com/tleunen/babel-plugin-module-resolver,Custom module resolver plugin for Babel,299,2204,2204,JavaScript,154,545,76,-1,-1,-1
+alan345_naperg,https://github.com/alan345/naperg,Fullstack Boilerplate GraphQL. Made with React & Prisma + authentication & roles + upload file + chat,1550,529,529,JavaScript,120,520,5,-1,-1,-1
+poteto_ember-cli-flash,https://github.com/poteto/ember-cli-flash,"Simple, highly configurable flash messages for ember-cli",640,348,348,JavaScript,91,661,92,-1,-1,-1
+SortableJS_Sortable,https://github.com/SortableJS/Sortable,"Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.",1997,17197,17197,JavaScript,2574,1620,351,-1,-1,-1
+zeppelinos_zos,https://github.com/zeppelinos/zos,ZeppelinOS multi-package repository,14770,230,230,JavaScript,78,3323,62,-1,-1,-1
+adopted-ember-addons_ember-file-upload,https://github.com/adopted-ember-addons/ember-file-upload,HTML5 file uploads for Ember apps,10748,152,152,JavaScript,73,1229,82,-1,-1,-1
+kwin-scripts_kwin-tiling,https://github.com/kwin-scripts/kwin-tiling,Tiling script for kwin,567,493,493,JavaScript,44,532,16,-1,-1,-1
+dawnlabs_carbon,https://github.com/dawnlabs/carbon,🎨 Create and share beautiful images of your source code,5755,20488,20488,JavaScript,1026,2112,196,-1,-1,-1
+bem_bem-xjst,https://github.com/bem/bem-xjst,bem-xjst (eXtensible JavaScript Templates): declarative template engine for the browser and server,2411,110,110,JavaScript,46,1519,64,-1,-1,-1
+Vestride_Shuffle,https://github.com/Vestride/Shuffle,"Categorize, sort, and filter a responsive grid of items",13973,1705,1705,JavaScript,276,573,17,-1,-1,-1
+podlove_podlove-web-player,https://github.com/podlove/podlove-web-player,"Podlove Web Player is a Podcast-optimized, HTML5-based audio player based on VueJS.",99263,290,290,JavaScript,61,3297,63,-1,-1,-1
+mafintosh_hypercore,https://github.com/mafintosh/hypercore,"Hypercore is a secure, distributed append-only log.",615,1046,1046,JavaScript,109,817,54,-1,-1,-1
+twitch-devs_twitch-js,https://github.com/twitch-devs/twitch-js,"A community-centric, community-supported version of tmi.js",2915,118,118,JavaScript,29,1198,67,-1,-1,-1
+eslint_eslint,https://github.com/eslint/eslint,A fully pluggable tool for identifying and reporting on patterns in JavaScript,22035,14445,14445,JavaScript,2470,17161,1475,-1,-1,-1
+yabwe_medium-editor,https://github.com/yabwe/medium-editor,Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.,10336,13759,13759,JavaScript,1674,3255,324,-1,-1,-1
+clearmatics_ion,https://github.com/clearmatics/ion,General interoperability framework for trustless cross-system interaction,3334,105,105,JavaScript,18,644,22,-1,-1,-1
+microsoft_PartsUnlimitedMRP,https://github.com/microsoft/PartsUnlimitedMRP,"This application uses entirely open source software including Linux, Java, Apache, and MongoDB which creates a web front end, an order service, and an integration service.",89134,135,135,JavaScript,346,0,0,-1,-1,-1
+One-Nexus_Synergy,https://github.com/One-Nexus/Synergy,"Synergy is a framework for building modular, configurable and scalable UI components for React-DOM projects",2777,139,139,JavaScript,8,831,8,-1,-1,-1
+LessWrong2_Lesswrong2,https://github.com/LessWrong2/Lesswrong2,"The development repository for LessWrong2, based on Vulcan JS",36085,152,152,JavaScript,37,14286,289,-1,-1,-1
+typicode_hotel,https://github.com/typicode/hotel,🏩 A simple process manager for developers. Start apps from your browser and access them using local domains,3018,8632,8632,JavaScript,355,1075,74,-1,-1,-1
+BabylonJS_Website,https://github.com/BabylonJS/Website,Main babylon.js website,1132688,125,125,JavaScript,191,1050,79,-1,-1,-1
+kiwicom_margarita,https://github.com/kiwicom/margarita,Mobile and Web application implementing Kiwi.com Tequila API ,30768,121,121,JavaScript,7,1838,25,-1,-1,-1
+hawkeyesec_scanner-cli,https://github.com/hawkeyesec/scanner-cli,A project security/vulnerability/risk scanning tool,1470,232,232,JavaScript,63,631,35,-1,-1,-1
+devpunks_snuggsi,https://github.com/devpunks/snuggsi,snuggsi ツ - Easy Web Components in ~1kB,32582,130,130,JavaScript,9,15258,18,-1,-1,-1
+mycolorway_simditor,https://github.com/mycolorway/simditor,An Easy and Fast WYSIWYG Editor,5969,4416,4416,JavaScript,807,911,76,-1,-1,-1
+SocketCluster_socketcluster,https://github.com/SocketCluster/socketcluster,Highly scalable realtime framework,1663,5359,5359,JavaScript,284,1237,36,-1,-1,-1
+drone_drone-ui,https://github.com/drone/drone-ui,Front-end for the Drone continuous integration server,4830,199,199,JavaScript,130,804,81,-1,-1,-1
+aws_awsmobile-cli,https://github.com/aws/awsmobile-cli,CLI experience for Frontend developers in the JavaScript ecosystem.,1116,141,141,JavaScript,34,657,28,-1,-1,-1
+balderdashy_waterline,https://github.com/balderdashy/waterline,"An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, nedb, redis, and more",5307,5023,5023,JavaScript,547,3902,259,-1,-1,-1
+angular_angular.js,https://github.com/angular/angular.js,AngularJS - HTML enhanced for web apps!,100204,59569,59569,JavaScript,28874,42854,4431,-1,-1,-1
+microsoft_TypeScript-Sublime-Plugin,https://github.com/microsoft/TypeScript-Sublime-Plugin,"IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins",55477,1535,1535,JavaScript,214,947,78,-1,-1,-1
+tmobile_jazz,https://github.com/tmobile/jazz,Jazz Serverless Development Platform,209221,176,176,JavaScript,81,5279,139,-1,-1,-1
+linb_CrossUI,https://github.com/linb/CrossUI,CrossUI is a free Cross-Browser Javascript framework with cutting-edge functionality for rich web application,77187,184,184,JavaScript,11,1133,9,-1,-1,-1
+mipengine_mip,https://github.com/mipengine/mip,[Deprecated] 请查看 mip2,11774,389,389,JavaScript,76,2113,59,-1,-1,-1
+joyent_manatee,https://github.com/joyent/manatee,"Automated fault monitoring and leader-election system for strongly-consistent, highly-available writes to PostgreSQL (Joyent SDC, Manta).",36306,225,225,JavaScript,24,1061,45,-1,-1,-1
+netlify-templates_victor-hugo,https://github.com/netlify-templates/victor-hugo,Victor Hugo is a Hugo boilerplate for creating truly epic websites!,5950,1180,1180,JavaScript,312,523,80,-1,-1,-1
+uber_nebula.gl,https://github.com/uber/nebula.gl,"A suite of 3D-enabled data editing overlays, suitable for deck.gl",4426,151,151,JavaScript,26,837,36,-1,-1,-1
+Cryptkeeper_Minetrack,https://github.com/Cryptkeeper/Minetrack,A Minecraft PC/PE tracker that lets you focus on what's happening now.,401,145,145,JavaScript,106,597,73,-1,-1,-1
+LouisBarranqueiro_reapop,https://github.com/LouisBarranqueiro/reapop,:postbox: A React & Redux notifications system,14650,688,688,JavaScript,50,752,31,-1,-1,-1
+zeit_hyper,https://github.com/zeit/hyper,A terminal built on web technologies,7475,30341,30341,JavaScript,2485,4053,533,-1,-1,-1
+skidding_flatris,https://github.com/skidding/flatris,Fast-paced two-player web game,18111,965,965,JavaScript,179,677,8,-1,-1,-1
+bugsnag_bugsnag-react-native,https://github.com/bugsnag/bugsnag-react-native,Error monitoring and reporting tool for native exceptions and JS errors in React Native apps,5534,305,305,JavaScript,91,834,55,-1,-1,-1
+meteor_docs,https://github.com/meteor/docs,The Meteor API documentation.,5288,153,153,JavaScript,178,3279,204,-1,-1,-1
+fourkitchens_emulsify,https://github.com/fourkitchens/emulsify,Emulsify: Pattern Lab + Drupal 8,4956,149,149,JavaScript,65,955,42,-1,-1,-1
+JoinColony_colonyNetwork,https://github.com/JoinColony/colonyNetwork,Colony Network smart contracts,8218,305,305,JavaScript,56,3763,41,-1,-1,-1
+petkaantonov_bluebird,https://github.com/petkaantonov/bluebird,:bird: :zap: Bluebird is a full featured promise library with unmatched performance.,14854,18398,18398,JavaScript,2285,3917,490,-1,-1,-1
+rickbergfalk_sqlpad,https://github.com/rickbergfalk/sqlpad,"Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, Presto, SAP HANA, and Cassandra",18339,2547,2547,JavaScript,410,2192,56,-1,-1,-1
+extesy_hoverzoom,https://github.com/extesy/hoverzoom,Google Chrome extension for zooming images on mouse hover,7039,292,292,JavaScript,101,582,49,-1,-1,-1
+sanniassin_react-input-mask,https://github.com/sanniassin/react-input-mask,Input masking component for React. Made with attention to UX.,1150,1019,1019,JavaScript,98,501,46,-1,-1,-1
+ruanyf_es6tutorial,https://github.com/ruanyf/es6tutorial,《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。,4938,16404,16404,JavaScript,7269,2097,333,-1,-1,-1
+prescottprue_fireadmin,https://github.com/prescottprue/fireadmin,Application for Managing Firebase Applications. Includes support for multiple environments and data migrations,15170,121,121,JavaScript,33,684,8,-1,-1,-1
+hobbyquaker_homekit2mqtt,https://github.com/hobbyquaker/homekit2mqtt,HomeKit to MQTT bridge 🏡📱,2660,210,210,JavaScript,52,665,16,-1,-1,-1
+Canop_miaou,https://github.com/Canop/miaou,"A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features",20696,426,426,JavaScript,68,2364,36,-1,-1,-1
+testdouble_testdouble.js,https://github.com/testdouble/testdouble.js,A minimal test double library for TDD with JavaScript,4091,1049,1049,JavaScript,130,1316,69,-1,-1,-1
+firefox-devtools_devtools-core,https://github.com/firefox-devtools/devtools-core,:rocket: Packages for Firefox DevTools,5214,110,110,JavaScript,101,2962,127,-1,-1,-1
+keen_keen-dataviz.js,https://github.com/keen/keen-dataviz.js,Data Visualization Charting Library,27047,198,198,JavaScript,40,629,28,-1,-1,-1
+graphile_graphile-engine,https://github.com/graphile/graphile-engine,"Monorepo home of graphile-build, graphile-build-pg, graphile-utils, postgraphile-core and graphql-parse-resolve-info. Build a high-performance easily-extensible GraphQL schema by combining plugins!",4287,475,475,JavaScript,67,2558,49,-1,-1,-1
+facebook_flipper,https://github.com/facebook/flipper,A desktop debugging platform for mobile developers.,33533,5362,5362,JavaScript,294,2434,170,-1,-1,-1
+LiskArchive_lisk-nano,https://github.com/LiskArchive/lisk-nano,🖥 Minimal Lisk graphical user interface for desktop,11217,167,167,JavaScript,71,3799,66,-1,-1,-1
+npm_spife,https://github.com/npm/spife,:curry: :fork_and_knife: a jshttp based µframework :fork_and_knife: :spaghetti:,5278,235,235,JavaScript,18,834,23,-1,-1,-1
+yahoo_react-i13n,https://github.com/yahoo/react-i13n,"A performant, scalable and pluggable approach to instrumenting your React application.",1025,312,312,JavaScript,36,752,35,-1,-1,-1
+styled-components_polished,https://github.com/styled-components/polished,A lightweight toolset for writing styles in JavaScript ✨,5288,5227,5227,JavaScript,202,1296,116,-1,-1,-1
+twreporter_twreporter-react,https://github.com/twreporter/twreporter-react,twreporter site with nodejs,159795,222,222,JavaScript,46,3549,43,-1,-1,-1
+SimenB_add-asset-html-webpack-plugin,https://github.com/SimenB/add-asset-html-webpack-plugin,Add a JavaScript or CSS asset to the HTML generated by html-webpack-plugin,1369,242,242,JavaScript,27,515,24,-1,-1,-1
+Irrelon_ige,https://github.com/Irrelon/ige,The Isogenic Game Engine,55774,337,337,JavaScript,130,2758,45,-1,-1,-1
+FooSoft_yomichan,https://github.com/FooSoft/yomichan,Japanese pop-up dictionary extension for Chrome and Firefox.,29440,241,241,JavaScript,28,1642,22,-1,-1,-1
+vkbansal_react-contextmenu,https://github.com/vkbansal/react-contextmenu,Context Menu implemented in React,1589,952,952,JavaScript,228,619,97,-1,-1,-1
+stoically_temporary-containers,https://github.com/stoically/temporary-containers,Firefox Add-on that lets you open automatically managed disposable containers,2467,213,213,JavaScript,20,673,12,-1,-1,-1
+franciscop_server,https://github.com/franciscop/server,:desktop_computer: Simple and powerful server for Node.js,32224,3338,3338,JavaScript,138,703,17,-1,-1,-1
+react-component_menu,https://github.com/react-component/menu,React Menu,12632,404,404,JavaScript,128,749,66,-1,-1,-1
+kriszyp_alkali,https://github.com/kriszyp/alkali,Alkali is library for functional reactive data flows that drive native-based UI elements,3409,157,157,JavaScript,6,968,8,-1,-1,-1
+gopro_forgejs,https://github.com/gopro/forgejs,ForgeJS is a javascript framework that unleashes immersive WebVR experiences.,8441,151,151,JavaScript,41,1436,11,-1,-1,-1
+genielabs_HomeGenie,https://github.com/genielabs/HomeGenie,"HomeGenie, the open source, programmable, home automation server for smart connected devices and applications",103579,285,285,JavaScript,139,1494,53,-1,-1,-1
+nytimes_library,https://github.com/nytimes/library,"A collaborative documentation site, powered by Google Docs.",912,560,560,JavaScript,34,915,24,-1,-1,-1
+tessel_t2-cli,https://github.com/tessel/t2-cli,Tessel 2 Command Line Interface,2247,109,109,JavaScript,54,1945,70,-1,-1,-1
+RanvierMUD_ranviermud,https://github.com/RanvierMUD/ranviermud,A node.js based MUD game engine,6721,535,535,JavaScript,187,5660,68,-1,-1,-1
+maggialejandro_react-native-calendario,https://github.com/maggialejandro/react-native-calendario,📆 React Native Calendar,2913,110,110,JavaScript,17,507,10,-1,-1,-1
+mtth_avsc,https://github.com/mtth/avsc,Avro for JavaScript :zap:,9352,747,747,JavaScript,77,1281,52,-1,-1,-1
+ember-fastboot_ember-cli-fastboot,https://github.com/ember-fastboot/ember-cli-fastboot,Server-side rendering for Ember.js apps,2808,837,837,JavaScript,130,1287,116,-1,-1,-1
+adonisjs_adonis-lucid,https://github.com/adonisjs/adonis-lucid,"🗃 The ORM of AdonisJs Framework with support for PostgreSQL, MSSQL, MySQL, MariaDB, SQLite3, Oracle and Amazon Redshift",1405,250,250,JavaScript,65,1059,70,-1,-1,-1
+imbhargav5_rooks,https://github.com/imbhargav5/rooks,Collection of React hooks ⚓ for everyone.  ,1619,264,264,JavaScript,23,624,17,-1,-1,-1
+imgix_react-imgix,https://github.com/imgix/react-imgix,React component to display Imgix images,2113,158,158,JavaScript,38,1016,42,-1,-1,-1
+LedgerHQ_ledger-live-desktop,https://github.com/LedgerHQ/ledger-live-desktop,Ledger Live (Desktop),18198,416,416,JavaScript,112,5373,48,-1,-1,-1
+udacity_frontend-nanodegree-arcade-game,https://github.com/udacity/frontend-nanodegree-arcade-game,,2850,278,278,JavaScript,3717,1160,178,-1,-1,-1
+YvesCoding_vuescroll,https://github.com/YvesCoding/vuescroll,"A customizable scrollbar plugin based on vue.js for PC , mobile phone, touch screen, laptop.",3325,558,558,JavaScript,55,688,14,-1,-1,-1
+CloudBoost_cloudboost,https://github.com/CloudBoost/cloudboost,Realtime JavaScript Backend. ,3594,1295,1295,JavaScript,136,1161,48,-1,-1,-1
+GraphQL-Designer_graphqldesigner.com,https://github.com/GraphQL-Designer/graphqldesigner.com,A developer web-app tool to rapidly prototype a full stack implementation of GraphQL with React.,21763,470,470,JavaScript,43,915,11,-1,-1,-1
+infinitered_reactotron,https://github.com/infinitered/reactotron,"A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.",19584,10522,10522,JavaScript,617,2323,132,-1,-1,-1
+clientIO_joint,https://github.com/clientIO/joint,JavaScript diagramming library,33019,2894,2894,JavaScript,613,3563,113,-1,-1,-1
+pulilab_vue-people,https://github.com/pulilab/vue-people,VuePeople lists and connects Vue.JS developers around the world. ,2487,138,138,JavaScript,30,839,14,-1,-1,-1
+mozilla_multi-account-containers,https://github.com/mozilla/multi-account-containers,"Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.",1107,879,879,JavaScript,126,1037,63,-1,-1,-1
+enb_enb,https://github.com/enb/enb,"Tool for building web projects, BEM bundler.",2492,136,136,JavaScript,60,1421,113,-1,-1,-1
+ming-soft_MCMS,https://github.com/ming-soft/MCMS,完整开源！Java快速开发平台！基于Spring、SpringMVC、Mybatis架构，MStore提供更多好用的插件与模板（文章、商城、微信、论坛、会员、评论、支付、积分、工作流、任务调度等，同时提供上百套免费模板任意选择），价值源自分享！铭飞系统不仅一套简单好用的开源系统、更是一整套优质的开源生态内容体系。铭飞的使命就是降低开发成本提高开发效率，提供全方位的企业级开发解决方案，每月28定期更新版本,74287,749,749,JavaScript,406,847,46,-1,-1,-1
+vuejs_cn.vuejs.org,https://github.com/vuejs/cn.vuejs.org,🇨🇳 Chinese translation for vuejs.org,36144,1374,1374,JavaScript,2603,4972,906,-1,-1,-1
+mongodb_node-mongodb-native,https://github.com/mongodb/node-mongodb-native,Mongo DB Native NodeJS Driver,100720,8026,8026,JavaScript,1487,10139,617,-1,-1,-1
+timekit-io_booking-js,https://github.com/timekit-io/booking-js,:date: Make a beautiful embeddable booking widget in minutes,9961,2291,2291,JavaScript,175,731,14,-1,-1,-1
+summernote_django-summernote,https://github.com/summernote/django-summernote,Simply integrate Summernote editor with Django project. ,1389,576,576,JavaScript,150,677,80,-1,-1,-1
+PaulLeCam_react-leaflet,https://github.com/PaulLeCam/react-leaflet,⚛️ React components for 🍃 Leaflet maps,6327,2383,2383,JavaScript,528,780,168,-1,-1,-1
+box_box-node-sdk,https://github.com/box/box-node-sdk,A Javascript interface for interacting with the Box API. You can find the node package at,36869,118,118,JavaScript,82,1245,52,-1,-1,-1
+phinajs_phina.js,https://github.com/phinajs/phina.js,phina.js is game library,5698,258,258,JavaScript,43,1325,31,-1,-1,-1
+web-pal_chronos-timetracker,https://github.com/web-pal/chronos-timetracker,"Desktop client for JIRA. Track time, upload worklogs without a hassle.",7828,183,183,JavaScript,39,1401,28,-1,-1,-1
+reactioncommerce_example-storefront,https://github.com/reactioncommerce/example-storefront,"Example Storefront is Reaction Commerce’s headless ecommerce storefront - Next.js, GraphQL, React. Built using Apollo Client and the commerce-focused React UI components provided in the Reaction Design System (reactioncommerce/reaction-component-library). It connects with Reaction backend with the GraphQL API.",5236,204,204,JavaScript,97,0,0,-1,-1,-1
+prisma-archive_graphcool-templates,https://github.com/prisma-archive/graphcool-templates,📗 Collection of Graphcool Templates,7216,349,349,JavaScript,102,0,0,-1,-1,-1
+evilsocket_arc,https://github.com/evilsocket/arc,A manager for your secrets.,12561,573,573,JavaScript,59,575,18,-1,-1,-1
+sinonjs_lolex,https://github.com/sinonjs/lolex,"Fake setTimeout and friends (collectively known as ""timers""). Useful in your JavaScript tests. Extracted from Sinon.JS",945,457,457,JavaScript,60,575,57,-1,-1,-1
+sanctuary-js_sanctuary,https://github.com/sanctuary-js/sanctuary,:see_no_evil: Refuge from unsafe JavaScript,2049,2109,2109,JavaScript,92,1043,49,-1,-1,-1
+kantord_just-dashboard,https://github.com/kantord/just-dashboard,:bar_chart: :clipboard: Dashboards using YAML or JSON files ,4212,1372,1372,JavaScript,45,853,9,-1,-1,-1
+passff_passff,https://github.com/passff/passff,"zx2c4 pass manager extension for Firefox, Chrome and Opera",906,736,736,JavaScript,62,736,61,-1,-1,-1
+nodejs_citgm,https://github.com/nodejs/citgm,Canary in the Gold Mine,927,335,335,JavaScript,105,1462,71,-1,-1,-1
+splash-cli_splash-cli,https://github.com/splash-cli/splash-cli, 📸 Beautiful wallpapers from Unsplash 🖼️🛠️,46188,353,353,JavaScript,24,679,24,-1,-1,-1
+cBioPortal_cbioportal,https://github.com/cBioPortal/cbioportal,cBioPortal for Cancer Genomics,231960,261,261,JavaScript,235,20189,230,-1,-1,-1
+voxmedia_autotune,https://github.com/voxmedia/autotune,Platform for reusable news tools,192871,419,419,JavaScript,36,1845,27,-1,-1,-1
+bjornharrtell_jsts,https://github.com/bjornharrtell/jsts,JavaScript Topology Suite,20561,896,896,JavaScript,189,1658,70,-1,-1,-1
+tomatau_breko-hub,https://github.com/tomatau/breko-hub,Babel React Koa Hot Universal Boilerplate,7378,140,140,JavaScript,33,1924,15,-1,-1,-1
+vowsjs_vows,https://github.com/vowsjs/vows,Asynchronous BDD & continuous testing for node.js,834,1576,1576,JavaScript,171,988,123,-1,-1,-1
+GladysAssistant_Gladys,https://github.com/GladysAssistant/Gladys,"A privacy-first, open-source home assistant",18060,1192,1192,JavaScript,165,2102,53,-1,-1,-1
+DDMAL_diva.js,https://github.com/DDMAL/diva.js,:books: IIIF-compatible document image viewer,242238,218,218,JavaScript,37,2519,32,-1,-1,-1
+Merchello_Merchello,https://github.com/Merchello/Merchello,Merchello is an open source e-commerce package for the Umbraco CMS,457023,222,222,JavaScript,254,7413,130,-1,-1,-1
+schmich_marinara,https://github.com/schmich/marinara,Pomodoro® time management assistant for Chrome,9911,824,824,JavaScript,129,714,63,-1,-1,-1
+microsoft_TypeScript-Handbook,https://github.com/microsoft/TypeScript-Handbook,The TypeScript Handbook is a comprehensive guide to the TypeScript language,2708,3738,3738,JavaScript,1010,2332,495,-1,-1,-1
+Draggable_formeo,https://github.com/Draggable/formeo,Drag & Drop Form Builder,6832,143,143,JavaScript,70,603,14,-1,-1,-1
+xmppjs_xmpp.js,https://github.com/xmppjs/xmpp.js,XMPP for JavaScript,4561,1706,1706,JavaScript,322,2937,145,-1,-1,-1
+cibernox_ember-power-calendar,https://github.com/cibernox/ember-power-calendar,Powerful and customizable calendar component for Ember,1354,187,187,JavaScript,81,639,72,-1,-1,-1
+GitbookIO_gitbook,https://github.com/GitbookIO/gitbook,📝 Modern documentation format and toolchain using Git and Markdown,8623,20979,20979,JavaScript,3012,3402,271,-1,-1,-1
+Gisto_Gisto,https://github.com/Gisto/Gisto,Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.,33737,682,682,JavaScript,71,2437,14,-1,-1,-1
+ebryn_ember-component-css,https://github.com/ebryn/ember-component-css,An Ember CLI addon which allows you to specify styles for individual components,863,533,533,JavaScript,107,586,92,-1,-1,-1
+aurelia_cli,https://github.com/aurelia/cli,"The official command line tooling for Aurelia. Use the CLI to create projects, scaffold components and bundle your app for release.",2791,392,392,JavaScript,154,1691,154,-1,-1,-1
+depcheck_depcheck,https://github.com/depcheck/depcheck,Check your npm module for unused dependencies,1662,1355,1355,JavaScript,106,1002,86,-1,-1,-1
+facebook_docusaurus,https://github.com/facebook/docusaurus,Easy to maintain open source documentation websites.,52591,12630,12630,JavaScript,1121,0,0,-1,-1,-1
+avwo_whistle,https://github.com/avwo/whistle,"HTTP, HTTPS, WebSocket debugging proxy",38327,5322,5322,JavaScript,468,10032,24,-1,-1,-1
+ubports_ubports-installer,https://github.com/ubports/ubports-installer,A simple tool to install Ubuntu Touch on UBports devices,11466,132,132,JavaScript,49,509,32,-1,-1,-1
+nimiq_core-js,https://github.com/nimiq/core-js,Official JavaScript implementation of the Nimiq protocol,13133,921,921,JavaScript,200,2807,77,-1,-1,-1
+mjackson_unpkg,https://github.com/mjackson/unpkg,The CDN for everything on npm,2997,1010,1010,JavaScript,86,0,0,-1,-1,-1
+LibreOffice_online,https://github.com/LibreOffice/online,Read-only Mirror - no pull request,104836,299,299,JavaScript,103,22442,89,-1,-1,-1
+tomkp_react-split-pane,https://github.com/tomkp/react-split-pane,React split-pane component,18534,1627,1627,JavaScript,252,884,105,-1,-1,-1
+DemocracyEarth_sovereign,https://github.com/DemocracyEarth/sovereign,Censorship resistant democracies. ,146707,1229,1229,JavaScript,232,3156,50,-1,-1,-1
+streetmix_streetmix,https://github.com/streetmix/streetmix,Streetmix makes it easy for people to design public spaces together.,45027,367,367,JavaScript,127,6112,75,-1,-1,-1
+virtual-world-framework_vwf,https://github.com/virtual-world-framework/vwf,Virtual World Framework,784946,127,127,JavaScript,48,8924,75,-1,-1,-1
+browserslist_browserslist,https://github.com/browserslist/browserslist,"🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env",2125,6044,6044,JavaScript,311,1107,150,-1,-1,-1
+styleguidist_react-styleguidist,https://github.com/styleguidist/react-styleguidist,Isolated React component development environment with a living style guide,9286,7281,7281,JavaScript,1031,3637,407,-1,-1,-1
+nodejs_readable-stream,https://github.com/nodejs/readable-stream,Node-core streams for userland,1621,757,757,JavaScript,167,821,96,-1,-1,-1
+kelektiv_node-uuid,https://github.com/kelektiv/node-uuid,Generate RFC-compliant UUIDs in JavaScript,824,7644,7644,JavaScript,576,620,132,-1,-1,-1
+cameronsamuels_memerator,https://github.com/cameronsamuels/memerator,:trollface: A meme generator for the web,2795,7,7,JavaScript,2,615,9,-1,-1,-1
+Steem-FOSSbot_steem-fossbot-voter,https://github.com/Steem-FOSSbot/steem-fossbot-voter,"A curation bot built for the Steemit social media platform, decides which posts to vote for and casts vote on behalf of a registered user",6247,86,86,JavaScript,341,1103,13,-1,-1,-1
+madewithkoji_connect-zoo,https://github.com/madewithkoji/connect-zoo,,9574,0,0,JavaScript,0,2217,673,-1,-1,-1
+brunolemos_react-native-github-api,https://github.com/brunolemos/react-native-github-api,Fork of @octokit/rest without the nodejs dependency. See pull request:,4486,2,2,JavaScript,3,1768,201,-1,-1,-1
+KTH_lms-sync-users,https://github.com/KTH/lms-sync-users,,1193,1,1,JavaScript,3,1218,23,-1,-1,-1
+openaq_openaq-fetch,https://github.com/openaq/openaq-fetch,A tool to collect data for OpenAQ platform.,762,47,47,JavaScript,24,1067,36,-1,-1,-1
+dianaabv16_mudealslegco,https://github.com/dianaabv16/mudealslegco,,17508,0,0,JavaScript,0,619,6,-1,-1,-1
+openmotics_frontend,https://github.com/openmotics/frontend,OpenMotics User Interface,2934,18,18,JavaScript,6,561,9,-1,-1,-1
+primer_primer.style,https://github.com/primer/primer.style,The website for all things Primer,6681,58,58,JavaScript,9,924,27,-1,-1,-1
+AlwaysBCoding_emp-metamask,https://github.com/AlwaysBCoding/emp-metamask,,40882,0,0,JavaScript,0,9063,208,-1,-1,-1
+SignalK_n2k-signalk,https://github.com/SignalK/n2k-signalk,NMEA 2000 to Signal K transformer,466,11,11,JavaScript,15,693,23,-1,-1,-1
+eusorov_gekko-local,https://github.com/eusorov/gekko-local,gekko 0.5 with modifications,4118,0,0,JavaScript,1,2123,211,-1,-1,-1
+lcintron_black-ops-iv-stats,https://github.com/lcintron/black-ops-iv-stats,Web dashboard for stats from Call Of Duty Black Ops IV. Site can be hosted in its own server or within Github Pages with the help of an included script that updates the data file periodically.,10426,0,0,JavaScript,0,3174,2,-1,-1,-1
+andrewtpham_Tables-CE,https://github.com/andrewtpham/Tables-CE,,8190,0,0,JavaScript,0,1289,26,-1,-1,-1
+comses_catalog,https://github.com/comses/catalog,Web tools to annotate publications related to computational modeling,1943,1,1,JavaScript,3,693,15,-1,-1,-1
+rm3web_rm3-react-controls,https://github.com/rm3web/rm3-react-controls,Miscelaneous react controls for rm3,170,0,0,JavaScript,0,766,4,-1,-1,-1
+bambora_dev.na.bambora.com,https://github.com/bambora/dev.na.bambora.com,Developer portal for North America. A static site generated by Middleman.,11047,0,0,JavaScript,18,1770,133,-1,-1,-1
+ehchung1_marbles-20180514072516474,https://github.com/ehchung1/marbles-20180514072516474,Created for toolchain: https://console.ng.bluemix.net/devops/toolchains/517080e4-414c-4714-b0bb-8fd728d88ccc?env_id=ibm%3Ayp%3Aus-south,43172,0,0,JavaScript,0,1168,38,-1,-1,-1
+browniebroke_chez-nicole-web,https://github.com/browniebroke/chez-nicole-web,Website for Chez Nicole restaurant,57706,0,0,JavaScript,0,679,5,-1,-1,-1
+tomking89_mymup-vid,https://github.com/tomking89/mymup-vid,,49346,0,0,JavaScript,0,929,27,-1,-1,-1
+Gerard-CF_marbles-20180529175447163,https://github.com/Gerard-CF/marbles-20180529175447163,Created for toolchain: https://console.bluemix.net/devops/toolchains/7ad86841-9f30-4a2f-b610-e71601f4e275?env_id=ibm%3Ayp%3Aeu-gb,43171,0,0,JavaScript,0,1169,38,-1,-1,-1
+kent0628_tale,https://github.com/kent0628/tale,Best beautiful java blog,46820,0,0,JavaScript,0,519,26,-1,-1,-1
+dexon-foundation_dsolc-js,https://github.com/dexon-foundation/dsolc-js,,2015,2,2,JavaScript,1,534,27,-1,-1,-1
+QuickBlox_q-municate-web,https://github.com/QuickBlox/q-municate-web,Q-municate Web chat application,10728,53,53,JavaScript,67,2066,24,-1,-1,-1
+ricol99_casa,https://github.com/ricol99/casa,,1478,0,0,JavaScript,0,1398,5,-1,-1,-1
+ghamarian_nearley,https://github.com/ghamarian/nearley,,2060,0,0,JavaScript,0,973,55,-1,-1,-1
+mapcentia_geocloud2,https://github.com/mapcentia/geocloud2,The GC2 framework helps you build a spatial data infrastructure quickly and easily. Powered using open source components for a scalable solution focused on freedom rather than fees.,80282,100,100,JavaScript,51,2680,20,-1,-1,-1
+CroissanceCommune_autonomie,https://github.com/CroissanceCommune/autonomie,Autonomie est un progiciel de gestion à l'usage des CAE ,23243,22,22,JavaScript,14,7454,15,-1,-1,-1
+zohoMatt_everlink-md,https://github.com/zohoMatt/everlink-md,Cross-platform Markdown editor with support for Evernote.,5382,1,1,JavaScript,0,975,93,-1,-1,-1
+lamassu_lamassu-server,https://github.com/lamassu/lamassu-server,Part of the Lamassu Cryptomat platform,4621,38,38,JavaScript,62,1952,31,-1,-1,-1
+lsj575_bbq,https://github.com/lsj575/bbq,Campus social platform,9450,2,2,JavaScript,0,576,12,-1,-1,-1
+ischoolinc_coregadget,https://github.com/ischoolinc/coregadget,所有 web2 Gadget ,61400,0,0,JavaScript,0,1640,29,-1,-1,-1
+singer-io_knots,https://github.com/singer-io/knots,KNOTS is an intuitive desktop application built to simplify the configuration of Singer pipelines,70120,32,32,JavaScript,6,966,11,-1,-1,-1
+peer_doc,https://github.com/peer/doc,Converge on documents collaboratively.,1583,16,16,JavaScript,0,1197,11,-1,-1,-1
+zotero_bib-web,https://github.com/zotero/bib-web,Front-end code for ZoteroBib,3558,8,8,JavaScript,3,845,8,-1,-1,-1
+byakimchuk_favour-trader,https://github.com/byakimchuk/favour-trader,,43303,1,1,JavaScript,1,809,18,-1,-1,-1
+steven-ossorio_SocialBook,https://github.com/steven-ossorio/SocialBook,,299013,2,2,JavaScript,2,565,2,-1,-1,-1
+mkanderson_wkshp2018,https://github.com/mkanderson/wkshp2018,,8227,0,0,JavaScript,0,2262,273,-1,-1,-1
+rladigital_rla-static-site,https://github.com/rladigital/rla-static-site,,408996,0,0,JavaScript,0,4548,13,-1,-1,-1
+rjt-rockx_sapphyr,https://github.com/rjt-rockx/sapphyr,A custom bot for challenges with Nadeko selfhost integration.,830,2,2,JavaScript,4,531,8,-1,-1,-1
+sparkswap_lnd-engine,https://github.com/sparkswap/lnd-engine,Sparkswap engine for LND,2023,27,27,JavaScript,5,1250,10,-1,-1,-1
+learn-co-students_skills-based-javascript-intro-to-flow-control-js-intro-000,https://github.com/learn-co-students/skills-based-javascript-intro-to-flow-control-js-intro-000,,29,1,1,JavaScript,2047,3988,3195,-1,-1,-1
+ada-phoenix_regex-flatfoot,https://github.com/ada-phoenix/regex-flatfoot,DetectEx is an educational game that teaches Regular Expressions,3656,0,0,JavaScript,0,515,22,-1,-1,-1
+chipsi_nextcloud-news,https://github.com/chipsi/nextcloud-news,,27450,0,0,JavaScript,0,5111,123,-1,-1,-1
+b3ygs_facebook,https://github.com/b3ygs/facebook,,2828,0,0,JavaScript,0,1973,534,-1,-1,-1
+6XDROWN9_drn,https://github.com/6XDROWN9/drn,,19441,0,0,JavaScript,0,4557,18,-1,-1,-1
+recharts_recharts.org,https://github.com/recharts/recharts.org,The website,21222,19,19,JavaScript,61,580,64,-1,-1,-1
+outtherenz_portal-toolkit,https://github.com/outtherenz/portal-toolkit,Reusable modules for the Portal,1057,0,0,JavaScript,0,554,15,-1,-1,-1
+xdevilj136_graph,https://github.com/xdevilj136/graph,,20426,1,1,JavaScript,0,3228,28,-1,-1,-1
+Bruspashko_it338polymer,https://github.com/Bruspashko/it338polymer,,5637,0,0,JavaScript,0,519,34,-1,-1,-1
+ramanan12345_marbles-20190320174924530,https://github.com/ramanan12345/marbles-20190320174924530,Created for toolchain: https://console.bluemix.net/devops/toolchains/b1bc7efc-e087-49ce-b237-07b78daf728d?env_id=ibm%3Ayp%3Aeu-gb,44020,0,0,JavaScript,0,1187,44,-1,-1,-1
+tetherless-world_whyis,https://github.com/tetherless-world/whyis,"Whyis is a nano-scale knowledge graph publishing, management, and analysis framework.",61841,14,14,JavaScript,21,599,28,-1,-1,-1
+overturetool_overturetool.github.io,https://github.com/overturetool/overturetool.github.io,The Overture Tool Website,291897,1,1,JavaScript,6,1290,33,-1,-1,-1
+sarahdenise90_marbles-20180514135619804,https://github.com/sarahdenise90/marbles-20180514135619804,Created for toolchain: https://console.bluemix.net/devops/toolchains/b76c1de6-a9a0-4457-9535-ef34dffd84ae?env_id=ibm%3Ayp%3Aeu-gb,43172,0,0,JavaScript,0,1168,38,-1,-1,-1
+celements_celements-web,https://github.com/celements/celements-web,The xwiki-platform based LGPL open source CMS,13429,3,3,JavaScript,0,4311,28,-1,-1,-1
+routetopa_deep-components,https://github.com/routetopa/deep-components,A repositiory of datalets and controllets.,69503,2,2,JavaScript,3,950,21,-1,-1,-1
+FIWARE-GEs_iot-agent.JSON,https://github.com/FIWARE-GEs/iot-agent.JSON,This is a mirror repo. Please fork from https://github.com/telefonicaid/iotagent-json,1043,1,1,JavaScript,4,911,37,-1,-1,-1
+arturmeller_croc-hunter,https://github.com/arturmeller/croc-hunter,,1080,0,0,JavaScript,0,639,19,-1,-1,-1
+chronologic_eth-alarm-clock-dapp,https://github.com/chronologic/eth-alarm-clock-dapp,Chronos - Ethereum Alarm Clock DApp,21541,38,38,JavaScript,3,4461,13,-1,-1,-1
+hydraST_tale,https://github.com/hydraST/tale,,27354,0,0,JavaScript,0,553,27,-1,-1,-1
+FHGDev_Hulkbot,https://github.com/FHGDev/Hulkbot,My Discord Bot.,8195,12,12,JavaScript,19,1812,8,-1,-1,-1
+vuejs-id_docs,https://github.com/vuejs-id/docs,"🇮🇩 Dokumentasi resmi Vue.js dalam Bahasa Indonesia, diterjemahkan oleh komunitas Vue.js Indonesia",47436,66,66,JavaScript,47,2840,478,-1,-1,-1
+vim-jp_vim-jp.github.io,https://github.com/vim-jp/vim-jp.github.io,The website for vim-jp.org,20851,85,85,JavaScript,19,2003,43,-1,-1,-1
+stone-payments_pos-mamba-app-template,https://github.com/stone-payments/pos-mamba-app-template,Ready-to-use app template for Mamba applications,11493,6,6,JavaScript,2,512,11,-1,-1,-1
+wso2_product-das,https://github.com/wso2/product-das,"Welcome to the WSO2 Data Analysis Server source code! For info on working with the WSO2 Data Analysis Server repository and contributing code, click the link below.",94519,18,18,JavaScript,110,1582,91,-1,-1,-1
+softwaregroup-bg_ut-bus,https://github.com/softwaregroup-bg/ut-bus,,422,0,0,JavaScript,0,762,30,-1,-1,-1
+BitBali_gekko,https://github.com/BitBali/gekko,,5189,0,0,JavaScript,0,2532,226,-1,-1,-1
+cartomatic_MapHive.ExtJs,https://github.com/cartomatic/MapHive.ExtJs,,3301,1,1,JavaScript,2,570,2,-1,-1,-1
+hackforplay_official,https://github.com/hackforplay/official,,1880,0,0,JavaScript,0,690,4,-1,-1,-1
+digabi_rich-text-editor,https://github.com/digabi/rich-text-editor,Math editor (http://digabi.github.io/rich-text-editor/),31510,17,17,JavaScript,14,848,26,-1,-1,-1
+heimskr_frisktol,https://github.com/heimskr/frisktol,Web utility for the Frisktong conlang.,5699,0,0,JavaScript,0,0,0,-1,-1,-1
+xriss_plated,https://github.com/xriss/plated,Plated can generate a static website from hierarchical text and data files.,3277,2,2,JavaScript,2,579,5,-1,-1,-1
+chrisguttandin_tslint-config-holy-grail,https://github.com/chrisguttandin/tslint-config-holy-grail,This is just my personal tslint configuration.,876,0,0,JavaScript,0,1272,5,-1,-1,-1
+chbrown_formious,https://github.com/chbrown/formious,Online experimentation framework (Mechanical Turk oriented),23557,4,4,JavaScript,1,592,1,-1,-1,-1
+makeomatic_ms-payments,https://github.com/makeomatic/ms-payments,,1247,2,2,JavaScript,1,579,18,-1,-1,-1
+jbolda_finatr,https://github.com/jbolda/finatr, helping you analyze your future cash flows,2120,4,4,JavaScript,5,543,6,-1,-1,-1
+pothiers_mars,https://github.com/pothiers/mars,Metadata Archive Retrival Services,14579,0,0,JavaScript,2,581,7,-1,-1,-1
+nwplus_nwplus2019,https://github.com/nwplus/nwplus2019,nwPlus 2019 website,33465,2,2,JavaScript,0,661,10,-1,-1,-1
+borenstein-lab_burrito,https://github.com/borenstein-lab/burrito, A visualization tool for exploratory data analysis of metagenomic data,17765,22,22,JavaScript,2,635,13,-1,-1,-1
+ethalis_marbles-20180514090248428,https://github.com/ethalis/marbles-20180514090248428,Created for toolchain: https://console.ng.bluemix.net/devops/toolchains/aa842b68-dfce-4af8-a61a-c34067b0b234?env_id=ibm%3Ayp%3Aus-south,43172,0,0,JavaScript,0,0,0,-1,-1,-1
+rmobis_unistream,https://github.com/rmobis/unistream,,6666,0,0,JavaScript,0,993,102,-1,-1,-1
+ajpaule_camunda2,https://github.com/ajpaule/camunda2,,107866,0,0,JavaScript,2,1400,36,-1,-1,-1
+cid-harvard_atlas-subnational-frontend,https://github.com/cid-harvard/atlas-subnational-frontend,,27015,11,11,JavaScript,13,2661,16,-1,-1,-1
+mumuki_mumuki-bibliotheca-ui,https://github.com/mumuki/mumuki-bibliotheca-ui,":books: Where all the content is created, edited and stored",4739,3,3,JavaScript,1,781,15,-1,-1,-1
+itgalaxy_generate-robotstxt,https://github.com/itgalaxy/generate-robotstxt,Generator robots.txt for node js,972,30,30,JavaScript,3,513,11,-1,-1,-1
+openfoodfacts_openbeautyfacts-cordova-app,https://github.com/openfoodfacts/openbeautyfacts-cordova-app,,6110,1,1,JavaScript,0,511,14,-1,-1,-1
+gisat_puma,https://github.com/gisat/puma,,138217,3,3,JavaScript,1,3425,25,-1,-1,-1
+cloud-ensimag_Kubernetes-Deployment,https://github.com/cloud-ensimag/Kubernetes-Deployment,,8229,0,0,JavaScript,0,2217,273,-1,-1,-1
+ghaiklor_sails-service-pusher,https://github.com/ghaiklor/sails-service-pusher,Service for Sails framework with Pusher features [DEAD],203,19,19,JavaScript,3,604,7,-1,-1,-1
+HackLab-Almeria_hacklab-almeria.github.io,https://github.com/HackLab-Almeria/hacklab-almeria.github.io,Web en producción del HackLab Almería,79020,14,14,JavaScript,31,1215,63,-1,-1,-1
+gisat_panther-backoffice,https://github.com/gisat/panther-backoffice,,4435,2,2,JavaScript,1,1532,16,-1,-1,-1
+Availity_availity-react,https://github.com/Availity/availity-react,React components using Availity UIKit and Bootstrap 4,7082,12,12,JavaScript,5,610,24,-1,-1,-1
+buxlabs_pure-engine,https://github.com/buxlabs/pure-engine,Compile HTML templates into JS,1727,3,3,JavaScript,1,724,5,-1,-1,-1
+mulesoft_apikit,https://github.com/mulesoft/apikit,APIkit is a tool for building REST APIs using MULE ESB,54214,26,26,JavaScript,42,3191,95,-1,-1,-1
+statgen_locuszoom,https://github.com/statgen/locuszoom,A Javascript/d3 embeddable plugin for interactively visualizing statistical genetic data from customizable sources.,7784,68,68,JavaScript,19,1321,14,-1,-1,-1
+Lingering666_Taro-react,https://github.com/Lingering666/Taro-react,,3864,0,0,JavaScript,0,1427,47,-1,-1,-1
+iotexproject_iotex-antenna,https://github.com/iotexproject/iotex-antenna,IoTeX Javascript SDK,1320,7,7,JavaScript,7,560,20,-1,-1,-1
+LambdaSchool_Sprint-Challenge-React-Smurfs,https://github.com/LambdaSchool/Sprint-Challenge-React-Smurfs,,198,5,5,JavaScript,1440,4943,1309,-1,-1,-1
+sam-fundjournalism_test-hub-handbook2,https://github.com/sam-fundjournalism/test-hub-handbook2,,769,0,0,JavaScript,0,892,19,-1,-1,-1
+getninjas_jason,https://github.com/getninjas/jason,Form generator for React,3014,11,11,JavaScript,2,924,15,-1,-1,-1
+adamjimenez_shiftedit,https://github.com/adamjimenez/shiftedit,ShiftEdit IDE,9435,82,82,JavaScript,20,1081,4,-1,-1,-1
+cfpb_hmda-explorer,https://github.com/cfpb/hmda-explorer,An interactive front-end for exploring the Home Mortgage Disclosure Act data set,23795,20,20,JavaScript,24,1656,46,-1,-1,-1
+meltwater_mlabs-koa,https://github.com/meltwater/mlabs-koa,Koa middleware suite and server bootstrapper.,1315,1,1,JavaScript,0,762,3,-1,-1,-1
+dkratzert_StructureFinder,https://github.com/dkratzert/StructureFinder,A crystal structure finder written in PyQt5 and Python3,47977,7,7,JavaScript,0,1266,1,-1,-1,-1
+dauphine-dev_drop-feeds,https://github.com/dauphine-dev/drop-feeds,Drop Feeds is a Sage / Sage++ like addon (webextension) for Firefox Quantum,2982,14,14,JavaScript,10,1157,13,-1,-1,-1
+machal_prirucka,https://github.com/machal/prirucka,Texty o technikách a technologiích moderní webové kodéřiny.,579855,15,15,JavaScript,4,1054,4,-1,-1,-1
+Sangeeta7_marbles-20181010133513280,https://github.com/Sangeeta7/marbles-20181010133513280,Created for toolchain: https://console.eu-gb.bluemix.net/devops/toolchains/51c050dc-ee00-44ea-a2a2-bcfe74b08457?env_id=ibm%3Ayp%3Aeu-gb,44006,0,0,JavaScript,0,1184,41,-1,-1,-1
+NEHGS_presentations,https://github.com/NEHGS/presentations,,28316,0,0,JavaScript,0,2223,274,-1,-1,-1
+learn-co-students_javascript-arrays-lab-js-intro-000,https://github.com/learn-co-students/javascript-arrays-lab-js-intro-000,,117,0,0,JavaScript,865,1789,1543,-1,-1,-1
+learn-co-students_js-jquery-event-listeners-readme-bootcamp-prep-000,https://github.com/learn-co-students/js-jquery-event-listeners-readme-bootcamp-prep-000,,53,0,0,JavaScript,1517,3327,2863,-1,-1,-1
+sewerlabour_react-deeplearning,https://github.com/sewerlabour/react-deeplearning,react for studying carefully,92962,0,0,JavaScript,0,10889,1541,-1,-1,-1
+jordanwchan_marbles-20180822195649458,https://github.com/jordanwchan/marbles-20180822195649458,Created for toolchain: https://console.ng.bluemix.net/devops/toolchains/5cadea9d-6a15-42d0-bb43-ff2584b7ec6d?env_id=ibm%3Ayp%3Aus-south,44004,0,0,JavaScript,0,1180,40,-1,-1,-1
+mmallabone_marbles-20181121130005330,https://github.com/mmallabone/marbles-20181121130005330,Created for toolchain: https://console.bluemix.net/devops/toolchains/3dd68158-b320-4201-8c4a-fe8db4366d42?env_id=ibm%3Ayp%3Aeu-gb,44017,0,0,JavaScript,0,1185,42,-1,-1,-1
+hfreire_random-http-useragent,https://github.com/hfreire/random-http-useragent,Get a random and legit user-agent :shipit: for your HTTP client,953,5,5,JavaScript,2,508,6,-1,-1,-1
+hcarnes_hcarnes.github.io,https://github.com/hcarnes/hcarnes.github.io,,5357,1,1,JavaScript,0,521,6,-1,-1,-1
+DevExpress_testcafe-hammerhead,https://github.com/DevExpress/testcafe-hammerhead,A powerful web-proxy used as a core for the TestCafe testing framework. :hammer: :smiley: ,5796,80,80,JavaScript,38,3374,50,-1,-1,-1
+hktrpg_TG.line.Discord.Roll.Bot,https://github.com/hktrpg/TG.line.Discord.Roll.Bot,"A dice rolling bot for Telegram Line and Discord. 節省金錢時間 現支援基本擲骰1D100, COC, 永遠的後日談, 黑暗世界, DX3, SW2.0,運勢",685,8,8,JavaScript,18,922,3,-1,-1,-1
+cloudstorm_open-angular-crud,https://github.com/cloudstorm/open-angular-crud,Open Angular Crud is an AngularJS library that automatically creates administration and data manipulation (CRUD) screens from database descriptors,1253,6,6,JavaScript,1,829,13,-1,-1,-1
+albbas_neahttadigisanit,https://github.com/albbas/neahttadigisanit,A fork of https://gtsvn.uit.no/langtech/trunk/apps/dicts/nds/,18409,0,0,JavaScript,0,2543,16,-1,-1,-1
+phinolex_Tap-Tap-Adventure,https://github.com/phinolex/Tap-Tap-Adventure,Tap Tap Adventure is a massively online 2D MMORPG set in the medieval times with twists.,319370,3,3,JavaScript,63,533,11,-1,-1,-1
+sandhyaParkar_marbles-20190311072721523,https://github.com/sandhyaParkar/marbles-20190311072721523,Created for toolchain: https://console.bluemix.net/devops/toolchains/b6947d1d-7b36-4dcb-9b12-7d51569081d7?env_id=ibm%3Ayp%3Aeu-gb,44020,0,0,JavaScript,0,1187,44,-1,-1,-1
+tjcsl_director,https://github.com/tjcsl/director,Director (web3),3146,9,9,JavaScript,5,1935,22,-1,-1,-1
+centrifuge_centrifuge-ethereum-contracts,https://github.com/centrifuge/centrifuge-ethereum-contracts,The main Centrifuge Ethereum contracts,1075,6,6,JavaScript,4,505,13,-1,-1,-1
+lighthouse-labs_tweeter,https://github.com/lighthouse-labs/tweeter,"A twitter clone project, to help students gain front-end dev chops. Starter (incomplete) code.",113,3,3,JavaScript,1060,728,88,-1,-1,-1
+encryption_SIP,https://github.com/encryption/SIP,Reference SIP server used by our PBX project,2564,6,6,JavaScript,2,697,5,-1,-1,-1
+gatneil_armtg,https://github.com/gatneil/armtg,ARM Template Generator,26,0,0,JavaScript,0,1045,7,-1,-1,-1
+veg_hyphy-vision,https://github.com/veg/hyphy-vision,Visualize HyPhy results in your browser,32465,2,2,JavaScript,9,1013,23,-1,-1,-1
+bikashhexawaretech_ServiceNow,https://github.com/bikashhexawaretech/ServiceNow,,6537,0,0,JavaScript,0,651,2,-1,-1,-1
+Syncano_website,https://github.com/Syncano/website,Syncano website,57118,88,88,JavaScript,27,2152,38,-1,-1,-1
+opentable_mercury,https://github.com/opentable/mercury,Mercury is a bot for handling in-code static translations. ,975,17,17,JavaScript,2,952,21,-1,-1,-1
+ft-interactive_uber-driver-game,https://github.com/ft-interactive/uber-driver-game,A narrative news game exploring the economics and life of being an Uber driver,1149,3,3,JavaScript,0,634,9,-1,-1,-1
+miwiwa_sample-PagerDuty-GitIssue-Test,https://github.com/miwiwa/sample-PagerDuty-GitIssue-Test,Created for toolchain: https://console.bluemix.net/devops/toolchains/83e39eb4-c86c-4770-8ebf-6483dce8f608?env_id=ibm%3Ayp%3Aus-south,334,0,0,JavaScript,0,637,11,-1,-1,-1
+GeromeSchutte_LEFA-rest-app,https://github.com/GeromeSchutte/LEFA-rest-app,Nedbank's POC front end app,6278,0,0,JavaScript,0,907,17,-1,-1,-1
+EpicenterPrograms_standards,https://github.com/EpicenterPrograms/standards,,706,0,0,JavaScript,0,509,1,-1,-1,-1
+andreareina_graphimp,https://github.com/andreareina/graphimp,,3431,0,0,JavaScript,0,1995,36,-1,-1,-1
+qaprosoft_stf,https://github.com/qaprosoft/stf,Mirror for git@github.com:openstf/stf.git repository,94782,0,0,JavaScript,0,2155,45,-1,-1,-1
+Servoy_servoy-extra-components,https://github.com/Servoy/servoy-extra-components,NGClient component package of all kinds of 'extra' components,2230,5,5,JavaScript,3,525,23,-1,-1,-1
+LBJjade_parse-server,https://github.com/LBJjade/parse-server,parse-admin,4647,1,1,JavaScript,0,2067,203,-1,-1,-1
+santiagobazanb_valk-v3-live-docs,https://github.com/santiagobazanb/valk-v3-live-docs,This repo hosts the documentation for valkyrie design system,116381,0,0,JavaScript,0,18224,1297,-1,-1,-1
+Masclins_signepedia,https://github.com/Masclins/signepedia,Catalan - LSC Dictionary,71545,7,7,JavaScript,3,853,15,-1,-1,-1
+sjsujomoon_SpartanHotels,https://github.com/sjsujomoon/SpartanHotels,"Hotel search web application. MERN stack. Integrated Google Map, Places and Geocode API for better user experience.",28733,0,0,JavaScript,0,569,15,-1,-1,-1
+APTrust_dart-prototype,https://github.com/APTrust/dart-prototype,"Working prototype of the DART application for bagging and shipping files. (No longer maintained, see https://github.com/APTrust/dart for new version)",121823,0,0,JavaScript,0,1192,5,-1,-1,-1
+p3ol_junipero,https://github.com/p3ol/junipero,🏔 Junipero Design System React components,933,2,2,JavaScript,0,506,5,-1,-1,-1
+CrisisCleanup_crisiscleanup-web,https://github.com/CrisisCleanup/crisiscleanup-web,Crisis Cleanup 3 Web Client,68730,9,9,JavaScript,2,869,17,-1,-1,-1
+Archites_aframe-inspector,https://github.com/Archites/aframe-inspector,,28607,0,0,JavaScript,0,978,33,-1,-1,-1
+HackAfro_package-gui,https://github.com/HackAfro/package-gui,,4848,0,0,JavaScript,0,929,98,-1,-1,-1
+mdcarter_lunchfinder.io,https://github.com/mdcarter/lunchfinder.io,🍱 Lunchfinder is a simple application that helps you choose quickly a restaurant to eat around your location.,6888,1,1,JavaScript,0,619,6,-1,-1,-1
+alexpear_waffle,https://github.com/alexpear/waffle,fiction/simulation/game engine. name comes from the novel 'You' by Austin Grossman. ,353,0,0,JavaScript,0,503,4,-1,-1,-1
+DigitalCareerInstitute_digital-notice-board,https://github.com/DigitalCareerInstitute/digital-notice-board,"🖥 A dashboard for upcoming events, code snippets and funny stuff.",4810,5,5,JavaScript,4,717,44,-1,-1,-1
+jorbascrumps_ascension-client,https://github.com/jorbascrumps/ascension-client,,13572,1,1,JavaScript,0,509,4,-1,-1,-1
+CourtSortOrg_Client,https://github.com/CourtSortOrg/Client,,1660,1,1,JavaScript,0,895,11,-1,-1,-1
+phetsims_dot,https://github.com/phetsims/dot,A math library with a focus on mutable and immutable linear algebra for 2D and 3D applications.,2837,8,8,JavaScript,3,815,23,-1,-1,-1
+Springworks_node-sqs-processor,https://github.com/Springworks/node-sqs-processor,Module for SQS queue processing,198,2,2,JavaScript,0,1265,12,-1,-1,-1
+sdu6342_passing-functions-to-components,https://github.com/sdu6342/passing-functions-to-components,,71219,0,0,JavaScript,0,4500,1252,-1,-1,-1
+Kitware_simput,https://github.com/Kitware/simput,Input generator for simulation which can be used as a standalone application or as a component within another web context.,18233,10,10,JavaScript,6,704,10,-1,-1,-1
+alan2545_test2,https://github.com/alan2545/test2,,20586,0,0,JavaScript,0,1738,303,-1,-1,-1
+MiguelCastillo_bit-bundler,https://github.com/MiguelCastillo/bit-bundler,bundler for your Web Application,1630,12,12,JavaScript,3,1179,4,-1,-1,-1
+hoorayliu_WebGoat,https://github.com/hoorayliu/WebGoat,,83810,0,0,JavaScript,0,2040,102,-1,-1,-1
+syfri2017_framework,https://github.com/syfri2017/framework,springboot基础框架,9211,1,1,JavaScript,1,572,7,-1,-1,-1
+modio_APIDocs,https://github.com/modio/APIDocs,API documentation for mod.io - a modding platform for game developers,2111,4,4,JavaScript,0,860,100,-1,-1,-1
+TaiBIF_camera-trap-api,https://github.com/TaiBIF/camera-trap-api,RESTful API,1038,4,4,JavaScript,0,977,17,-1,-1,-1
+revskill10_next-template,https://github.com/revskill10/next-template,A modular web boilerplate,777,5,5,JavaScript,3,582,6,-1,-1,-1
+telerik_kendo-common-tasks,https://github.com/telerik/kendo-common-tasks,Moved to https://github.com/telerik/kendo-build-tasks,914,7,7,JavaScript,3,991,42,-1,-1,-1
+wincent_corpus,https://github.com/wincent/corpus,A note-management application for OS X,2838,31,31,JavaScript,5,713,3,-1,-1,-1
+Aidenwebsolution_jpp-ui,https://github.com/Aidenwebsolution/jpp-ui,,210347,0,0,JavaScript,0,0,0,-1,-1,-1
+FAForever_website,https://github.com/FAForever/website,New FAForever main website,17818,10,10,JavaScript,19,547,38,-1,-1,-1
+Octatum_pixel-perfect,https://github.com/Octatum/pixel-perfect,Pixel Perfect's React-based website.,212128,0,0,JavaScript,0,760,9,-1,-1,-1
+nelhage_lambdajs,https://github.com/nelhage/lambdajs,Lambda Calculus examples in node.js,8213,0,0,JavaScript,0,2207,271,-1,-1,-1
+ushahidi_platform-client,https://github.com/ushahidi/platform-client,Ushahidi Platform Client. Take part in our 2018 Open Source Survey: https://bit.ly/UshahidiOpenSourceSurvey2018 ,14327,57,57,JavaScript,116,6916,72,-1,-1,-1
+gkjohnson_three-mesh-bvh,https://github.com/gkjohnson/three-mesh-bvh,A BVH implementation to speed up raycasting against three.js meshes.,25202,82,82,JavaScript,11,517,6,-1,-1,-1
+superyusuke_react-home-translation,https://github.com/superyusuke/react-home-translation,React 公式ドキュメントの翻訳,70598,0,0,JavaScript,0,4209,1173,-1,-1,-1
+kioskprotocol_contracts,https://github.com/kioskprotocol/contracts,Kiosk protocol smart contracts,1858,35,35,JavaScript,6,932,4,-1,-1,-1
+wikimedia_mediawiki-services-parsoid-deploy,https://github.com/wikimedia/mediawiki-services-parsoid-deploy,This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.,109202,2,2,JavaScript,3,584,25,-1,-1,-1
+liamray_nexl-js,https://github.com/liamray/nexl-js,"nexl is a configuration hosting server. Configuration is stored in native JavaScript files, exposed via standard HTTP protocol and can be accessed by special expression language",8930,7,7,JavaScript,1,1148,5,-1,-1,-1
+Faris90_spl,https://github.com/Faris90/spl,,1342,0,0,JavaScript,0,2242,92,-1,-1,-1
+mbaldini_history,https://github.com/mbaldini/history,git history,465,0,0,JavaScript,0,892,1,-1,-1,-1
+DumondaMe_DumondaMe,https://github.com/DumondaMe/DumondaMe,,21252,5,5,JavaScript,1,3448,7,-1,-1,-1
+Columbia-ICSL_EnergyFootprinting,https://github.com/Columbia-ICSL/EnergyFootprinting,,5497,0,0,JavaScript,0,1879,22,-1,-1,-1
+quiltdata_t4,https://github.com/quiltdata/t4,T4 is now in production as Quilt 3,55430,60,60,JavaScript,7,3792,35,-1,-1,-1
+GoogleChromeLabs_confluence,https://github.com/GoogleChromeLabs/confluence,Service and API for Web API Confluence: Metrics for web platform health,27763,65,65,JavaScript,25,1381,17,-1,-1,-1
+fedora-infra_fedora-packages,https://github.com/fedora-infra/fedora-packages,A webapp that allows searching packages in Fedora. Written in Python using TurboGears2 and Moksha.,9349,52,52,JavaScript,54,3038,62,-1,-1,-1
+zuoqingbei_ulab,https://github.com/zuoqingbei/ulab,中海博睿实验室,232252,1,1,JavaScript,0,974,17,-1,-1,-1
+gbif_portal16,https://github.com/gbif/portal16,New GBIF.org website,39615,13,13,JavaScript,8,15016,23,-1,-1,-1
+endlessm_eos-discovery-feed,https://github.com/endlessm/eos-discovery-feed,GIT repository for Discovery Feed,1120,1,1,JavaScript,0,804,11,-1,-1,-1
+adsabs_bumblebee,https://github.com/adsabs/bumblebee,Clever face for ADS,20412,34,34,JavaScript,19,3652,34,-1,-1,-1
+steptools_NC.js,https://github.com/steptools/NC.js,Web interface for the Digital Thread,6876,18,18,JavaScript,26,3173,64,-1,-1,-1
+siteotop_siteo-app,https://github.com/siteotop/siteo-app,Siteo is core js app  for all apps and websites which based on siteo.top platform. It based on Vue + Vuetify,5577,2,2,JavaScript,0,670,3,-1,-1,-1
+anlix-io_flashman,https://github.com/anlix-io/flashman,,1822,6,6,JavaScript,1,772,11,-1,-1,-1
+Kavyasree16_electronreact,https://github.com/Kavyasree16/electronreact,,4565,0,0,JavaScript,0,1144,101,-1,-1,-1
+konnectors_ldlc,https://github.com/konnectors/ldlc,Connectors for LDLC shopping website,16457,0,0,JavaScript,2,916,25,-1,-1,-1
+wikimedia_wikipedia-ios-codemirror,https://github.com/wikimedia/wikipedia-ios-codemirror,,2068,0,0,JavaScript,2,591,43,-1,-1,-1
+hmcts_probate-frontend,https://github.com/hmcts/probate-frontend,,22236,0,0,JavaScript,4,6090,76,-1,-1,-1
+iFixit_pulldasher,https://github.com/iFixit/pulldasher,A dashboard for github pull-requests that keeps itself up-to-date ,1195,24,24,JavaScript,8,1736,38,-1,-1,-1
+zhangmaku_token-profile-bdb3,https://github.com/zhangmaku/token-profile-bdb3,,13727,0,0,JavaScript,0,1180,424,-1,-1,-1
+milojs_milo-ui,https://github.com/milojs/milo-ui,milo UI components and schema-based form generator,12309,4,4,JavaScript,0,2070,50,-1,-1,-1
+tommykronstal_2dv612-team3-project,https://github.com/tommykronstal/2dv612-team3-project,,962,0,0,JavaScript,0,926,19,-1,-1,-1
+zalando-zmon_zmon-controller,https://github.com/zalando-zmon/zmon-controller,ZMON UI and REST API,100636,18,18,JavaScript,15,2190,57,-1,-1,-1
+hansso90_MasterYourEnvironment,https://github.com/hansso90/MasterYourEnvironment,Presentation about learning goals based on reveal.js,8183,0,0,JavaScript,0,2210,272,-1,-1,-1
+UnionVMS_UVMS-Frontend,https://github.com/UnionVMS/UVMS-Frontend,,44887,4,4,JavaScript,2,3910,67,-1,-1,-1
+orgycchen_test-ant-DP,https://github.com/orgycchen/test-ant-DP,,13282,0,0,JavaScript,0,1960,240,-1,-1,-1
+asiapacificforum_nhrihub,https://github.com/asiapacificforum/nhrihub,Suite of management tools for National Human Rights Institutions (NHRI),15619,2,2,JavaScript,2,1035,3,-1,-1,-1
+lagercat_WebsiteISJ,https://github.com/lagercat/WebsiteISJ,Site-ul Inspectoratului Scolar Judetean,37969,5,5,JavaScript,0,870,13,-1,-1,-1
+nirdizati-research_predict-react,https://github.com/nirdizati-research/predict-react,Frontend of a tool for Predictive Process Monitoring,20350,3,3,JavaScript,6,586,14,-1,-1,-1
+hmcts_clonedprobatefrontend,https://github.com/hmcts/clonedprobatefrontend,coned probate front end,2013,0,0,JavaScript,0,729,30,-1,-1,-1
+dankuck_dankuck.github.io,https://github.com/dankuck/dankuck.github.io,Be Like Dan. Why Not?,219320,0,0,JavaScript,0,978,7,-1,-1,-1
+IglooCloud_IglooAurora,https://github.com/IglooCloud/IglooAurora,The Igloo app,21374,5,5,JavaScript,8,1663,14,-1,-1,-1
+CoderBotOrg_backend,https://github.com/CoderBotOrg/backend,"Python backend exposing an API to control, configure and program the robot.",85530,27,27,JavaScript,15,594,15,-1,-1,-1
+bonustrack_steemconnect-api,https://github.com/bonustrack/steemconnect-api,OAuth 2 posting API for Steem,2447,0,0,JavaScript,0,0,0,-1,-1,-1
+siddharth2798_marbles-20181010173751163,https://github.com/siddharth2798/marbles-20181010173751163,Created for toolchain: https://console.eu-gb.bluemix.net/devops/toolchains/ac4da4bc-0884-4817-8cbf-e337617679e0?env_id=ibm%3Ayp%3Aeu-gb,44006,0,0,JavaScript,0,1184,41,-1,-1,-1
+juggalomc_testtoken,https://github.com/juggalomc/testtoken,,1329,0,0,JavaScript,0,1212,173,-1,-1,-1
+jason-jihoon_marbles-20180420081225933,https://github.com/jason-jihoon/marbles-20180420081225933,Created for toolchain: https://console.ng.bluemix.net/devops/toolchains/b8767e65-082f-4dfd-99c2-2ffa3fd1f4fd?env_id=ibm%3Ayp%3Aus-south,43171,0,0,JavaScript,0,1166,38,-1,-1,-1
+GerardoMoraS_timeoff-management,https://github.com/GerardoMoraS/timeoff-management,,1646,0,0,JavaScript,0,954,29,-1,-1,-1
+xmilt_hexo,https://github.com/xmilt/hexo,,4523,0,0,JavaScript,0,2552,157,-1,-1,-1
+ax5ui_ax5ui-mask,https://github.com/ax5ui/ax5ui-mask,Javascript UI Component - Mask - JavaScript Mask Layer Mask / Bootstrap Mask,344,21,21,JavaScript,3,989,14,-1,-1,-1
+fede-rodes_crae-apollo-heroku,https://github.com/fede-rodes/crae-apollo-heroku,Node - Express - Mongoose - GraphQL (Apollo) - Authentication - Create React App boilerplate ready to be deployed to Heroku,4266,19,19,JavaScript,6,527,5,-1,-1,-1
+ironhack-labs_lab-node-elevator,https://github.com/ironhack-labs/lab-node-elevator,,4,0,0,JavaScript,356,820,492,-1,-1,-1
+feathersjs_generator-feathers,https://github.com/feathersjs/generator-feathers,A Yeoman generator for a Feathers application,1995,90,90,JavaScript,120,1011,92,-1,-1,-1
+clld_clld,https://github.com/clld/clld,Cross Linguistic Linked Data python library,20080,21,21,JavaScript,14,1393,13,-1,-1,-1
+Broaden-io_Broaden-io-client,https://github.com/Broaden-io/Broaden-io-client,React Single Page Application as a discovery platform that helps students preparing skills for CS jobs,79181,7,7,JavaScript,9,510,12,-1,-1,-1
+AuScope_portal-core,https://github.com/AuScope/portal-core,,54486,7,7,JavaScript,16,3064,68,-1,-1,-1
+chrisguttandin_compilerr,https://github.com/chrisguttandin/compilerr,A kind of templating system to compile errors.,2467,0,0,JavaScript,0,1965,6,-1,-1,-1
+juan-vg_perdigueros-tweetmanager,https://github.com/juan-vg/perdigueros-tweetmanager,Node.Js Tweet Manager App,7246,4,4,JavaScript,0,540,9,-1,-1,-1
+choerodon_manager-service,https://github.com/choerodon/manager-service,This service is the management center of the choerodon microservices framework.,22034,14,14,JavaScript,17,534,27,-1,-1,-1
+shower_core,https://github.com/shower/core,Core of Shower HTML presentation engine,8864,80,80,JavaScript,31,1708,48,-1,-1,-1
+ryota-murakami_clock-up,https://github.com/ryota-murakami/clock-up,[DEV] Personal attendance management,23645,3,3,JavaScript,0,1562,7,-1,-1,-1
+angularForCrux_bower-angular-aria,https://github.com/angularForCrux/bower-angular-aria,,1299,0,0,JavaScript,0,2097,7,-1,-1,-1
+esteemapp_esteem-mobile,https://github.com/esteemapp/esteem-mobile,"eSteem Mobile - reimagined social blogging, contribute and get rewarded (for Android and iOS)",91417,36,36,JavaScript,9,4998,16,-1,-1,-1
+ReflectionsProjections_rp2018,https://github.com/ReflectionsProjections/rp2018,Reflections | Projections 2018 website ,142142,1,1,JavaScript,11,657,27,-1,-1,-1
+BlinkMMM_roface,https://github.com/BlinkMMM/roface,Amix项目前端,7071,0,0,JavaScript,0,4894,26,-1,-1,-1
+ExFace_UI5Facade,https://github.com/ExFace/UI5Facade,UI-Template for the ExFace business web-app plattform based on the SAP OpenUI5 library,103694,0,0,JavaScript,1,564,5,-1,-1,-1
+steppenwells_open-platform-content-api-scala-client,https://github.com/steppenwells/open-platform-content-api-scala-client,A simple scala client library for the Guardian's openplatform content api,747,8,8,JavaScript,19,1401,81,-1,-1,-1
+webBing1993_PartyBuildZZXZ,https://github.com/webBing1993/PartyBuildZZXZ,珍珠,69811,0,0,JavaScript,0,1264,19,-1,-1,-1
+Eeems_EeeZorBot,https://github.com/Eeems/EeeZorBot,Highly extensible Node.js bot,1622,2,2,JavaScript,2,633,12,-1,-1,-1
+vtex-apps_store-components,https://github.com/vtex-apps/store-components,Default VTEX store components,3534,18,18,JavaScript,16,3547,82,-1,-1,-1
+konnectors_edg,https://github.com/konnectors/edg,Cozy konnector to fetch bills from Eaux de Grenoble,14765,0,0,JavaScript,2,657,25,-1,-1,-1
+billdong98_ProspectAve,https://github.com/billdong98/ProspectAve,,40533,1,1,JavaScript,0,565,15,-1,-1,-1
+UNC-Libraries_therapy-dog-client,https://github.com/UNC-Libraries/therapy-dog-client,,11332,0,0,JavaScript,0,772,14,-1,-1,-1
+HasonGeng_H5bp,https://github.com/HasonGeng/H5bp,,9995,0,0,JavaScript,0,1706,303,-1,-1,-1
+Widdershin_rxjs-ecosystem,https://github.com/Widdershin/rxjs-ecosystem,What are the most popular libraries in the RxJS ecosystem?,724,59,59,JavaScript,3,1251,3,-1,-1,-1
+anfema_website,https://github.com/anfema/website,A brand new website for https://anfe.ma,1664,0,0,JavaScript,0,515,11,-1,-1,-1
+dirigeants_komada,https://github.com/dirigeants/komada,"Komada: Croatian for `pieces`, is a modular bot system including reloading modules and easy to use custom commands.",1877,68,68,JavaScript,32,2385,51,-1,-1,-1
+latestchatty_chromeshack,https://github.com/latestchatty/chromeshack,Browser extension containing various scripts that enhance the Shacknews comments,2275,29,29,JavaScript,22,809,35,-1,-1,-1
+NOS-Cash_NOS-canoe,https://github.com/NOS-Cash/NOS-canoe,,67394,0,0,JavaScript,1,1272,19,-1,-1,-1
+carloaromando_ufficiomisteri,https://github.com/carloaromando/ufficiomisteri,,160353,0,0,JavaScript,0,737,30,-1,-1,-1
+LukeMurphey_lookup-editor,https://github.com/LukeMurphey/lookup-editor,A Splunk application for editing lookup files,10961,16,16,JavaScript,8,533,8,-1,-1,-1
+gdSandal_requiem,https://github.com/gdSandal/requiem,,1037,0,0,JavaScript,0,1143,1,-1,-1,-1
+CHENXH93_test-ant-DP,https://github.com/CHENXH93/test-ant-DP,,13283,0,0,JavaScript,0,1960,240,-1,-1,-1
+micromata_iFORP,https://github.com/micromata/iFORP,Next Level HTML Prototyping -- https://prototyping4innovation.de/iforp,3688,6,6,JavaScript,4,576,15,-1,-1,-1
+Honeyscape_Backend,https://github.com/Honeyscape/Backend,Honeyscape Backend,431,0,0,JavaScript,1,636,5,-1,-1,-1
+maehler_presentation-group-meeting-20190208,https://github.com/maehler/presentation-group-meeting-20190208,Street lab group meeting 2019-02-08,19631,0,0,JavaScript,0,2214,272,-1,-1,-1
+GregL8899_cgm-test-bed,https://github.com/GregL8899/cgm-test-bed,,9678,0,0,JavaScript,0,5082,157,-1,-1,-1
+CloroxBleach6_projectchicken,https://github.com/CloroxBleach6/projectchicken,project_chicken is a bot made on the discord.js library with over 100 commands,267885,3,3,JavaScript,3,584,3,-1,-1,-1
+technology-ebay-de_breaking-down-your-react-app-nov2018,https://github.com/technology-ebay-de/breaking-down-your-react-app-nov2018,"Presentation for ReactNext, Tel Aviv, Israel, 4th November 2018",121306,0,0,JavaScript,0,2225,272,-1,-1,-1
+Adequa_adequa-addon,https://github.com/Adequa/adequa-addon,,60371,0,0,JavaScript,0,5639,96,-1,-1,-1
+webdetails_cda,https://github.com/webdetails/cda,Community Data Access,12186,29,29,JavaScript,107,2291,136,-1,-1,-1
+Plataforma13_javascript,https://github.com/Plataforma13/javascript,,2705,0,0,JavaScript,0,1722,495,-1,-1,-1
+exhi_toolbox,https://github.com/exhi/toolbox,📦 Hoist React UI components and patterns.,2786,2,2,JavaScript,1,1433,24,-1,-1,-1
+pelias_geonames,https://github.com/pelias/geonames,Import pipeline for geonames in to Pelias,2675,27,27,JavaScript,28,797,36,-1,-1,-1
+PLSysSec_lockdown-node,https://github.com/PLSysSec/lockdown-node,Clone of node with code integrity (lockdown),332332,0,0,JavaScript,0,38650,2581,-1,-1,-1
+Dukou007_vue-cli,https://github.com/Dukou007/vue-cli,,6563,0,0,JavaScript,0,2326,243,-1,-1,-1
+dcycoin_xdc-nodejs-pool,https://github.com/dcycoin/xdc-nodejs-pool,XDC Nodejs Pool,950,1,1,JavaScript,0,842,44,-1,-1,-1
+datamade_bga-payroll,https://github.com/datamade/bga-payroll,💰 How much do your public officials make?,41286,2,2,JavaScript,1,880,10,-1,-1,-1
+izolini_Store37403,https://github.com/izolini/Store37403,,4027,0,0,JavaScript,0,617,1,-1,-1,-1
+CommunityGrows_communitygrows,https://github.com/CommunityGrows/communitygrows,,11212,0,0,JavaScript,4,952,34,-1,-1,-1
+angularForCrux_bower-angular-mocks,https://github.com/angularForCrux/bower-angular-mocks,,2485,0,0,JavaScript,0,3840,14,-1,-1,-1
+Sharmakartik_Hygieia,https://github.com/Sharmakartik/Hygieia,,71413,0,0,JavaScript,0,2512,178,-1,-1,-1
+laurimil_presis-tapahtuma,https://github.com/laurimil/presis-tapahtuma,,10565,0,0,JavaScript,0,0,0,-1,-1,-1
+root-systems_cobuy,https://github.com/root-systems/cobuy,":seedling: :package: :stew: :family: Helping people buy good food at good prices, together.",3425,17,17,JavaScript,3,1235,15,-1,-1,-1
+hexianga_MyRocketChat,https://github.com/hexianga/MyRocketChat,,80849,0,0,JavaScript,0,16086,669,-1,-1,-1
+Ryxias_chuuni,https://github.com/Ryxias/chuuni,Some blah website,1820,3,3,JavaScript,0,588,9,-1,-1,-1
+Gaia3D_mago3djs,https://github.com/Gaia3D/mago3djs,3D Rendering Library,42787,63,63,JavaScript,29,2611,27,-1,-1,-1
+kununu_client-gear,https://github.com/kununu/client-gear,"Layout and theming utilities, shared molecular components.",1023,6,6,JavaScript,0,932,25,-1,-1,-1
+NullVoxPopuli_aeonvera-ui,https://github.com/NullVoxPopuli/aeonvera-ui,Mirror for the frontend to aeonvera (Hosted on GitLab),3856,0,0,JavaScript,0,1712,7,-1,-1,-1
+DaViSx13_flip-web,https://github.com/DaViSx13/flip-web,Automatically exported from code.google.com/p/flip-web,10113,1,1,JavaScript,0,792,15,-1,-1,-1
+metucclub_dmoj-site,https://github.com/metucclub/dmoj-site,CClub fork of DMOJ's judge interface,10567,0,0,JavaScript,1,8579,41,-1,-1,-1
+joyent_sdc-cloudapi,https://github.com/joyent/sdc-cloudapi,SDC Public HTTP API,10213,7,7,JavaScript,19,1589,49,-1,-1,-1
+syedahsanalitkxel_drag-drop-poc,https://github.com/syedahsanalitkxel/drag-drop-poc,,18204,0,0,JavaScript,0,590,13,-1,-1,-1
+esaude_esaude-emr-poc,https://github.com/esaude/esaude-emr-poc,This project is an AngularJS application for point of care based on OpenMRS and using Bahmni code. The UI was designed for tablet-like interfaces with touch screen and virtual keyboard.  A demo of the system can be found here.,4480,5,5,JavaScript,15,2134,29,-1,-1,-1
+vzilinas_RaisingTheBAR,https://github.com/vzilinas/RaisingTheBAR,"Online webshop for ""Team software process""",41747,0,0,JavaScript,1,521,13,-1,-1,-1
+hpcbot_hpcbot,https://github.com/hpcbot/hpcbot,A Twitch bot to make your stream incredibly interactive,11663,5,5,JavaScript,3,0,0,-1,-1,-1
+pagarme_artis,https://github.com/pagarme/artis,:credit_card: Projeto de Checkout desenvolvido em parceria entre MundiPagg e Pagar.me.,4068,32,32,JavaScript,5,942,23,-1,-1,-1
+project-accelerate_accelerate,https://github.com/project-accelerate/accelerate,,1750,1,1,JavaScript,0,779,3,-1,-1,-1
+stanford-oval_thingengine-core,https://github.com/stanford-oval/thingengine-core, An open source platform for IoT rules that you can execute anywhere you want,26711,26,26,JavaScript,3,1052,14,-1,-1,-1
+wongco_phrases-store-frontend,https://github.com/wongco/phrases-store-frontend,React + Redux + Redux Saga Frontend for Phrases Store Application,5144,0,0,JavaScript,0,1423,234,-1,-1,-1
+ticktackim_ticktack-workplan,https://github.com/ticktackim/ticktack-workplan,"This is the main repo for continuous workplan. For official site, visit",1114,38,38,JavaScript,5,748,12,-1,-1,-1
+pombase_canto,https://github.com/pombase/canto,The PomBase community curation tool,38050,11,11,JavaScript,6,8184,16,-1,-1,-1
+iobio_gene.iobio.vue,https://github.com/iobio/gene.iobio.vue,Gene.iobio vue,73849,11,11,JavaScript,1,1069,8,-1,-1,-1
+rsumner868_now-cli,https://github.com/rsumner868/now-cli,,2511,0,0,JavaScript,0,2351,89,-1,-1,-1
+maailma_kansa,https://github.com/maailma/kansa,Open-source convention member services,4678,15,15,JavaScript,5,1796,23,-1,-1,-1
+CAAPIM_react-themer,https://github.com/CAAPIM/react-themer,React bindings for https://github.com/CAAPIM/themer,176,0,0,JavaScript,1,515,14,-1,-1,-1
+OmarKoraa_Deployment-Int-Elligence,https://github.com/OmarKoraa/Deployment-Int-Elligence,,39916,0,0,JavaScript,1,687,20,-1,-1,-1
+freanchie_marbles-20190517202614414,https://github.com/freanchie/marbles-20190517202614414,Created for toolchain: https://console.bluemix.net/devops/toolchains/013b5325-06d2-4e94-85e4-e5b06993aafe?env_id=ibm%3Ayp%3Ajp-tok,44020,0,0,JavaScript,0,1187,44,-1,-1,-1
+mapsync_russellsprings-advisory,https://github.com/mapsync/russellsprings-advisory,,6104,0,0,JavaScript,0,567,37,-1,-1,-1
+muggy8_proxymity,https://github.com/muggy8/proxymity,A 2 way data binding library that makes rendering app layouts easier,516,1,1,JavaScript,1,655,4,-1,-1,-1
+ValenceAudio_valence-audio-site,https://github.com/ValenceAudio/valence-audio-site,Company website for Valence Audio. Currently a single-page React app.,31981,1,1,JavaScript,0,562,5,-1,-1,-1
+rodrigosilvaluz_ungit,https://github.com/rodrigosilvaluz/ungit,,12522,0,0,JavaScript,0,3322,103,-1,-1,-1
+veritone_veritone-sdk,https://github.com/veritone/veritone-sdk,Monorepo for Veritone's open source developer packages,12553,14,14,JavaScript,3,4533,73,-1,-1,-1
+inventree_InvenTree,https://github.com/inventree/InvenTree,Open Source Inventory Management System,2961,69,69,JavaScript,23,1281,6,-1,-1,-1
+C3Devs_wanmask-extension,https://github.com/C3Devs/wanmask-extension,WanMask,31378,0,0,JavaScript,1,7926,152,-1,-1,-1
+arvydas_blinkstick-node,https://github.com/arvydas/blinkstick-node,Node.js library for BlinkStick devices.,902,27,27,JavaScript,36,706,14,-1,-1,-1
+demokratie-live_democracy-server,https://github.com/demokratie-live/democracy-server,The Server for the DEMOCRACY App,1437,14,14,JavaScript,4,747,8,-1,-1,-1
+sparcs-kaist_otlplus,https://github.com/sparcs-kaist/otlplus,Online Timeplanner with Lectures Plus @ KAIST http://otl.kaist.ac.kr/,9541,17,17,JavaScript,11,1532,58,-1,-1,-1
+tephyr_simpleshelf,https://github.com/tephyr/simpleshelf,simpleshelf: track your books,1963,1,1,JavaScript,1,791,3,-1,-1,-1
+krisnye_ion,https://github.com/krisnye/ion,Ion Language,7116,28,28,JavaScript,7,593,4,-1,-1,-1
+learn-co-students_js-ajax-callbacks-lab-v-000,https://github.com/learn-co-students/js-ajax-callbacks-lab-v-000,,116,0,0,JavaScript,325,804,532,-1,-1,-1
+patrykomiotek_seo-monitor-front,https://github.com/patrykomiotek/seo-monitor-front,Frontend app for data from SEO monitor (link later),1106,1,1,JavaScript,0,1132,5,-1,-1,-1
+yifguan_marbles-20180427032622242,https://github.com/yifguan/marbles-20180427032622242,Created for toolchain: https://console.ng.bluemix.net/devops/toolchains/b0d1bc66-9929-4dc7-944f-06b5f9ba6f0d?env_id=ibm%3Ayp%3Aus-south,43171,0,0,JavaScript,0,1166,38,-1,-1,-1
+ssbc_ssb-unix-socket,https://github.com/ssbc/ssb-unix-socket,,1602,1,1,JavaScript,0,1811,45,-1,-1,-1
+drewatk_prose-pro,https://github.com/drewatk/prose-pro,,2298,3,3,JavaScript,0,509,6,-1,-1,-1
+tannerkozlowski_react-razzle,https://github.com/tannerkozlowski/react-razzle,,2167,0,0,JavaScript,0,600,85,-1,-1,-1
+ricotomax_marbles-20181119105503204,https://github.com/ricotomax/marbles-20181119105503204,Created for toolchain: https://console.bluemix.net/devops/toolchains/8fc12cbb-00f9-442b-9905-a9172810e86c?env_id=ibm%3Ayp%3Aus-south,44017,0,0,JavaScript,0,1185,42,-1,-1,-1
+wwwmail_front-mail,https://github.com/wwwmail/front-mail,,24406,0,0,JavaScript,0,1636,12,-1,-1,-1
+sathish9052_blog,https://github.com/sathish9052/blog,,13860,0,0,JavaScript,0,1701,304,-1,-1,-1
+regalfaith_keywallet-hid-test,https://github.com/regalfaith/keywallet-hid-test,,7900,0,0,JavaScript,0,1030,108,-1,-1,-1
+GNOME_gnome-sound-recorder,https://github.com/GNOME/gnome-sound-recorder,Make simple recordings from your desktop,1863,9,9,JavaScript,5,1106,159,-1,-1,-1
+hjnowakowski_referencja-git,https://github.com/hjnowakowski/referencja-git,,8124,0,0,JavaScript,0,2202,272,-1,-1,-1
+ryosuwito_zeon-client-free-trial,https://github.com/ryosuwito/zeon-client-free-trial,,42356,0,0,JavaScript,0,724,5,-1,-1,-1
+Financial-Times_n-express,https://github.com/Financial-Times/n-express,Slightly enhanced Express.,812,5,5,JavaScript,3,1731,97,-1,-1,-1
+aja025_PhaserTesting,https://github.com/aja025/PhaserTesting,The full HTML5 game framework,186086,0,0,JavaScript,1,6624,383,-1,-1,-1
+freshesx_mogul,https://github.com/freshesx/mogul,"Mogul based React, MobX & AntDesign framework",3517,63,63,JavaScript,5,524,9,-1,-1,-1
+SomeoddpilotInc_someoddpilot-assets,https://github.com/SomeoddpilotInc/someoddpilot-assets,,2777712,0,0,JavaScript,0,656,10,-1,-1,-1
+navikt_sera,https://github.com/navikt/sera,Oversikt over servere hos NAV,880,0,0,JavaScript,0,983,18,-1,-1,-1
+178968194_React,https://github.com/178968194/React,,70406,0,0,JavaScript,0,11977,1265,-1,-1,-1
+owncloud_contacts,https://github.com/owncloud/contacts,:busts_in_silhouette: Manage your CardDAV contacts from a feature-rich web-interface,3201,72,72,JavaScript,46,4358,140,-1,-1,-1
+JuliaWinchester_aleph-fork,https://github.com/JuliaWinchester/aleph-fork,,4539,0,0,JavaScript,0,563,4,-1,-1,-1
+Jamie956_nodejs,https://github.com/Jamie956/nodejs,,5963,0,0,JavaScript,0,572,7,-1,-1,-1
+mcansh_mcan.sh,https://github.com/mcansh/mcan.sh,,1211,0,0,JavaScript,0,560,6,-1,-1,-1
+Esri_global-nav,https://github.com/Esri/global-nav,A centralized component for global navigation,3630,10,10,JavaScript,0,867,20,-1,-1,-1
+arlac77_loglevel-mixin,https://github.com/arlac77/loglevel-mixin,mixin to declare logging methods named after a given set of log levels,431,1,1,JavaScript,0,1071,6,-1,-1,-1
+heroku_heroku-pipelines,https://github.com/heroku/heroku-pipelines,this code is now in https://github.com/heroku/cli,564,29,29,JavaScript,18,551,33,-1,-1,-1
+hc-sc_edb,https://github.com/hc-sc/edb,Electronic Dossier Builder for GHSTS Pesticide Dossiers,496026,0,0,JavaScript,0,1582,18,-1,-1,-1
+abdulrazaq_abdulrazaq.github.io,https://github.com/abdulrazaq/abdulrazaq.github.io,,320706,0,0,JavaScript,0,1016,20,-1,-1,-1
+bitpay_bitcore-wallet,https://github.com/bitpay/bitcore-wallet,"A command line interface Multisig HD Wallet, based on `bitcore-wallet-service`.",4774,90,90,JavaScript,114,768,23,-1,-1,-1
+ran-guin_setup-ang1,https://github.com/ran-guin/setup-ang1,,4425,0,0,JavaScript,0,2245,3,-1,-1,-1
+omunroe-com_webelle,https://github.com/omunroe-com/webelle,,4153,0,0,JavaScript,0,2543,191,-1,-1,-1
+yelloxing_clay-core,https://github.com/yelloxing/clay-core,👌🎨提供更友好的web端绘图接口。Provide a more friendly web-side drawing interface.,15660,20,20,JavaScript,14,568,15,-1,-1,-1
+brycecall_castle,https://github.com/brycecall/castle,,143975,0,0,JavaScript,0,973,14,-1,-1,-1
+computationalmystic_augur-group29,https://github.com/computationalmystic/augur-group29,,93886,0,0,JavaScript,1,1314,45,-1,-1,-1
+ministryofjustice_prisonstaffhub,https://github.com/ministryofjustice/prisonstaffhub,Prison Staff Hub Dashboard - And Whereabouts,3102,1,1,JavaScript,0,1327,20,-1,-1,-1
+shinken-monitoring_mod-webui,https://github.com/shinken-monitoring/mod-webui,Shinken Web User Interface,23917,73,73,JavaScript,70,2512,84,-1,-1,-1
+trainline_environment-manager,https://github.com/trainline/environment-manager,"Self-service portal for infrastructure config management, operational reporting and deployment",10652,100,100,JavaScript,22,3431,28,-1,-1,-1
+konnectors_libs,https://github.com/konnectors/libs,All the libs needed by a cozy v3 konnector,3959,0,0,JavaScript,21,1678,42,-1,-1,-1
+wwwmail_m.front-mail,https://github.com/wwwmail/m.front-mail,,7283,0,0,JavaScript,0,689,9,-1,-1,-1
+grommet_grommet-docs,https://github.com/grommet/grommet-docs,Website project for Grommet framework (http://grommet.io),48540,30,30,JavaScript,57,1487,78,-1,-1,-1
+delaford_game,https://github.com/delaford/game,⚔️ An online JavaScript 2D Medieval RPG.,12955,70,70,JavaScript,29,882,13,-1,-1,-1
+criminalist_Torrent,https://github.com/criminalist/Torrent,Торрент трекер на базе NodeJs + mangoDB,14423,0,0,JavaScript,0,3912,209,-1,-1,-1
+sidguptas_marbles-20181213183417793,https://github.com/sidguptas/marbles-20181213183417793,Created for toolchain: https://console.bluemix.net/devops/toolchains/4546c673-d5cf-4931-ab66-0c40470c74fb?env_id=ibm%3Ayp%3Aus-east,44021,0,0,JavaScript,0,1185,42,-1,-1,-1
+lianetoolkit_liane-toolkit,https://github.com/lianetoolkit/liane-toolkit,An Electoral Toolkit for Political Campaigns,3079,9,9,JavaScript,2,818,7,-1,-1,-1
+Autodesk_orion-ui,https://github.com/Autodesk/orion-ui,UI Components that work seamlessly in multiple UI frameworks,2762,17,17,JavaScript,4,1385,17,-1,-1,-1
+webRunes_WRIO-InternetOS,https://github.com/webRunes/WRIO-InternetOS,WRIO Internet OS is a platform for developing a machine-readable web featuring automatic data processing. ,32816,17,17,JavaScript,32,3262,36,-1,-1,-1
+farolanf_juwalseq,https://github.com/farolanf/juwalseq,,55191,0,0,JavaScript,0,654,1,-1,-1,-1
+appbaseio_Docs,https://github.com/appbaseio/Docs,Appbase.io Developer Hub,6692,24,24,JavaScript,11,888,29,-1,-1,-1
+benmccormick_benmccormickorg,https://github.com/benmccormick/benmccormickorg,benmccormick.org rewritten as a static site,367981,9,9,JavaScript,3,851,4,-1,-1,-1
+turingschool-examples_brownfield-of-dreams,https://github.com/turingschool-examples/brownfield-of-dreams,Rails app used for hosting video tutorials and classes. Serves as the base repository for a B3 project.,395,1,1,JavaScript,53,902,31,-1,-1,-1
+Forum-Informationsfreiheit_OffenesParlament,https://github.com/Forum-Informationsfreiheit/OffenesParlament,OffenesParlament.at,7834,22,22,JavaScript,14,847,19,-1,-1,-1
+h5p_h5p-editor-php-library,https://github.com/h5p/h5p-editor-php-library,,12514,21,21,JavaScript,63,1791,76,-1,-1,-1
+webgme_webgme,https://github.com/webgme/webgme,Web-based Generic Modeling Environment,137434,88,88,JavaScript,37,9679,53,-1,-1,-1
+pimmesz_whatsapp-playlist,https://github.com/pimmesz/whatsapp-playlist,,11868,2,2,JavaScript,0,2446,197,-1,-1,-1
+UummProject_uumm-prototype,https://github.com/UummProject/uumm-prototype,Đecentralized Contribution Based Governance on Ethereum,11691,17,17,JavaScript,2,508,4,-1,-1,-1
+calvinjkelly_urban-impact,https://github.com/calvinjkelly/urban-impact,,3908,1,1,JavaScript,0,2213,221,-1,-1,-1
+ExplorViz_explorviz-frontend,https://github.com/ExplorViz/explorviz-frontend,"ExplorViz is a monitoring and visualization approach, which uses dynamic analysis techniques to provide a live trace visualization of large software landscapes. This repository contains the frontend.",4007,4,4,JavaScript,2,1420,27,-1,-1,-1
+tryton_sao,https://github.com/tryton/sao,Mirror of Tryton web client - Sao,8196,67,67,JavaScript,26,2557,16,-1,-1,-1
+gabriel-hook_contest-of-champions,https://github.com/gabriel-hook/contest-of-champions,,39812,18,18,JavaScript,48,2561,25,-1,-1,-1
+jonathan-annett_pirple4,https://github.com/jonathan-annett/pirple4,,1712,0,0,JavaScript,0,1082,1,-1,-1,-1
+keithbooher_ProjThree,https://github.com/keithbooher/ProjThree,,4569,3,3,JavaScript,1,574,9,-1,-1,-1
+phamhieu2212_doctor,https://github.com/phamhieu2212/doctor,,36705,0,0,JavaScript,0,722,10,-1,-1,-1
+predictionmachines_InteractiveDataDisplay,https://github.com/predictionmachines/InteractiveDataDisplay,Interactive Data Display for JavaScript,14270,81,81,JavaScript,26,764,34,-1,-1,-1
+GithubberSamLee_StandardNotes,https://github.com/GithubberSamLee/StandardNotes,,2542,0,0,JavaScript,0,508,4,-1,-1,-1
+ScratchExtension_scratch-vm,https://github.com/ScratchExtension/scratch-vm,,13425,0,0,JavaScript,0,2829,67,-1,-1,-1
+Navarik_airbnb-datepicker,https://github.com/Navarik/airbnb-datepicker,,2356,0,0,JavaScript,0,1127,142,-1,-1,-1
+teambit_bit-javascript,https://github.com/teambit/bit-javascript,A javascript driver for bit,1383,26,26,JavaScript,6,846,17,-1,-1,-1
+jeffg2k_SmartCopy,https://github.com/jeffg2k/SmartCopy,Chrome extension for copying genealogical data into Geni.com.,2578,8,8,JavaScript,8,622,10,-1,-1,-1
+signmeup_signmeup,https://github.com/signmeup/signmeup,Real-time application to sign up for and manage TA hours. ,1632,70,70,JavaScript,26,799,15,-1,-1,-1
+she-smashes_thehub,https://github.com/she-smashes/thehub,,2656,1,1,JavaScript,0,604,20,-1,-1,-1
+newbizme_crypt,https://github.com/newbizme/crypt,,15717,0,0,JavaScript,0,1428,16,-1,-1,-1
+deskpro_react-components,https://github.com/deskpro/react-components,,3142,3,3,JavaScript,1,629,12,-1,-1,-1
+DDUMozillaClub_gnome-maps,https://github.com/DDUMozillaClub/gnome-maps,,5715,0,0,JavaScript,0,2669,251,-1,-1,-1
+JE5143_agarserv,https://github.com/JE5143/agarserv,,2491,0,0,JavaScript,0,2918,92,-1,-1,-1
+cloudify-cosmo_cloudify-stage,https://github.com/cloudify-cosmo/cloudify-stage,Cloudify's New UI Framework,79656,9,9,JavaScript,7,3331,44,-1,-1,-1
+dextra_dexboard,https://github.com/dextra/dexboard,Indicadores de projetos da Dextra,6121,5,5,JavaScript,1,568,26,-1,-1,-1
+Augmint_augmint-sim,https://github.com/Augmint/augmint-sim,Simulating the augmint system,1440,2,2,JavaScript,2,699,14,-1,-1,-1
+SkygearIO_skygear-SDK-JS,https://github.com/SkygearIO/skygear-SDK-JS,Skygear SDK for JavaScript,1737,21,21,JavaScript,34,1373,49,-1,-1,-1
+yalla-coop_nightingale,https://github.com/yalla-coop/nightingale,An app that aims to help students reflect on their emotions and work out what's affecting them at school,1010,2,2,JavaScript,1,643,7,-1,-1,-1
+rafaellichen_Recycling-System,https://github.com/rafaellichen/Recycling-System,Website for searching donation facilities,28068,0,0,JavaScript,2,550,8,-1,-1,-1
+paypal_paypal-smart-payment-buttons,https://github.com/paypal/paypal-smart-payment-buttons,Smart Payment Buttons,1797,15,15,JavaScript,18,575,19,-1,-1,-1
+ethereum_grid-ui,https://github.com/ethereum/grid-ui,"UI for Ethereum Grid, written in React",6032,34,34,JavaScript,12,631,14,-1,-1,-1
+France-ioi_bebras-modules,https://github.com/France-ioi/bebras-modules,Static Include structure of Bebras Tasks JS modules,10261,0,0,JavaScript,7,1972,28,-1,-1,-1
+quantstamp_qsp-protocol-audit-contract,https://github.com/quantstamp/qsp-protocol-audit-contract,Quantstamp protocol audit contracts and documentation. To be deployed on Ropsten or Mainnet,657,1,1,JavaScript,0,715,22,-1,-1,-1
+lotusbase_lotus.au.dk,https://github.com/lotusbase/lotus.au.dk,Lotus Base website,32910,1,1,JavaScript,1,554,3,-1,-1,-1
+psychonauts_Gather,https://github.com/psychonauts/Gather,,1193,0,0,JavaScript,8,651,10,-1,-1,-1
+jachiike-madubuko_duplify,https://github.com/jachiike-madubuko/duplify,,349212,1,1,JavaScript,1,507,4,-1,-1,-1
+openlayers_openlayers.github.io,https://github.com/openlayers/openlayers.github.io,OpenLayers Website Infrastructure,278606,6,6,JavaScript,22,1096,32,-1,-1,-1
+Viseo_C360-Training,https://github.com/Viseo/C360-Training,,37295,3,3,JavaScript,0,1067,13,-1,-1,-1
+BspbOrg_smartbirds-server,https://github.com/BspbOrg/smartbirds-server,,15346,3,3,JavaScript,0,1337,11,-1,-1,-1
+iarobinson_usefulProgrammer,https://github.com/iarobinson/usefulProgrammer,A resource for those seeking to become a useful programmer,44959,0,0,JavaScript,0,2388,188,-1,-1,-1
+skeate_Leaflet.buffer,https://github.com/skeate/Leaflet.buffer,Create buffers around Leaflet.draw shapes,2171,37,37,JavaScript,16,550,6,-1,-1,-1
+OpenUpSA_giz-projects,https://github.com/OpenUpSA/giz-projects,GIZ Project registry ,18937,0,0,JavaScript,0,1721,8,-1,-1,-1
+Authorea_squire,https://github.com/Authorea/squire,,2774,1,1,JavaScript,1,770,33,-1,-1,-1
+BookingBug_bookingbug-angular-events-bower,https://github.com/BookingBug/bookingbug-angular-events-bower,,329,0,0,JavaScript,0,1451,21,-1,-1,-1
+UruIT_react-seed,https://github.com/UruIT/react-seed,UruIT's react seed project,1150,66,66,JavaScript,16,583,18,-1,-1,-1
+oceanprotocol_ocean-explorer,https://github.com/oceanprotocol/ocean-explorer,Explorer for Keeper-contracts,56785,2,2,JavaScript,1,2048,30,-1,-1,-1
+oleg088097_NodeJS-Presentation,https://github.com/oleg088097/NodeJS-Presentation,,8819,0,0,JavaScript,1,2225,275,-1,-1,-1
+NTNUI-Kite_kite-backend,https://github.com/NTNUI-Kite/kite-backend,,1561,1,1,JavaScript,0,538,7,-1,-1,-1
+Lotuslwb_signInClock,https://github.com/Lotuslwb/signInClock,,170496,0,0,JavaScript,0,1912,3,-1,-1,-1
+ccnydss_bioanimation,https://github.com/ccnydss/bioanimation,,1711,0,0,JavaScript,0,508,13,-1,-1,-1
+smasa90_rdprez,https://github.com/smasa90/rdprez,,8195,0,0,JavaScript,0,2206,272,-1,-1,-1
+QuickBlox_quickblox-javascript-sdk,https://github.com/QuickBlox/quickblox-javascript-sdk,JavaScript SDK of QuickBlox cloud backend platform,103150,89,89,JavaScript,155,2668,50,-1,-1,-1
+dina-web-nrm_dina-collections,https://github.com/dina-web-nrm/dina-collections,Web-based information management system for natural history data,40749,4,4,JavaScript,2,6384,12,-1,-1,-1
+sevewt_scratch-gui,https://github.com/sevewt/scratch-gui,this is the A01 scratch-gui code. And it's clone from https://github.com/LLK/scratch-gui to make secondary development,176611,0,0,JavaScript,0,5381,93,-1,-1,-1
+icatproject_topcat,https://github.com/icatproject/topcat,GUI to work with multiple ICAT and IDS servers.,18396,1,1,JavaScript,8,2164,25,-1,-1,-1
+realtimerealbook_rtrb-web,https://github.com/realtimerealbook/rtrb-web,Front end web for rtrb,6560,0,0,JavaScript,1,575,5,-1,-1,-1
+sbstnmsch_catyamood,https://github.com/sbstnmsch/catyamood,A simple firebase app for scrum retrospectives,2640,1,1,JavaScript,0,872,6,-1,-1,-1
+dannysj_job-seeking-demo,https://github.com/dannysj/job-seeking-demo,A post-graduate advising e-commerce platform,38901,0,0,JavaScript,0,647,8,-1,-1,-1
+CodeLegend620_react-native-app,https://github.com/CodeLegend620/react-native-app,,3699,0,0,JavaScript,0,1803,524,-1,-1,-1
+LambdaSchool_Redux-Counter,https://github.com/LambdaSchool/Redux-Counter,,389,9,9,JavaScript,1434,2403,1129,-1,-1,-1
+KlimTrakht_WEB-development-course,https://github.com/KlimTrakht/WEB-development-course,,54,0,0,JavaScript,22,696,46,-1,-1,-1
+SamuelCabralCruz_GLO-3013-station,https://github.com/SamuelCabralCruz/GLO-3013-station,"Base station for decision making, statistic reporting and live tracking of a mobile robot.",139463,0,0,JavaScript,0,981,7,-1,-1,-1
+dongodngtang_Desh1,https://github.com/dongodngtang/Desh1,,22275,0,0,JavaScript,0,3665,14,-1,-1,-1
+MAAP-Project_maap-ade-common-mapping-client,https://github.com/MAAP-Project/maap-ade-common-mapping-client,A JupyterLab widget for the Common Mapping Client build for MAAP,51862,0,0,JavaScript,0,1323,8,-1,-1,-1
+johnnygan_laravel52,https://github.com/johnnygan/laravel52,Application based on laravel 5.2,16270,0,0,JavaScript,0,1955,9,-1,-1,-1
+csyke_initial,https://github.com/csyke/initial,,12063,0,0,JavaScript,0,2409,190,-1,-1,-1
+JarvusInnovations_hologit,https://github.com/JarvusInnovations/hologit,,707,0,0,JavaScript,0,501,1,-1,-1,-1
+bookbrainz_bookbrainz-data-js,https://github.com/bookbrainz/bookbrainz-data-js,A JavaScript data access module for BookBrainz,1788,5,5,JavaScript,5,1075,11,-1,-1,-1
+Aviion_ghostery-extension,https://github.com/Aviion/ghostery-extension,,2172,0,0,JavaScript,0,0,0,-1,-1,-1
+GTBitsOfGood_midtown-assistance-center,https://github.com/GTBitsOfGood/midtown-assistance-center,"A web application to link Georgia tech tutors for low income elementary, middle and high school students around the Atlanta Midtown area",6313,4,4,JavaScript,0,1071,53,-1,-1,-1
+jmlntw_dotfiles,https://github.com/jmlntw/dotfiles,My personal configuration files.,354,2,2,JavaScript,1,532,1,-1,-1,-1
+noev_unity,https://github.com/noev/unity,,45738,0,0,JavaScript,0,2699,181,-1,-1,-1
+vtex-apps_store-header,https://github.com/vtex-apps/store-header,VTEX Header app for IO Stores,550,2,2,JavaScript,4,611,39,-1,-1,-1
+nypublicradio_nypr-account-settings,https://github.com/nypublicradio/nypr-account-settings,ember components for account settings,2384,1,1,JavaScript,0,1311,14,-1,-1,-1
+FightForSub_ffs-zera,https://github.com/FightForSub/ffs-zera,Fight For Subs Front,8749,25,25,JavaScript,9,563,14,-1,-1,-1
+storj_blog,https://github.com/storj/blog,"Company blog, built with Hugo and hosted on Netlify",140739,4,4,JavaScript,3,625,11,-1,-1,-1
+knb-wkm_walter-02,https://github.com/knb-wkm/walter-02,,12959,0,0,JavaScript,0,1574,14,-1,-1,-1
+livechat_design-system,https://github.com/livechat/design-system,LiveChat design system components,4826,4,4,JavaScript,0,688,16,-1,-1,-1
+ralic_karma2,https://github.com/ralic/karma2,,7116,0,0,JavaScript,0,2523,355,-1,-1,-1
+eric-erki_botkit,https://github.com/eric-erki/botkit,"Botkit is the leading developer tool for building chat bots, apps and custom integrations for major messaging platforms.",2803,0,0,JavaScript,0,2259,234,-1,-1,-1
+markprisacaru_wabashlightspxt,https://github.com/markprisacaru/wabashlightspxt,,264311,0,0,JavaScript,0,7918,72,-1,-1,-1
+exokitxr_exokit-site,https://github.com/exokitxr/exokit-site,,311494,1,1,JavaScript,1,1256,62,-1,-1,-1
+EraYaN_jellyfin-dashboard,https://github.com/EraYaN/jellyfin-dashboard,Result of pull out script.,333717,0,0,JavaScript,0,6161,52,-1,-1,-1
+mlibrary_lumberyard,https://github.com/mlibrary/lumberyard,:clipboard: Sanely log process trees as they appear,416,1,1,JavaScript,1,714,2,-1,-1,-1
+jahoops_hyperapp,https://github.com/jahoops/hyperapp,,2233,0,0,JavaScript,0,977,88,-1,-1,-1
+Viictorvhn_entra21-c-sharp-grupo-01,https://github.com/Viictorvhn/entra21-c-sharp-grupo-01,,33324,0,0,JavaScript,0,942,10,-1,-1,-1
+QUANTOR-CO_platform,https://github.com/QUANTOR-CO/platform,,2457,0,0,JavaScript,0,1612,136,-1,-1,-1
+hubmapconsortium_vitessce,https://github.com/hubmapconsortium/vitessce,Vitessce is a visual integration tool for exploration of spatial single-cell experiments. ,1108,3,3,JavaScript,0,0,0,-1,-1,-1
+canjs_can-connect,https://github.com/canjs/can-connect,"Model layer utilities for every JavaScript framework! Assemble real-time, high performance, restful data connections.",8483,25,25,JavaScript,14,1272,65,-1,-1,-1
+Joel-An_dev-cafe-client,https://github.com/Joel-An/dev-cafe-client,frontend for dev cafe,576,0,0,JavaScript,1,673,1,-1,-1,-1
+VueMeetups_vuemeetups.org,https://github.com/VueMeetups/vuemeetups.org,A place to centralize all Vue.js community efforts,1008,34,34,JavaScript,43,549,45,-1,-1,-1
+named-data_ndn-js,https://github.com/named-data/ndn-js,Lightweight NDN stack in pure javascript,31448,92,92,JavaScript,30,2897,30,-1,-1,-1
+tarun1475_E-Commerce-Books-App,https://github.com/tarun1475/E-Commerce-Books-App,"Real time second hand books request portal with more than 5000 users registered implemented in Nodejs ,Express & Mysql.",6577,2,2,JavaScript,1,725,8,-1,-1,-1
+derekmc_draw15,https://github.com/derekmc/draw15,A minimal drawing app with scene zoom,1327,2,2,JavaScript,0,1222,23,-1,-1,-1
+jellyfin_jellyfin-theater-electron,https://github.com/jellyfin/jellyfin-theater-electron,Electron Theater app for Jellyfin,6426,34,34,JavaScript,8,548,19,-1,-1,-1
+hyle-team_zano,https://github.com/hyle-team/zano,Secure. Scalable. Easy to Use,23259,25,25,JavaScript,12,803,13,-1,-1,-1
+progedu_intro-curriculum-3031,https://github.com/progedu/intro-curriculum-3031,入門コースの3章31節の練習 (ISC License),35,0,0,JavaScript,358,619,478,-1,-1,-1
+zaporylie_revealjs-drupal-europe,https://github.com/zaporylie/revealjs-drupal-europe,,9320,0,0,JavaScript,1,2208,272,-1,-1,-1
+shellmk_marbles-20181219034614836,https://github.com/shellmk/marbles-20181219034614836,Created for toolchain: https://console.bluemix.net/devops/toolchains/65d65458-62ff-4e34-8eb1-7183019103ee?env_id=ibm%3Ayp%3Aus-south,44021,0,0,JavaScript,0,1185,42,-1,-1,-1
+reactjs_uk.reactjs.org,https://github.com/reactjs/uk.reactjs.org,(Work in progress) React documentation website in Ukrainian,71864,66,66,JavaScript,33,5068,1293,-1,-1,-1
+accudio-performance_goldenspurtle,https://github.com/accudio-performance/goldenspurtle,Speedtracker Frontend for goldenspurtle.com,979,0,0,JavaScript,0,510,13,-1,-1,-1
+eduardoboucas_eduardoboucas.com,https://github.com/eduardoboucas/eduardoboucas.com,✏️ My personal blog/website,57751,67,67,JavaScript,22,1240,13,-1,-1,-1
+ThomasFarmer_potree,https://github.com/ThomasFarmer/potree,"potree with (hopefully) improved 3d vector support (shape, kml...)",109166,0,0,JavaScript,0,1244,44,-1,-1,-1
+sethjin_kubernetes-ci-cd,https://github.com/sethjin/kubernetes-ci-cd,,1673,0,0,JavaScript,0,515,24,-1,-1,-1
+iXingo_WebPage,https://github.com/iXingo/WebPage,A web project using Spring Boot and mybatis,17208,1,1,JavaScript,0,902,5,-1,-1,-1
+reactjs_ml.reactjs.org,https://github.com/reactjs/ml.reactjs.org,(Work in progress) React documentation website in Malayalam,71420,10,10,JavaScript,13,4510,1263,-1,-1,-1
+uber-workflow_fusion-release,https://github.com/uber-workflow/fusion-release,Releases and verifies FusionJS packages,510,1,1,JavaScript,4,556,8,-1,-1,-1
+Atlantis-Software_atlantis-ui,https://github.com/Atlantis-Software/atlantis-ui,"framework for developing responsive, mobile first projects on the web.",15282,0,0,JavaScript,4,760,9,-1,-1,-1
+engine262_engine262,https://github.com/engine262/engine262,An implementation of ECMA-262 in JavaScript,1769,92,92,JavaScript,7,776,6,-1,-1,-1
+BrandSpa_EW,https://github.com/BrandSpa/EW,,5857,0,0,JavaScript,0,661,4,-1,-1,-1
+elsaywang_destination,https://github.com/elsaywang/destination,,4684,0,0,JavaScript,0,1213,24,-1,-1,-1
+AtenDesignGroup_intercept-contrib-test,https://github.com/AtenDesignGroup/intercept-contrib-test,,23249,0,0,JavaScript,0,1074,7,-1,-1,-1
+LambdaSchool_Sprint-Challenge-Redux-Smurfs,https://github.com/LambdaSchool/Sprint-Challenge-Redux-Smurfs,,378,4,4,JavaScript,1274,4963,1133,-1,-1,-1
+imkk-000_workflow-designer,https://github.com/imkk-000/workflow-designer,Workflow Designer for Simple Image Processing,1865,1,1,JavaScript,0,0,0,-1,-1,-1
+PerentieGroup_Kchomp,https://github.com/PerentieGroup/Kchomp,Komodo CHains Open Mining Pool,851,0,0,JavaScript,1,962,86,-1,-1,-1
+nzffa_nzffa,https://github.com/nzffa/nzffa,An open source Radiant CMS based membership management system for the New Zealand Farm Forestry Association ,18806,1,1,JavaScript,0,1167,9,-1,-1,-1
+eoscafedac_eosalarmbot,https://github.com/eoscafedac/eosalarmbot,,445,0,0,JavaScript,0,671,6,-1,-1,-1
+uber-web_loaders.gl,https://github.com/uber-web/loaders.gl,Framework independent 3D and geospatial loaders:,37013,44,44,JavaScript,11,911,21,-1,-1,-1
+Preece_Frauki,https://github.com/Preece/Frauki,,210853,22,22,JavaScript,4,1804,6,-1,-1,-1
+gokhalehemal11_gokhalehemal11.github.io,https://github.com/gokhalehemal11/gokhalehemal11.github.io,,333926,0,0,JavaScript,0,1047,35,-1,-1,-1
+mathjax_mathjax-v3,https://github.com/mathjax/mathjax-v3,A repository for early stages of MathJax v3 ,11874,89,89,JavaScript,21,2176,12,-1,-1,-1
+nebiolabs_plate-map,https://github.com/nebiolabs/plate-map,A flexible tool for defining the contents of 96 well plates.,1266,13,13,JavaScript,10,549,18,-1,-1,-1
+newamericafoundation_newamerica-data-projects,https://github.com/newamericafoundation/newamerica-data-projects,,4677,0,0,JavaScript,1,846,14,-1,-1,-1
+SyarifZapata_ssb-db-clone,https://github.com/SyarifZapata/ssb-db-clone,,671,0,0,JavaScript,0,1030,24,-1,-1,-1
+stevesims_govuk-frederic,https://github.com/stevesims/govuk-frederic,,5575,3,3,JavaScript,1,549,17,-1,-1,-1
+ccnmtl_polarexplorer,https://github.com/ccnmtl/polarexplorer,,56353,0,0,JavaScript,0,1757,19,-1,-1,-1
+saarad_HverdagsHelt,https://github.com/saarad/HverdagsHelt,"Web-application that lets users nationwide (Norway) register issues in their community, like issues with the road, power, water etc. The application lets employees of the community then see the issues and assign companies registered in the system to fix them. ",57784,0,0,JavaScript,0,742,10,-1,-1,-1
+davidfekke_jaxnode,https://github.com/davidfekke/jaxnode,Source for the jaxnode.com site,19955,0,0,JavaScript,5,542,4,-1,-1,-1
+dhis2_ui-core,https://github.com/dhis2/ui-core,Re-work of d2-ui,9283,7,7,JavaScript,0,1508,25,-1,-1,-1
+RadoslavGeorgiev_wcvie-2019-for-meetups,https://github.com/RadoslavGeorgiev/wcvie-2019-for-meetups,,8118,0,0,JavaScript,0,2207,273,-1,-1,-1
+wangyi160_marbles-20181109061227946,https://github.com/wangyi160/marbles-20181109061227946,Created for toolchain: https://console.bluemix.net/devops/toolchains/a1b448f4-5374-49d0-a702-211db0bbda16?env_id=ibm%3Ayp%3Aus-east,44017,0,0,JavaScript,0,1185,42,-1,-1,-1
+Julie-Barre_node,https://github.com/Julie-Barre/node,,558,0,0,JavaScript,0,1426,6,-1,-1,-1
+alfredoramirez_marbles-20190313162337342,https://github.com/alfredoramirez/marbles-20190313162337342,Created for toolchain: https://console.bluemix.net/devops/toolchains/e3c8dbdf-cb30-48fe-81c9-f20ff29df814?env_id=ibm%3Ayp%3Aus-south,44020,0,0,JavaScript,0,1187,44,-1,-1,-1
+folio-org_ui-agreements,https://github.com/folio-org/ui-agreements,Stripes front end module for ERM module,1101,0,0,JavaScript,4,893,23,-1,-1,-1
+aniketnk_alcoding-web-portal,https://github.com/aniketnk/alcoding-web-portal,"A web application built using MERN (MongoDB, Express.js, React.js, Node.js) full-stack framework. This project is developed for the students and professors of the CS&E department, PES University.",16639,7,7,JavaScript,33,575,27,-1,-1,-1
+KiyoKando_marbles-20180515165607703,https://github.com/KiyoKando/marbles-20180515165607703,Created for toolchain: https://console.ng.bluemix.net/devops/toolchains/89036816-7aae-477c-90f2-4f8346b12303?env_id=ibm%3Ayp%3Aus-south,43172,0,0,JavaScript,0,1168,38,-1,-1,-1
+apigee-internal_microgateway,https://github.com/apigee-internal/microgateway,Microgateway: A lightweight Node.js based API gateway,64165,37,37,JavaScript,50,1494,42,-1,-1,-1
+chrwoizi_naytrading,https://github.com/chrwoizi/naytrading,N.A.Y.trading is a machine learning application that mimics stock trading decisions of the user.,43701,2,2,JavaScript,0,933,3,-1,-1,-1
+TalaoDAO_talao-contracts,https://github.com/TalaoDAO/talao-contracts,Talao smart contracts,3961,1,1,JavaScript,0,659,7,-1,-1,-1
+electron_dependent-repos,https://github.com/electron/dependent-repos,Public GitHub repos that depend on Electron. spiritual successor to https://github.com/electron/repos-using-electron,208854,7,7,JavaScript,8,1945,5,-1,-1,-1
+jamesmart77_chedah,https://github.com/jamesmart77/chedah,,30473,1,1,JavaScript,3,565,9,-1,-1,-1
+sporelab-io_enebular-agent-develop-test,https://github.com/sporelab-io/enebular-agent-develop-test,,2602,0,0,JavaScript,0,1021,28,-1,-1,-1
+mongodb-js_compass-aggregations,https://github.com/mongodb-js/compass-aggregations,Compass Aggregation Pipeline Builder,38814,5,5,JavaScript,2,1659,15,-1,-1,-1
+holmwell_circle-blvd,https://github.com/holmwell/circle-blvd,Task management for small-group organizers.,5603,18,18,JavaScript,4,1656,9,-1,-1,-1
+MyWheels_openwheels-support-frontend,https://github.com/MyWheels/openwheels-support-frontend,Office application for staff (AngularJS),1415,0,0,JavaScript,8,820,17,-1,-1,-1
