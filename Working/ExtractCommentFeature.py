@@ -18,18 +18,21 @@ import argparse
 import multiprocessing
 import pandas as pd
 import nltk
-from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from termcolor import colored
 
-stop_words = set(stopwords.words('english'))
+stopwords = set(nltk.corpus.stopwords.words('english'))
+english_words = set(nltk.corpus.words.words())
+english_names = set([w.lower() for w in list(nltk.corpus.names.words())])
 
 
 def extract_words(comment):
     '''
     Given a comment string, split it into a list of words using a number of heuristic rules
     '''
-    global stop_words
+    global stopwords
+    global english_words
+    global english_names
     # split by non-word characters (excluding digit)
     words = re.split(r'[\W_]+', comment)
     new_words = []
@@ -45,8 +48,8 @@ def extract_words(comment):
     words = nltk.pos_tag([w.lower() for w in new_words])
     words = [wnl.lemmatize(i, j[0].lower()) if j[0].lower() in [
         'a', 'n', 'v'] else wnl.lemmatize(i) for i, j in words]
-    # Remove stopwords and short words
-    return [w for w in words if len(w) >= 3 and w not in stop_words]
+    # Remove stopwords, non-English words, English names and too short words
+    return [w for w in words if len(w) >= 3 and w in english_words and w not in stopwords and w not in english_names]
 
 
 def process_worker(index, row):
@@ -58,6 +61,7 @@ def process_worker(index, row):
 
     # Empirically skip generated data if it already exists
     if os.path.exists('temp/comment_feature/{}.json'.format(row['name'])):
+        print(colored('Skipping {} because the result already exists...'.format(row['name']), 'yellow'))
         return
 
     with open('temp/comment_data/{}.json'.format(row['name']), 'r') as f:
@@ -67,7 +71,7 @@ def process_worker(index, row):
         comments = comment_data[file_name]['comments']
         for comment in comments:
             # Exclude comments that appears to be a license header
-            if any(x in comment['content'] for x in ['license', 'copyright', 'warranty']):
+            if any(x in comment['content'].lower() for x in ['license', 'copyright', 'warranty']):
                 continue
             words = extract_words(comment['content'])
             for w in words:
@@ -117,7 +121,7 @@ def postprocess(projects):
                 document_count / word_count_dict[word])
             comment_data['bag_of_words'][word]['tfidf'] = comment_data['bag_of_words'][word]['freq'] * \
                 comment_data['bag_of_words'][word]['idf']
-        with open('temp/comment_feature/{}.json'.format(row['name'], 'w')) as f:
+        with open('temp/comment_feature/{}.json'.format(row['name']), 'w') as f:
             f.write(json.dumps(comment_data))
 
 
