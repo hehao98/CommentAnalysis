@@ -23,7 +23,7 @@ public class sample {
         /*
          * int a = b + c; // There is another nasty comment
          */
-        System.out.printf("This is a nasty comment /*")
+        System.out.printf("This is a nasty comment /*");
         return;
     }
 }

@@ -1,12 +1,11 @@
-'''
+"""
 Analyze source code and add various comment related metrics for a project
 As a side effect, export comment statistics for each project to temp/comment_data/
 
 Author: He, Hao
-'''
+"""
 
 import pandas as pd
-import subprocess
 import os
 import json
 import argparse
@@ -19,9 +18,9 @@ from termcolor import colored
 
 
 def get_file_list(path, suffix):
-    '''
+    """
     Given a path, recursively retrieve and return all files with given suffix in the path
-    '''
+    """
     result = []
     for root, dirs, files in os.walk(path):
         for file in files:
@@ -31,9 +30,9 @@ def get_file_list(path, suffix):
 
 
 def chunk_reader(fobj, chunk_size=1024):
-    '''
+    """
     Generator that reads a file in chunks of bytes
-    '''
+    """
     while True:
         chunk = fobj.read(chunk_size)
         if not chunk:
@@ -42,9 +41,9 @@ def chunk_reader(fobj, chunk_size=1024):
 
 
 def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
-    '''
+    """
     Compute hash for a given file path
-    '''
+    """
     hashobj = hash()
     file_object = open(filename, 'rb')
 
@@ -60,9 +59,9 @@ def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 
 
 def remove_duplicates(filelist):
-    '''
+    """
     Given a list of file paths, return the list with duplicate files removed
-    '''
+    """
     hashes_by_size = {}
     hashes_on_1k = {}
     hashes_full = {}
@@ -129,10 +128,10 @@ def remove_duplicates(filelist):
 
 
 def extract_comment_java(file_list):
-    '''
+    """
     Given file_list, extract all Java comments from them and return a dictionary to describe it
-    Please note that some 
-    '''
+    Please note that some
+    """
     result = {}
     for path in file_list:
         result[path] = {}
@@ -150,8 +149,8 @@ def extract_comment_java(file_list):
                 src = f.read()
 
         # Detect and extract comments
-        regex1 = re.compile(r'\/\*.*?\*\/', flags=re.DOTALL)
-        regex2 = re.compile(r'\/\/.*?$', flags=re.MULTILINE)
+        regex1 = re.compile(r'/\*.*?\*/', flags=re.DOTALL)
+        regex2 = re.compile(r'//.*?$', flags=re.MULTILINE)
         for match in re.finditer(regex1, src):
             result[path]['comments'].append({
                 'content': match.group(0),
@@ -166,9 +165,9 @@ def extract_comment_java(file_list):
 
 
 def process_worker(proj_path, index, row):
-    '''
+    """
     This is the task unit for each process to run
-    '''
+    """
     # Skip if the comment data file already exists
     # Delete the temp/comment_data/ folder if you want to rerun the whole process
     if os.path.exists('temp/comment_data/{}.json'.format(row['name'])):
@@ -227,7 +226,7 @@ if __name__ == '__main__':
     # Extract comments with process pooling
     pool = multiprocessing.Pool(num_jobs)
     for index, row in projects.iterrows():
-        #pool.apply_async(process_worker, args=(proj_path, index, row))
+        # pool.apply_async(process_worker, args=(proj_path, index, row))
         process_worker(proj_path, index, row)
     pool.close()
     pool.join()

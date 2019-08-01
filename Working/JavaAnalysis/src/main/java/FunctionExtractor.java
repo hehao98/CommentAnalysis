@@ -12,6 +12,12 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 import java.util.ArrayList;
 
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONArray;
+import com.alibaba.fastjson.JSONObject;
+
+
+
 public class FunctionExtractor {
     private static ArrayList<File> getSourceCodeFilePath(final File folder) {
         ArrayList<File> list = new ArrayList<File>();
@@ -26,7 +32,7 @@ public class FunctionExtractor {
         return list;
     }
 
-    private static JavaCode parseJavaFile(File file) {
+    private static JavaCode parseJavaFile(final File file) {
         try (Scanner sc = new Scanner(file);) {
             String code = sc.useDelimiter("\\Z").next();
             return new JavaCode(code, file);
@@ -36,16 +42,43 @@ public class FunctionExtractor {
         }
     }
 
+    private static String buildJson(ArrayList<JavaCode> codeList) {
+        JSONObject json = new JSONObject();
+        for (JavaCode code : codeList) {
+            JSONObject thisObject = new JSONObject();
+            JSONArray methodArray = new JSONArray();
+            for (JavaCode.MethodInfo method : code.methodInfo) {
+                JSONObject methodObject = new JSONObject();
+                methodObject.put("name", method.name);
+                methodObject.put("code", method.code);
+                methodObject.put("comment", method.comment);
+                methodObject.put("lineCount", method.lineCount);
+                methodObject.put("maxIndentation", method.maxIndentation);
+                methodObject.put("commentsInMethod", method.commentsInMethod);
+                methodArray.add(methodObject);
+            }
+            thisObject.put("methodInfo", methodArray);
+            json.put(code.file.getPath(), thisObject);
+        }
+        return json.toJSONString();
+    }
+
     public static void main(String[] args) {
         final File projectFolder = new File(args[0]);
+        final File outputFile = new File(args[1]);
         ArrayList<File> srcFiles = getSourceCodeFilePath(projectFolder);
-        JavaCode code;
+        ArrayList<JavaCode> codeList = new ArrayList<JavaCode>();
 
-        System.out.println(srcFiles.get(0).getName());
-        code = parseJavaFile(srcFiles.get(0));
+        for (File src : srcFiles) {
+            System.out.println(src.getAbsolutePath());
+            JavaCode code = parseJavaFile(src);
+            if (code.isOk) {
+                codeList.add(code);
+            }
+        }
 
-        try (PrintWriter out = new PrintWriter("output/test.json")) {
-            out.println(code.toJson());
+        try (PrintWriter out = new PrintWriter(outputFile)) {
+            out.println(buildJson(codeList));
             out.close();
         } catch (FileNotFoundException e) {
             System.out.println(e.toString());

@@ -8,25 +8,34 @@
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.LinkedList;
 
+import com.alibaba.fastjson.annotation.JSONField;
 import com.github.javaparser.JavaParser;
 import com.github.javaparser.ParseResult;
 import com.github.javaparser.ast.CompilationUnit;
 import com.github.javaparser.ast.body.MethodDeclaration;
+import com.github.javaparser.ast.comments.Comment;
 import com.github.javaparser.ast.visitor.GenericVisitorAdapter;
 import com.github.javaparser.ast.visitor.Visitable;
 import com.github.javaparser.ast.visitor.VoidVisitor;
 import com.github.javaparser.ast.visitor.VoidVisitorAdapter;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
+import com.github.javaparser.printer.PrettyPrinterConfiguration;
 
 public class JavaCode {
     public class MethodInfo {
+        @JSONField(name = "name")
         String name;
+        @JSONField(name = "code")
         String code;
+        @JSONField(name = "comment")
         String comment;
+        @JSONField(name = "lineCount")
         int lineCount;
+        @JSONField(name = "maxIndentation")
         int maxIndentation;
+        @JSONField(name = "commentsInMethod")
+        String[] commentsInMethod;
 
         public MethodInfo() {
 
@@ -39,6 +48,8 @@ public class JavaCode {
             this.comment = comment;
         }
     }
+
+    public boolean isOk;
 
     public File file;
 
@@ -59,9 +70,12 @@ public class JavaCode {
         ParseResult<CompilationUnit> result = this.parser.parse(code);
         if (result.isSuccessful()) {
             this.cu = result.getResult().get();
+            this.isOk = true;
         } else {
+            this.isOk = false;
             System.out.println("Something goes wrong while parsing code from " + file.getPath());
             System.out.println(result.getProblems().toString());
+            return;
         }
 
         // Initialize statistics
@@ -96,7 +110,9 @@ public class JavaCode {
 
                 MethodInfo method = new MethodInfo();
 
-                method.code = n.toString();
+                PrettyPrinterConfiguration codePrinterConfig = new PrettyPrinterConfiguration();
+                codePrinterConfig.setPrintComments(false);
+                method.code = n.toString(codePrinterConfig);
                 method.name = n.getNameAsString();
                 if (n.getRange().isPresent()) {
                     method.lineCount = n.getRange().get().getLineCount();
@@ -106,7 +122,12 @@ public class JavaCode {
                 if (n.getComment().isPresent()) {
                     method.comment = n.getComment().get().toString();
                 } else {
-                    method.comment = "";
+                    method.comment = null;
+                }
+                LinkedList<Comment> containedComments = (LinkedList<Comment>) n.getAllContainedComments();
+                method.commentsInMethod = new String[containedComments.size()];
+                for (int i = 0; i < containedComments.size(); ++i) {
+                    method.commentsInMethod[i] = containedComments.get(i).toString();
                 }
 
                 method.maxIndentation = maxIndentation(method.code);
@@ -115,13 +136,5 @@ public class JavaCode {
                 return;
             }
         }, this.methodInfo);
-    }
-
-    public String toJson() {
-
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-
-        String methodInfoJson = gson.toJson(methodInfo);
-        return methodInfoJson;
     }
 }
