@@ -5,3 +5,4 @@ seaborn
 nltk
 gensim
 termcolor
+scikit-learn

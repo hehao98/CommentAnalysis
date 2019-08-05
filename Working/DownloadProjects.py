@@ -42,6 +42,9 @@ if __name__ == '__main__':
 
     pool = Pool(num_job)
     for index, row in projects.iterrows():
+        if os.path.exists(os.path.join(output_path, '/projects/{}'.format(row['name']))):
+            print(colored('Skipping {} because the folder already exists...', 'yellow'))
+            continue
         pool.apply_async(run_proc, args=(index, row['url'], row['name']))
     pool.close()
     pool.join()
