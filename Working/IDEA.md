@@ -73,6 +73,17 @@ We use a combination of GHTorrent, World of Code and GitHub API. We have collect
       * Tutorials (a deliberately designed tutorial for a specific topic)
       * Blogs (example code for a blog about programming, with no specific topic)
       * Books (code in a book related to programming)
+2. Background
+   * Industry (must satisfy the following two conditions)
+      * The GitHub repository belongs to an account that clearly indicates it is a company
+      * The top contributor belongs to the company according to GitHub profile
+   * Organization (must satisfy the following three conditions)
+      * The GitHub repository belongs to an organization account
+      * The organization has an official website
+      * The organization account has more than 3 different repositories
+   * Unknown
+      * Cannot be classified to the above two categories
+      * We are not sure whether it is a company sponsored, organized by an open source organization, academic or individual project.
 
 ### Metrics Extracted for Each Project
 
