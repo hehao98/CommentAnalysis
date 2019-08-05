@@ -56,6 +56,24 @@ To answer RQ2, we conduct xxx and xxx analysis on the previously collected data
 
 We use a combination of GHTorrent, World of Code and GitHub API. We have collected approcimately 50000 projects. The major programming languages of these projects are either Java, JavaScript, Python, C, C++ or Go.
 
+### Labels Assigned to Each Project
+
+1. Type
+   * Software Reuse
+      * Library (provide a set of functionalities for use in any code)
+      * Framework (provide solution to some specific application like web, need major code modification for integration)
+      * Language (e.g. query language, programming language)
+   * User Oriented
+      * Application (e.g. Android apps, desktop apps, Web apps, etc)
+      * Tool (command line or GUI tool for a specific purpose, like compiler)
+      * Service (for running on a server)
+      * System (e.g. a database system or an information management system)
+   * Educational 
+      * Examples (examples for using a library, framework or for building a specific type of application)
+      * Tutorials (a deliberately designed tutorial for a specific topic)
+      * Blogs (example code for a blog about programming, with no specific topic)
+      * Books (code in a book related to programming)
+
 ### Metrics Extracted for Each Project
 
 1. Stars, forks, authors, commits and number of source files
