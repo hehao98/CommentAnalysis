@@ -67,12 +67,15 @@ We use a combination of GHTorrent, World of Code and GitHub API. We have collect
       * Application (e.g. Android apps, desktop apps, Web apps, etc)
       * Tool (command line or GUI tool for a specific purpose, like compiler)
       * Service (for running on a server)
-      * System (e.g. a database system or an information management system)
+      * System (e.g. a database system, or a distributed data management system)
+      * Plugin (need to be installed on another software, e.g. game mods or IDE plugins)
    * Educational 
       * Examples (examples for using a library, framework or for building a specific type of application)
       * Tutorials (a deliberately designed tutorial for a specific topic)
-      * Blogs (example code for a blog about programming, with no specific topic)
+      * Notes (example code or blogs with no specific topic)
       * Books (code in a book related to programming)
+   * Unknown
+      * We are unable to identify the repository's type based on public information from GitHub
 2. Background
    * Industry (must satisfy the following two conditions)
       * The GitHub repository belongs to an account that clearly indicates it is a company
@@ -81,6 +84,7 @@ We use a combination of GHTorrent, World of Code and GitHub API. We have collect
       * The GitHub repository belongs to an organization account
       * The organization has an official website
       * The organization account has more than 3 different repositories
+      * The organization account has more than 3 different public members
    * Unknown
       * Cannot be classified to the above two categories
       * We are not sure whether it is a company sponsored, organized by an open source organization, academic or individual project.
