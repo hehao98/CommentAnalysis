@@ -67,10 +67,10 @@ We use a combination of GHTorrent, World of Code and GitHub API. We have collect
       * Application (e.g. Android apps, desktop apps, Web apps, etc)
       * Tool (command line or GUI tool for a specific purpose, like compiler)
       * Service (for running on a server)
-      * System (e.g. a database system, or a distributed data management system)
+      * System (e.g. a database system, a distributed data management system or a driver)
       * Plugin (need to be installed on another software, e.g. game mods or IDE plugins)
    * Educational 
-      * Examples (examples for using a library, framework or for building a specific type of application)
+      * Examples (examples for using a library, framework or for building a specific type of application, and reference implementation of a specification)
       * Tutorials (a deliberately designed tutorial for a specific topic)
       * Notes (example code or blogs with no specific topic)
       * Books (code in a book related to programming)
@@ -79,15 +79,14 @@ We use a combination of GHTorrent, World of Code and GitHub API. We have collect
 2. Background
    * Industry (must satisfy the following two conditions)
       * The GitHub repository belongs to an account that clearly indicates it is a company
-      * The top contributor belongs to the company according to GitHub profile
+      * The top contributor is employed by the company according to GitHub profile
    * Organization (must satisfy the following three conditions)
       * The GitHub repository belongs to an organization account
       * The organization has an official website
       * The organization account has more than 3 different repositories
-      * The organization account has more than 3 different public members
    * Unknown
       * Cannot be classified to the above two categories
-      * We are not sure whether it is a company sponsored, organized by an open source organization, academic or individual project.
+      * We are not sure whether it is a company sponsored, organized by an open source organization, academic or individual project
 
 ### Metrics Extracted for Each Project
 
