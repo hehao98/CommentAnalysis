@@ -8,13 +8,13 @@ Grover-c13_PokeGOAPI-Java,https://github.com/Grover-c13/PokeGOAPI-Java,Pokemon G
 spring-projects_spring-data-redis,https://github.com/spring-projects/spring-data-redis,"Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.",framework,industry,16222,1002,1002,Java,686,4433,165,95783,53440,31946,775,5767882,2007705,4841,10028
 hidroh_materialistic,https://github.com/hidroh/materialistic,A material-design Hacker News Android reader,application,unknown,46276,1900,1900,Java,442,1849,34,21972,3310,3398,210,1051157,136432,148,658
 spring-projects_spring-framework,https://github.com/spring-projects/spring-framework,Spring Framework,framework,industry,136833,30706,30706,Java,19706,33016,1444,645832,338909,172443,7152,40356074,14164459,30897,30601
-panpf_sketch,https://github.com/panpf/sketch,"Sketch 是 Android 上一个强大且全面的图片加载器，支持 GIF，手势缩放以及分块显示超大图片。Sketch is a powerful and comprehensive image loader on Android, with support for GIF, gesture zooming, block display super large image",library,unknown,251405,1249,1249,Java,263,1624,11,27367,10495,5793,257,1504557,342085,1460,1342
+panpf_sketch,https://github.com/panpf/sketch,"Sketch _ Android �__丼�大�__��_______载�_�___ GIF�___�缩_�以______示�_大�____ketch is a powerful and comprehensive image loader on Android, with support for GIF, gesture zooming, block display super large image",library,unknown,251405,1249,1249,Java,263,1624,11,27367,10495,5793,257,1504557,342085,1460,1342
 jfoenixadmin_JFoenix,https://github.com/jfoenixadmin/JFoenix,JavaFX Material Design Library,library,unknown,27989,4024,4024,Java,791,1359,92,24389,6962,4604,196,1338530,269053,696,1124
 rapidoid_rapidoid,https://github.com/rapidoid/rapidoid,"Rapidoid - Extremely Fast, Simple and Powerful Java Web Framework and HTTP Server!",framework,unknown,22435,1418,1418,Java,134,5277,28,65635,25129,23010,1251,3029041,941256,301,3245
 apache_shiro,https://github.com/apache/shiro,Mirror of Apache Shiro,framework,organization,24752,2515,2515,Java,1486,4737,124,34159,36617,9427,705,3243160,1825507,2564,3254
 iBotPeaches_Apktool,https://github.com/iBotPeaches/Apktool,A tool for reverse engineering Android apk files,tool,unknown,133752,8435,8435,Java,2167,2855,143,12337,3037,2400,134,615966,135262,294,541
 jtablesaw_tablesaw,https://github.com/jtablesaw/tablesaw,Java dataframe and visualization library,library,unknown,34493,1542,1542,Java,322,2440,73,39531,7532,8591,372,1879997,319665,897,1023
-Bigkoo_Android-PickerView,https://github.com/Bigkoo/Android-PickerView,"This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）",component,unknown,6326,10257,10257,Java,2606,553,63,4215,948,892,39,220279,21889,139,455
+Bigkoo_Android-PickerView,https://github.com/Bigkoo/Android-PickerView,"This is a picker view for android , support linkage effect, timepicker and optionspicker.�___��___��__�__�_��___�",component,unknown,6326,10257,10257,Java,2606,553,63,4215,948,892,39,220279,21889,139,455
 modelmapper_modelmapper,https://github.com/modelmapper/modelmapper,Intelligent object mapping,library,unknown,1656,1143,1143,Java,205,776,79,27054,7167,5706,401,1237966,249215,975,560
 oshi_oshi,https://github.com/oshi/oshi,Native Operating System and Hardware Information,library,unknown,86310,1017,1017,Java,290,2214,140,16263,13066,2894,221,1217976,530493,1428,2010
 lets-blade_blade,https://github.com/lets-blade/blade,:rocket: Lightning fast and elegant mvc framework for Java8,framework,unknown,5216,4828,4828,Java,1020,1490,69,17281,6255,3858,271,867687,178825,915,483
@@ -23,10 +23,10 @@ spring-cloud_spring-cloud-config,https://github.com/spring-cloud/spring-cloud-co
 apollographql_apollo-android,https://github.com/apollographql/apollo-android,":pager: A strongly-typed, caching GraphQL client for Android, written in Java",framework,unknown,140262,1704,1704,Java,314,2743,140,50544,5933,9497,328,2220002,211793,1063,1076
 spring-projects_spring-integration-samples,https://github.com/spring-projects/spring-integration-samples,"You are looking for examples, code snippets, sample applications for Spring Integration? This is the place.",example,industry,12290,1627,1627,Java,2261,914,55,10783,7212,3285,300,688416,269266,427,770
 abel533_Mapper,https://github.com/abel533/Mapper,Mybatis Common Mapper - Easy to use,library,unknown,1801,4160,4160,Java,1087,887,70,18479,10355,3920,348,1156357,362376,862,1792
-flyway_flyway,https://github.com/flyway/flyway,Flyway by Boxfuse • Database Migrations Made Easy.,tool,industry,14351,4213,4213,Java,917,4038,422,17106,13074,6158,319,1270294,537110,1563,1015
-sanluan_PublicCMS,https://github.com/sanluan/PublicCMS,"CMS written in Java,Safe and fast,Easy support 10 million data, 10 million PV; Currently has 0.0002% of the world's users.Language support English,中文,繁體,日本語",tool,industry,44200,1365,1365,Java,591,925,16,31882,10137,5560,496,1608408,146756,2056,192
+flyway_flyway,https://github.com/flyway/flyway,Flyway by Boxfuse _ Database Migrations Made Easy.,tool,industry,14351,4213,4213,Java,917,4038,422,17106,13074,6158,319,1270294,537110,1563,1015
+sanluan_PublicCMS,https://github.com/sanluan/PublicCMS,"CMS written in Java,Safe and fast,Easy support 10 million data, 10 million PV; Currently has 0.0002% of the world's users.Language support English,�_,�__,_��_�",tool,industry,44200,1365,1365,Java,591,925,16,31882,10137,5560,496,1608408,146756,2056,192
 geoserver_geoserver,https://github.com/geoserver/geoserver,Official GeoServer repository,server,unknown,222171,1565,1565,Java,1304,20001,533,673135,151870,125324,5996,36613981,6324138,18024,55311
-EhsanTang_ApiManager,https://github.com/EhsanTang/ApiManager,CRAP - 开源API接口管理平台 | 完全开源、免费使用的API接口管理系统、BUG管理系统：API接口管理、文档管理、数据库表管理、接口调试、浏览器调试插件、导出word&pdf接口…..，采用SpringMVC + MyBatis + Lucene + Bootstrap + Angularjs + Iconfont + Guava Cache ，线上使用地址：http://api.crap.cn,tool,unknown,19546,1396,1396,Java,560,1036,18,28346,2498,6291,300,1159210,54100,356,942
+EhsanTang_ApiManager,https://github.com/EhsanTang/ApiManager,CRAP - ��_PI_��_管�_平�_ | �__��___费使_��_API_��_管�_系�___UG管�_系�_�_PI_��_管�____档�______表�_____��_�___�__�____��____ord&pdf_��__..�____pringMVC + MyBatis + Lucene + Bootstrap + Angularjs + Iconfont + Guava Cache �_���_��_��__�_ttp://api.crap.cn,tool,unknown,19546,1396,1396,Java,560,1036,18,28346,2498,6291,300,1159210,54100,356,942
 jmxtrans_jmxtrans,https://github.com/jmxtrans/jmxtrans,jmxtrans,tool,unknown,69860,1526,1526,Java,475,2103,252,18222,8246,3930,287,1116677,391917,568,442
 xerial_sqlite-jdbc,https://github.com/xerial/sqlite-jdbc,SQLite JDBC Driver,library,unknown,193921,1237,1237,Java,302,1262,137,13862,6041,3094,75,791427,232657,1037,1079
 fabric8io_docker-maven-plugin,https://github.com/fabric8io/docker-maven-plugin,Maven plugin for running and creating Docker images,plugin,unknown,16299,1152,1152,Java,455,3284,272,25825,5346,6101,246,1328410,206702,571,1146
@@ -34,7 +34,7 @@ internetarchive_heritrix3,https://github.com/internetarchive/heritrix3,"Heritrix
 skylot_jadx,https://github.com/skylot/jadx,Dex to Java decompiler,tool,unknown,13699,19263,19263,Java,2132,1419,71,59617,2482,10907,761,1932310,87237,266,1390
 uber_NullAway,https://github.com/uber/NullAway,A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead,tool,industry,1668,2561,2561,Java,183,911,20,15268,4089,2197,121,780118,208223,277,1088
 blynkkk_blynk-server,https://github.com/blynkkk/blynk-server,"Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes",server,unknown,30782,1474,1474,Java,518,8969,40,54215,5837,12845,667,2811630,208451,825,2546
-alibaba_canal,https://github.com/alibaba/canal,阿里巴巴 MySQL binlog 增量订阅&消费组件 ,tool,industry,6902,9443,9443,Java,3256,1719,171,68121,16690,11615,556,3459554,430762,2345,3199
+alibaba_canal,https://github.com/alibaba/canal,_��_巴巴 MySQL binlog �__订�_&�_���_�� ,tool,industry,6902,9443,9443,Java,3256,1719,171,68121,16690,11615,556,3459554,430762,2345,3199
 google_tink,https://github.com/google/tink,"Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",library,industry,15449,7905,7905,Java,595,2336,106,41198,14638,5360,378,2339371,630294,1302,8005
 resilience4j_resilience4j,https://github.com/resilience4j/resilience4j,Resilience4j is a fault tolerance library designed for Java8 and functional programming,library,unknown,4725,3873,3873,Java,461,1941,127,34011,15810,8751,629,2213424,588512,1166,2485
 javaee-samples_javaee7-samples,https://github.com/javaee-samples/javaee7-samples,Java EE 7 Samples,example,unknown,4193,2369,2369,Java,1603,1699,109,31114,26125,8337,996,2365857,1183708,1324,2219
@@ -74,7 +74,7 @@ google_closure-compiler,https://github.com/google/closure-compiler,A JavaScript 
 apache_lucene-solr,https://github.com/apache/lucene-solr,Mirror of Apache Lucene + Solr,library,organization,405670,2746,2746,Java,1926,91436,714,1259276,355873,223125,8332,71711459,17926245,28189,110757
 ankidroid_Anki-Android,https://github.com/ankidroid/Anki-Android,AnkiDroid: Anki on Android,application,unknown,111334,1972,1972,Java,789,10977,318,50719,12738,10341,281,2873608,698810,1413,4243
 Tencent_tinker,https://github.com/Tencent/tinker,"Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",library,industry,4317,13930,13930,Java,2811,579,72,31786,8679,5094,234,1773363,345934,849,1633
-zhanghai_Douya,https://github.com/zhanghai/Douya,开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）,application,unknown,24941,4229,4229,Java,1151,1306,2,50771,9660,12365,726,2440468,338889,652,1806
+zhanghai_Douya,https://github.com/zhanghai/Douya,��__ Material Design �__客�_�_A Material Design app for douban.com�,application,unknown,24941,4229,4229,Java,1151,1306,2,50771,9660,12365,726,2440468,338889,652,1806
 relayrides_pushy,https://github.com/relayrides/pushy,A Java library for sending APNs (iOS/macOS/Safari) push notifications,library,industry,7027,1030,1030,Java,283,2043,106,7182,4576,2275,96,605714,242699,251,312
 bazelbuild_bazel,https://github.com/bazelbuild/bazel,"a fast, scalable, multi-language and extensible build system",system,industry,666714,12413,12413,Java,2035,32164,1000,773884,235415,125141,5438,43910767,11359945,26319,118227
 sucese_android-open-source-project-analysis,https://github.com/sucese/android-open-source-project-analysis,Android open source project analysis. Note: The project has been moved to https://github.com/BeesAndroid/BeesAndroid.,book,unknown,121488,2159,2159,Java,372,644,7,3597,1055,928,139,161952,29968,114,448
@@ -88,13 +88,13 @@ bumptech_glide,https://github.com/bumptech/glide,An image loading and caching li
 osmandapp_Osmand,https://github.com/osmandapp/Osmand,OsmAnd,application,unknown,452044,1930,1930,Java,696,58773,1118,320771,47330,41815,1080,13950107,1678572,6778,10259
 querydsl_querydsl,https://github.com/querydsl/querydsl,Unified Queries for Java,framework,unknown,49213,2351,2351,Java,549,8056,207,109803,40318,30915,2015,5949619,1519821,3145,6961
 hamcrest_JavaHamcrest,https://github.com/hamcrest/JavaHamcrest,Java (and original) version of Hamcrest,library,unknown,19230,1619,1619,Java,298,1141,148,6975,3532,1934,161,445962,144698,408,100
-b3log_symphony,https://github.com/b3log/symphony,🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com,platform,organization,52782,11924,11924,Java,3562,6688,65,30745,18196,8222,222,2130381,518998,3075,1247
+b3log_symphony,https://github.com/b3log/symphony,__ �款�_ Java �_____代�_社�_�__/BBS/社交�__/__�_��_��_ttps://hacpai.com,platform,organization,52782,11924,11924,Java,3562,6688,65,30745,18196,8222,222,2130381,518998,3075,1247
 apache_ambari,https://github.com/apache/ambari,Mirror of Apache Ambari,tool,organization,341658,1141,1141,Java,1068,42605,499,423960,155639,106626,3306,26739163,6142045,16203,23527
 OpenFeign_feign,https://github.com/OpenFeign/feign,Feign makes writing java http clients easier,library,unknown,2729,4637,4637,Java,945,1958,317,18351,5399,4096,188,920946,234927,592,1026
 redisson_redisson,https://github.com/redisson/redisson,"Redisson - Redis Java client with features of In-Memory Data Grid. Supports over 30 objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC.",framework,unknown,12544,9806,9806,Java,2407,5342,173,126391,48789,30446,1179,7261426,1713682,5104,2179
 apache_flink,https://github.com/apache/flink,Apache Flink,framework,organization,250456,9436,9436,Java,5059,54071,1724,829834,329894,220342,8035,48484645,14669432,28514,58149
 spring-cloud_spring-cloud-gateway,https://github.com/spring-cloud/spring-cloud-gateway,A Gateway built on Spring Framework 5.x and Spring Boot 2.x providing routing and more.,tool,industry,6368,1684,1684,Java,1080,3009,132,23438,7642,6553,323,1244376,311943,508,1336
-hs-web_hsweb-framework,https://github.com/hs-web/hsweb-framework,"hsweb (haʊs wɛb) 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:便捷的通用增删改查,强大的权限管理,动态多数据源,动态表单,在线数据库维护等. 基于 spring-boot,mybaits.",framework,unknown,30778,6283,6283,Java,2499,2331,40,48687,17637,12576,1223,2582549,433921,2376,2337
+hs-web_hsweb-framework,https://github.com/hs-web/hsweb-framework,"hsweb (ha_s w_b) __�_�_��___建�_�___��__���___��项�_,___�_��_便�____�:便�_____�___��_,强大______,_��__��_�,_��_��_,_�线_��_�_��_��_. _��_ spring-boot,mybaits.",framework,unknown,30778,6283,6283,Java,2499,2331,40,48687,17637,12576,1223,2582549,433921,2376,2337
 JabRef_jabref,https://github.com/JabRef/jabref,Graphical Java application for managing BibTeX and biblatex (.bib) databases,application,unknown,112245,1365,1365,Java,939,21638,529,115294,16359,25528,1462,6103691,719656,2084,6085
 youtube_api-samples,https://github.com/youtube/api-samples,"Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.",example,industry,812,2711,2711,Java,2124,608,89,3046,1968,856,29,251367,85053,136,767
 todoroo_astrid,https://github.com/todoroo/astrid,Astrid: Android's #1 Task Management Application,application,unknown,88840,1070,1070,Java,977,7702,56,147572,44959,32720,1254,8110197,1747923,5766,9270
@@ -110,10 +110,10 @@ MorphiaOrg_morphia,https://github.com/MorphiaOrg/morphia,MongoDB object-document
 FasterXML_jackson-databind,https://github.com/FasterXML/jackson-databind,General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s),,,64357,2112,2112,Java,830,5974,370,115755,39929,23456,964,6410572,1641621,3719,9568
 huanghongxun_HMCL,https://github.com/huanghongxun/HMCL,"A Minecraft Launcher which is multi-functional, cross-platform and popular",,,16740,1532,1532,Java,231,1496,35,28511,9804,6424,404,1633251,408052,554,1229
 moquette-io_moquette,https://github.com/moquette-io/moquette,Java MQTT lightweight broker,,,5286,1296,1296,Java,574,1538,98,9705,2918,2294,130,560470,123182,101,971
-Swagger2Markup_swagger2markup,https://github.com/Swagger2Markup/swagger2markup,A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentation.,,,4595,1762,1762,Java,291,1212,198,7710,3240,1860,107,525355,115740,260,517
+Swagger2Markup_swagger2markup,https://github.com/Swagger2Markup/swagger2markup,A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that__ been hand-written with auto-generated API documentation.,,,4595,1762,1762,Java,291,1212,198,7710,3240,1860,107,525355,115740,260,517
 wdullaer_MaterialDateTimePicker,https://github.com/wdullaer/MaterialDateTimePicker,Pick a date or time on Android in style,,,1979,4106,4106,Java,887,633,112,8226,1869,1661,43,450667,81638,220,429
 hawtio_hawtio,https://github.com/hawtio/hawtio,Hawtio web console helps you manage your JVM stuff and stay cool!,,,96181,1066,1066,Java,451,11523,160,15567,2379,3072,202,758386,99903,291,665
-ZXZxin_ZXBlog,https://github.com/ZXZxin/ZXBlog,记录各种学习笔记(算法、Java、数据库、并发......),,,123182,3048,3048,Java,731,871,1,799,93,212,67,33188,3200,4,108
+ZXZxin_ZXBlog,https://github.com/ZXZxin/ZXBlog,记�___学�_�_(�____ava_______��_......),,,123182,3048,3048,Java,731,871,1,799,93,212,67,33188,3200,4,108
 real-logic_simple-binary-encoding,https://github.com/real-logic/simple-binary-encoding,Simple Binary Encoding (SBE) - High Performance Message Codec,,,20601,1935,1935,Java,323,2625,107,29007,4223,5347,120,1372532,182825,430,684
 google_nomulus,https://github.com/google/nomulus,Top-level domain name registry service on Google App Engine,,,28525,1337,1337,Java,155,2904,81,159189,44279,24813,1588,8993446,2197971,5557,26409
 mapstruct_mapstruct,https://github.com/mapstruct/mapstruct,An annotation processor for generating type-safe bean mappers,,,7974,1834,1834,Java,309,2518,142,81032,25579,22020,2437,3958180,842288,2365,6028
@@ -135,22 +135,22 @@ jitsi_jitsi,https://github.com/jitsi/jitsi,"Jitsi is an audio/video and chat com
 fishercoder1534_Leetcode,https://github.com/fishercoder1534/Leetcode,Complete solutions to Leetcode problems; updated daily. (I'm looking for long-term contributors/partners to this repo! Send me PRs if you're interested! - 9/5/2018),,,4329,1365,1365,Java,526,3598,34,46963,17466,10362,1267,2397133,780517,1356,1127
 ccrama_Slide,https://github.com/ccrama/Slide,"Slide is an open sourced, ad free Reddit browser for Android",,,126749,1072,1072,Java,244,4183,135,79317,8007,12408,354,4299879,310699,1140,2351
 pushtorefresh_storio,https://github.com/pushtorefresh/storio,Reactive API for SQLiteDatabase and ContentResolver.,,,4427,2639,2639,Java,180,1520,39,39611,6782,10488,526,2015374,235116,950,1425
-crossoverJie_JCSprout,https://github.com/crossoverJie/JCSprout,"👨‍🎓 Java Core Sprout : basic, concurrent, algorithm ",,,1081,21481,21481,Java,5947,736,48,4053,1384,1397,106,168213,20929,220,190
+crossoverJie_JCSprout,https://github.com/crossoverJie/JCSprout,"_____ Java Core Sprout : basic, concurrent, algorithm ",,,1081,21481,21481,Java,5947,736,48,4053,1384,1397,106,168213,20929,220,190
 checkstyle_checkstyle,https://github.com/checkstyle/checkstyle,"Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",,,64409,4655,4655,Java,6916,18013,458,210942,67231,31086,2062,12697126,3799792,9217,98906
 wildfly_wildfly,https://github.com/wildfly/wildfly,WildFly Application Server,,,196466,2294,2294,Java,1867,51214,761,542953,279795,120566,9039,40180025,12219339,17400,36551
-CellularPrivacy_Android-IMSI-Catcher-Detector,https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector,"AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!",,,10889,3533,3533,Java,737,5479,187,11259,2958,2354,105,626169,141888,232,955
+CellularPrivacy_Android-IMSI-Catcher-Detector,https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector,"AIMSICD _ Fight IMSI-Catcher, StingRay and silent SMS!",,,10889,3533,3533,Java,737,5479,187,11259,2958,2354,105,626169,141888,232,955
 spring-projects_spring-data-jpa,https://github.com/spring-projects/spring-data-jpa,Simplifies the development of creating a JPA-based data access layer. ,,,7206,1559,1559,Java,840,3882,195,22015,12821,8269,375,1406849,473362,1031,2376
 spring-cloud_spring-cloud-kubernetes,https://github.com/spring-cloud/spring-cloud-kubernetes,"Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc...",,,1912,1492,1492,Java,374,1021,104,7885,3033,2341,142,416611,117415,182,412
 vespa-engine_vespa,https://github.com/vespa-engine/vespa,Vespa is an engine for low-latency computation over large data sets.,,,96286,2855,2855,Java,339,36221,150,620194,106370,123414,7821,33681440,4870392,19793,25486
 JetBrains_ideavim,https://github.com/JetBrains/ideavim,Vim emulation plug-in for IDEs based on the IntelliJ platform.,,,8880,4027,4027,Java,429,3179,173,36299,10972,5793,328,1831728,524460,513,3760
 allure-framework_allure2,https://github.com/allure-framework/allure2,"The next generation of Allure Report, a flexible lightweight multi-language test report tool with the possibility to add steps, attachments, parameters and so on.",,,9709,1220,1220,Java,219,1648,95,11889,4372,2551,220,670908,161911,266,488
 stanfordnlp_CoreNLP,https://github.com/stanfordnlp/CoreNLP,Stanford CoreNLP: A Java suite of core NLP tools.,,,301767,6399,6399,Java,2207,16142,287,583450,120157,65316,2006,33161770,4729747,16260,32764
-mozilla-mobile_focus-android,https://github.com/mozilla-mobile/focus-android,Firefox Focus: The privacy browser - Browse like no one’s watching.,,,165221,1349,1349,Java,485,6638,208,8530,1337,2123,80,472727,81946,82,995
-Jasonette_JASONETTE-Android,https://github.com/Jasonette/JASONETTE-Android,"📡 Native App over HTTP, on Android",,,1524,1525,1525,Java,200,504,35,9360,1390,1724,50,529418,51141,64,657
+mozilla-mobile_focus-android,https://github.com/mozilla-mobile/focus-android,Firefox Focus: The privacy browser - Browse like no one__ watching.,,,165221,1349,1349,Java,485,6638,208,8530,1337,2123,80,472727,81946,82,995
+Jasonette_JASONETTE-Android,https://github.com/Jasonette/JASONETTE-Android,"__ Native App over HTTP, on Android",,,1524,1525,1525,Java,200,504,35,9360,1390,1724,50,529418,51141,64,657
 j-easy_easy-rules,https://github.com/j-easy/easy-rules,"The simple, stupid rules engine for Java",,,1425,1505,1505,Java,382,647,43,5249,4266,1557,127,391799,181481,308,476
 spring-projects_spring-batch,https://github.com/spring-projects/spring-batch,Spring Batch is a framework for writing offline and batch applications using Spring and Java,,,91354,1301,1301,Java,1307,8014,308,124273,63323,32461,1914,7159289,2307601,5053,6572
 zendesk_maxwell,https://github.com/zendesk/maxwell,"Maxwell's daemon, a mysql-to-json kafka producer",,,11657,1537,1537,Java,470,3783,207,17080,632,3983,214,690835,30961,43,385
-brettwooldridge_HikariCP,https://github.com/brettwooldridge/HikariCP,"光 HikariCP・A solid, high-performance, JDBC connection pool at last.",,,5012,10504,10504,Java,1601,3549,231,12534,3475,2633,96,589362,129194,797,522
+brettwooldridge_HikariCP,https://github.com/brettwooldridge/HikariCP,"_ HikariCP__ solid, high-performance, JDBC connection pool at last.",,,5012,10504,10504,Java,1601,3549,231,12534,3475,2633,96,589362,129194,797,522
 spring-projects_spring-data-mongodb,https://github.com/spring-projects/spring-data-mongodb,Provide support to increase developer productivity in Java when using MongoDB. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.,,,20726,1037,1037,Java,770,6711,299,94060,50723,34458,884,5871451,1893440,4785,9663
 MinecraftForge_MinecraftForge,https://github.com/MinecraftForge/MinecraftForge,Modifications to the Minecraft base files to assist in compatibility between mods.,,,96756,3187,3187,Java,1494,18592,1203,52688,37341,11824,794,3755418,1627159,1440,2853
 haifengl_smile,https://github.com/haifengl/smile,Statistical Machine Intelligence & Learning Engine,,,167193,4412,4412,Java,894,1857,92,96017,48507,20193,859,5671893,1889765,7472,2750
@@ -161,7 +161,7 @@ javamelody_javamelody,https://github.com/javamelody/javamelody,JavaMelody : moni
 airbnb_lottie-android,https://github.com/airbnb/lottie-android,"Render After Effects animations natively on Android and iOS, Web, and React Native",,,133967,26037,26037,Java,4095,2132,156,14964,2189,2663,198,630712,89676,351,445
 apache_groovy,https://github.com/apache/groovy,Mirror of Apache Groovy,,,179079,3299,3299,Java,1252,31259,514,199165,97858,37204,1691,13600615,4146307,7448,12127
 firebase_quickstart-android,https://github.com/firebase/quickstart-android,Firebase Quickstart Samples for Android,,,27969,5701,5701,Java,5645,1310,116,10903,2499,2494,129,572816,100047,220,1424
-javaparser_javaparser,https://github.com/javaparser/javaparser, Java 1-12 Parser and Abstract Syntax Tree for Java –,,,21672,2583,2583,Java,586,6688,226,155333,32719,28252,1403,7845263,1243875,2960,4898
+javaparser_javaparser,https://github.com/javaparser/javaparser, Java 1-12 Parser and Abstract Syntax Tree for Java _,,,21672,2583,2583,Java,586,6688,226,155333,32719,28252,1403,7845263,1243875,2960,4898
 spring-projects_spring-security-oauth,https://github.com/spring-projects/spring-security-oauth,Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.,,,6442,3634,3634,Java,3374,2845,442,44446,15321,10294,690,2597675,585525,1568,2341
 openhab_openhab2-addons,https://github.com/openhab/openhab2-addons,Add-ons for openHAB 2.x,,,358460,1150,1150,Java,2042,31307,1405,380678,157550,77570,5169,22821803,5172636,21409,16243
 fossasia_open-event-droidgen,https://github.com/fossasia/open-event-droidgen,Open Event Android App Generator https://github.com/fossasia/open-event-android/raw/apk/sample-apk-fossasia17-development.apk,,,76660,1348,1348,Java,849,4376,258,13595,405,2894,199,624419,15319,45,173
@@ -177,7 +177,7 @@ scribejava_scribejava,https://github.com/scribejava/scribejava,Simple OAuth libr
 Netflix_EVCache,https://github.com/Netflix/EVCache,A distributed in-memory data store for the cloud,,,2430,1184,1184,Java,174,653,31,11692,2029,1985,78,671405,89687,151,284
 reactor_reactor-core,https://github.com/reactor/reactor-core,Non-Blocking Reactive Foundation for the JVM,,,53413,2444,2444,Java,481,4908,152,147502,36610,34208,785,6466015,1618056,2243,3930
 square_retrofit,https://github.com/square/retrofit,"Type-safe HTTP client for Android and Java by Square, Inc.",,,4964,33026,33026,Java,6133,3041,458,20403,4779,3651,241,1000528,216320,231,1115
-limpoxe_Android-Plugin-Framework,https://github.com/limpoxe/Android-Plugin-Framework,Android插件框架，免安装运行插件APK ，支持独立插件和非独立插件,,,234767,1444,1444,Java,432,1375,16,21131,2850,4705,247,1011771,90617,345,1196
+limpoxe_Android-Plugin-Framework,https://github.com/limpoxe/Android-Plugin-Framework,Android__���__�__�_�___��APK �_____�__件�____�__�,,,234767,1444,1444,Java,432,1375,16,21131,2850,4705,247,1011771,90617,345,1196
 mpetazzoni_ttorrent,https://github.com/mpetazzoni/ttorrent,BitTorrent Java library with tracker and download client,,,6822,1082,1082,Java,447,1460,97,13702,4119,3185,190,680545,143564,487,341
 androidannotations_androidannotations,https://github.com/androidannotations/androidannotations,Fast Android Development. Easy maintainance.,,,22289,10833,10833,Java,2451,3509,146,38155,22429,10961,933,2437870,864249,1382,2181
 oracle_helidon,https://github.com/oracle/helidon,Java libraries for writing microservices,,,7427,1453,1453,Java,199,2052,62,130097,77485,31172,1714,8845346,3103371,6766,8868
@@ -202,11 +202,11 @@ alibaba_atlas,https://github.com/alibaba/atlas,A powerful Android Dynamic Compon
 eclipse_eclipse-collections,https://github.com/eclipse/eclipse-collections,"Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.",,,10640,1094,1094,Java,257,1358,103,298385,41774,47180,2575,13752258,2082662,3423,9093
 brianwernick_ExoMedia,https://github.com/brianwernick/ExoMedia,An Android ExoPlayer wrapper to simplify Audio and Video implementations,,,2698,1670,1670,Java,321,889,66,6734,3333,1747,56,402405,131197,414,297
 classgraph_classgraph,https://github.com/classgraph/classgraph,"An uber-fast, ultra-lightweight, parallelized Java classpath scanner and module scanner.",,,24839,1317,1317,Java,163,3852,60,24813,20677,4154,278,2044817,861127,2635,3447
-b3log_solo,https://github.com/b3log/solo,🎸 一款小而美的博客系统，专为程序员设计。https://hacpai.com/tag/solo,,,94490,8015,8015,Java,2642,3607,76,18200,12901,4678,196,1249842,384736,1745,902
+b3log_solo,https://github.com/b3log/solo,__ �款�_______客系�__�_���____计�_ttps://hacpai.com/tag/solo,,,94490,8015,8015,Java,2642,3607,76,18200,12901,4678,196,1249842,384736,1745,902
 junit-team_junit4,https://github.com/junit-team/junit4,A programmer-oriented testing framework for Java.,,,23457,7532,7532,Java,2800,4468,509,30917,7376,6583,466,1430649,262026,995,450
 careercup_CtCI-6th-Edition,https://github.com/careercup/CtCI-6th-Edition,Cracking the Coding Interview 6th Ed. Solutions,,,21487,5045,5045,Java,2369,764,118,22916,1277,4343,584,770012,65561,18,1198
 plutext_docx4j,https://github.com/plutext/docx4j,"JAXB-based Java library for Word docx, Powerpoint pptx, and Excel xlsx files",,,115910,1173,1173,Java,963,5429,100,318635,377248,104234,3848,24341773,13351875,37408,55260
-razerdp_BasePopup,https://github.com/razerdp/BasePopup,亲，还在为PopupWindow烦恼吗？不如试试BasePopup，你会爱上他的~,,,20110,3174,3174,Java,530,845,8,11439,2094,2381,126,542816,65901,259,222
+razerdp_BasePopup,https://github.com/razerdp/BasePopup,亲�_�__�_opupWindow_��____�_�__BasePopup�__�__�____,,,20110,3174,3174,Java,530,845,8,11439,2094,2381,126,542816,65901,259,222
 linkedin_cruise-control,https://github.com/linkedin/cruise-control,Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.,,,4850,1189,1189,Java,242,1422,49,39166,12047,6348,348,2636835,591951,1571,2271
 rsocket_rsocket-java,https://github.com/rsocket/rsocket-java,Java implementation of RSocket,,,3809,1060,1060,Java,162,1875,69,24949,6626,5270,331,1180321,284534,448,971
 facebook_facebook-android-sdk,https://github.com/facebook/facebook-android-sdk,Used to integrate Android apps with Facebook Platform.,,,26486,4865,4865,Java,2993,1904,325,59227,18165,11754,450,3433421,927222,1883,2448
@@ -230,12 +230,12 @@ bwssytems_ha-bridge,https://github.com/bwssytems/ha-bridge,"Home automation brid
 OpenTSDB_opentsdb,https://github.com/OpenTSDB/opentsdb,"A scalable, distributed Time Series Database.",,,37771,3761,3761,Java,1099,5334,371,111174,27096,18008,394,5785039,1258955,3999,9842
 ratpack_ratpack,https://github.com/ratpack/ratpack,Lean & powerful HTTP apps,,,23750,1803,1803,Java,366,6654,239,41736,38077,11161,827,2940562,1482979,2401,2191
 jacoco_jacoco,https://github.com/jacoco/jacoco,:microscope: JaCoCo - Java Code Coverage Library,,,9116,1731,1731,Java,545,2978,148,36842,16699,8709,589,1856632,649000,2164,1957
-wikimedia_apps-android-wikipedia,https://github.com/wikimedia/apps-android-wikipedia, 📱The official Wikipedia app for Android!,,,199128,1003,1003,Java,326,9938,116,59924,3337,11691,681,2787416,165792,488,1264
+wikimedia_apps-android-wikipedia,https://github.com/wikimedia/apps-android-wikipedia, __The official Wikipedia app for Android!,,,199128,1003,1003,Java,326,9938,116,59924,3337,11691,681,2787416,165792,488,1264
 square_javapoet,https://github.com/square/javapoet,A Java API for generating .java source files.,,,1753,7068,7068,Java,875,1345,164,8689,1159,1152,37,399797,54208,126,223
 googlemaps_google-maps-services-java,https://github.com/googlemaps/google-maps-services-java,Java client library for Google Maps API Web Services,,,5944,1171,1171,Java,743,1233,101,10305,5921,2226,143,674156,278519,884,606
 joel-costigliola_assertj-core,https://github.com/joel-costigliola/assertj-core,AssertJ is a library providing easy to use rich typed assertions ,,,27120,1545,1545,Java,352,4505,380,161298,120134,38719,3708,12957349,5619470,6868,15940
 permissions-dispatcher_PermissionsDispatcher,https://github.com/permissions-dispatcher/PermissionsDispatcher,Simple annotation-based API to handle runtime permissions.,,,2832,9159,9159,Java,1257,1014,58,7516,275,654,35,397962,11913,30,90
-halo-dev_halo,https://github.com/halo-dev/halo,✍ Halo 一款现代化的个人独立博客系统,,,25083,6874,6874,Java,1845,1369,28,16412,7383,5272,393,876081,147299,1187,841
+halo-dev_halo,https://github.com/halo-dev/halo,_ Halo �款�_代�___��人�_�__客系�,,,25083,6874,6874,Java,1845,1369,28,16412,7383,5272,393,876081,147299,1187,841
 guoguibing_librec,https://github.com/guoguibing/librec,"LibRec: A Leading Java Library for Recommender Systems, see",,,84211,2423,2423,Java,870,1144,60,31799,20833,7634,398,2100647,722770,2618,4597
 nutzam_nutz,https://github.com/nutzam/nutz,Nutz -- Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java developer,,,43659,2121,2121,Java,938,6332,150,94219,31087,19902,1677,4425530,770714,3959,4893
 jersey_jersey,https://github.com/jersey/jersey,This is no longer the active Jersey repository. Please see the README.md,,,38964,2894,2894,Java,2538,8715,393,262222,220036,65259,3572,21134547,10208408,11245,16407
@@ -253,8 +253,8 @@ mplushnikov_lombok-intellij-plugin,https://github.com/mplushnikov/lombok-intelli
 alibaba_fastjson,https://github.com/alibaba/fastjson,:bullettrain_side: A fast JSON parser/generator for Java. (Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by fastjson ) ,,,12646,18439,18439,Java,4997,4160,264,164209,13265,45917,2774,6742232,412899,2259,4236
 deeplearning4j_dl4j-examples,https://github.com/deeplearning4j/dl4j-examples,"Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)",,,352791,1642,1642,Java,1548,2348,191,26723,10902,5779,279,1874624,603607,758,3963
 stleary_JSON-java,https://github.com/stleary/JSON-java,A reference implementation of a JSON package in Java.,,,883,3313,3313,Java,2207,722,219,3742,3838,622,21,293947,155046,341,253
-PhilJay_MPAndroidChart,https://github.com/PhilJay/MPAndroidChart,"A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.",,,21264,27812,27812,Java,7220,2971,349,24376,8932,8399,220,1281448,257060,1582,1186
-amitshekhariitbhu_Fast-Android-Networking,https://github.com/amitshekhariitbhu/Fast-Android-Networking,🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀,,,2806,4451,4451,Java,779,678,26,16495,3232,3856,129,927346,150914,215,767
+PhilJay_MPAndroidChart,https://github.com/PhilJay/MPAndroidChart,"A powerful __ Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.",,,21264,27812,27812,Java,7220,2971,349,24376,8932,8399,220,1281448,257060,1582,1186
+amitshekhariitbhu_Fast-Android-Networking,https://github.com/amitshekhariitbhu/Fast-Android-Networking,__ A Complete Fast Android Networking Library that also supports HTTP/2 __,,,2806,4451,4451,Java,779,678,26,16495,3232,3856,129,927346,150914,215,767
 BuildCraft_BuildCraft,https://github.com/BuildCraft/BuildCraft,BuildCraft,,,74818,1098,1098,Java,494,10271,410,161530,13304,33533,1923,7547525,797608,1657,7393
 npgall_cqengine,https://github.com/npgall/cqengine,Ultra-fast SQL-like queries on Java collections,,,10706,1007,1007,Java,166,2337,36,26056,13736,5252,362,1906005,635378,1377,1590
 embulk_embulk,https://github.com/embulk/embulk,Embulk: Pluggable Bulk Data Loader.,,,6053,1296,1296,Java,162,3277,94,28779,2521,4766,319,1413045,139310,113,1637
@@ -270,7 +270,7 @@ aws_aws-sdk-java,https://github.com/aws/aws-sdk-java,The official AWS SDK for Ja
 moagrius_TileView,https://github.com/moagrius/TileView,"TileView is a subclass of android.view.ViewGroup that asynchronously displays, pans and zooms tile-based images.  Plugins are available for features like markers, hotspots, and path drawing.",,,46201,1352,1352,Java,338,589,44,2301,188,454,30,88337,9755,14,103
 ben-manes_caffeine,https://github.com/ben-manes/caffeine,A high performance caching library for Java 8,,,17634,6151,6151,Java,546,1186,54,55424,15473,9611,402,2898146,694627,1753,2480
 firebase_FirebaseUI-Android,https://github.com/firebase/FirebaseUI-Android,Optimized UI components for Firebase,,,21488,3474,3474,Java,1495,3948,175,18016,3011,3785,208,938580,127701,386,707
-alibaba_Sentinel,https://github.com/alibaba/Sentinel,A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库),,,4066,7705,7705,Java,2187,1643,162,45524,21448,10041,802,2691649,777939,1568,2819
+alibaba_Sentinel,https://github.com/alibaba/Sentinel,A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻�_级�_�___��______� Java �),,,4066,7705,7705,Java,2187,1643,162,45524,21448,10041,802,2691649,777939,1568,2819
 zaproxy_zaproxy,https://github.com/zaproxy/zaproxy,The OWASP ZAP core project,,,180791,5907,5907,Java,1100,8588,206,181720,73098,33139,1220,10614162,2842783,5988,15860
 osmdroid_osmdroid,https://github.com/osmdroid/osmdroid,OpenStreetMap-Tools for Android,,,108055,1687,1687,Java,756,3925,117,46741,14100,10815,523,2401228,514282,2032,3576
 jamesdbloom_mockserver,https://github.com/jamesdbloom/mockserver,"MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).",,,38220,2144,2144,Java,597,2329,113,74752,8712,11593,718,3915728,177451,783,5993
@@ -280,16 +280,16 @@ orbit_orbit,https://github.com/orbit/orbit,Orbit - Virtual actor framework for b
 zxing_zxing,https://github.com/zxing/zxing,"ZXing (""Zebra Crossing"") barcode scanning library for Java, Android",,,239968,23041,23041,Java,8218,6680,312,43598,16427,7634,499,2382634,683288,1148,4141
 raphw_byte-buddy,https://github.com/raphw/byte-buddy,Runtime code generation for the Java virtual machine.,,,874287,2858,2858,Java,369,5201,72,151640,71471,31951,1082,11007208,2785789,15003,1840
 jooby-project_jooby,https://github.com/jooby-project/jooby,The modular micro web framework for Java and Kotlin,,,55659,1052,1052,Java,138,2830,96,23854,10614,5073,287,1141832,298360,1540,1149
-ctripcorp_apollo,https://github.com/ctripcorp/apollo,Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。,,,44784,15419,15419,Java,5445,4218,156,45972,3949,12187,661,2219367,131429,682,843
+ctripcorp_apollo,https://github.com/ctripcorp/apollo,Apollo�__波�_�___��_�___��_______�____���_�__�__�_管�_�__�_________群�___���__罿�_��__���___��__�__�_并�__���_________�_��____���____�_��_____��管�__��__,,,44784,15419,15419,Java,5445,4218,156,45972,3949,12187,661,2219367,131429,682,843
 apache_zeppelin,https://github.com/apache/zeppelin,Mirror of Apache Zeppelin,,,75123,4241,4241,Java,2103,21351,913,126047,23190,23517,760,6280483,1040419,1935,6472
-pagehelper_Mybatis-PageHelper,https://github.com/pagehelper/Mybatis-PageHelper,Mybatis通用分页插件,,,4305,7519,7519,Java,2267,598,35,6487,4248,1243,114,454647,160598,224,640
+pagehelper_Mybatis-PageHelper,https://github.com/pagehelper/Mybatis-PageHelper,Mybatis_____��__��,,,4305,7519,7519,Java,2267,598,35,6487,4248,1243,114,454647,160598,224,640
 openhab_openhab1-addons,https://github.com/openhab/openhab1-addons,Add-ons for openHAB 1.x,,,239805,3479,3479,Java,1816,14907,949,379125,280105,80803,3689,25297857,8135072,36660,19891
 pwittchen_ReactiveNetwork,https://github.com/pwittchen/ReactiveNetwork, Android library listening network connection state and Internet connectivity with RxJava Observables,,,1366,2179,2179,Java,229,756,14,2110,959,509,26,125770,30737,55,331
 mendhak_gpslogger,https://github.com/mendhak/gpslogger,":satellite: Lightweight GPS Logging Application For Android. Available on the Android Market as ""GPSLogger for Android""",,,23212,1059,1059,Java,467,1790,62,13304,2764,4213,128,754851,116513,235,510
-1hakr_AnExplorer,https://github.com/1hakr/AnExplorer,"📁 Another Android Explorer ( File Manager ) is an All-in-One Open source file manager. AnExplorer File Manager (File Explorer) is designed for all android devices including Phones, Phablets, Tablets, Chromecast, Wear OS, Android TV and Chromebooks. It's a fully designed with Material guidelines by Google.",,,15242,1085,1085,Java,447,597,13,43684,8540,7915,304,2168533,389525,919,1468
+1hakr_AnExplorer,https://github.com/1hakr/AnExplorer,"__ Another Android Explorer ( File Manager ) is an All-in-One Open source file manager. AnExplorer File Manager (File Explorer) is designed for all android devices including Phones, Phablets, Tablets, Chromecast, Wear OS, Android TV and Chromebooks. It's a fully designed with Material guidelines by Google.",,,15242,1085,1085,Java,447,597,13,43684,8540,7915,304,2168533,389525,919,1468
 spotify_docker-client,https://github.com/spotify/docker-client,INACTIVE: A simple docker client for the JVM,,,3535,1259,1259,Java,485,2553,283,21101,8142,5607,232,1171950,305466,491,1147
 bitcoin-wallet_bitcoin-wallet,https://github.com/bitcoin-wallet/bitcoin-wallet,"Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.",,,33345,1797,1797,Java,1329,4773,111,18629,3368,3723,150,1037661,137271,228,546
-fengjiachun_Jupiter,https://github.com/fengjiachun/Jupiter,"Jupiter是一款性能非常不错的, 轻量级的分布式服务框架",,,9816,1007,1007,Java,455,1770,24,29397,15863,6722,435,1825857,602385,1227,3347
+fengjiachun_Jupiter,https://github.com/fengjiachun/Jupiter,"Jupiter__款��___���___, 轻�_级�____�___��_",,,9816,1007,1007,Java,455,1770,24,29397,15863,6722,435,1825857,602385,1227,3347
 westnordost_StreetComplete,https://github.com/westnordost/StreetComplete,OSM Surveyor app for Android,,,97533,1113,1113,Java,114,2449,76,18426,844,3681,207,671588,52629,147,457
 apache_jmeter,https://github.com/apache/jmeter,Apache JMeter,,,63577,3183,3183,Java,1064,25397,214,139518,68466,28440,1316,8660550,2721769,7618,15255
 EngineHub_WorldEdit,https://github.com/EngineHub/WorldEdit,An in-game voxel map editor for Minecraft,,,13543,1267,1267,Java,607,4253,258,57469,29032,13339,800,3566163,1096031,2451,3309
@@ -315,7 +315,7 @@ rdoeffinger_Dictionary,https://github.com/rdoeffinger/Dictionary,"""QuickDic"" o
 Talend_tesb-rt-se,https://github.com/Talend/tesb-rt-se,ESB,,,67609,136,136,Java,177,5600,124,64723,23449,17087,896,3372980,789853,2221,4559
 eclipse_eclipse.jdt.core,https://github.com/eclipse/eclipse.jdt.core,JDT/Core project repository (eclipse.jdt.core),,,128256,157,157,Java,106,34924,205,1497579,292589,115722,7174,69606856,13675477,31508,146998
 NucleusPowered_Nucleus,https://github.com/NucleusPowered/Nucleus,The Ultimate Essentials Plugin for Sponge.,,,9165,113,113,Java,50,3056,38,48572,9534,11019,895,2811652,340661,830,1972
-caojx-git_learn,https://github.com/caojx-git/learn,该仓库主要用于存放学习相关的资料，笔记，项目等,,,479955,108,108,Java,55,680,9,25567,8998,6557,696,1164941,211097,1032,3276
+caojx-git_learn,https://github.com/caojx-git/learn,该�_�_���__�___���___��_�__�__记�_项�_�,,,479955,108,108,Java,55,680,9,25567,8998,6557,696,1164941,211097,1032,3276
 streamsupport_streamsupport,https://github.com/streamsupport/streamsupport,"Backport of Java 8 java.util.stream API to Java 6/7 and Android, mirrored from",,,4227,319,319,Java,18,1619,6,86123,49049,14175,377,5801089,2187754,3607,5089
 Railcraft_Railcraft,https://github.com/Railcraft/Railcraft,"The Railcraft Mod for Minecraft, source and development.",,,14626,390,390,Java,136,3176,68,94863,22105,20662,1443,5029086,1048637,1613,9166
 willuhn_hibiscus,https://github.com/willuhn/hibiscus,"A Java based, plattform independent (running on Linux, Windows, OS X, OpenBSD, OpenSolaris) homebanking application, that uses the  german FinTS/HBCI standard. All data (accounts, transactions, addresses, ..) are stored encrypted into an embedded database (H2) by default or on a Mysql server (if configured).  Hibiscus runs as a plugin within the Jameica framework as either a typical desktop application or headless in server mode.",,,178777,150,150,Java,52,3722,38,75908,39740,16518,838,4187573,1378708,7228,4025
@@ -334,7 +334,7 @@ rickfast_consul-client,https://github.com/rickfast/consul-client,Java Client for
 dcm4che_dcm4che,https://github.com/dcm4che/dcm4che,DICOM Implementation in JAVA,,,58930,515,515,Java,381,3531,115,62752,19432,10253,441,3480208,884919,710,1908
 iotaledger_iota-java,https://github.com/iotaledger/iota-java,JOTA library is a simple Java wrapper around IOTA (http://www.iota.org/) Node's JSON-REST HTTP interface.,,,4365,118,118,Java,80,655,45,12964,6679,3817,223,864213,261983,1016,452
 ShifuML_shifu,https://github.com/ShifuML/shifu,An end-to-end machine learning and data mining framework on Hadoop,,,14139,173,173,Java,87,4178,71,67669,27288,14527,554,4130282,925111,3278,4420
-raulhaag_MiMangaNu,https://github.com/raulhaag/MiMangaNu,"*ES - Lector de Manga online / offline, gratuito y de código abierto.  *EN - Manga reader online / offline, free and open source.  *FR - Lecteur de manga en ligne / hors ligne, gratuit et open source.  *DE - Eine App um Manga zu lesen. Man kann damit Manga online und offline lesen. Es ist kostenlos und quelloffen.  *IT - Manga lettore online / offline, gratuito e open source.  *RU - В России Манга читает вас. Попробуйте MiMangaNu прямо сейчас.",,,7916,198,198,Java,57,1684,33,26137,2070,3491,157,1220846,87132,225,1025
+raulhaag_MiMangaNu,https://github.com/raulhaag/MiMangaNu,"*ES - Lector de Manga online / offline, gratuito y de código abierto.  *EN - Manga reader online / offline, free and open source.  *FR - Lecteur de manga en ligne / hors ligne, gratuit et open source.  *DE - Eine App um Manga zu lesen. Man kann damit Manga online und offline lesen. Es ist kostenlos und quelloffen.  *IT - Manga lettore online / offline, gratuito e open source.  *RU - _ _о__ии _анга _и_ае_ ва_. _оп_об_й_е MiMangaNu п__мо _ей_а_.",,,7916,198,198,Java,57,1684,33,26137,2070,3491,157,1220846,87132,225,1025
 javaparser_javasymbolsolver,https://github.com/javaparser/javasymbolsolver,*old repository* --> this is now integrated in https://github.com/javaparser/javaparser,,,9843,252,252,Java,62,1205,34,84802,17767,15111,668,4100475,739181,1488,3139
 JavaOPs_topjava,https://github.com/JavaOPs/topjava,Java Enterprise: Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery,,,64,146,146,Java,1660,1247,86,6,7,1,1,297,190,1,2
 eclipse_golo-lang,https://github.com/eclipse/golo-lang,Golo - a lightweight dynamic language for the JVM.,,,6241,389,389,Java,91,2707,62,27162,8109,5928,301,1281188,274477,892,770
@@ -353,7 +353,7 @@ WPIRoboticsProjects_GRIP,https://github.com/WPIRoboticsProjects/GRIP,Program for
 thelinmichael_spotify-web-api-java,https://github.com/thelinmichael/spotify-web-api-java,A Java wrapper for Spotify's Web API.,,,12799,333,333,Java,151,971,42,17830,9635,3882,305,1138718,456317,1613,720
 palantir_conjure,https://github.com/palantir/conjure,Strongly typed HTTP/JSON APIs for browsers and microservices,,,4516,178,178,Java,20,1551,111,6357,2103,1385,124,382717,93706,59,344
 kryptco_krypton-android,https://github.com/kryptco/krypton-android,"Krypton turns your Android device into a U2F Authenticator: strong, unphishable 2FA.",,,15612,151,151,Java,27,607,14,28168,1126,4000,257,1153697,33165,215,302
-sunnyandgood_BigData,https://github.com/sunnyandgood/BigData,💎🔥大数据学习笔记,,,331418,122,122,Java,43,714,4,762,58,239,15,30191,2709,6,43
+sunnyandgood_BigData,https://github.com/sunnyandgood/BigData,____大�__�__�,,,331418,122,122,Java,43,714,4,762,58,239,15,30191,2709,6,43
 apache_sqoop,https://github.com/apache/sqoop,Mirror of Apache Sqoop,,,18720,602,602,Java,429,3111,120,84887,27663,18470,719,4483531,1206008,3058,5599
 jfrog_artifactory-client-java,https://github.com/jfrog/artifactory-client-java,Artifactory REST Client Java API bindings,,,1442,101,101,Java,103,776,103,8904,980,2543,228,408131,25207,225,147
 apache_tez,https://github.com/apache/tez,Mirror of Apache Tez,,,26896,232,232,Java,240,3961,72,188009,41834,32288,1111,10316621,1894109,3457,10193
@@ -372,17 +372,17 @@ zhanghai_MaterialFiles,https://github.com/zhanghai/MaterialFiles,Material Design
 owlcs_owlapi,https://github.com/owlcs/owlapi,OWL API main repository,,,163679,423,423,Java,231,4952,66,154464,67654,23194,1831,11177033,4645330,9670,11527
 buchen_portfolio,https://github.com/buchen/portfolio,A simple tool to calculate the overall performance of an investment portfolio.,,,24769,452,452,Java,141,4399,121,95880,4616,20997,710,4546619,202977,388,6968
 Wikia_selenium-tests,https://github.com/Wikia/selenium-tests,,,,253327,146,146,Java,117,17499,248,52900,2085,11749,719,2491461,91308,395,812
-GIScience_openrouteservice,https://github.com/GIScience/openrouteservice,🌍 The open source route planner api with plenty of features.,,,131932,308,308,Java,77,2874,82,64718,19474,14660,632,3758005,957771,1078,5643
+GIScience_openrouteservice,https://github.com/GIScience/openrouteservice,__ The open source route planner api with plenty of features.,,,131932,308,308,Java,77,2874,82,64718,19474,14660,632,3758005,957771,1078,5643
 dropbox_dropbox-sdk-java,https://github.com/dropbox/dropbox-sdk-java,A Java library for the Dropbox Core API.,,,33154,360,360,Java,335,598,82,17071,5410,3484,152,971784,235637,552,1119
 VKCOM_vk-java-sdk,https://github.com/VKCOM/vk-java-sdk,Java library for working with VK API,,,2164,203,203,Java,100,575,37,77350,33211,19136,1542,3845462,1057621,6749,38
 jpmml_jpmml-sklearn,https://github.com/jpmml/jpmml-sklearn,Java library and command-line application for converting Scikit-Learn pipelines to PMML,,,57876,324,324,Java,68,632,9,12015,4345,4209,235,590715,187557,19,600
 mobnetic_BitcoinChecker,https://github.com/mobnetic/BitcoinChecker,DataModule for Bitcoin Checker android app,,,2997,305,305,Java,199,661,127,9739,258,1718,177,403116,15344,3,474
 pwm-project_pwm,https://github.com/pwm-project/pwm,pwm,,,133898,454,454,Java,153,2730,79,113496,18684,18413,804,5655616,761599,226,3592
 j-easy_easy-random,https://github.com/j-easy/easy-random,"The simple, stupid random Java beans generator",,,2564,731,731,Java,116,1225,49,10871,11152,3395,303,956662,477976,968,540
-ebraminio_DroidPersianCalendar,https://github.com/ebraminio/DroidPersianCalendar,Android Persian Calendar / تقویم فارسی اندروید ,,,33559,340,340,Java,137,3100,40,9802,2209,1939,98,554727,90507,103,1518
+ebraminio_DroidPersianCalendar,https://github.com/ebraminio/DroidPersianCalendar,Android Persian Calendar / ت____ _ارس_ ا_در__د ,,,33559,340,340,Java,137,3100,40,9802,2209,1939,98,554727,90507,103,1518
 jobxhub_JobX,https://github.com/jobxhub/JobX,"JobX,Let's schedule easy",,,18470,448,448,Java,183,696,9,27434,10956,6496,287,1479507,418336,1045,1977
 FWGS_xash3d-android-project,https://github.com/FWGS/xash3d-android-project,Xash3D Android Project for NDK. ,,,5084,199,199,Java,35,663,26,5582,694,933,16,200855,28589,40,460
-zstackio_zstack,https://github.com/zstackio/zstack,ZStack - the open-source IaaS software http://zstack.org (国内用户请至 http://zstack.io),,,68845,679,679,Java,264,12159,122,488231,30418,107945,8392,21431860,799988,4796,2976
+zstackio_zstack,https://github.com/zstackio/zstack,ZStack - the open-source IaaS software http://zstack.org (_��__��_请�_ http://zstack.io),,,68845,679,679,Java,264,12159,122,488231,30418,107945,8392,21431860,799988,4796,2976
 ahmetaa_zemberek-nlp,https://github.com/ahmetaa/zemberek-nlp,NLP tools for Turkish.,,,54301,652,652,Java,139,1319,21,56113,6779,10032,412,2303650,261937,773,1885
 jitsi_jitsi-videobridge,https://github.com/jitsi/jitsi-videobridge,"Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).",,,164994,947,947,Java,391,3777,118,22214,13859,4308,100,1330816,531272,1857,1754
 the-pig-of-jungle_smart-show,https://github.com/the-pig-of-jungle/smart-show,Toast & Snackbar & TopBar & Dialog ,,,17470,301,301,Java,54,642,7,5809,228,1525,81,238568,8870,18,90
@@ -412,12 +412,12 @@ kframework_k,https://github.com/kframework/k,K Framework Tools 5.0,,,55392,122,1
 adminfaces_admin-template,https://github.com/adminfaces/admin-template,JSF responsive admin template based on Bootstrap and AdminLTE ,,,1172,126,126,Java,73,542,22,1705,439,410,21,87221,23302,65,57
 vojtechhabarta_typescript-generator,https://github.com/vojtechhabarta/typescript-generator,"Generates TypeScript from Java - JSON declarations, REST service client",,,7752,424,424,Java,105,2130,72,14742,784,2822,190,727682,36299,122,207
 Etar-Group_Etar-Calendar,https://github.com/Etar-Group/Etar-Calendar,Android open source calendar,,,33644,676,676,Java,225,6108,214,36880,8490,5574,116,2057081,384129,582,4107
-CaMnter_AndroidLife,https://github.com/CaMnter/AndroidLife,📔 CaMnter's android learning life and footprint.,,,82775,277,277,Java,66,1456,8,58502,39547,17064,879,3896793,1218951,4488,5402
+CaMnter_AndroidLife,https://github.com/CaMnter/AndroidLife,__ CaMnter's android learning life and footprint.,,,82775,277,277,Java,66,1456,8,58502,39547,17064,879,3896793,1218951,4488,5402
 wbaumann_SmartReceiptsLibrary,https://github.com/wbaumann/SmartReceiptsLibrary,"A customizable, easy-to-use receipt scanner for Android",,,49758,148,148,Java,65,2734,18,53161,5118,12057,747,2847847,224722,737,1423
 zalando_tracer,https://github.com/zalando/tracer,Call tracing and log correlation in distributed systems,,,986,111,111,Java,31,593,17,886,45,259,21,38050,1973,5,18
 Nukkit_Nukkit,https://github.com/Nukkit/Nukkit,Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition,,,10659,724,724,Java,311,5683,265,86648,8405,20107,1353,3457141,227244,1561,1504
 etcd-io_jetcd,https://github.com/etcd-io/jetcd,etcd java client,,,1550,510,510,Java,165,1056,70,7706,3760,1994,147,435247,141963,274,528
-RS485_LogisticsPipes,https://github.com/RS485/LogisticsPipes,The RS485 take on LogisticsPipes -- ESTḌ 2012,,,20721,181,181,Java,93,4168,117,90469,5603,17678,1131,3633692,245908,331,1527
+RS485_LogisticsPipes,https://github.com/RS485/LogisticsPipes,The RS485 take on LogisticsPipes -- EST� 2012,,,20721,181,181,Java,93,4168,117,90469,5603,17678,1131,3633692,245908,331,1527
 boy0001_FastAsyncWorldedit,https://github.com/boy0001/FastAsyncWorldedit,"Blazingly fast world manipulation for artists, large networks and developers: https://www.spigotmc.org/resources/13932/",,,30243,262,262,Java,197,1589,54,129304,19850,18771,888,6114724,745715,2153,4245
 react-native-kit_react-native-track-player,https://github.com/react-native-kit/react-native-track-player,"A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!",,,3666,811,811,Java,229,893,83,2004,150,537,15,90177,4652,23,79
 eclipse_egit,https://github.com/eclipse/egit,Eclipse Git Team Provider (EGit) project repository (egit),,,57584,131,131,Java,100,19351,223,143680,41726,25908,1100,6767781,1478108,7844,7447
@@ -449,7 +449,7 @@ GerritCodeReview_gerrit,https://github.com/GerritCodeReview/gerrit,Gerrit Code R
 pietermartin_sqlg,https://github.com/pietermartin/sqlg,tinkerpop3 graph over sql,,,9256,157,157,Java,38,1996,37,88738,8269,10434,403,5050568,325941,755,4578
 apache_accumulo,https://github.com/apache/accumulo,Apache Accumulo,,,71353,727,727,Java,281,13086,225,359382,74030,69465,1989,18467710,3352227,6442,16089
 spring-cloud_spring-cloud-zookeeper,https://github.com/spring-cloud/spring-cloud-zookeeper,Spring Cloud Zookeeper,,,29952,375,375,Java,293,2398,58,5420,2530,1477,107,310955,94175,153,369
-mapbox_mapbox-java,https://github.com/mapbox/mapbox-java,The Mapbox Java SDK – Java wrappers around Mapbox APIs and other location data ,,,18755,228,228,Java,72,2091,82,18603,11972,4289,249,1219095,477739,1395,554
+mapbox_mapbox-java,https://github.com/mapbox/mapbox-java,The Mapbox Java SDK _ Java wrappers around Mapbox APIs and other location data ,,,18755,228,228,Java,72,2091,82,18603,11972,4289,249,1219095,477739,1395,554
 apache_commons-io,https://github.com/apache/commons-io,Mirror of Apache Commons IO,,,5562,602,602,Java,392,5529,166,30494,21885,6033,250,2211422,894617,1953,2448
 MobiVM_robovm,https://github.com/MobiVM/robovm,"Ahead of time compiler for JVM bytecode targetting iOS, Mac OSX and Linux",,,168211,473,473,Java,84,1330,60,1062532,759334,182993,12720,72073291,27505915,67386,334169
 apache_commons-imaging,https://github.com/apache/commons-imaging,Mirror of Apache Commons Imaging,,,35449,166,166,Java,97,1541,64,38951,14742,8149,508,2444757,689753,456,3899
@@ -501,14 +501,14 @@ SonarSource_sonarlint-eclipse,https://github.com/SonarSource/sonarlint-eclipse,S
 SBPrime_AsyncWorldEdit,https://github.com/SBPrime/AsyncWorldEdit,Async WorldEdit - Edit millions of blocks without lag!,,,19972,106,106,Java,65,626,32,37151,36106,9911,533,3206150,1640429,2247,1532
 FasterXML_jackson-dataformats-binary,https://github.com/FasterXML/jackson-dataformats-binary,"Uber-project for standard Jackson binary format backends: avro, cbor, protobuf, smile",,,3995,146,146,Java,49,804,39,49245,10593,8787,373,2373086,426710,817,4414
 pentaho_mondrian,https://github.com/pentaho/mondrian,Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.,,,312754,780,780,Java,605,7387,262,249853,70128,33306,1000,13076845,2789410,6355,22892
-childe_hangout,https://github.com/childe/hangout,"用java实现一下Logstash的几个常用input/filter/output, 希望能有效率上面的大提升. 现在我们迁移到golang了 https://github.com/childe/gohangout",,,875,416,416,Java,181,763,28,7497,901,1505,115,307032,28089,126,161
+childe_hangout,https://github.com/childe/hangout,"__ava�__��_ogstash___丸�__nput/filter/output, �___��____�____��___. _��___���_��__olang� https://github.com/childe/gohangout",,,875,416,416,Java,181,763,28,7497,901,1505,115,307032,28089,126,161
 jtransc_jtransc,https://github.com/jtransc/jtransc,"Convert your Java, Kotlin and Scala code into JavaScript, C++, D, C#, PHP, AS3, Dart and Haxe and run it everywhere. Also use JVM code in your favourite language as a library.",,,16083,410,410,Java,38,1821,15,126127,69139,25089,1310,7369969,2987100,5567,9643
 nats-io_nats.java,https://github.com/nats-io/nats.java,Java client for NATS,,,4749,214,214,Java,72,995,39,15359,3768,3434,100,868094,190479,320,1972
 SpongePowered_SpongeVanilla,https://github.com/SpongePowered/SpongeVanilla,The SpongeAPI implementation for Vanilla Minecraft.,,,4560,229,229,Java,71,2555,86,5410,3350,1369,128,420596,174545,27,469
 theotherp_nzbhydra2,https://github.com/theotherp/nzbhydra2,Usenet meta search,,,159155,353,353,Java,29,1491,17,40116,9103,8983,648,2236191,364227,796,1453
 jpos_jPOS,https://github.com/jpos/jPOS,jPOS Project,,,66887,381,381,Java,333,5980,95,93213,34034,13830,982,5099387,1329313,2678,5425
 theonedev_onedev,https://github.com/theonedev/onedev,Thoughtful git server. Easy to install and maintain.,,,85070,174,174,Java,21,2930,16,127498,11026,32314,1768,5354127,432821,934,1362
-rakam-io_rakam,https://github.com/rakam-io/rakam,📈 An analytics platform that makes easy to create custom analytics services,,,27809,725,725,Java,102,1679,16,43496,1305,7580,405,2096995,65030,28,767
+rakam-io_rakam,https://github.com/rakam-io/rakam,__ An analytics platform that makes easy to create custom analytics services,,,27809,725,725,Java,102,1679,16,43496,1305,7580,405,2096995,65030,28,767
 apache_commons-pool,https://github.com/apache/commons-pool,Mirror of Apache Commons Pool,,,5286,261,261,Java,183,4154,69,14395,8932,2759,92,943969,362121,901,1318
 genonbeta_TrebleShot,https://github.com/genonbeta/TrebleShot,"An Open-Source Android application that allows you to send and receive files over available connections, and pause and resume transfer process even after something went wrong.",,,54081,283,283,Java,53,1239,66,24733,950,5355,168,1135494,30092,137,267
 spring-cloud_spring-cloud-function,https://github.com/spring-cloud/spring-cloud-function,,,,3841,514,514,Java,180,1317,53,21701,5797,4922,257,1046788,230552,313,933
@@ -516,7 +516,7 @@ openmicroscopy_bioformats,https://github.com/openmicroscopy/bioformats,Bio-Forma
 aol_cyclops-integration,https://github.com/aol/cyclops-integration,"Home of the cyclops integration modules : support for Scala, Clojure, RxJava (1+2), Reactor, FunctionalJava, Guava, Dexx & Vavr",,,5968,438,438,Java,49,1356,21,15308,3498,4548,140,753547,109980,224,128
 oracle_fastr,https://github.com/oracle/fastr,"A high-performance implementation of the R programming language, built on GraalVM.",,,567910,354,354,Java,35,12135,63,231788,65386,41002,2066,15642635,3010495,2147,11775
 dooApp_FXForm2,https://github.com/dooApp/FXForm2,Dynamic JavaFX form generation,,,7076,172,172,Java,48,645,24,9591,3607,2596,248,673150,289179,312,263
-zycgit_hasor,https://github.com/zycgit/hasor,Hasor是一套基于 Java 语言的分布式应用程序开发框架，它的核心设计目标是提供一个简单、且必要的环境给开发者。区别于其它框架的是 Hasor 有着自己一套完整的体系，无论您是一般的Web项目，还是几百人团队中复杂的分布式系统。Hasor都会给予你最有力的支持。,,,57445,232,232,Java,84,3821,7,103017,74102,1703,1553,7314697,2966563,6967,15499
+zycgit_hasor,https://github.com/zycgit/hasor,Hasor__�__� Java �____�__�__�__�___��_�___��_设�____�__�_____�____�__�________��_�_____ Hasor ____����___��_�_���__论�_____Web项�_�_____�人_��_�______�_���__asor_��_�__�__________,,,57445,232,232,Java,84,3821,7,103017,74102,1703,1553,7314697,2966563,6967,15499
 TNG_junit-dataprovider,https://github.com/TNG/junit-dataprovider,A TestNG like dataprovider runner for JUnit with many additional features,,,1265,198,198,Java,32,525,22,12548,5509,4185,211,790525,169021,296,2548
 codebutler_farebot,https://github.com/codebutler/farebot,Read data from public transit cards using your NFC Android phone!,,,17020,884,884,Java,283,531,65,11280,5198,2704,166,699548,221135,160,868
 oVirt_ovirt-engine,https://github.com/oVirt/ovirt-engine,"This is a mirror for http://gerrit.ovirt.org, for issues use http://bugzilla.redhat.com",,,285290,193,193,Java,135,39752,283,757629,74322,166405,9298,37975532,3187550,9406,23379
@@ -525,7 +525,7 @@ Kaljurand_K6nele,https://github.com/Kaljurand/K6nele,An Android app that offers 
 BluSunrize_ImmersiveEngineering,https://github.com/BluSunrize/ImmersiveEngineering,"Wires, transformers, high voltage! Bzzzzt!",,,31586,436,436,Java,221,3883,159,89590,11372,11723,638,3838948,397726,332,6558
 hierynomus_smbj,https://github.com/hierynomus/smbj,"Server Message Block (SMB2, SMB3) implementation in Java",,,9373,216,216,Java,72,1138,60,13767,6329,2920,248,823951,272897,430,1196
 jboss-developer_jboss-eap-quickstarts,https://github.com/jboss-developer/jboss-eap-quickstarts,"The quickstarts demonstrate JBoss EAP, Java EE 7 and a few additional technologies. They provide small, specific, working examples that can be used as a reference for your own project.",,,59734,709,709,Java,1297,8446,293,16093,12363,4450,438,1171668,545258,846,1735
-apache_isis,https://github.com/apache/isis,"Apache Isis™ software is a framework for rapidly developing domain-driven apps in Java. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp or as a RESTful API. For prototyping or production. ",,,180401,488,488,Java,233,11442,65,184271,103294,56451,3729,13170465,4570015,5412,15918
+apache_isis,https://github.com/apache/isis,"Apache Isis_ software is a framework for rapidly developing domain-driven apps in Java. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp or as a RESTful API. For prototyping or production. ",,,180401,488,488,Java,233,11442,65,184271,103294,56451,3729,13170465,4570015,5412,15918
 arangodb_arangodb-java-driver,https://github.com/arangodb/arangodb-java-driver,ArangoDB Java driver,,,10768,140,140,Java,68,1610,67,20049,9982,4253,253,1119293,366389,797,814
 spotbugs_sonar-findbugs,https://github.com/spotbugs/sonar-findbugs,SpotBugs plugin for SonarQube,,,1354,137,137,Java,74,709,60,3484,1347,856,66,210073,59608,28,179
 jitsi_jigasi,https://github.com/jitsi/jigasi,Jigasi: a server-side application acting as a gateway to Jitsi Meet conferences. Currently allows regular SIP clients to join meetings and provides transcription capabilities.,,,111934,122,122,Java,73,650,35,11244,7071,2696,83,633735,241729,1022,694
@@ -544,12 +544,12 @@ sleuthkit_autopsy,https://github.com/sleuthkit/autopsy,"Autopsy® is a digital f
 ViaVersion_ViaVersion,https://github.com/ViaVersion/ViaVersion,Allows the connection of newer clients to older server versions for Minecraft servers.,,,5084,239,239,Java,96,2213,82,29385,3063,4712,416,1446996,121083,302,3295
 google_sagetv,https://github.com/google/sagetv,SageTV is a cross-platform networked DVR and media management system,,,77647,221,221,Java,164,882,56,267175,62017,24075,806,13096901,3196775,3980,23338
 google_caliper,https://github.com/google/caliper,Micro-benchmarking library for Java,,,8559,602,602,Java,91,794,51,17343,7043,3416,291,931429,324373,792,1134
-nextcloud_news-android,https://github.com/nextcloud/news-android,📱:newspaper: Android client for the Nextcloud news/feed reader app,,,199072,416,416,Java,205,2221,46,15298,3041,4181,163,817461,138308,288,1119
+nextcloud_news-android,https://github.com/nextcloud/news-android,__:newspaper: Android client for the Nextcloud news/feed reader app,,,199072,416,416,Java,205,2221,46,15298,3041,4181,163,817461,138308,288,1119
 togglz_togglz,https://github.com/togglz/togglz,Feature Flags for the Java platform,,,1931,526,526,Java,168,1129,111,19353,5396,5997,381,1014352,195098,598,632
 rancher_cattle,https://github.com/rancher/cattle,Infrastructure orchestration engine for Rancher 1.x,,,32585,546,546,Java,187,8663,112,133156,32292,33320,1733,6692654,640079,9958,2240
 exoplatform_platform,https://github.com/exoplatform/platform,eXo Platform,,,325449,105,105,Java,130,15084,348,23758,4506,4364,218,1305566,171774,447,774
 apache_oozie,https://github.com/apache/oozie,Mirror of Apache Oozie,,,30493,499,499,Java,397,4502,116,191161,52987,35295,1385,11586047,2322960,5560,6880
-osfans_trime,https://github.com/osfans/trime,同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android,,,30458,625,625,Java,119,1023,17,6536,912,890,24,270768,37050,118,358
+osfans_trime,https://github.com/osfans/trime,___�__輸�_�_��_3.x/Android-rime/Rime Input Method Engine for Android,,,30458,625,625,Java,119,1023,17,6536,912,890,24,270768,37050,118,358
 cache2k_cache2k,https://github.com/cache2k/cache2k,"Lightweight, high performance Java caching",,,6564,353,353,Java,38,1864,13,41905,18771,8600,424,2117168,671895,1966,1438
 apache_james-project,https://github.com/apache/james-project,Mirror of Apache James Project,,,42943,309,309,Java,250,8717,142,371089,121071,87885,4779,23876247,6996819,9608,9669
 ttddyy_datasource-proxy,https://github.com/ttddyy/datasource-proxy,Provide listener framework for JDBC interactions and query executions  via proxy.,,,14051,306,306,Java,34,921,21,17578,3318,5946,198,959477,97573,425,732
@@ -591,7 +591,7 @@ jbosstm_narayana,https://github.com/jbosstm/narayana,The codebase for the naraya
 northbright_Notes,https://github.com/northbright/Notes,Development Notes,,,16788,144,144,Java,51,1036,2,472,153,114,8,25208,6807,4,42
 jMetal_jMetal,https://github.com/jMetal/jMetal,jMetal: a framework for multi-objective optimization with metaheuristics,,,181741,243,243,Java,179,3107,67,59391,14199,14953,707,2903524,478708,1938,4616
 percyliang_sempre,https://github.com/percyliang/sempre,Semantic Parser with Execution,,,11334,680,680,Java,278,598,45,38280,5567,6217,328,1891194,222254,507,3331
-jpush_jpush-api-java-client,https://github.com/jpush/jpush-api-java-client,JiGuang's officially supported Java client library for accessing JPush APIs.   极光官方支持的 Java 版本服务器端 SDK。,,,12427,479,479,Java,329,794,33,7764,990,1763,90,386529,42282,102,154
+jpush_jpush-api-java-client,https://github.com/jpush/jpush-api-java-client,JiGuang's officially supported Java client library for accessing JPush APIs.   ___�_____ Java _______�� SDK_,,,12427,479,479,Java,329,794,33,7764,990,1763,90,386529,42282,102,154
 AndBible_and-bible,https://github.com/AndBible/and-bible,Bible on Android,,,106158,191,191,Java,117,4800,32,18881,8460,5252,314,1093686,379981,703,2011
 Teradata_kylo,https://github.com/Teradata/kylo,"Kylo is a data lake management software platform and framework for enabling scalable enterprise-class data lakes on big data technologies such as Teradata, Apache Spark and/or  Hadoop. Kylo is licensed under Apache 2.0. Contributed by Teradata Inc.",,,86798,680,680,Java,320,9549,104,223008,101318,61299,2842,14156955,3486224,9577,12923
 RestComm_media-core,https://github.com/RestComm/media-core,RMS - Restcomm Media Server for Real Time Cloud Communications,,,98455,118,118,Java,102,2687,221,110984,47422,25947,1167,7501477,1845650,2666,10421
@@ -632,7 +632,7 @@ snowflakedb_snowflake-jdbc,https://github.com/snowflakedb/snowflake-jdbc,Snowfla
 zhengxingtao_jaagro-platform-crm,https://github.com/zhengxingtao/jaagro-platform-crm,,,,2110,0,0,Java,1,1002,11,14203,11190,4125,385,841097,127931,2895,406
 mlposey_notegala,https://github.com/mlposey/notegala,An Android note-taking app backed by a flexible GraphQL API,,,25124,2,2,Java,0,785,1,4520,334,920,34,180742,13744,87,50
 TweetWallFX_TweetwallFX,https://github.com/TweetWallFX/TweetwallFX,JavaFX based TweetWall,,,17888,10,10,Java,13,1179,24,12254,6488,2829,159,775504,269287,462,370
-Anyz01_JavaGuide,https://github.com/Anyz01/JavaGuide,Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。,,,1009,0,0,Java,0,832,47,440,228,69,8,22288,3167,19,84
+Anyz01_JavaGuide,https://github.com/Anyz01/JavaGuide,Java学�_+_��_____ �份涵__��_��_Java�______�___��__��__��__,,,1009,0,0,Java,0,832,47,440,228,69,8,22288,3167,19,84
 remigastaldi_InnoEvent,https://github.com/remigastaldi/InnoEvent,"Planning and pricing software for events - Winner of ""Prix Pierre-Ardouin"" Laval automn 2018",,,21276,3,3,Java,1,532,15,8528,1102,1933,81,357885,27199,19,328
 FieldDB_AndroidFieldDB,https://github.com/FieldDB/AndroidFieldDB,Android library which makes it easy to save and display data with FieldDB databases,,,8004,2,2,Java,3,619,11,9238,1479,1716,80,424855,67613,72,819
 jaewoopenn_simul,https://github.com/jaewoopenn/simul,Mixed-Criticality Simulation Tool,,,1207,0,0,Java,0,635,64,14995,624,2524,228,328306,14897,0,662
@@ -671,7 +671,7 @@ crisdiy_zheng,https://github.com/crisdiy/zheng,,,,40351,0,0,Java,0,1241,16,30363
 Jorch72_BetterWithMods,https://github.com/Jorch72/BetterWithMods,,,,8852,0,0,Java,0,702,19,22519,692,3441,257,904663,25846,110,155
 gtu001_gtu-test-code,https://github.com/gtu001/gtu-test-code,,,,339350,1,1,Java,0,1347,3,259369,31497,45178,2176,12665206,1033072,3694,19559
 jariwalahetal_SOEN6441-RiskGame-Fall2018,https://github.com/jariwalahetal/SOEN6441-RiskGame-Fall2018,Advanced Programming Practices SOEN 6441 --- Fall 2018 -- Team 8,,,4895,3,3,Java,4,511,11,5008,1907,1005,35,233159,41077,364,88
-kevincefang_mybatis-3,https://github.com/kevincefang/mybatis-3,mybatis-3源码分析,,,27728,0,0,Java,0,2454,134,54331,21587,11585,1139,2975135,909461,1784,2318
+kevincefang_mybatis-3,https://github.com/kevincefang/mybatis-3,mybatis-3�_____,,,27728,0,0,Java,0,2454,134,54331,21587,11585,1139,2975135,909461,1784,2318
 FranckRJ_RespawnIRC-Android,https://github.com/FranckRJ/RespawnIRC-Android,Version android de RespawnIRC.,,,31999,6,6,Java,0,956,4,15536,155,2585,79,828531,15522,2,221
 semantalytics_xsparql,https://github.com/semantalytics/xsparql,,,,16150,9,9,Java,3,721,17,5024,3808,1469,70,343905,160179,284,481
 Jorch72_Random-Things,https://github.com/Jorch72/Random-Things,,,,3291,0,0,Java,0,581,8,51636,810,10019,525,1728745,25978,152,172
@@ -699,203 +699,203 @@ Dukou007_spring-mybatis3,https://github.com/Dukou007/spring-mybatis3,,,,5496,0,0
 jungwookryu_test,https://github.com/jungwookryu/test,,,,2556,0,0,Java,0,814,9,16085,3025,4129,237,739227,60634,575,376
 devlopper_org.cyk.utility,https://github.com/devlopper/org.cyk.utility,,,,11279,0,0,Java,0,1006,8,97757,5077,28592,2171,4442908,199997,1136,1628
 tetrafolium_guava,https://github.com/tetrafolium/guava,clone from https://github.com/google/guava,,,67309,2,2,Java,1,4402,239,325043,114089,58248,1907,17646525,5087893,9657,17255
-MKSGFX_SeleniumNew,https://github.com/MKSGFX/SeleniumNew,,,,1726665,0,0,Java,0,23706,579,96180,35797,24319,1427,5467352,1670976,1774,25786
-Destinyling_spring-security-oauth,https://github.com/Destinyling/spring-security-oauth,,,,4264,0,0,Java,0,1365,128,44160,15264,10242,689,2581188,582487,1566,2295
-LiteracyBridge_acm,https://github.com/LiteracyBridge/acm,ACM and utilities.,,,80956,1,1,Java,0,2243,33,46337,8427,8690,354,2376416,379704,892,3274
-chencyc123_m2e-core,https://github.com/chencyc123/m2e-core,,,,16590,0,0,Java,0,1770,54,88061,42478,22191,752,5427121,1630623,5940,5995
-tooltwist_bootstrap-tooltwist,https://github.com/tooltwist/bootstrap-tooltwist,bootstrap-tooltwist,,,10759,0,0,Java,2,802,58,4181,641,1162,22,211726,28726,18,566
-SHIXINLIU_halo,https://github.com/SHIXINLIU/halo,,,,19797,0,0,Java,0,1081,15,7272,4887,1559,141,423330,76040,753,209
-OussamaSghaier_ganttproject-documentation-bot-test,https://github.com/OussamaSghaier/ganttproject-documentation-bot-test,,,,60346,0,0,Java,0,2976,41,67491,15884,15076,758,3323114,708948,1052,2829
-shannah_cn1-teavm-builds,https://github.com/shannah/cn1-teavm-builds,Versioned Builds of TeaVM for the Codename One build server,,,25884,1,1,Java,1,2123,36,190770,48749,30720,2162,9419405,2006871,1652,8707
-Byeongjee_Postech-SD-project,https://github.com/Byeongjee/Postech-SD-project,"Eclipse plugin for code smell detection and refactoring, extension of JDeodorant",,,5708,0,0,Java,0,1368,21,88385,5300,10465,464,4277419,226265,307,2635
-gii-is-psg2_PSG2-1819-G7-72,https://github.com/gii-is-psg2/PSG2-1819-G7-72,Repositorio para la asignatura Proyecto Software y Gestión 2 (curso 2018/19),,,1505,0,0,Java,0,665,53,2125,1065,628,53,124718,39578,91,97
-abeshkov_AmazeFileManager,https://github.com/abeshkov/AmazeFileManager,,,,37619,0,0,Java,0,3797,131,34973,6634,6912,267,1915940,290287,706,1814
-ybc9977_alluxio-gtcs,https://github.com/ybc9977/alluxio-gtcs,An experimental implementation for GTCS atop Alluxio 1.8.0,,,291932,2,2,Java,0,613,6,299884,77623,51855,1636,14771455,2899877,14489,11769
-feiser2016_kdeconnect-android,https://github.com/feiser2016/kdeconnect-android,This Android app provides integration with the KDE desktop using KDE Connect.,,,15617,0,0,Java,0,1798,59,13589,2916,3266,110,745788,146508,108,910
-ButterFaces_ButterFaces,https://github.com/ButterFaces/ButterFaces,"A lightweight and responsive JSF framework that combines the advantages from Bootstrap, jQuery and HTML 5 to develop fast, easy and modern web applications using JSF 2.",,,7910,74,74,Java,19,2396,16,16010,1635,4063,277,869832,57709,251,424
-mwolfthal_psm,https://github.com/mwolfthal/psm,Fork of SolutionGuidance/psm,,,223800,0,0,Java,0,2402,35,30152,17373,6797,332,1904747,551166,2507,939
-mythwei_dubbo,https://github.com/mythwei/dubbo,,,,6592,0,0,Java,0,2436,87,99869,43694,22566,1255,5994851,1717575,3386,8839
-rojotek_pantheon,https://github.com/rojotek/pantheon,"An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client",,,19782,0,0,Java,0,1128,50,96651,25484,21103,1310,5424954,1237089,1281,5269
-Tollii_PaperLegionProject,https://github.com/Tollii/PaperLegionProject,Second semester University projcet,,,39273,0,0,Java,0,1182,15,4416,2176,1151,35,259968,80727,311,292
-lightstep_lightstep-tracer-java,https://github.com/lightstep/lightstep-tracer-java,The LightStep distributed tracing library for JRE,,,40933,30,30,Java,18,759,32,1054,48,206,11,44967,2205,4,44
-eclipse_cdo,https://github.com/eclipse/cdo,CDO Model Repository project repository (cdo),,,179504,10,10,Java,18,11914,50,477793,224473,104818,4553,23801214,7623679,28060,28038
-project-sunbird_sunbird-utils,https://github.com/project-sunbird/sunbird-utils,Common java utilities used by other Sunbird components,,,61704,5,5,Java,25,4678,70,33616,5722,4705,357,1580584,197134,1183,397
-manywho_sdk-java,https://github.com/manywho/sdk-java,The Java SDK for building plugins that integrate with ManyWho,,,4403,0,0,Java,4,767,12,13031,619,3508,324,578724,30142,55,248
-dfire-datacenter_hera,https://github.com/dfire-datacenter/hera,,,,19353,2,2,Java,1,1307,9,27242,15841,4774,300,1570974,494689,1618,10408
-eugenp_blogwatch,https://github.com/eugenp/blogwatch,blogwatch,,,51175,5,5,Java,13,570,12,2842,144,795,40,160270,10885,12,162
-RestComm_jain-slee,https://github.com/RestComm/jain-slee,The World's #1 Open Source JAIN-SLEE (JSLEE) 1.1 Implementation,,,137520,17,17,Java,31,5293,294,100215,97953,31026,1626,7803263,3539471,8326,11045
-jaxmann_soccer-highlights-server,https://github.com/jaxmann/soccer-highlights-server,Real-time soccer highlight notification via Reddit crawler,,,37489,2,2,Java,0,0,0,2254,831,758,17,121855,37725,12,785
-mulesoft_mule-email-connector,https://github.com/mulesoft/mule-email-connector,,,,684,0,0,Java,0,515,60,5278,2455,1292,110,326881,88485,363,254
-w1nnleo_eureka,https://github.com/w1nnleo/eureka,,,,7998,0,0,Java,0,2669,120,34432,10400,7184,396,2030170,400465,1086,1305
-scireum_sirius-kernel,https://github.com/scireum/sirius-kernel,Provides common core classes and the dependency injection microkernel powering all SIRIUS applications,,,1546,22,22,Java,11,845,32,14035,10600,2795,194,950228,426658,1247,621
-johayoung222_FinalProject,https://github.com/johayoung222/FinalProject,[NCS]자바 프레임워크 개발자 양성과정 FinalProject,,,45366,0,0,Java,1,514,9,9696,874,2766,118,466995,35226,28,489
-gridgentoo_NiFi-GenerateCode-GenerateFlow,https://github.com/gridgentoo/NiFi-GenerateCode-GenerateFlow,Генерация кода в NiFi GenerateCode & GenerateFlow,,,97810,0,0,Java,0,5558,336,552527,148138,121401,4795,35746619,7199168,9050,30540
-proofpoint_platform,https://github.com/proofpoint/platform,Proofpoint Platform,,,17411,58,58,Java,53,4876,96,72624,12652,12594,773,3362855,541202,346,2587
-TelluIoT_ThingML,https://github.com/TelluIoT/ThingML,The ThingML modelling language,,,297082,58,58,Java,23,3812,45,34988,7608,6723,310,1974153,375913,488,3037
-puneetaries_java,https://github.com/puneetaries/java,Java Code Pad,,,35598,0,0,Java,0,11187,3972,2746,239,687,7,126773,10582,19,421
-V0G3L_treff.,https://github.com/V0G3L/treff., An Instant Messenger focused on live location transmission,,,22430,7,7,Java,0,683,11,21534,4183,5925,486,1008309,123877,688,883
-snowplow_snowplow-android-tracker,https://github.com/snowplow/snowplow-android-tracker,Snowplow event tracker for Android. Add analytics to your Android apps and games,,,55659,49,49,Java,32,745,24,7365,3291,1736,82,451409,129070,406,405
-edisonmorocho_cloudsim-plus,https://github.com/edisonmorocho/cloudsim-plus,,,,41497,0,0,Java,0,1602,21,36614,33290,9413,495,2981305,1390227,3882,2603
-gallandarakhneorg_afc,https://github.com/gallandarakhneorg/afc,Arakhnê Foundation Classes,,,16935,10,10,Java,7,1011,15,290806,127764,55908,1457,15196672,4964264,14656,20833
-huimumua_DashCamera,https://github.com/huimumua/DashCamera,https://tiny_hui@bitbucket.askey.com.tw:8443/scm/pgcdras/mainapp.git,,,8840,0,0,Java,0,525,20,16775,2148,2411,151,814451,77427,272,940
-eclipse_emf,https://github.com/eclipse/emf,EMF project repository (emf),,,57434,37,37,Java,25,9891,64,630316,325660,120505,2807,34457259,11416070,43421,45422
-effine_shopping,https://github.com/effine/shopping,simulation shopping website !,,,8631,2,2,Java,0,544,12,3303,1961,984,126,169083,37728,329,365
-gridgentoo_IgniteStockExchange,https://github.com/gridgentoo/IgniteStockExchange,Пример написания InMemory Биржи с использованием Apache Ignite,,,166418,1,1,Java,0,30021,406,1054688,579087,380518,9726,66747046,19410486,143433,45551
-saros-project_saros,https://github.com/saros-project/saros,Open Source IDE plugin for distributed collaborative software development,,,147608,72,72,Java,35,8230,125,105200,33477,30035,1411,5397797,1256478,4677,3980
-siddadel_Foretello,https://github.com/siddadel/Foretello,Fintech chatbot,,,9154,0,0,Java,0,505,2,2110,637,458,34,94565,17352,54,114
-marklogic_marklogic-data-hub,https://github.com/marklogic/marklogic-data-hub,The MarkLogic Data Hub: documentation  ==>,,,133031,84,84,Java,91,7204,93,31047,7837,6511,313,1854642,428826,619,1319
-Texera_texera,https://github.com/Texera/texera, Big Text Analytics Using Interactive Workflows,,,165508,67,67,Java,30,5318,162,26767,6813,6623,287,1661461,255393,643,1417
-awasum_fineract-with-pentaho,https://github.com/awasum/fineract-with-pentaho,,,,37024,0,0,Java,0,5021,180,276214,71412,60474,3074,19786430,3125993,5296,10980
-zhaoxy136_Data-structure-and-Algorithms,https://github.com/zhaoxy136/Data-structure-and-Algorithms,Some interesting exercises,,,812,1,1,Java,0,946,2,12089,1433,556,331,428484,42796,134,756
-threerings_clyde,https://github.com/threerings/clyde,A collection of Java packages for making networked 3D games,,,25826,47,47,Java,14,3428,23,119272,56762,22288,770,6594781,2211338,13433,22720
-ParkBum_child,https://github.com/ParkBum/child,구디마지막 프로젝트_어집프,,,25872,0,0,Java,1,1103,11,2300,138,570,29,87378,8162,0,205
-eclipse_recommenders,https://github.com/eclipse/recommenders,Code Recommenders project repository (recommenders),,,30251,21,21,Java,14,9701,57,62212,10852,13581,755,3296643,474494,1312,2716
-orbisgis_orbisgis,https://github.com/orbisgis/orbisgis,An open-source Geographic Information System (GIS) created by research and for research.,,,76329,54,54,Java,35,11830,53,100793,70050,17201,1091,6988142,2599152,6572,6934
-hartwigmedical_hmftools,https://github.com/hartwigmedical/hmftools,Various utility tools for working with genomics data,,,93762,16,16,Java,4,6728,18,122655,18599,32685,1297,6314657,585583,4283,4422
-LandMrakYao_Project,https://github.com/LandMrakYao/Project,,,,709,0,0,Java,0,566,24,2590,949,878,78,109109,14740,147,110
-core-lib_jestful,https://github.com/core-lib/jestful,A Powerful And Easy To Use RESTful Framework For Java,,,2848,3,3,Java,0,902,9,28453,5119,6667,693,1249985,98210,693,454
-imagej_imagej-legacy,https://github.com/imagej/imagej-legacy,Backwards compatibility with ImageJ 1.x,,,2057,6,6,Java,14,1317,31,18488,10588,4141,209,1130229,485813,538,1773
-openminted_omtd-registry,https://github.com/openminted/omtd-registry,,,,1998,0,0,Java,2,768,19,7991,836,1955,112,429323,31237,76,534
-klemens_openolat,https://github.com/klemens/openolat,"Git mirror of the official openolat hg repository (automatically updated). Contains extensions xman, autolat and a simple shibboleth authenticator in corrensponding branches. See WIKI for details:",,,239396,12,12,Java,17,10694,42,728392,293459,141580,6583,41290929,10974413,29060,56628
-OrienteerBAP_Orienteer,https://github.com/OrienteerBAP/Orienteer,Business Application Platform,,,10033,96,96,Java,35,2191,21,46979,5683,9420,914,2182238,169345,1327,331
-BuiltBrokenModding_Atomic-Science,https://github.com/BuiltBrokenModding/Atomic-Science,Reboot and full rewrite of Calclavia's Atomic Science mod,,,3006,23,23,Java,7,616,8,29877,7466,6016,421,1392716,224703,1055,2273
-tferr_ASA,https://github.com/tferr/ASA,Bitmap morphometry of neuronal arbors through Sholl,,,2500,2,2,Java,6,861,11,7613,2523,1420,34,366095,93390,233,606
-texone_creativecomputing,https://github.com/texone/creativecomputing,,,,380196,5,5,Java,2,1077,5,208006,81479,52227,2225,10800885,3055805,7893,18597
-codeaurora-unofficial_platform-packages-apps-Nfc,https://github.com/codeaurora-unofficial/platform-packages-apps-Nfc,,,,10865,0,0,Java,0,8672,243,14291,2669,2412,69,720617,117755,137,1260
-FTBTeam_FTB-Utilities,https://github.com/FTBTeam/FTB-Utilities,FTBUtilities mod for Minecraft. Depends on FTBLib,,,10694,73,73,Java,58,1209,39,11632,307,2043,143,403678,5454,83,38
-CloverETL_CloverETL-Engine,https://github.com/CloverETL/CloverETL-Engine,,,,45603,35,35,Java,26,41070,240,245728,105089,48895,1669,13417632,4132888,10505,16527
-openGDA_gda-scm,https://github.com/openGDA/gda-scm,,,,41380,0,0,Java,0,2359,47,26231,6930,4881,228,1151041,222123,622,1360
-weilong1991_java-design-patterns,https://github.com/weilong1991/java-design-patterns,,,,15843,0,0,Java,0,2640,190,27769,35556,8399,1072,2533994,1567317,3324,732
-wpilibsuite_RobotBuilder,https://github.com/wpilibsuite/RobotBuilder,,,,6066,18,18,Java,22,1026,38,11295,2582,2425,155,535185,66356,527,471
-MerzDaniel_distributed-cloud-db,https://github.com/MerzDaniel/distributed-cloud-db,Distributed db which used consistant hashing,,,75470,0,0,Java,0,1069,5,6854,1001,1541,138,332940,33234,190,113
-yzb808_spring-code-learn,https://github.com/yzb808/spring-code-learn,基于spring 4.3.x 源码的学习包,,,111186,0,0,Java,0,20159,383,599883,319157,159826,6826,37096831,13230363,28832,28310
-LivingLogic_LivingLogic.Java.ul4,https://github.com/LivingLogic/LivingLogic.Java.ul4,Java implementation of UL4 (a cross-platform templating language) and UL4ON (a lightweight machine-readable text-based cross-platform object interchange format),,,25605,2,2,Java,0,1332,6,28340,3397,4849,371,992743,106895,250,759
-MaxNobody_liliths-throne-public-2,https://github.com/MaxNobody/liliths-throne-public-2,,,,46847,0,0,Java,0,1494,50,297882,13174,51153,653,15445020,452490,1239,7851
-CjHare_systematic-trading,https://github.com/CjHare/systematic-trading,,,,5476,2,2,Java,0,1445,3,25259,20249,10287,569,2116189,1031124,1893,244
-Deep-Symmetry_beat-link,https://github.com/Deep-Symmetry/beat-link,Java library for synchronizing and communicating with Pioneer DJ Link equipment,,,1934,57,57,Java,4,579,3,10837,9191,1989,78,971013,462311,1472,588
-MichaelKazarian_WordRunner,https://github.com/MichaelKazarian/WordRunner,Tool for words learning.,,,3229,0,0,Java,0,1434,2,12457,2935,1261,95,650040,115149,545,556
-OpenLMIS_openlmis-stockmanagement,https://github.com/OpenLMIS/openlmis-stockmanagement,Stock Managment Service for OpenLMIS v3.1+ http://openlmis.org,,,6354,6,6,Java,11,1198,35,23043,7850,5798,372,1407822,416925,360,1492
-Claymore1297_SnapdragonCamera,https://github.com/Claymore1297/SnapdragonCamera,,,,33771,0,0,Java,0,8773,180,65935,11146,9403,239,3271190,479956,832,3219
-cantran1010_hozo-android,https://github.com/cantran1010/hozo-android,,,,80392,1,1,Java,0,2169,20,37124,1722,7726,254,1748140,57773,283,745
-ajh3_NoSurfForReddit,https://github.com/ajh3/NoSurfForReddit,,,,6652,17,17,Java,2,553,3,2376,888,731,49,149872,53280,0,285
-JKArena_pulsing,https://github.com/JKArena/pulsing,Playground for various tech,,,9654,2,2,Java,0,1122,4,9207,4379,2874,177,605602,182801,218,467
-microsoft_java-debug,https://github.com/microsoft/java-debug,The debug server implementation for Java. It conforms to the debug protocol of Visual Studio Code.,,,980,89,89,Java,33,1003,17,11299,3425,2209,143,690561,157539,436,521
-RubinLab_epad-ws,https://github.com/RubinLab/epad-ws,ePAD Web Service,,,58016,7,7,Java,3,1896,18,51658,31006,7035,235,4851019,2588975,894,3547
-Umweltzone_Umweltzone,https://github.com/Umweltzone/Umweltzone,Low emission zones on Android,,,4446,5,5,Java,5,1022,6,3224,898,747,54,179848,41171,1,188
-ONSdigital_census-rm-actionexporter-service,https://github.com/ONSdigital/census-rm-actionexporter-service,,,,35394,0,0,Java,0,1291,68,2407,241,503,56,111309,6749,70,47
-jaehong0721_VoiceOrder,https://github.com/jaehong0721/VoiceOrder,,,,1541,0,0,Java,0,542,5,6640,76,1856,111,308906,3974,14,48
-gerryS2xda_SmartLab,https://github.com/gerryS2xda/SmartLab,Progetto universitario di Ingegneria del Software curato da un team di ragazzi che stanno frequentando l'Università degli Studi di Salerno (anno 2018/2019),,,4086,0,0,Java,0,546,8,6584,817,1975,133,287498,43707,94,480
-chronosone_jetbrains-idea-settings,https://github.com/chronosone/jetbrains-idea-settings,,,,298,0,0,Java,0,547,1,0,0,0,0,0,0,0,0
-marklogic_marklogic-contentpump,https://github.com/marklogic/marklogic-contentpump,MarkLogic Connector for Hadoop and MarkLogic Contentpump (mlcp),,,268100,24,24,Java,15,15100,76,34660,8539,4971,260,1793054,326278,674,1732
-SaltedDucEgg_dubbo,https://github.com/SaltedDucEgg/dubbo,,,,9961,0,0,Java,0,3526,233,114037,41504,26066,1559,6698069,1858024,2898,6450
-jenkinsci_plugin-compat-tester,https://github.com/jenkinsci/plugin-compat-tester,Jenkins Plugin Compatibility Tester,,,1123,12,12,Java,29,861,38,4486,1178,902,60,281039,58815,85,309
-khartec_waltz,https://github.com/khartec/waltz,Enterprise Information Service,,,22569,54,54,Java,38,5465,32,50288,16527,16415,966,3195131,744604,200,2123
-austinschwartz_Competitive-Programming,https://github.com/austinschwartz/Competitive-Programming,:tiger: Online Judge problems,,,2778,1,1,Java,2,731,9,24674,70,3507,386,662534,2522,0,86
-saego_RepositBasic,https://github.com/saego/RepositBasic,Test,,,633,0,0,Java,0,583,5,8764,1869,1552,224,363536,47295,360,199
-team467_Robot2019-Competition,https://github.com/team467/Robot2019-Competition,,,,3203,3,3,Java,1,1204,41,11112,5929,2679,94,641042,224123,608,1202
-jahia-qa_selenium226-71,https://github.com/jahia-qa/selenium226-71,,,,681,0,0,Java,0,6344,4,0,0,0,0,0,0,0,0
-Angus-Liu_Algorithm-in-Action,https://github.com/Angus-Liu/Algorithm-in-Action,:triangular_ruler: Some of my practices on Algorithms : ) 这个仓库保存着我在 LeetCode、剑指Offer 上的一些解答，代码中保留了必要的注释。不一定是最优的解答，但力保代码简洁易懂。后续还会整合其他题库，如若发现什么错误，希望你能告诉我或帮助我解决。非常感谢！,,,1445,5,5,Java,0,562,2,10339,1902,1024,338,389767,40388,263,661
-dhis2_dhis2-android-sdk,https://github.com/dhis2/dhis2-android-sdk,SDK for building Android apps for DHIS 2,,,39201,19,19,Java,40,9609,52,77404,50533,22288,1838,6605940,2880409,128,2455
-simonsoft_cms-item,https://github.com/simonsoft/cms-item,,,,1114,0,0,Java,0,617,6,8237,5008,2542,162,525704,225580,575,762
-redis-force_less-state-hdfs,https://github.com/redis-force/less-state-hdfs,Less State HDFS,,,169534,0,0,Java,0,18598,286,1517408,477010,257604,9480,80454353,19844943,51192,94292
-ravendb_ravendb-jvm-client,https://github.com/ravendb/ravendb-jvm-client,RavenDB JVM Client,,,7155,2,2,Java,9,4388,95,51240,4629,15018,794,2418333,176634,857,514
-opendaylight_sxp,https://github.com/opendaylight/sxp,Mirror of the OpenDaylight sxp gerrit project ,,,10150,7,7,Java,0,742,33,27634,6902,4218,236,1809129,260452,892,801
-Adyen_adyen-mirakl,https://github.com/Adyen/adyen-mirakl,Adyen Mirakl Connector,,,1973,6,6,Java,9,828,19,11484,3536,2558,142,815247,151419,95,355
-nishantmalaiya_AapkaTradeBuyerFinal,https://github.com/nishantmalaiya/AapkaTradeBuyerFinal,,,,44979,0,0,Java,0,662,5,51295,8859,15174,367,3081570,472084,864,2087
-itesla_ipst,https://github.com/itesla/ipst,iTesla Power System Tools info@itesla-pst.org,,,22148,30,30,Java,16,1560,42,89219,17014,18277,1120,5117253,765737,2592,5550
-codeaurora-unofficial_platform-packages-apps-Bluetooth,https://github.com/codeaurora-unofficial/platform-packages-apps-Bluetooth,,,,28006,0,0,Java,1,24908,502,46358,6897,6863,115,2471953,312739,535,2577
-zeidon_zeidon-joe,https://github.com/zeidon/zeidon-joe,Zeidon Java Object Engine and related projects.,,,41862,1,1,Java,3,1566,15,286660,144360,57399,530,20453313,7222066,2693,118041
-esig_dss-demonstrations,https://github.com/esig/dss-demonstrations,Examples of DSS integration,,,99603,20,20,Java,16,2263,45,4876,95,1349,67,226218,3279,8,24
-alv-ch_jobroom2,https://github.com/alv-ch/jobroom2,Future web gateway of www.job-room.ch,,,10609,3,3,Java,2,4056,47,19081,1428,4697,325,908163,53069,196,480
-LookThroughWindow_KarateFrameworkReference,https://github.com/LookThroughWindow/KarateFrameworkReference,Reference Project,,,5134,0,0,Java,1,1016,26,20822,6358,3650,398,1132066,263565,368,696
-FollettSchoolSolutions_perfmon4j,https://github.com/FollettSchoolSolutions/perfmon4j,PerfMon4j™ is a software API designed to diagnose and monitor application performance while the software is under load.,,,6042,5,5,Java,1,744,9,49758,11238,12890,421,2739289,527527,271,3770
-lightingljn_Interview,https://github.com/lightingljn/Interview,,,,614,0,0,Java,0,515,14,2482,887,846,72,103836,13471,140,97
-SquidPony_Epigon,https://github.com/SquidPony/Epigon,,,,93691,6,6,Java,0,573,5,16847,4143,2303,109,1005767,226624,374,2350
-hmcts_rpa-coh-continuous-online-resolution,https://github.com/hmcts/rpa-coh-continuous-online-resolution,Facilitate communication in decision making process.,,,2458,1,1,Java,1,2107,16,16812,103,4468,275,830004,5149,10,79
-romanchyla_montysolr,https://github.com/romanchyla/montysolr,Solr for Astrophysics Data System,,,125761,43,43,Java,13,3851,41,58786,13322,14455,338,3145536,832379,516,8229
-eclipse_titan.EclipsePlug-ins,https://github.com/eclipse/titan.EclipsePlug-ins,,,,118680,17,17,Java,35,34581,79,524180,148720,73893,2179,27174483,5176176,25781,13133
-FreeGrok_FreeGrok,https://github.com/FreeGrok/FreeGrok,"Community fork of the {OpenGrok fast and usable source code search and cross reference engine, written in Java",,,18737,0,0,Java,0,3440,117,60550,30317,10924,560,3531318,1155641,2614,5077
-takayanagi2087_dataforms,https://github.com/takayanagi2087/dataforms,dataforms.jar Java Webアプリケーションフレームワークとその開発ツールをまとめたものです,,,46032,4,4,Java,1,772,11,24408,16252,4976,465,1349759,252772,3357,533
-spring-cloud_spring-cloud-cloudfoundry,https://github.com/spring-cloud/spring-cloud-cloudfoundry,Integration between Cloudfoundry and the Spring Cloud APIs,,,116781,69,69,Java,56,997,31,1460,626,360,28,83482,24380,40,84
-exoplatform_ecms,https://github.com/exoplatform/ecms,eXo ECMS,,,192197,15,15,Java,64,11527,262,126014,45875,20093,1057,7802383,1554791,5258,4538
-wholeplatform_whole,https://github.com/wholeplatform/whole,Whole Platform Language Workbench,,,33154,18,18,Java,4,1346,5,543612,135709,106610,9496,25803821,5582875,15451,11404
-Aaryatech_ShivShambhuAdmin,https://github.com/Aaryatech/ShivShambhuAdmin,,,,6566,0,0,Java,0,567,18,45464,1352,17655,197,1647581,54745,3,582
-oci-pronghorn_Pronghorn,https://github.com/oci-pronghorn/Pronghorn,,,,43676,66,66,Java,18,3844,58,102461,15437,31799,726,5711412,804669,938,15090
-Fslholycode_leetcode,https://github.com/Fslholycode/leetcode,,,,496,0,0,Java,0,557,1,11033,1140,308,496,378898,26461,131,160
-TouchInstinct_RoboSwag-components,https://github.com/TouchInstinct/RoboSwag-components,,,,801,0,0,Java,2,736,34,5179,2921,1053,44,370254,127008,346,161
-fq877570288_unihotel,https://github.com/fq877570288/unihotel,,,,39141,0,0,Java,0,639,15,38858,4007,8504,536,1704409,93444,629,1761
-paulyc_libbluray,https://github.com/paulyc/libbluray,,,,4518,0,0,Java,0,2826,60,37063,20717,8704,727,2241741,874955,799,3225
-venicegeo_pz-servicecontroller,https://github.com/venicegeo/pz-servicecontroller,Repo for the Piazza core service controller responsible for managing and executing REST services.,,,1228,0,0,Java,1,892,35,5036,2029,1083,41,306310,74126,258,472
-strapdata_elassandra5-rc,https://github.com/strapdata/elassandra5-rc,elasticsearch 5.5 upgrade repo,,,327802,0,0,Java,0,48633,1290,664281,188879,117966,5429,42180855,8412178,16001,31141
-DawnScience_dawn-ui,https://github.com/DawnScience/dawn-ui,Mirrored from https://gerrit.diamond.ac.uk/ (no GitHub pull requests accepted),,,66212,1,1,Java,1,8870,78,172866,26631,41648,1404,7410006,900296,2554,8493
-ooni_probe-android,https://github.com/ooni/probe-android,OONI Probe Android,,,65518,69,69,Java,29,1382,18,5687,63,859,91,261710,3314,4,38
-1and1_ioc-unit,https://github.com/1and1/ioc-unit,"Make test driven development of ejb-3.x services and processes easy. Supports jboss7, wildfly, weld 1.x and 2.x, camunda 7.x.",,,2556,6,6,Java,4,609,7,41760,8700,10232,847,2065868,351972,1233,1242
-Progressive-Learning-Platform_PLPTool6,https://github.com/Progressive-Learning-Platform/PLPTool6,Prototype for PLPTool frontend interface overhaul,,,34384,2,2,Java,3,1023,26,18604,3723,4400,211,790879,136104,394,849
-rudyENgithub_TheAlgorithms,https://github.com/rudyENgithub/TheAlgorithms,,,,776,0,0,Java,0,685,161,8463,3568,2023,149,387823,114719,457,1130
-ccomeaux_boardgamegeek4android,https://github.com/ccomeaux/boardgamegeek4android,BoardGameGeek application for Android (unofficial),,,30735,81,81,Java,28,6091,15,26466,691,4327,272,1016119,24509,144,230
-minorg_thingsworth,https://github.com/minorg/thingsworth,thingsworth.org web application,,,33809,0,0,Java,0,1312,4,78888,2809,14724,364,4301341,71257,847,257
-raphaelmue_financer,https://github.com/raphaelmue/financer,Financer is an Application that helps to manage all private expenses and revenues. ,,,8644,1,1,Java,0,612,10,9804,556,2089,130,472210,18287,84,121
-zaproxy_zap-admin,https://github.com/zaproxy/zap-admin,ZAP Admin,,,7166,12,12,Java,17,726,6,1411,342,220,14,74557,13784,9,65
-apache_commons-crypto,https://github.com/apache/commons-crypto,Mirror of Apache Commons Crypto,,,1156,57,57,Java,59,896,55,6177,5498,1427,89,479268,225287,584,515
-hongkq_LoveBookJAVA,https://github.com/hongkq/LoveBookJAVA,,,,32392,0,0,Java,0,651,6,81,6,15,1,2678,97,0,8
-Anyz01_incubator-shardingsphere,https://github.com/Anyz01/incubator-shardingsphere,Distributed database middleware ,,,29950,0,0,Java,0,15098,98,60849,32505,13606,1372,4101338,1113464,1842,3090
-DiddiZ_NXT-Praktikum,https://github.com/DiddiZ/NXT-Praktikum,Remote control for a Lego NXT segway robot.,,,30032,0,0,Java,0,1079,32,4396,1710,753,49,222644,64375,291,179
-stackroute_ibm-wave3-ontrack,https://github.com/stackroute/ibm-wave3-ontrack,,,,40935,0,0,Java,5,583,23,3801,524,986,139,168150,18940,1,525
-xiaochen9_trfc,https://github.com/xiaochen9/trfc,,,,7142,1,1,Java,0,1071,14,86026,22222,14220,849,3350040,373452,3366,6456
-opendigitaleducation_entcore,https://github.com/opendigitaleducation/entcore,ODE educational social network engine,,,46494,29,29,Java,20,10019,103,65478,12392,9599,524,3426805,810548,238,3887
-eaobservatory_observing-tool,https://github.com/eaobservatory/observing-tool,JCMT/UKIRT Observing Tool,,,67448,0,0,Java,2,5924,38,74581,34159,19470,481,4339583,1280713,4502,4559
-omegarom-project_lineage-sdk,https://github.com/omegarom-project/lineage-sdk,,,,5066,0,0,Java,0,920,95,24585,10377,5240,180,1472442,378197,1568,1320
-BedwarsRel_BedwarsRel,https://github.com/BedwarsRel/BedwarsRel,Bedwars Reloaded - The Minecraft Bedwars Plugin!,,,213652,79,79,Java,111,5073,35,20303,1311,4387,202,827828,42239,157,487
-raghu-bhandi_simplity-kernel,https://github.com/raghu-bhandi/simplity-kernel,"ridiculously simple way to build micro services, specifically for transaction processing applications",,,5037,1,1,Java,1,987,22,21509,17732,2909,201,1224462,560460,1808,979
-romanticstxj_service,https://github.com/romanticstxj/service,,,,1721,0,0,Java,1,728,11,32715,8057,8543,481,1480534,224912,1179,2166
-balzac-lang_balzac,https://github.com/balzac-lang/balzac,,,,4236,17,17,Java,4,913,7,5822,809,1356,66,263102,25075,79,211
-tmdmaker_tmdmaker,https://github.com/tmdmaker/tmdmaker,T字形ER図作成ツールです。osdn.jp のミラーです。,,,18068,2,2,Java,0,747,9,26631,20145,5583,446,1543565,548725,2634,2002
-OpenSharding_shardingsphere-spi-impl,https://github.com/OpenSharding/shardingsphere-spi-impl,ShardingSphere's SPI implementation plugin,,,1185,15,15,Java,17,502,8,8572,4335,1970,172,581844,174571,274,385
-zhouchenzc0824_code,https://github.com/zhouchenzc0824/code,README,,,826,0,0,Java,0,811,2,3454,10902,492,175,411328,291333,108,3610
-CSClubatIUPUI_ContestSolutions,https://github.com/CSClubatIUPUI/ContestSolutions,CS Club @ IUPUI - Programming Contest Problem Solutions,,,992,5,5,Java,0,750,79,1234,359,260,30,47717,13607,0,374
-biocodellc_biocode-fims-commons,https://github.com/biocodellc/biocode-fims-commons,Biocode Field Information Management System,,,72540,2,2,Java,0,974,7,24962,3865,6606,353,1202109,126943,567,1144
-iamlinhui_apollo,https://github.com/iamlinhui/apollo,,,,19907,0,0,Java,0,2188,68,45536,3899,12098,647,2198384,129505,674,837
-entando_entando-core,https://github.com/entando/entando-core,Entando Core. The leading repository of Entando Platform.,,,23492,55,55,Java,29,4595,88,118002,33761,22398,1437,6711371,1384553,2712,4003
-concord-consortium_energy3d,https://github.com/concord-consortium/energy3d,An integrated CAD/CAE tool,,,185967,8,8,Java,0,3519,11,92278,2330,11600,503,4584534,134962,371,1785
-chipster_chipster-web-server,https://github.com/chipster/chipster-web-server,,,,8067,1,1,Java,1,679,10,18010,2362,5139,175,824473,92327,162,1119
-ibisTime_xn-wzcd,https://github.com/ibisTime/xn-wzcd,温州车贷,,,32836,0,0,Java,1,2321,8,122048,22273,38419,2540,4947426,349479,2599,9403
-wordpress-mobile_gutenberg-mobile,https://github.com/wordpress-mobile/gutenberg-mobile,Mobile version of Gutenberg - native iOS and Android,,,130994,61,61,Java,16,5543,44,2332,226,469,24,116158,12481,17,111
-nanofaroque_Life-coding,https://github.com/nanofaroque/Life-coding,Programming everyday.Program makes not only computer smarter but makes us smarter too. So keep solving and write program.,,,11683,12,12,Java,4,742,7,21083,2009,4459,582,770579,75858,134,866
-palantir_conjure-java,https://github.com/palantir/conjure-java,Conjure generator for Java clients and servers,,,1340,3,3,Java,15,1312,57,18759,2689,3683,208,951074,127004,179,544
-openlattice_scrunchie,https://github.com/openlattice/scrunchie,,,,669,0,0,Java,0,548,17,1835,320,352,9,106387,15834,10,150
-marceloamadeu_takes,https://github.com/marceloamadeu/takes,True Object-Oriented Java Web Framework,,,30671,0,0,Java,0,2857,109,22895,22354,3196,458,1583458,799136,2281,680
-bendisposto_prob2,https://github.com/bendisposto/prob2,ProB 2.0 ,,,32878,11,11,Java,9,5322,44,23252,3212,5017,411,965333,115580,413,295
-o0live0o_AndroidUtilCode,https://github.com/o0live0o/AndroidUtilCode,,,,29542,0,0,Java,1,1124,36,22719,13924,3768,133,1560622,441925,1782,1402
-tohotforice_onos,https://github.com/tohotforice/onos,sdn-wise onos,,,101508,0,0,Java,0,10528,356,581410,288749,126595,6936,35833503,10041425,33367,35305
-MIPS_packages-apps-CellBroadcastReceiver,https://github.com/MIPS/packages-apps-CellBroadcastReceiver,,,,6014,1,1,Java,1,1775,81,2165,674,434,18,139610,29480,85,156
-cdapio_hub,https://github.com/cdapio/hub,Public CDAP Hub,,,2389684,3,3,Java,5,1032,66,1656,381,289,17,76125,14580,25,66
-flightstats_hub,https://github.com/flightstats/hub,"fault tolerant, highly available service for data storage and distribution",,,88827,67,67,Java,19,11189,55,34385,415,6046,500,1536608,18291,61,234
-ClouDesire_java-api-client,https://github.com/ClouDesire/java-api-client,Java client to consume the cloudesire API,,,874,0,0,Java,0,1081,9,21812,702,5550,341,708120,16690,185,136
-hbz_lobid-resources,https://github.com/hbz/lobid-resources,"Transformation, web frontend, and API 2.0 for the hbz catalog as LOD",,,35181,1,1,Java,2,3141,21,7164,1454,957,58,319247,49663,259,503
-DukeMobileTech_AndroidSurvey,https://github.com/DukeMobileTech/AndroidSurvey,,,,35725,1,1,Java,3,1234,6,19732,1713,3214,169,938359,81343,104,501
+MKSGFX_SeleniumNew,https://github.com/MKSGFX/SeleniumNew,,"tool,library",unknown,1726665,0,0,Java,0,23706,579,96180,35797,24319,1427,5467352,1670976,1774,25786
+Destinyling_spring-security-oauth,https://github.com/Destinyling/spring-security-oauth,,framework,unknown,4264,0,0,Java,0,1365,128,44160,15264,10242,689,2581188,582487,1566,2295
+LiteracyBridge_acm,https://github.com/LiteracyBridge/acm,ACM and utilities.,system,unknown,80956,1,1,Java,0,2243,33,46337,8427,8690,354,2376416,379704,892,3274
+chencyc123_m2e-core,https://github.com/chencyc123/m2e-core,,?,unknown,16590,0,0,Java,0,1770,54,88061,42478,22191,752,5427121,1630623,5940,5995
+tooltwist_bootstrap-tooltwist,https://github.com/tooltwist/bootstrap-tooltwist,bootstrap-tooltwist,framework,industry,10759,0,0,Java,2,802,58,4181,641,1162,22,211726,28726,18,566
+SHIXINLIU_halo,https://github.com/SHIXINLIU/halo,,"system,service",unknown,19797,0,0,Java,0,1081,15,7272,4887,1559,141,423330,76040,753,209
+OussamaSghaier_ganttproject-documentation-bot-test,https://github.com/OussamaSghaier/ganttproject-documentation-bot-test,,tool,unknown,60346,0,0,Java,0,2976,41,67491,15884,15076,758,3323114,708948,1052,2829
+shannah_cn1-teavm-builds,https://github.com/shannah/cn1-teavm-builds,Versioned Builds of TeaVM for the Codename One build server,tool,unknown,25884,1,1,Java,1,2123,36,190770,48749,30720,2162,9419405,2006871,1652,8707
+Byeongjee_Postech-SD-project,https://github.com/Byeongjee/Postech-SD-project,"Eclipse plugin for code smell detection and refactoring, extension of JDeodorant",plugin,unknown,5708,0,0,Java,0,1368,21,88385,5300,10465,464,4277419,226265,307,2635
+gii-is-psg2_PSG2-1819-G7-72,https://github.com/gii-is-psg2/PSG2-1819-G7-72,Repositorio para la asignatura Proyecto Software y Gestión 2 (curso 2018/19),service,unknown,1505,0,0,Java,0,665,53,2125,1065,628,53,124718,39578,91,97
+abeshkov_AmazeFileManager,https://github.com/abeshkov/AmazeFileManager,,"system,service",unknown,37619,0,0,Java,0,3797,131,34973,6634,6912,267,1915940,290287,706,1814
+ybc9977_alluxio-gtcs,https://github.com/ybc9977/alluxio-gtcs,An experimental implementation for GTCS atop Alluxio 1.8.0,system,unknown,291932,2,2,Java,0,613,6,299884,77623,51855,1636,14771455,2899877,14489,11769
+feiser2016_kdeconnect-android,https://github.com/feiser2016/kdeconnect-android,This Android app provides integration with the KDE desktop using KDE Connect.,application,unknown,15617,0,0,Java,0,1798,59,13589,2916,3266,110,745788,146508,108,910
+ButterFaces_ButterFaces,https://github.com/ButterFaces/ButterFaces,"A lightweight and responsive JSF framework that combines the advantages from Bootstrap, jQuery and HTML 5 to develop fast, easy and modern web applications using JSF 2.",framework,organization,7910,74,74,Java,19,2396,16,16010,1635,4063,277,869832,57709,251,424
+mwolfthal_psm,https://github.com/mwolfthal/psm,Fork of SolutionGuidance/psm,service,unknown,223800,0,0,Java,0,2402,35,30152,17373,6797,332,1904747,551166,2507,939
+mythwei_dubbo,https://github.com/mythwei/dubbo,,framework,unknown,6592,0,0,Java,0,2436,87,99869,43694,22566,1255,5994851,1717575,3386,8839
+rojotek_pantheon,https://github.com/rojotek/pantheon,"An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client",application,unknown,19782,0,0,Java,0,1128,50,96651,25484,21103,1310,5424954,1237089,1281,5269
+Tollii_PaperLegionProject,https://github.com/Tollii/PaperLegionProject,Second semester University projcet,homework,unknown,39273,0,0,Java,0,1182,15,4416,2176,1151,35,259968,80727,311,292
+lightstep_lightstep-tracer-java,https://github.com/lightstep/lightstep-tracer-java,The LightStep distributed tracing library for JRE,library,unknown,40933,30,30,Java,18,759,32,1054,48,206,11,44967,2205,4,44
+eclipse_cdo,https://github.com/eclipse/cdo,CDO Model Repository project repository (cdo),?,organization,179504,10,10,Java,18,11914,50,477793,224473,104818,4553,23801214,7623679,28060,28038
+project-sunbird_sunbird-utils,https://github.com/project-sunbird/sunbird-utils,Common java utilities used by other Sunbird components,?,organization,61704,5,5,Java,25,4678,70,33616,5722,4705,357,1580584,197134,1183,397
+manywho_sdk-java,https://github.com/manywho/sdk-java,The Java SDK for building plugins that integrate with ManyWho,example,unknown,4403,0,0,Java,4,767,12,13031,619,3508,324,578724,30142,55,248
+dfire-datacenter_hera,https://github.com/dfire-datacenter/hera,,tool,unknown,19353,2,2,Java,1,1307,9,27242,15841,4774,300,1570974,494689,1618,10408
+eugenp_blogwatch,https://github.com/eugenp/blogwatch,blogwatch,system,unknown,51175,5,5,Java,13,570,12,2842,144,795,40,160270,10885,12,162
+RestComm_jain-slee,https://github.com/RestComm/jain-slee,The World's #1 Open Source JAIN-SLEE (JSLEE) 1.1 Implementation,service,unknown,137520,17,17,Java,31,5293,294,100215,97953,31026,1626,7803263,3539471,8326,11045
+jaxmann_soccer-highlights-server,https://github.com/jaxmann/soccer-highlights-server,Real-time soccer highlight notification via Reddit crawler,service,unknown,37489,2,2,Java,0,0,0,2254,831,758,17,121855,37725,12,785
+mulesoft_mule-email-connector,https://github.com/mulesoft/mule-email-connector,,?,industry,684,0,0,Java,0,515,60,5278,2455,1292,110,326881,88485,363,254
+w1nnleo_eureka,https://github.com/w1nnleo/eureka,,service,unknown,7998,0,0,Java,0,2669,120,34432,10400,7184,396,2030170,400465,1086,1305
+scireum_sirius-kernel,https://github.com/scireum/sirius-kernel,Provides common core classes and the dependency injection microkernel powering all SIRIUS applications,"library,?",unknown,1546,22,22,Java,11,845,32,14035,10600,2795,194,950228,426658,1247,621
+johayoung222_FinalProject,https://github.com/johayoung222/FinalProject,[NCS]___ _______ �___ ___과�_ FinalProject,tutorial,unknown,45366,0,0,Java,1,514,9,9696,874,2766,118,466995,35226,28,489
+gridgentoo_NiFi-GenerateCode-GenerateFlow,https://github.com/gridgentoo/NiFi-GenerateCode-GenerateFlow,_ене_а_и_ кода в NiFi GenerateCode & GenerateFlow,tool,unknown,97810,0,0,Java,0,5558,336,552527,148138,121401,4795,35746619,7199168,9050,30540
+proofpoint_platform,https://github.com/proofpoint/platform,Proofpoint Platform,platform,industry,17411,58,58,Java,53,4876,96,72624,12652,12594,773,3362855,541202,346,2587
+TelluIoT_ThingML,https://github.com/TelluIoT/ThingML,The ThingML modelling language,"language,tool",unknown,297082,58,58,Java,23,3812,45,34988,7608,6723,310,1974153,375913,488,3037
+puneetaries_java,https://github.com/puneetaries/java,Java Code Pad,?,unknown,35598,0,0,Java,0,11187,3972,2746,239,687,7,126773,10582,19,421
+V0G3L_treff.,https://github.com/V0G3L/treff., An Instant Messenger focused on live location transmission,"application,service",unknown,22430,7,7,Java,0,683,11,21534,4183,5925,486,1008309,123877,688,883
+snowplow_snowplow-android-tracker,https://github.com/snowplow/snowplow-android-tracker,Snowplow event tracker for Android. Add analytics to your Android apps and games,tool,unknown,55659,49,49,Java,32,745,24,7365,3291,1736,82,451409,129070,406,405
+edisonmorocho_cloudsim-plus,https://github.com/edisonmorocho/cloudsim-plus,,framework,unknown,41497,0,0,Java,0,1602,21,36614,33290,9413,495,2981305,1390227,3882,2603
+gallandarakhneorg_afc,https://github.com/gallandarakhneorg/afc,Arakhnê Foundation Classes,library,unknown,16935,10,10,Java,7,1011,15,290806,127764,55908,1457,15196672,4964264,14656,20833
+huimumua_DashCamera,https://github.com/huimumua/DashCamera,https://tiny_hui@bitbucket.askey.com.tw:8443/scm/pgcdras/mainapp.git,?,unknown,8840,0,0,Java,0,525,20,16775,2148,2411,151,814451,77427,272,940
+eclipse_emf,https://github.com/eclipse/emf,EMF project repository (emf),?,organization,57434,37,37,Java,25,9891,64,630316,325660,120505,2807,34457259,11416070,43421,45422
+effine_shopping,https://github.com/effine/shopping,simulation shopping website !,service,unknown,8631,2,2,Java,0,544,12,3303,1961,984,126,169083,37728,329,365
+gridgentoo_IgniteStockExchange,https://github.com/gridgentoo/IgniteStockExchange,__име_ напи_ани_ InMemory _и_жи _ и_пол_зованием Apache Ignite,?,unknown,166418,1,1,Java,0,30021,406,1054688,579087,380518,9726,66747046,19410486,143433,45551
+saros-project_saros,https://github.com/saros-project/saros,Open Source IDE plugin for distributed collaborative software development,plugin,unknown,147608,72,72,Java,35,8230,125,105200,33477,30035,1411,5397797,1256478,4677,3980
+siddadel_Foretello,https://github.com/siddadel/Foretello,Fintech chatbot,tool,unknown,9154,0,0,Java,0,505,2,2110,637,458,34,94565,17352,54,114
+marklogic_marklogic-data-hub,https://github.com/marklogic/marklogic-data-hub,The MarkLogic Data Hub: documentation  ==>,"tool,library,service",unknown,133031,84,84,Java,91,7204,93,31047,7837,6511,313,1854642,428826,619,1319
+Texera_texera,https://github.com/Texera/texera, Big Text Analytics Using Interactive Workflows,"system,service",unknown,165508,67,67,Java,30,5318,162,26767,6813,6623,287,1661461,255393,643,1417
+awasum_fineract-with-pentaho,https://github.com/awasum/fineract-with-pentaho,,"platform,service",unknown,37024,0,0,Java,0,5021,180,276214,71412,60474,3074,19786430,3125993,5296,10980
+zhaoxy136_Data-structure-and-Algorithms,https://github.com/zhaoxy136/Data-structure-and-Algorithms,Some interesting exercises,library,unknown,812,1,1,Java,0,946,2,12089,1433,556,331,428484,42796,134,756
+threerings_clyde,https://github.com/threerings/clyde,A collection of Java packages for making networked 3D games,service,unknown,25826,47,47,Java,14,3428,23,119272,56762,22288,770,6594781,2211338,13433,22720
+ParkBum_child,https://github.com/ParkBum/child,�_�_� _______��_,?,unknown,25872,0,0,Java,1,1103,11,2300,138,570,29,87378,8162,0,205
+eclipse_recommenders,https://github.com/eclipse/recommenders,Code Recommenders project repository (recommenders),?,organization,30251,21,21,Java,14,9701,57,62212,10852,13581,755,3296643,474494,1312,2716
+orbisgis_orbisgis,https://github.com/orbisgis/orbisgis,An open-source Geographic Information System (GIS) created by research and for research.,system,organization,76329,54,54,Java,35,11830,53,100793,70050,17201,1091,6988142,2599152,6572,6934
+hartwigmedical_hmftools,https://github.com/hartwigmedical/hmftools,Various utility tools for working with genomics data,tool,unknown,93762,16,16,Java,4,6728,18,122655,18599,32685,1297,6314657,585583,4283,4422
+LandMrakYao_Project,https://github.com/LandMrakYao/Project,,tutorial,unknown,709,0,0,Java,0,566,24,2590,949,878,78,109109,14740,147,110
+core-lib_jestful,https://github.com/core-lib/jestful,A Powerful And Easy To Use RESTful Framework For Java,framework,unknown,2848,3,3,Java,0,902,9,28453,5119,6667,693,1249985,98210,693,454
+imagej_imagej-legacy,https://github.com/imagej/imagej-legacy,Backwards compatibility with ImageJ 1.x,application,unknown,2057,6,6,Java,14,1317,31,18488,10588,4141,209,1130229,485813,538,1773
+openminted_omtd-registry,https://github.com/openminted/omtd-registry,,?,unknown,1998,0,0,Java,2,768,19,7991,836,1955,112,429323,31237,76,534
+klemens_openolat,https://github.com/klemens/openolat,"Git mirror of the official openolat hg repository (automatically updated). Contains extensions xman, autolat and a simple shibboleth authenticator in corrensponding branches. See WIKI for details:",platform,unknown,239396,12,12,Java,17,10694,42,728392,293459,141580,6583,41290929,10974413,29060,56628
+OrienteerBAP_Orienteer,https://github.com/OrienteerBAP/Orienteer,Business Application Platform,platform,organization,10033,96,96,Java,35,2191,21,46979,5683,9420,914,2182238,169345,1327,331
+BuiltBrokenModding_Atomic-Science,https://github.com/BuiltBrokenModding/Atomic-Science,Reboot and full rewrite of Calclavia's Atomic Science mod,mod,unknown,3006,23,23,Java,7,616,8,29877,7466,6016,421,1392716,224703,1055,2273
+tferr_ASA,https://github.com/tferr/ASA,Bitmap morphometry of neuronal arbors through Sholl,plugin,unknown,2500,2,2,Java,6,861,11,7613,2523,1420,34,366095,93390,233,606
+texone_creativecomputing,https://github.com/texone/creativecomputing,,?,unknown,380196,5,5,Java,2,1077,5,208006,81479,52227,2225,10800885,3055805,7893,18597
+codeaurora-unofficial_platform-packages-apps-Nfc,https://github.com/codeaurora-unofficial/platform-packages-apps-Nfc,,?,organization,10865,0,0,Java,0,8672,243,14291,2669,2412,69,720617,117755,137,1260
+FTBTeam_FTB-Utilities,https://github.com/FTBTeam/FTB-Utilities,FTBUtilities mod for Minecraft. Depends on FTBLib,plugin,unknown,10694,73,73,Java,58,1209,39,11632,307,2043,143,403678,5454,83,38
+CloverETL_CloverETL-Engine,https://github.com/CloverETL/CloverETL-Engine,,framework,unknown,45603,35,35,Java,26,41070,240,245728,105089,48895,1669,13417632,4132888,10505,16527
+openGDA_gda-scm,https://github.com/openGDA/gda-scm,,?,organization,41380,0,0,Java,0,2359,47,26231,6930,4881,228,1151041,222123,622,1360
+weilong1991_java-design-patterns,https://github.com/weilong1991/java-design-patterns,,example,unknown,15843,0,0,Java,0,2640,190,27769,35556,8399,1072,2533994,1567317,3324,732
+wpilibsuite_RobotBuilder,https://github.com/wpilibsuite/RobotBuilder,,tool,unknown,6066,18,18,Java,22,1026,38,11295,2582,2425,155,535185,66356,527,471
+MerzDaniel_distributed-cloud-db,https://github.com/MerzDaniel/distributed-cloud-db,Distributed db which used consistant hashing,system,unknown,75470,0,0,Java,0,1069,5,6854,1001,1541,138,332940,33234,190,113
+yzb808_spring-code-learn,https://github.com/yzb808/spring-code-learn,_��_spring 4.3.x �____�__,?,unknown,111186,0,0,Java,0,20159,383,599883,319157,159826,6826,37096831,13230363,28832,28310
+LivingLogic_LivingLogic.Java.ul4,https://github.com/LivingLogic/LivingLogic.Java.ul4,Java implementation of UL4 (a cross-platform templating language) and UL4ON (a lightweight machine-readable text-based cross-platform object interchange format),language,industry,25605,2,2,Java,0,1332,6,28340,3397,4849,371,992743,106895,250,759
+MaxNobody_liliths-throne-public-2,https://github.com/MaxNobody/liliths-throne-public-2,,application,unknown,46847,0,0,Java,0,1494,50,297882,13174,51153,653,15445020,452490,1239,7851
+CjHare_systematic-trading,https://github.com/CjHare/systematic-trading,,tool,unknown,5476,2,2,Java,0,1445,3,25259,20249,10287,569,2116189,1031124,1893,244
+Deep-Symmetry_beat-link,https://github.com/Deep-Symmetry/beat-link,Java library for synchronizing and communicating with Pioneer DJ Link equipment,library,organization,1934,57,57,Java,4,579,3,10837,9191,1989,78,971013,462311,1472,588
+MichaelKazarian_WordRunner,https://github.com/MichaelKazarian/WordRunner,Tool for words learning.,404,404,3229,0,0,Java,0,1434,2,12457,2935,1261,95,650040,115149,545,556
+OpenLMIS_openlmis-stockmanagement,https://github.com/OpenLMIS/openlmis-stockmanagement,Stock Managment Service for OpenLMIS v3.1+ http://openlmis.org,service,organization,6354,6,6,Java,11,1198,35,23043,7850,5798,372,1407822,416925,360,1492
+Claymore1297_SnapdragonCamera,https://github.com/Claymore1297/SnapdragonCamera,,?,unknown,33771,0,0,Java,0,8773,180,65935,11146,9403,239,3271190,479956,832,3219
+cantran1010_hozo-android,https://github.com/cantran1010/hozo-android,,?,unknown,80392,1,1,Java,0,2169,20,37124,1722,7726,254,1748140,57773,283,745
+ajh3_NoSurfForReddit,https://github.com/ajh3/NoSurfForReddit,,application,unknown,6652,17,17,Java,2,553,3,2376,888,731,49,149872,53280,0,285
+JKArena_pulsing,https://github.com/JKArena/pulsing,Playground for various tech,?,unknown,9654,2,2,Java,0,1122,4,9207,4379,2874,177,605602,182801,218,467
+microsoft_java-debug,https://github.com/microsoft/java-debug,The debug server implementation for Java. It conforms to the debug protocol of Visual Studio Code.,service,industry,980,89,89,Java,33,1003,17,11299,3425,2209,143,690561,157539,436,521
+RubinLab_epad-ws,https://github.com/RubinLab/epad-ws,ePAD Web Service,service,unknown,58016,7,7,Java,3,1896,18,51658,31006,7035,235,4851019,2588975,894,3547
+Umweltzone_Umweltzone,https://github.com/Umweltzone/Umweltzone,Low emission zones on Android,application,unknown,4446,5,5,Java,5,1022,6,3224,898,747,54,179848,41171,1,188
+ONSdigital_census-rm-actionexporter-service,https://github.com/ONSdigital/census-rm-actionexporter-service,,service,unknown,35394,0,0,Java,0,1291,68,2407,241,503,56,111309,6749,70,47
+jaehong0721_VoiceOrder,https://github.com/jaehong0721/VoiceOrder,,?,unknown,1541,0,0,Java,0,542,5,6640,76,1856,111,308906,3974,14,48
+gerryS2xda_SmartLab,https://github.com/gerryS2xda/SmartLab,Progetto universitario di Ingegneria del Software curato da un team di ragazzi che stanno frequentando l'Universit_ degli Studi di Salerno (anno 2018/2019),service,unknown,4086,0,0,Java,0,546,8,6584,817,1975,133,287498,43707,94,480
+chronosone_jetbrains-idea-settings,https://github.com/chronosone/jetbrains-idea-settings,,?,unknown,298,0,0,Java,0,547,1,0,0,0,0,0,0,0,0
+marklogic_marklogic-contentpump,https://github.com/marklogic/marklogic-contentpump,MarkLogic Connector for Hadoop and MarkLogic Contentpump (mlcp),tool,unknown,268100,24,24,Java,15,15100,76,34660,8539,4971,260,1793054,326278,674,1732
+SaltedDucEgg_dubbo,https://github.com/SaltedDucEgg/dubbo,,framework,unknown,9961,0,0,Java,0,3526,233,114037,41504,26066,1559,6698069,1858024,2898,6450
+jenkinsci_plugin-compat-tester,https://github.com/jenkinsci/plugin-compat-tester,Jenkins Plugin Compatibility Tester,tool,unknown,1123,12,12,Java,29,861,38,4486,1178,902,60,281039,58815,85,309
+khartec_waltz,https://github.com/khartec/waltz,Enterprise Information Service,tool,unknown,22569,54,54,Java,38,5465,32,50288,16527,16415,966,3195131,744604,200,2123
+austinschwartz_Competitive-Programming,https://github.com/austinschwartz/Competitive-Programming,:tiger: Online Judge problems,?,unknown,2778,1,1,Java,2,731,9,24674,70,3507,386,662534,2522,0,86
+saego_RepositBasic,https://github.com/saego/RepositBasic,Test,example,unknown,633,0,0,Java,0,583,5,8764,1869,1552,224,363536,47295,360,199
+team467_Robot2019-Competition,https://github.com/team467/Robot2019-Competition,,?,unknown,3203,3,3,Java,1,1204,41,11112,5929,2679,94,641042,224123,608,1202
+jahia-qa_selenium226-71,https://github.com/jahia-qa/selenium226-71,,?,unknown,681,0,0,Java,0,6344,4,0,0,0,0,0,0,0,0
+Angus-Liu_Algorithm-in-Action,https://github.com/Angus-Liu/Algorithm-in-Action,:triangular_ruler: Some of my practices on Algorithms : ) �_���__�______ LeetCode_____ffer �__��_���__代�_�____�___��____��___�__解�_�_____代�_��______�_�_____�_�__�_____��__�_�__�________�___��_��__常�_�__,tutorial,unknown,1445,5,5,Java,0,562,2,10339,1902,1024,338,389767,40388,263,661
+dhis2_dhis2-android-sdk,https://github.com/dhis2/dhis2-android-sdk,SDK for building Android apps for DHIS 2,tool,organization,39201,19,19,Java,40,9609,52,77404,50533,22288,1838,6605940,2880409,128,2455
+simonsoft_cms-item,https://github.com/simonsoft/cms-item,,?,unknown,1114,0,0,Java,0,617,6,8237,5008,2542,162,525704,225580,575,762
+redis-force_less-state-hdfs,https://github.com/redis-force/less-state-hdfs,Less State HDFS,system,unknown,169534,0,0,Java,0,18598,286,1517408,477010,257604,9480,80454353,19844943,51192,94292
+ravendb_ravendb-jvm-client,https://github.com/ravendb/ravendb-jvm-client,RavenDB JVM Client,application,unknown,7155,2,2,Java,9,4388,95,51240,4629,15018,794,2418333,176634,857,514
+opendaylight_sxp,https://github.com/opendaylight/sxp,Mirror of the OpenDaylight sxp gerrit project ,?,organization,10150,7,7,Java,0,742,33,27634,6902,4218,236,1809129,260452,892,801
+Adyen_adyen-mirakl,https://github.com/Adyen/adyen-mirakl,Adyen Mirakl Connector,tool,unknown,1973,6,6,Java,9,828,19,11484,3536,2558,142,815247,151419,95,355
+nishantmalaiya_AapkaTradeBuyerFinal,https://github.com/nishantmalaiya/AapkaTradeBuyerFinal,,?,unknown,44979,0,0,Java,0,662,5,51295,8859,15174,367,3081570,472084,864,2087
+itesla_ipst,https://github.com/itesla/ipst,iTesla Power System Tools info@itesla-pst.org,tool,organization,22148,30,30,Java,16,1560,42,89219,17014,18277,1120,5117253,765737,2592,5550
+codeaurora-unofficial_platform-packages-apps-Bluetooth,https://github.com/codeaurora-unofficial/platform-packages-apps-Bluetooth,,?,organization,28006,0,0,Java,1,24908,502,46358,6897,6863,115,2471953,312739,535,2577
+zeidon_zeidon-joe,https://github.com/zeidon/zeidon-joe,Zeidon Java Object Engine and related projects.,framework,unknown,41862,1,1,Java,3,1566,15,286660,144360,57399,530,20453313,7222066,2693,118041
+esig_dss-demonstrations,https://github.com/esig/dss-demonstrations,Examples of DSS integration,example,unknown,99603,20,20,Java,16,2263,45,4876,95,1349,67,226218,3279,8,24
+alv-ch_jobroom2,https://github.com/alv-ch/jobroom2,Future web gateway of www.job-room.ch,application,unknown,10609,3,3,Java,2,4056,47,19081,1428,4697,325,908163,53069,196,480
+LookThroughWindow_KarateFrameworkReference,https://github.com/LookThroughWindow/KarateFrameworkReference,Reference Project,tool,unknown,5134,0,0,Java,1,1016,26,20822,6358,3650,398,1132066,263565,368,696
+FollettSchoolSolutions_perfmon4j,https://github.com/FollettSchoolSolutions/perfmon4j,PerfMon4j_ is a software API designed to diagnose and monitor application performance while the software is under load.,library,unknown,6042,5,5,Java,1,744,9,49758,11238,12890,421,2739289,527527,271,3770
+lightingljn_Interview,https://github.com/lightingljn/Interview,,tutorials,unknown,614,0,0,Java,0,515,14,2482,887,846,72,103836,13471,140,97
+SquidPony_Epigon,https://github.com/SquidPony/Epigon,,?,unknown,93691,6,6,Java,0,573,5,16847,4143,2303,109,1005767,226624,374,2350
+hmcts_rpa-coh-continuous-online-resolution,https://github.com/hmcts/rpa-coh-continuous-online-resolution,Facilitate communication in decision making process.,tool,unknown,2458,1,1,Java,1,2107,16,16812,103,4468,275,830004,5149,10,79
+romanchyla_montysolr,https://github.com/romanchyla/montysolr,Solr for Astrophysics Data System,system,unknown,125761,43,43,Java,13,3851,41,58786,13322,14455,338,3145536,832379,516,8229
+eclipse_titan.EclipsePlug-ins,https://github.com/eclipse/titan.EclipsePlug-ins,,plugin,organization,118680,17,17,Java,35,34581,79,524180,148720,73893,2179,27174483,5176176,25781,13133
+FreeGrok_FreeGrok,https://github.com/FreeGrok/FreeGrok,"Community fork of the {OpenGrok fast and usable source code search and cross reference engine, written in Java",tool,unknown,18737,0,0,Java,0,3440,117,60550,30317,10924,560,3531318,1155641,2614,5077
+takayanagi2087_dataforms,https://github.com/takayanagi2087/dataforms,dataforms.jar Java Web______��__��_____��_________________��________��_,framework,unknown,46032,4,4,Java,1,772,11,24408,16252,4976,465,1349759,252772,3357,533
+spring-cloud_spring-cloud-cloudfoundry,https://github.com/spring-cloud/spring-cloud-cloudfoundry,Integration between Cloudfoundry and the Spring Cloud APIs,tool,unknown,116781,69,69,Java,56,997,31,1460,626,360,28,83482,24380,40,84
+exoplatform_ecms,https://github.com/exoplatform/ecms,eXo ECMS,system,unknown,192197,15,15,Java,64,11527,262,126014,45875,20093,1057,7802383,1554791,5258,4538
+wholeplatform_whole,https://github.com/wholeplatform/whole,Whole Platform Language Workbench,platform,unknown,33154,18,18,Java,4,1346,5,543612,135709,106610,9496,25803821,5582875,15451,11404
+Aaryatech_ShivShambhuAdmin,https://github.com/Aaryatech/ShivShambhuAdmin,,?,unknown,6566,0,0,Java,0,567,18,45464,1352,17655,197,1647581,54745,3,582
+oci-pronghorn_Pronghorn,https://github.com/oci-pronghorn/Pronghorn,,?,unknown,43676,66,66,Java,18,3844,58,102461,15437,31799,726,5711412,804669,938,15090
+Fslholycode_leetcode,https://github.com/Fslholycode/leetcode,,homework,unknown,496,0,0,Java,0,557,1,11033,1140,308,496,378898,26461,131,160
+TouchInstinct_RoboSwag-components,https://github.com/TouchInstinct/RoboSwag-components,,?,unknown,801,0,0,Java,2,736,34,5179,2921,1053,44,370254,127008,346,161
+fq877570288_unihotel,https://github.com/fq877570288/unihotel,,?,unknown,39141,0,0,Java,0,639,15,38858,4007,8504,536,1704409,93444,629,1761
+paulyc_libbluray,https://github.com/paulyc/libbluray,,library,unknown,4518,0,0,Java,0,2826,60,37063,20717,8704,727,2241741,874955,799,3225
+venicegeo_pz-servicecontroller,https://github.com/venicegeo/pz-servicecontroller,Repo for the Piazza core service controller responsible for managing and executing REST services.,application,unknown,1228,0,0,Java,1,892,35,5036,2029,1083,41,306310,74126,258,472
+strapdata_elassandra5-rc,https://github.com/strapdata/elassandra5-rc,elasticsearch 5.5 upgrade repo,"tool,plugin",unknown,327802,0,0,Java,0,48633,1290,664281,188879,117966,5429,42180855,8412178,16001,31141
+DawnScience_dawn-ui,https://github.com/DawnScience/dawn-ui,Mirrored from https://gerrit.diamond.ac.uk/ (no GitHub pull requests accepted),"?,tool",organization,66212,1,1,Java,1,8870,78,172866,26631,41648,1404,7410006,900296,2554,8493
+ooni_probe-android,https://github.com/ooni/probe-android,OONI Probe Android,application,organization,65518,69,69,Java,29,1382,18,5687,63,859,91,261710,3314,4,38
+1and1_ioc-unit,https://github.com/1and1/ioc-unit,"Make test driven development of ejb-3.x services and processes easy. Supports jboss7, wildfly, weld 1.x and 2.x, camunda 7.x.",tool,unknown,2556,6,6,Java,4,609,7,41760,8700,10232,847,2065868,351972,1233,1242
+Progressive-Learning-Platform_PLPTool6,https://github.com/Progressive-Learning-Platform/PLPTool6,Prototype for PLPTool frontend interface overhaul,?,unknown,34384,2,2,Java,3,1023,26,18604,3723,4400,211,790879,136104,394,849
+rudyENgithub_TheAlgorithms,https://github.com/rudyENgithub/TheAlgorithms,,example,unknown,776,0,0,Java,0,685,161,8463,3568,2023,149,387823,114719,457,1130
+ccomeaux_boardgamegeek4android,https://github.com/ccomeaux/boardgamegeek4android,BoardGameGeek application for Android (unofficial),application,unknown,30735,81,81,Java,28,6091,15,26466,691,4327,272,1016119,24509,144,230
+minorg_thingsworth,https://github.com/minorg/thingsworth,thingsworth.org web application,application,unknown,33809,0,0,Java,0,1312,4,78888,2809,14724,364,4301341,71257,847,257
+raphaelmue_financer,https://github.com/raphaelmue/financer,Financer is an Application that helps to manage all private expenses and revenues. ,application,unknown,8644,1,1,Java,0,612,10,9804,556,2089,130,472210,18287,84,121
+zaproxy_zap-admin,https://github.com/zaproxy/zap-admin,ZAP Admin,?,organization,7166,12,12,Java,17,726,6,1411,342,220,14,74557,13784,9,65
+apache_commons-crypto,https://github.com/apache/commons-crypto,Mirror of Apache Commons Crypto,library,organization,1156,57,57,Java,59,896,55,6177,5498,1427,89,479268,225287,584,515
+hongkq_LoveBookJAVA,https://github.com/hongkq/LoveBookJAVA,,tutorial,unknown,32392,0,0,Java,0,651,6,81,6,15,1,2678,97,0,8
+Anyz01_incubator-shardingsphere,https://github.com/Anyz01/incubator-shardingsphere,Distributed database middleware ,"?,system",unknown,29950,0,0,Java,0,15098,98,60849,32505,13606,1372,4101338,1113464,1842,3090
+DiddiZ_NXT-Praktikum,https://github.com/DiddiZ/NXT-Praktikum,Remote control for a Lego NXT segway robot.,"?,system",unknown,30032,0,0,Java,0,1079,32,4396,1710,753,49,222644,64375,291,179
+stackroute_ibm-wave3-ontrack,https://github.com/stackroute/ibm-wave3-ontrack,,?,unknown,40935,0,0,Java,5,583,23,3801,524,986,139,168150,18940,1,525
+xiaochen9_trfc,https://github.com/xiaochen9/trfc,,?,unknown,7142,1,1,Java,0,1071,14,86026,22222,14220,849,3350040,373452,3366,6456
+opendigitaleducation_entcore,https://github.com/opendigitaleducation/entcore,ODE educational social network engine,?,industry,46494,29,29,Java,20,10019,103,65478,12392,9599,524,3426805,810548,238,3887
+eaobservatory_observing-tool,https://github.com/eaobservatory/observing-tool,JCMT/UKIRT Observing Tool,tool,organization,67448,0,0,Java,2,5924,38,74581,34159,19470,481,4339583,1280713,4502,4559
+omegarom-project_lineage-sdk,https://github.com/omegarom-project/lineage-sdk,,library,unknown,5066,0,0,Java,0,920,95,24585,10377,5240,180,1472442,378197,1568,1320
+BedwarsRel_BedwarsRel,https://github.com/BedwarsRel/BedwarsRel,Bedwars Reloaded - The Minecraft Bedwars Plugin!,plugin,unknown,213652,79,79,Java,111,5073,35,20303,1311,4387,202,827828,42239,157,487
+raghu-bhandi_simplity-kernel,https://github.com/raghu-bhandi/simplity-kernel,"ridiculously simple way to build micro services, specifically for transaction processing applications","framework,platform",unknown,5037,1,1,Java,1,987,22,21509,17732,2909,201,1224462,560460,1808,979
+romanticstxj_service,https://github.com/romanticstxj/service,,?,unknown,1721,0,0,Java,1,728,11,32715,8057,8543,481,1480534,224912,1179,2166
+balzac-lang_balzac,https://github.com/balzac-lang/balzac,,language,unknown,4236,17,17,Java,4,913,7,5822,809,1356,66,263102,25075,79,211
+tmdmaker_tmdmaker,https://github.com/tmdmaker/tmdmaker,T�_��ER_��_____��__��___sdn.jp ___��__��__,tool,unknown,18068,2,2,Java,0,747,9,26631,20145,5583,446,1543565,548725,2634,2002
+OpenSharding_shardingsphere-spi-impl,https://github.com/OpenSharding/shardingsphere-spi-impl,ShardingSphere's SPI implementation plugin,?,organization,1185,15,15,Java,17,502,8,8572,4335,1970,172,581844,174571,274,385
+zhouchenzc0824_code,https://github.com/zhouchenzc0824/code,README,?,unknown,826,0,0,Java,0,811,2,3454,10902,492,175,411328,291333,108,3610
+CSClubatIUPUI_ContestSolutions,https://github.com/CSClubatIUPUI/ContestSolutions,CS Club @ IUPUI - Programming Contest Problem Solutions,homework,unknown,992,5,5,Java,0,750,79,1234,359,260,30,47717,13607,0,374
+biocodellc_biocode-fims-commons,https://github.com/biocodellc/biocode-fims-commons,Biocode Field Information Management System,system,unknown,72540,2,2,Java,0,974,7,24962,3865,6606,353,1202109,126943,567,1144
+iamlinhui_apollo,https://github.com/iamlinhui/apollo,,"system,?",unknown,19907,0,0,Java,0,2188,68,45536,3899,12098,647,2198384,129505,674,837
+entando_entando-core,https://github.com/entando/entando-core,Entando Core. The leading repository of Entando Platform.,tool,organization,23492,55,55,Java,29,4595,88,118002,33761,22398,1437,6711371,1384553,2712,4003
+concord-consortium_energy3d,https://github.com/concord-consortium/energy3d,An integrated CAD/CAE tool,tool,organization,185967,8,8,Java,0,3519,11,92278,2330,11600,503,4584534,134962,371,1785
+chipster_chipster-web-server,https://github.com/chipster/chipster-web-server,,framework,unknown,8067,1,1,Java,1,679,10,18010,2362,5139,175,824473,92327,162,1119
+ibisTime_xn-wzcd,https://github.com/ibisTime/xn-wzcd,温�_车贷,?,unknown,32836,0,0,Java,1,2321,8,122048,22273,38419,2540,4947426,349479,2599,9403
+wordpress-mobile_gutenberg-mobile,https://github.com/wordpress-mobile/gutenberg-mobile,Mobile version of Gutenberg - native iOS and Android,library,unknown,130994,61,61,Java,16,5543,44,2332,226,469,24,116158,12481,17,111
+nanofaroque_Life-coding,https://github.com/nanofaroque/Life-coding,Programming everyday.Program makes not only computer smarter but makes us smarter too. So keep solving and write program.,tutorial,unknown,11683,12,12,Java,4,742,7,21083,2009,4459,582,770579,75858,134,866
+palantir_conjure-java,https://github.com/palantir/conjure-java,Conjure generator for Java clients and servers,tutorial,industry,1340,3,3,Java,15,1312,57,18759,2689,3683,208,951074,127004,179,544
+openlattice_scrunchie,https://github.com/openlattice/scrunchie,,?,unknown,669,0,0,Java,0,548,17,1835,320,352,9,106387,15834,10,150
+marceloamadeu_takes,https://github.com/marceloamadeu/takes,True Object-Oriented Java Web Framework,framework,unknown,30671,0,0,Java,0,2857,109,22895,22354,3196,458,1583458,799136,2281,680
+bendisposto_prob2,https://github.com/bendisposto/prob2,ProB 2.0 ,tool,unknown,32878,11,11,Java,9,5322,44,23252,3212,5017,411,965333,115580,413,295
+o0live0o_AndroidUtilCode,https://github.com/o0live0o/AndroidUtilCode,,library,unknown,29542,0,0,Java,1,1124,36,22719,13924,3768,133,1560622,441925,1782,1402
+tohotforice_onos,https://github.com/tohotforice/onos,sdn-wise onos,framework,unknown,101508,0,0,Java,0,10528,356,581410,288749,126595,6936,35833503,10041425,33367,35305
+MIPS_packages-apps-CellBroadcastReceiver,https://github.com/MIPS/packages-apps-CellBroadcastReceiver,,?,unknown,6014,1,1,Java,1,1775,81,2165,674,434,18,139610,29480,85,156
+cdapio_hub,https://github.com/cdapio/hub,Public CDAP Hub,"framework,platform",unknown,2389684,3,3,Java,5,1032,66,1656,381,289,17,76125,14580,25,66
+flightstats_hub,https://github.com/flightstats/hub,"fault tolerant, highly available service for data storage and distribution",system,unknown,88827,67,67,Java,19,11189,55,34385,415,6046,500,1536608,18291,61,234
+ClouDesire_java-api-client,https://github.com/ClouDesire/java-api-client,Java client to consume the cloudesire API,application,industry,874,0,0,Java,0,1081,9,21812,702,5550,341,708120,16690,185,136
+hbz_lobid-resources,https://github.com/hbz/lobid-resources,"Transformation, web frontend, and API 2.0 for the hbz catalog as LOD",?,unknown,35181,1,1,Java,2,3141,21,7164,1454,957,58,319247,49663,259,503
+DukeMobileTech_AndroidSurvey,https://github.com/DukeMobileTech/AndroidSurvey,,"system,framework",unknown,35725,1,1,Java,3,1234,6,19732,1713,3214,169,938359,81343,104,501
 ZachHerridge_Acuity,https://github.com/ZachHerridge/Acuity,"Acuity is a project that handles the backend infastructure of Runescape botting clients like https://rspeer.org/. This includes security, databases, client communication, dashboards, and services.",,,8419,19,19,Java,4,617,7,10614,898,2779,235,503250,32217,175,134
-PLOS_content-repo,https://github.com/PLOS/content-repo,PLOS Content Repository,,,4174,3,3,Java,1,724,38,9365,2360,2488,78,522148,123178,75,385
-siteadmin_ett,https://github.com/siteadmin/ett,Source code for the Edge Testing Tool,,,289196,2,2,Java,5,2142,34,27122,13109,7234,297,1567494,445546,1370,2689
-trakem2_TrakEM2,https://github.com/trakem2/TrakEM2,"ImageJ plugin for morphological data mining, 3D modeling and image stitching, registration, editing and annotation.",,,13285,12,12,Java,22,4916,54,88554,15863,12542,251,4096714,853924,2541,9155
-fabric8io_ipaas-quickstarts,https://github.com/fabric8io/ipaas-quickstarts,quickstarts for the fabric8 project,,,19082,60,60,Java,85,4007,64,2264,539,388,18,130319,23773,57,118
-peteroupc_MailLib,https://github.com/peteroupc/MailLib,A portable library in C# and Java for parsing and generating Internet mail messages.,,,8687,1,1,Java,1,712,3,47334,5463,1483,81,1995521,255178,310,2428
-metaborg_spoofax,https://github.com/metaborg/spoofax,Spoofax runtime,,,67701,39,39,Java,15,4030,48,31534,6968,8204,618,1740064,229810,1171,607
-Easterlyn_Easterlyn,https://github.com/Easterlyn/Easterlyn,The one and only Easterlyn backbone plugin,,,138688,4,4,Java,3,1963,13,28451,4493,4995,305,1120079,121305,675,761
-gustavodomenico_inno-api,https://github.com/gustavodomenico/inno-api,,,,1294,0,0,Java,0,0,0,15401,6,3693,472,758588,369,1,4
-armorman_line-bot,https://github.com/armorman/line-bot,,,,4526,0,0,Java,0,603,34,8030,5177,2205,215,538862,204278,381,734
-wilsonjie_Saturn,https://github.com/wilsonjie/Saturn,,,,27968,0,0,Java,0,2104,29,64034,8421,13167,688,2854099,214411,1518,1776
-mahadevswamy_https-github.com-spring-cloud-spring-cloud-netflix,https://github.com/mahadevswamy/https-github.com-spring-cloud-spring-cloud-netflix,,,,8053,0,0,Java,0,6414,229,34983,9425,7621,410,1854024,389939,594,1761
-opendigitaleducation_blog,https://github.com/opendigitaleducation/blog,Blog application is an internal blogging plate-form targeting educational pratices  ,,,680,0,0,Java,1,579,33,2943,286,345,15,140472,19379,3,71
-JRoy_happybot,https://github.com/JRoy/happybot,"A multi-purpose, feature-full, and powerful, highly guild-specific, Discord Bot written in Java.",,,2840,9,9,Java,7,682,14,9091,773,1501,149,399027,28713,108,222
-LibraryOfCongress_bagit-java,https://github.com/LibraryOfCongress/bagit-java,Java library to support the BagIt specification.,,,149244,56,56,Java,46,5322,55,6140,1087,1487,124,341374,49094,150,158
-sakazz_exchange,https://github.com/sakazz/exchange,exchange,,,157872,0,0,Java,1,3421,62,85429,20474,17330,870,5106326,996224,583,7670
-asing225_SER516-Software-Agility,https://github.com/asing225/SER516-Software-Agility,Software Agility Java Project using Agile,,,462,0,0,Java,0,895,122,2543,884,639,90,100408,21605,130,125
-Smithsonian_sidora-services,https://github.com/Smithsonian/sidora-services,Sidora Ingest,,,159898,5,5,Java,4,844,19,15617,9439,4617,226,1265492,498423,490,1550
-dvsa_mot-automated-testsuite,https://github.com/dvsa/mot-automated-testsuite,"Automated test suite for the MOT application, for smoke and regression testing. Built using Cucumber, Java and Selenium, using data contained within each environment. ",,,55979,6,6,Java,4,1842,51,7455,3760,2156,60,562277,158338,770,801
-quadrama_DramaNLP,https://github.com/quadrama/DramaNLP,UIMA NLP components for dramatic texts,,,119528,2,2,Java,3,1230,5,7979,616,1563,115,374132,19855,48,340
-szczepanskikrs_multi-battleships,https://github.com/szczepanskikrs/multi-battleships,Battleship game over the network using Java client - server architecture.,,,639,1,1,Java,1,563,18,3942,879,929,113,181726,24188,162,176
-vert-x3_vertx-mongo-client,https://github.com/vert-x3/vertx-mongo-client,Mongo Client for Eclipse Vert.x,,,1253,34,34,Java,69,653,62,8349,1775,1591,63,399030,55824,278,225
-radanalyticsio_spark-operator,https://github.com/radanalyticsio/spark-operator,Operator for managing the Spark clusters on Kubernetes and OpenShift.,,,3440,37,37,Java,16,790,12,1290,230,258,14,80512,12241,7,61
-eclipse_eclipse.platform,https://github.com/eclipse/eclipse.platform,Eclipse Platform project repository (eclipse.platform),,,62151,30,30,Java,21,9467,111,53231,24168,9097,468,2886114,883468,2714,6878
-GoogleCloudPlatform_storage-sdrs,https://github.com/GoogleCloudPlatform/storage-sdrs,Data retention tool for Google Cloud Storage,,,1290,7,7,Java,4,613,14,9425,4057,2135,136,561232,171275,487,400
-iqcz_juice,https://github.com/iqcz/juice,My happy coding farm.,,,17533,0,0,Java,0,1294,17,19199,4324,5623,636,810141,97881,673,1151
+PLOS_content-repo,https://github.com/PLOS/content-repo,PLOS Content Repository,"system,service",organization,4174,3,3,Java,1,724,38,9365,2360,2488,78,522148,123178,75,385
+siteadmin_ett,https://github.com/siteadmin/ett,Source code for the Edge Testing Tool,tool,"unknown,gov",289196,2,2,Java,5,2142,34,27122,13109,7234,297,1567494,445546,1370,2689
+trakem2_TrakEM2,https://github.com/trakem2/TrakEM2,"ImageJ plugin for morphological data mining, 3D modeling and image stitching, registration, editing and annotation.",tool,unknown,13285,12,12,Java,22,4916,54,88554,15863,12542,251,4096714,853924,2541,9155
+fabric8io_ipaas-quickstarts,https://github.com/fabric8io/ipaas-quickstarts,quickstarts for the fabric8 project,tutorial,unknown,19082,60,60,Java,85,4007,64,2264,539,388,18,130319,23773,57,118
+peteroupc_MailLib,https://github.com/peteroupc/MailLib,A portable library in C# and Java for parsing and generating Internet mail messages.,library,organization,8687,1,1,Java,1,712,3,47334,5463,1483,81,1995521,255178,310,2428
+metaborg_spoofax,https://github.com/metaborg/spoofax,Spoofax runtime,platform,organization,67701,39,39,Java,15,4030,48,31534,6968,8204,618,1740064,229810,1171,607
+Easterlyn_Easterlyn,https://github.com/Easterlyn/Easterlyn,The one and only Easterlyn backbone plugin,"application,plugin",unknown,138688,4,4,Java,3,1963,13,28451,4493,4995,305,1120079,121305,675,761
+gustavodomenico_inno-api,https://github.com/gustavodomenico/inno-api,,��,unknown,1294,0,0,Java,0,0,0,15401,6,3693,472,758588,369,1,4
+armorman_line-bot,https://github.com/armorman/line-bot,,library,unknown,4526,0,0,Java,0,603,34,8030,5177,2205,215,538862,204278,381,734
+wilsonjie_Saturn,https://github.com/wilsonjie/Saturn,,service,unknown,27968,0,0,Java,0,2104,29,64034,8421,13167,688,2854099,214411,1518,1776
+mahadevswamy_https-github.com-spring-cloud-spring-cloud-netflix,https://github.com/mahadevswamy/https-github.com-spring-cloud-spring-cloud-netflix,,tool,unknown,8053,0,0,Java,0,6414,229,34983,9425,7621,410,1854024,389939,594,1761
+opendigitaleducation_blog,https://github.com/opendigitaleducation/blog,Blog application is an internal blogging plate-form targeting educational pratices  ,example,organization,680,0,0,Java,1,579,33,2943,286,345,15,140472,19379,3,71
+JRoy_happybot,https://github.com/JRoy/happybot,"A multi-purpose, feature-full, and powerful, highly guild-specific, Discord Bot written in Java.",tool,unknown,2840,9,9,Java,7,682,14,9091,773,1501,149,399027,28713,108,222
+LibraryOfCongress_bagit-java,https://github.com/LibraryOfCongress/bagit-java,Java library to support the BagIt specification.,library,"unknown,gov",149244,56,56,Java,46,5322,55,6140,1087,1487,124,341374,49094,150,158
+sakazz_exchange,https://github.com/sakazz/exchange,exchange,application,unknown,157872,0,0,Java,1,3421,62,85429,20474,17330,870,5106326,996224,583,7670
+asing225_SER516-Software-Agility,https://github.com/asing225/SER516-Software-Agility,Software Agility Java Project using Agile,?,unknown,462,0,0,Java,0,895,122,2543,884,639,90,100408,21605,130,125
+Smithsonian_sidora-services,https://github.com/Smithsonian/sidora-services,Sidora Ingest,service,unknown,159898,5,5,Java,4,844,19,15617,9439,4617,226,1265492,498423,490,1550
+dvsa_mot-automated-testsuite,https://github.com/dvsa/mot-automated-testsuite,"Automated test suite for the MOT application, for smoke and regression testing. Built using Cucumber, Java and Selenium, using data contained within each environment. ",tool,"unknown,agency",55979,6,6,Java,4,1842,51,7455,3760,2156,60,562277,158338,770,801
+quadrama_DramaNLP,https://github.com/quadrama/DramaNLP,UIMA NLP components for dramatic texts,tool,unknown,119528,2,2,Java,3,1230,5,7979,616,1563,115,374132,19855,48,340
+szczepanskikrs_multi-battleships,https://github.com/szczepanskikrs/multi-battleships,Battleship game over the network using Java client - server architecture.,application,unknown,639,1,1,Java,1,563,18,3942,879,929,113,181726,24188,162,176
+vert-x3_vertx-mongo-client,https://github.com/vert-x3/vertx-mongo-client,Mongo Client for Eclipse Vert.x,framework,organization,1253,34,34,Java,69,653,62,8349,1775,1591,63,399030,55824,278,225
+radanalyticsio_spark-operator,https://github.com/radanalyticsio/spark-operator,Operator for managing the Spark clusters on Kubernetes and OpenShift.,tool,unknown,3440,37,37,Java,16,790,12,1290,230,258,14,80512,12241,7,61
+eclipse_eclipse.platform,https://github.com/eclipse/eclipse.platform,Eclipse Platform project repository (eclipse.platform),system,organization,62151,30,30,Java,21,9467,111,53231,24168,9097,468,2886114,883468,2714,6878
+GoogleCloudPlatform_storage-sdrs,https://github.com/GoogleCloudPlatform/storage-sdrs,Data retention tool for Google Cloud Storage,service,unknown,1290,7,7,Java,4,613,14,9425,4057,2135,136,561232,171275,487,400
+iqcz_juice,https://github.com/iqcz/juice,My happy coding farm.,?,unknown,17533,0,0,Java,0,1294,17,19199,4324,5623,636,810141,97881,673,1151
