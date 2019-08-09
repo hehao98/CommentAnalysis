@@ -1,0 +1,19 @@
+{
+  "name": "comment-analysis",
+  "version": "1.0.0",
+  "description": "There are some ongoing works here.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "csv": "^5.1.1",
+    "github-graphql-fetcher": "^0.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -2,6 +2,7 @@ temp/
 log.txt
 .vscode/
 nohup.out
+node_modules/
 
 
 # Mac OS Files

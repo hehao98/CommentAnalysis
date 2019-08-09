@@ -24,29 +24,20 @@ import com.github.javaparser.printer.PrettyPrinterConfiguration;
 
 public class JavaCode {
     public class MethodInfo {
-        @JSONField(name = "name")
         String name;
-        @JSONField(name = "code")
         String code;
-        @JSONField(name = "comment")
         String comment;
-        @JSONField(name = "lineCount")
+        String visibility;
         int lineCount;
-        @JSONField(name = "maxIndentation")
         int maxIndentation;
-        @JSONField(name = "commentsInMethod")
         String[] commentsInMethod;
+        boolean isAbstract;
+        boolean isStatic;
+        boolean isSynchronized;
+        boolean isNative;
+        boolean isFinal;
 
-        public MethodInfo() {
-
-        }
-
-        public MethodInfo(String name, String code, int lineCount, String comment) {
-            this.name = name;
-            this.code = code;
-            this.lineCount = lineCount;
-            this.comment = comment;
-        }
+        public MethodInfo() {}
     }
 
     public boolean isOk;
@@ -131,6 +122,22 @@ public class JavaCode {
                 }
 
                 method.maxIndentation = maxIndentation(method.code);
+
+                if (n.isPublic()) {
+                    method.visibility = "public";
+                } else if (n.isPrivate()) {
+                    method.visibility = "private";
+                } else if (n.isProtected()) {
+                    method.visibility = "protected";
+                } else {
+                    method.visibility = "package";
+                }
+
+                method.isAbstract = n.isAbstract();
+                method.isStatic = n.isStatic();
+                method.isSynchronized = n.isSynchronized();
+                method.isNative = n.isNative();
+                method.isFinal = n.isFinal();
 
                 arg.add(method);
                 return;

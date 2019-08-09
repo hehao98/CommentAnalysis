@@ -11,6 +11,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 import java.util.ArrayList;
+import java.util.NoSuchElementException;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
@@ -39,6 +40,9 @@ public class FunctionExtractor {
         } catch (FileNotFoundException e) {
             System.out.println(e.toString());
             return null;
+        } catch (NoSuchElementException e) {
+            System.out.println(e.toString());
+            return null;
         }
     }
 
@@ -55,6 +59,11 @@ public class FunctionExtractor {
                 methodObject.put("lineCount", method.lineCount);
                 methodObject.put("maxIndentation", method.maxIndentation);
                 methodObject.put("commentsInMethod", method.commentsInMethod);
+                methodObject.put("visibility", method.visibility);
+                methodObject.put("isAbstract", method.isAbstract);
+                methodObject.put("isStatic", method.isStatic);
+                methodObject.put("isNative", method.isNative);
+                methodObject.put("isSynchronized", method.isSynchronized);
                 methodArray.add(methodObject);
             }
             thisObject.put("methodInfo", methodArray);
@@ -69,13 +78,17 @@ public class FunctionExtractor {
         ArrayList<File> srcFiles = getSourceCodeFilePath(projectFolder);
         ArrayList<JavaCode> codeList = new ArrayList<JavaCode>();
 
+        int successfullyParsed = 0;
         for (File src : srcFiles) {
-            System.out.println(src.getAbsolutePath());
+            //System.out.println(src.getAbsolutePath());
             JavaCode code = parseJavaFile(src);
-            if (code.isOk) {
+            if (code != null && code.isOk) {
                 codeList.add(code);
+                successfullyParsed++;
             }
         }
+        System.out.printf("Read %d Java files in which %d files are successfully parsed\n", 
+            srcFiles.size(), successfullyParsed);
 
         try (PrintWriter out = new PrintWriter(outputFile)) {
             out.println(buildJson(codeList));
