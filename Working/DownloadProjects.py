@@ -30,6 +30,8 @@ def remove_non_code_files(path):
                 print("Removed", full_path)
             except FileNotFoundError:
                 print(colored("FileNotFoundError: {}".format(full_path), "red"))
+            except OSError as e:
+                print(colored(e, "red"))
 
 
 def run_proc(index, url, name):
@@ -46,10 +48,12 @@ if __name__ == "__main__":
         "output_path", help="Path where the downloaded projects will be stored")
     parser.add_argument("-j", type=int, default=4,
                         help="Number of Jobs (Default 4)")
+    parser.add_argument("-d", action="store_true", help="Whether to delete non-code files after the download has finished")
     args = vars(parser.parse_args())
     csv_path = args["csv_path"]
     output_path = args["output_path"]
     num_job = args["j"]
+    clean_non_code_file = args["d"]
 
     begin_time = datetime.now()
 
@@ -68,8 +72,8 @@ if __name__ == "__main__":
     pool.close()
     pool.join()
 
-    print(colored("Start Cleanning Files...", "yellow"))
-
-    remove_non_code_files(".")
+    if clean_non_code_file:
+        print(colored("Start Cleanning Files...", "yellow"))
+        remove_non_code_files(".")
 
     print("Total running time: {}".format(datetime.now() - begin_time))
